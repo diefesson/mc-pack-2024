@@ -1,0 +1,13 @@
+name = "Armor Visibility"
+filename = "armor-visibility-4.0.1+1.18.2-forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kvPlmCLX/versions/4.0.1-forge/armor-visibility-4.0.1%2B1.18.2-forge.jar"
+hash-format = "sha1"
+hash = "02e7981e97cf35098321de53b50eb5e304a37c81"
+
+[update]
+[update.modrinth]
+mod-id = "kvPlmCLX"
+version = "K9dHJdQr"

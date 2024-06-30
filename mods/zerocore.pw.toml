@@ -1,0 +1,13 @@
+name = "ZeroCore"
+filename = "ZeroCore2-1.18.2-2.1.39.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rHpb85Mf/versions/kLwY6kGT/ZeroCore2-1.18.2-2.1.39.jar"
+hash-format = "sha1"
+hash = "2caa587093e73d3a2fbf9c2466b40fad977ab614"
+
+[update]
+[update.modrinth]
+mod-id = "rHpb85Mf"
+version = "kLwY6kGT"

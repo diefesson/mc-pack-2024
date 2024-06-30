@@ -1,0 +1,13 @@
+name = "Refined Storage"
+filename = "refinedstorage-1.10.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KDvYkUg3/versions/KylQm6oT/refinedstorage-1.10.6.jar"
+hash-format = "sha1"
+hash = "3b0f71aa0dc4f60b3a07d478caa8df694a265dd1"
+
+[update]
+[update.modrinth]
+mod-id = "KDvYkUg3"
+version = "KylQm6oT"
