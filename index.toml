@@ -61,13 +61,38 @@ hash = "03628280aab8bb973105ae8cbcd7ba0bce81cfef4656c651723c1ffc4e1786fd"
 metafile = true
 
 [[files]]
+file = "mods/distanthorizons.pw.toml"
+hash = "14570562df4a740a014f71e13da3a228b93826dbd34e91024622bc45f3a840a8"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "67c069b9354b3e51f300ec91c634d8a09b3dde29773bac42d88ae451413c5530"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-fps.pw.toml"
+hash = "01a66bef402ace6169f433e4143e51dd9cb4d5056529a14eb92dbdf702ac25cf"
+metafile = true
+
+[[files]]
 file = "mods/ears.pw.toml"
 hash = "efcd0983458fe061de429a368241e828258108b8f1cc466d92d2f8cddd8070f8"
+metafile = true
+
+[[files]]
+file = "mods/embeddium.pw.toml"
+hash = "1ee6470ef21c3971e8391f1fa179522c13e398e7b1f5e3955f26baf8ea9b6497"
+metafile = true
+
+[[files]]
+file = "mods/embeddiumplus.pw.toml"
+hash = "2f41aaca62cc12d31a42bd00e4971bf8445ab048f18173e62b7d13334f40e78e"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "461b3289a997b8bf33e2f74e8f7391828c3a2660443fe1b714778677ca3d0d4c"
 metafile = true
 
 [[files]]
@@ -78,6 +103,11 @@ metafile = true
 [[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "dfa3966adaca7bfe30863de31764e369a1e08aceabb97cf0e9e837542ec234ff"
+metafile = true
+
+[[files]]
+file = "mods/ferrite-core.pw.toml"
+hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
 metafile = true
 
 [[files]]
@@ -151,8 +181,18 @@ hash = "6d39e20b8e9184c1952fa66793c28cb81d2bd6829960d4c82ea0a11dab2b964f"
 metafile = true
 
 [[files]]
+file = "mods/rftools-builder.pw.toml"
+hash = "27e3003ce6c29a68efc71bc1baf0f1b525a1c03586b04474223b597dc1d6cc67"
+metafile = true
+
+[[files]]
 file = "mods/rftools-dimensions.pw.toml"
 hash = "63fc8dd5ac6ec17a053a6c476df02f9ef298ea0689ede8c2778b2d978a725034"
+metafile = true
+
+[[files]]
+file = "mods/rubidium-extra.pw.toml"
+hash = "c3ddf14ff64f95ad0c83ff5a0c07d1b1cb9f560fa383175aec72d6a0af7f4328"
 metafile = true
 
 [[files]]
@@ -168,6 +208,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "142ec1cca0cda6717d12bac62f744bf738bd598f6f223f09b133b00fde92b7fe"
+metafile = true
+
+[[files]]
+file = "mods/textrues-embeddium-options.pw.toml"
+hash = "e0383310de26522b69832c910765574e85a5837a4872bf5e58e9a91c08df1a36"
 metafile = true
 
 [[files]]
