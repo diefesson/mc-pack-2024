@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "520a90112c3e9a9caa0fb1eda8f3745bc866e87114737423717ca265c326b06d"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "6d782ea5149607907b103d5752a0f4f1ca49382495ea26c4090a40a5221bf9ad"
 metafile = true
@@ -53,6 +58,11 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "17c4be6c92e8e1f43cc6b94409ce0bfa95ea17af1859a91052dc218f30bcd942"
+metafile = true
+
+[[files]]
+file = "mods/customskinloader.pw.toml"
+hash = "6fcae31b92ec04febb932d77933a8f51494a9fd17fb4e78676fadf632ab272b2"
 metafile = true
 
 [[files]]
@@ -146,6 +156,11 @@ hash = "d90b48ea447681cc04482810a0a77c1f2f4b21831abd2bebac81a0628c908e0c"
 metafile = true
 
 [[files]]
+file = "mods/modelfix.pw.toml"
+hash = "5c19efce1c76b3426050bb3d56f22717cab123a9678859d909452683d088ff87"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
 metafile = true
@@ -163,6 +178,11 @@ metafile = true
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "7bf46bc22d536c759188d5851ad1beacd2c08e3cd4de4c4a0bae250040a96899"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "d2132a247d6a9c7d588d5f25298170afc267eaa33b91a6a84ce88f2e61f3912f"
 metafile = true
 
 [[files]]
@@ -248,6 +268,11 @@ metafile = true
 [[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "41c129234c2039ebdfceaa2c1617945e4ad45dc0f0ea9fd3adf0dd5119d9d3e3"
+metafile = true
+
+[[files]]
+file = "mods/trashslot.pw.toml"
+hash = "caa23be32fa4de91e6746186def715ab5559d68ae5cb0913f2e6f81470e14de1"
 metafile = true
 
 [[files]]

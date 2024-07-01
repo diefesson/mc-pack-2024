@@ -1,12 +1,12 @@
 name = "Pack 2024"
 author = "DieAlpha"
-version = "1.0.0"
+version = "1.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "639026a76feca29eed7cb2a1c4f8e35e4b23399661ac5a643fbe5be20422fba3"
+hash = "5daab36ed594dd384c7c0831e6b6e32e9419923bae9a6ee6dadf51a8f436272e"
 
 [versions]
 forge = "40.2.21"
