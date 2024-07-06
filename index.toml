@@ -31,6 +31,11 @@ hash = "7e2157beb5fb7cf795436cd981d324f568f5a9d95ad3b063ecf107c2bb2d9247"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "97ace81938796fa3c952d0abb47e14e66c0a49e7b5b25b4b2a71c2a40ffac719"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
@@ -186,6 +191,11 @@ hash = "d2132a247d6a9c7d588d5f25298170afc267eaa33b91a6a84ce88f2e61f3912f"
 metafile = true
 
 [[files]]
+file = "mods/patchouli.pw.toml"
+hash = "a15753ef45bd45e4c1125473588e568d6949a9a0068bb50c6f26c5003781c450"
+metafile = true
+
+[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "33146258e79a606f2a37d04808dbfa5a88f09f36ac237514ee3869b6cb512c8f"
 metafile = true
@@ -288,6 +298,11 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "732370040c91e1c77f0aead2240da6e491afcc9f73ac70c98ad1039fb6febb09"
+metafile = true
+
+[[files]]
+file = "mods/xnet.pw.toml"
+hash = "8c48433e6362f6a37a0227bced0fb75ba60c507cd3760b5ba7b1f83d1f1b306f"
 metafile = true
 
 [[files]]
