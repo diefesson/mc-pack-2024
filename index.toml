@@ -16,6 +16,11 @@ hash = "0601da0a57521398646f5519479ae1243f868ef44a42abfff4871aec94ae55b5"
 metafile = true
 
 [[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "4b9456d6727f59a78df17315cc4dafaa92c6fba7667175b4a0d318ec38866e96"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "6d6c323e050a88e30615d1cc6b61152f4221d42f8f1084be790538a5af37b27f"
 metafile = true
@@ -28,6 +33,16 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "7e2157beb5fb7cf795436cd981d324f568f5a9d95ad3b063ecf107c2bb2d9247"
+metafile = true
+
+[[files]]
+file = "mods/blood-magic.pw.toml"
+hash = "f44398d928de03d73d2170690c4e326b7c3c9d9af511e304c1099cac0067dba8"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "28b1bc2f932152f1e838dfeedc613304733d2b3d1c6f71e80ffbbc4b68a7f6e0"
 metafile = true
 
 [[files]]
@@ -148,6 +163,16 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "496ee18fbcb9e7e2c629048a9f40bf642df42cc0287691d98932b9d311cede46"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "c1946016d7a781ffbc34a7d942921dab3e61a04984c2e2589d67be3807c64ee0"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "52f2675cb5337b4f831eac01f0ab51f51871462fbb60642df0c5a5aea50d69f0"
 metafile = true
 
 [[files]]
