@@ -31,11 +31,6 @@ hash = "7e2157beb5fb7cf795436cd981d324f568f5a9d95ad3b063ecf107c2bb2d9247"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "97ace81938796fa3c952d0abb47e14e66c0a49e7b5b25b4b2a71c2a40ffac719"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "ec6c203c66a4275186b9d5cf1bc85fe55de3e2313e0a3a8fb03dab67b2044128"
 metafile = true
@@ -116,18 +111,8 @@ hash = "1faf63f9095e359e9e097e7d628358166bfd5659f1f84f0b2549e1a7c10cdae3"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "dfa3966adaca7bfe30863de31764e369a1e08aceabb97cf0e9e837542ec234ff"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "e8fba4f1d9fa4d7ffd369b6b4583b858db24411df006899c2592576708a03480"
-metafile = true
-
-[[files]]
-file = "mods/iron-jetpacks.pw.toml"
-hash = "8b88432a899d0c888bbcf7ae8f0a56408ba7236abb2ede3603fbee66ffba1d6b"
 metafile = true
 
 [[files]]
@@ -153,11 +138,6 @@ metafile = true
 [[files]]
 file = "mods/mantle.pw.toml"
 hash = "b073945d28b6deb9b5ff80aa19b575337bf9dc4aafcbec762fa91a42c3c2fc46"
-metafile = true
-
-[[files]]
-file = "mods/mcjtylib.pw.toml"
-hash = "d90b48ea447681cc04482810a0a77c1f2f4b21831abd2bebac81a0628c908e0c"
 metafile = true
 
 [[files]]
@@ -196,31 +176,6 @@ hash = "a15753ef45bd45e4c1125473588e568d6949a9a0068bb50c6f26c5003781c450"
 metafile = true
 
 [[files]]
-file = "mods/redstone-arsenal.pw.toml"
-hash = "33146258e79a606f2a37d04808dbfa5a88f09f36ac237514ee3869b6cb512c8f"
-metafile = true
-
-[[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "9b0c4fa348c5d3dbba877faa84460269777d7b84e57cfa77db1131fedc4f0dca"
-metafile = true
-
-[[files]]
-file = "mods/rftools-base.pw.toml"
-hash = "6d39e20b8e9184c1952fa66793c28cb81d2bd6829960d4c82ea0a11dab2b964f"
-metafile = true
-
-[[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "27e3003ce6c29a68efc71bc1baf0f1b525a1c03586b04474223b597dc1d6cc67"
-metafile = true
-
-[[files]]
-file = "mods/rftools-dimensions.pw.toml"
-hash = "63fc8dd5ac6ec17a053a6c476df02f9ef298ea0689ede8c2778b2d978a725034"
-metafile = true
-
-[[files]]
 file = "mods/rubidium-extra.pw.toml"
 hash = "c3ddf14ff64f95ad0c83ff5a0c07d1b1cb9f560fa383175aec72d6a0af7f4328"
 metafile = true
@@ -246,36 +201,6 @@ hash = "e0383310de26522b69832c910765574e85a5837a4872bf5e58e9a91c08df1a36"
 metafile = true
 
 [[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "0671c997d81971247a1bdfadb83da60db02cd901f135adc0e186540e3e89c4e8"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "f1d1bee4ade8c850069defd4d7e610ded910a464c9b7302221fb4e6345db7243"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "2f2ce142e3ad20f13b2447f89932bc4461c7faedce5d77e15e3b71179eef6188"
-metafile = true
-
-[[files]]
-file = "mods/thermal-foundation.pw.toml"
-hash = "1da61469128f1c46641816f3695bbc9557b5e1940d6452a7eed6fdc75adde607"
-metafile = true
-
-[[files]]
-file = "mods/thermal-innovation.pw.toml"
-hash = "f4e116fd3b821d13c368e5454a44796fb3267c22291b5347ec6396dfdec35e6d"
-metafile = true
-
-[[files]]
-file = "mods/thermal-integration.pw.toml"
-hash = "9cd5ef09863f43a56ba56a1a3ce74f653148f9678173d16c366860bccfbadb4e"
-metafile = true
-
-[[files]]
 file = "mods/tinkers-construct.pw.toml"
 hash = "41c129234c2039ebdfceaa2c1617945e4ad45dc0f0ea9fd3adf0dd5119d9d3e3"
 metafile = true
@@ -298,11 +223,6 @@ metafile = true
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
 hash = "732370040c91e1c77f0aead2240da6e491afcc9f73ac70c98ad1039fb6febb09"
-metafile = true
-
-[[files]]
-file = "mods/xnet.pw.toml"
-hash = "8c48433e6362f6a37a0227bced0fb75ba60c507cd3760b5ba7b1f83d1f1b306f"
 metafile = true
 
 [[files]]
