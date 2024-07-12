@@ -301,6 +301,66 @@ hash = "9df2220c4b5415c78073cc07dd0e71063451d65fc94e56d43c81b9a0061e674d"
 metafile = true
 
 [[files]]
+file = "mods/yungs-api.pw.toml"
+hash = "b61abb40b16c046f95274f3012761aa2137401a8418fe6d0267ea912ea273a2a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-desert-temples.pw.toml"
+hash = "d88fa4abff459c360b6261b81bbaa59297a38c0d8518b4c7bd53b8c65df1320f"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-dungeons.pw.toml"
+hash = "1ac58d356d4a274343f83dde04f6c537bdbd06ebb09c0d020753be17478f30bb"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-end-island.pw.toml"
+hash = "4163e7e637b586c3d1f56859a41986f712752e461ab48432ee19274201f6ac26"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-jungle-temples.pw.toml"
+hash = "a3a3e8a45c0e33773efe3f29d6cadbef39576b01ab1eac4397eaafbe9d50c612"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-mineshafts.pw.toml"
+hash = "20ee43d489b8ab802bcfdb9d0a503b8f9fa1e4482e078664e1f3e9201d1af54c"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-nether-fortresses.pw.toml"
+hash = "edc2a536158f0a5feeb9823ee45c9217445bf8eb59516d3f13f26d5b114a507a"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-ocean-monuments.pw.toml"
+hash = "074c4c4e8c671b0ebb615f18de2f9d91b35668b4a9b64f50010d25569ead5001"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-strongholds.pw.toml"
+hash = "561ebbd7dead7f2a2944ea002c676caa972169a547f06e093656fd8813c63598"
+metafile = true
+
+[[files]]
+file = "mods/yungs-better-witch-huts.pw.toml"
+hash = "46c58a84bed5c8dcf3a007319b9fe25559d6c49ac0233cd4c47745856fbe2e1b"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "baa2d353452548eaa703828d9df84b629832b2ec224f1c6175eec6573bbed522"
+metafile = true
+
+[[files]]
+file = "mods/yungs-extras.pw.toml"
+hash = "83558bc364b0fc0a7da3807c4899889cbbf1a05bbcf2e60aded258695638ba68"
+metafile = true
+
+[[files]]
 file = "mods/zerocore.pw.toml"
 hash = "d331f2a798f011058a2869f5241a36ee684d750d6fb402b5fbdce134adf9aeec"
 metafile = true
