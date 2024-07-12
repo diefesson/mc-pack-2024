@@ -1,13 +1,13 @@
 name = "SkinChanger"
-filename = "skin_changer-0.4.0.jar"
+filename = "skin_changer-0.5.2.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "5c4e8377e31c8fdd1228c92b17adef2b2c9ba74e"
+hash = "553de838badadd70141b6d5783e828d683716ccf"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 4590075
+file-id = 5516715
 project-id = 378549

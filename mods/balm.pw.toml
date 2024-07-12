@@ -1,13 +1,13 @@
 name = "Balm"
-filename = "balm-3.2.6.jar"
+filename = "balm-forge-1.19.2-4.6.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/RAATKbAN/balm-3.2.6.jar"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/d7a0S3hj/balm-forge-1.19.2-4.6.0.jar"
 hash-format = "sha1"
-hash = "e503e90e41279afddec03d196073f7f7eabd0735"
+hash = "a5cdd489e178bcea4ff79ecc5adacad65616ac3f"
 
 [update]
 [update.modrinth]
 mod-id = "MBAkmtvl"
-version = "RAATKbAN"
+version = "d7a0S3hj"

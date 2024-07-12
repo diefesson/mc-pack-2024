@@ -1,13 +1,13 @@
 name = "TrashSlot"
-filename = "trashslot-forge-1.18.2-11.0.3.jar"
+filename = "trashslot-forge-1.19.2-12.1.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/CAu19PWV/trashslot-forge-1.18.2-11.0.3.jar"
+url = "https://cdn.modrinth.com/data/vRYk0bv7/versions/VLnMeNCk/trashslot-forge-1.19.2-12.1.0.jar"
 hash-format = "sha1"
-hash = "97eafc1921165f2f2f992c47df7b049db77f760c"
+hash = "2735b88b79d9f3a512de32f3fb5b4cfff13c451e"
 
 [update]
 [update.modrinth]
 mod-id = "vRYk0bv7"
-version = "CAu19PWV"
+version = "VLnMeNCk"

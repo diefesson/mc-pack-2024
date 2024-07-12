@@ -1,13 +1,13 @@
 name = "Open Parties and Claims"
-filename = "open-parties-and-claims-forge-1.18.2-0.22.0.jar"
+filename = "open-parties-and-claims-forge-1.19.2-0.23.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/9yrbDlr7/open-parties-and-claims-forge-1.18.2-0.22.0.jar"
+url = "https://cdn.modrinth.com/data/gF3BGWvG/versions/Q3DBqPn3/open-parties-and-claims-forge-1.19.2-0.23.0.jar"
 hash-format = "sha1"
-hash = "85a4a78a2e609824b2a67ed291f700a1f7156357"
+hash = "0fa4865035d889a74dc7fc9d809bf012b9c19ffd"
 
 [update]
 [update.modrinth]
 mod-id = "gF3BGWvG"
-version = "9yrbDlr7"
+version = "Q3DBqPn3"
