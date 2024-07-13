@@ -181,6 +181,16 @@ hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
 metafile = true
 
 [[files]]
+file = "mods/mystical-agradditions.pw.toml"
+hash = "b607b4b87dcc5fb7f797365a6cbe5266c14517e1122a316ea2d371ee0dd59251"
+metafile = true
+
+[[files]]
+file = "mods/mystical-agriculture.pw.toml"
+hash = "3e19eafcd0de02b7fd4ca1d0615ed7dcba5bc2e6e850a01a0ba32cc2547db7d2"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "01a057038ff0001c216ed30504059aa681151010aa9b2810214e166de1da61a8"
 metafile = true
