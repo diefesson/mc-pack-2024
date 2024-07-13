@@ -26,6 +26,16 @@ hash = "117028aee504fb12600efb5bff26e8a3ee13d472ebe7e209ee122112b98fdb8e"
 metafile = true
 
 [[files]]
+file = "mods/bartering-station.pw.toml"
+hash = "aced7fa65354b1f9e873b411aa89522ba1dabb24323d1dad3adfd624445d88fc"
+metafile = true
+
+[[files]]
+file = "mods/better-tridents.pw.toml"
+hash = "e883420cca3b7d71cc2e84273fd41c0449978d951f0b6dbe3bd1d80f7faab103"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "6efd7a1efa69ba7dfa003088ba91b9735e815572ea7e465a7be07bca80f72502"
 metafile = true
@@ -58,6 +68,11 @@ metafile = true
 [[files]]
 file = "mods/corgilib.pw.toml"
 hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
+metafile = true
+
+[[files]]
+file = "mods/crafting-tweaks.pw.toml"
+hash = "22fd4f9e5381beb05bcf04b61184d25dd2c0372eca0966b9d66b97578041ba84"
 metafile = true
 
 [[files]]
@@ -98,6 +113,16 @@ metafile = true
 [[files]]
 file = "mods/ears.pw.toml"
 hash = "e8522704a705980fdc5e35a8c8cb4083fa8cd1a20ac358b6e4c5f8a898f071eb"
+metafile = true
+
+[[files]]
+file = "mods/easy-anvils.pw.toml"
+hash = "98cd4ec5c05f16d6440520cab6780d4fdc9d78b7a5f0d6e4146aa38cc88d3c5e"
+metafile = true
+
+[[files]]
+file = "mods/easy-magic.pw.toml"
+hash = "55f0f4a055003bd1945e35248bb71798de2b04963b6ad2d1b716a6f1953c29a7"
 metafile = true
 
 [[files]]
@@ -161,6 +186,16 @@ hash = "3b26e37fd1ed233a7b85d6eff97073469720726a4505a1353c6615aa768a777e"
 metafile = true
 
 [[files]]
+file = "mods/leave-my-bars-alone.pw.toml"
+hash = "108625453a9b1c63249b00d125df05844b72391f1cd85c9bf75d9c470bb733d9"
+metafile = true
+
+[[files]]
+file = "mods/leaves-be-gone.pw.toml"
+hash = "6d5bbca37f778eb6e884a70cace0a24182109c324b33fb4ee309339d9b1e8a1d"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "6c0648dc99270900800404089ac76535af2bc3edcfd6c9cca3038eb0618dc077"
 metafile = true
@@ -206,6 +241,11 @@ hash = "49bac9d8ef07e80e50232c78093ce73b8355846ca646f7205055a333660c1711"
 metafile = true
 
 [[files]]
+file = "mods/overflowing-bars.pw.toml"
+hash = "005c5f35e6ba4225d6583fbc5aba6c4ba417f0dda9fe775802e25531ae6642d2"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "28c4f7857f82a6196ca44d3ee66b2d93cda47990e9d1feae82297a0cf0d2c717"
 metafile = true
@@ -213,6 +253,16 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/pick-up-notifier.pw.toml"
+hash = "8a23fb9d173401ca3b1eeeba4771fe3ee4dccdc43693daf88f26271d6417660f"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
 metafile = true
 
 [[files]]
@@ -301,8 +351,23 @@ hash = "8fb06ece06447c992a862fa579f06ff9e613ac6ee45a1270f1c925a717f6c26b"
 metafile = true
 
 [[files]]
+file = "mods/trading-post.pw.toml"
+hash = "f5d90d3b244f45d827ff323de12727bd458650c59c32a51f5070341f57266b47"
+metafile = true
+
+[[files]]
 file = "mods/trashslot.pw.toml"
 hash = "6b15f2723c9d69caadb5bdb95b03a7057d614ad7ed72835362f0511b586f6a88"
+metafile = true
+
+[[files]]
+file = "mods/universal-bone-meal.pw.toml"
+hash = "f732c80151deb1a232c62db1735bc0136199691b28c59f5f6f8dacd63dc76375"
+metafile = true
+
+[[files]]
+file = "mods/visual-workbench.pw.toml"
+hash = "6b268a4ed3898123e77da6f739cace72be55073cda6c799c515655359ddf2a0a"
 metafile = true
 
 [[files]]

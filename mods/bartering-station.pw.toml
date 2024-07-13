@@ -1,0 +1,13 @@
+name = "Bartering Station"
+filename = "BarteringStation-v4.0.3-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EOig9U0j/versions/xiH2XGVy/BarteringStation-v4.0.3-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "0b3ff3ea42c27b31284dacc6af20a1a67a875943"
+
+[update]
+[update.modrinth]
+mod-id = "EOig9U0j"
+version = "xiH2XGVy"
