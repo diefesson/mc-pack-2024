@@ -1,6 +1,11 @@
 hash-format = "sha256"
 
 [[files]]
+file = "mods/ai-improvements.pw.toml"
+hash = "5cc1a00828a8c58da927c7a10f26adfd49f0edb72bc986d0d8c1dac5f58761e3"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "078012b47a997084ae5e7f47d519ff277b6e46880110a9f912cc5378603f2b26"
 metafile = true
