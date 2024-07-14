@@ -71,6 +71,11 @@ hash = "b1fd6e846b55d997d34de078bb850e4ddd76817a93cff2b50ae000388f8123cf"
 metafile = true
 
 [[files]]
+file = "mods/comforts.pw.toml"
+hash = "fc6240299b8965bfb448bbf6db910679ec525e79d9a40427c4aa20335fa414f1"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "1052dacc31da664492ac60677ba33f4f4402592b6897908b700000f68c04f176"
 metafile = true
