@@ -1,6 +1,18 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "690ec684996e59e38342741bf2bdadb72f548444706b1d456dc333535d5ef441"
+
+[[files]]
+file = "config/embeddium++.toml"
+hash = "c48830a2227835285a939e50823bf627692f303e71f34c2b4c304d6aef168708"
+
+[[files]]
+file = "config/embeddium-options.json"
+hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5cc1a00828a8c58da927c7a10f26adfd49f0edb72bc986d0d8c1dac5f58761e3"
 metafile = true
@@ -469,3 +481,7 @@ metafile = true
 file = "mods/zerocore.pw.toml"
 hash = "d331f2a798f011058a2869f5241a36ee684d750d6fb402b5fbdce134adf9aeec"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "8eaaf1b874d01421fbd535adcb7953c438806dd94fa12f8f9ee062ea0a61cd31"
