@@ -313,11 +313,6 @@ hash = "548d64331dc91c7b6c0be327504eedd6baedbb9030c88519eb8eaeb5ed76c17f"
 metafile = true
 
 [[files]]
-file = "mods/rubidium-extra.pw.toml"
-hash = "6132d007267c3b5ad0634d2bd6e866357cfe387450ff1362e76732c75b4ea29f"
-metafile = true
-
-[[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "68164d451a0943c94e547ee439b54ecb959e2b9208a9171371cb939800cff491"
 metafile = true
