@@ -13,6 +13,11 @@ file = "config/embeddium-options.json"
 hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
 
 [[files]]
+file = "mods/accelerated-decay.pw.toml"
+hash = "3f813783bf926ea1bb516a54894012b37b60a6a8a2cd4088c42e61c8c904840a"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "5cc1a00828a8c58da927c7a10f26adfd49f0edb72bc986d0d8c1dac5f58761e3"
 metafile = true
@@ -188,6 +193,11 @@ hash = "b3924edfc7f29ad5c7c06fbf0f90b3a2a3a96fd06dbc87bb917f30ce44124716"
 metafile = true
 
 [[files]]
+file = "mods/fallingleavesforge.pw.toml"
+hash = "5c2eeb18cd38f190d0e9642bbce4d1c90ce721f92c952300f4a88e6e53896ba3"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
@@ -225,11 +235,6 @@ metafile = true
 [[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "108625453a9b1c63249b00d125df05844b72391f1cd85c9bf75d9c470bb733d9"
-metafile = true
-
-[[files]]
-file = "mods/leaves-be-gone.pw.toml"
-hash = "6d5bbca37f778eb6e884a70cace0a24182109c324b33fb4ee309339d9b1e8a1d"
 metafile = true
 
 [[files]]
