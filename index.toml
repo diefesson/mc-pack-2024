@@ -263,6 +263,11 @@ hash = "3e19eafcd0de02b7fd4ca1d0615ed7dcba5bc2e6e850a01a0ba32cc2547db7d2"
 metafile = true
 
 [[files]]
+file = "mods/mythic-mounts.pw.toml"
+hash = "9e4fc950947ede4c8b7feb1ff7921f0be76de5d209bca2792b778b8a2a6a585a"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "01a057038ff0001c216ed30504059aa681151010aa9b2810214e166de1da61a8"
 metafile = true
