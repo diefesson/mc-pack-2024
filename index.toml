@@ -149,7 +149,7 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "094483debcfb16db4987dbd28cc9ca9e6ee2a02a45ede76653dd92bcc10a2e60"
+hash = "84fdaa96fd6a8f15e409c632678e52bd9375637768d0e6ea684a6441855671bd"
 metafile = true
 
 [[files]]
@@ -169,7 +169,7 @@ metafile = true
 
 [[files]]
 file = "mods/embeddium.pw.toml"
-hash = "1fce6559c1c89a4924d9947997072d8613a2dec123aa160247b22a0e0052a29d"
+hash = "ae9552762bfb182f233e2219dde58be80a81ef40b7f8ad5e328d9e299ab66bc6"
 metafile = true
 
 [[files]]
@@ -229,7 +229,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3b26e37fd1ed233a7b85d6eff97073469720726a4505a1353c6615aa768a777e"
+hash = "0b7346bc6bc4de7c8d5345684e37100ecc61c115cb03676c32460fe6ddf243ef"
 metafile = true
 
 [[files]]
@@ -284,7 +284,7 @@ metafile = true
 
 [[files]]
 file = "mods/open-parties-and-claims.pw.toml"
-hash = "49bac9d8ef07e80e50232c78093ce73b8355846ca646f7205055a333660c1711"
+hash = "b24acc9967665b2419dc0d55980bb6348bae3ce5702bb8e4530b32278a9b6ace"
 metafile = true
 
 [[files]]
@@ -424,7 +424,7 @@ metafile = true
 
 [[files]]
 file = "mods/xaeros-minimap-fair.pw.toml"
-hash = "faaa60ec5af5b806252c60f7b4b83782a4068a494ddcd30d74c603b3ef6084b3"
+hash = "ac7bc43465c109e0cf2b9d3ff2a2b6a29ad6f5a0f64b0ac48f4d8a6905a6230c"
 metafile = true
 
 [[files]]
