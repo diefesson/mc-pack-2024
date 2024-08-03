@@ -178,6 +178,11 @@ hash = "35afe20af05255f69c2d9914c8de42dc45f400d694430f48431d234844a2d562"
 metafile = true
 
 [[files]]
+file = "mods/ensorcellation.pw.toml"
+hash = "1d4acc61d2224cfd4f0c547e5dd1533bfb850476dd907098ad9d306262c84954"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "ea0d8c35669646b8d739a20b97a28c48744dcdea889ccc3c39ccd1431bf5cc6c"
 metafile = true
@@ -290,6 +295,11 @@ metafile = true
 [[files]]
 file = "mods/mystical-agriculture.pw.toml"
 hash = "3e19eafcd0de02b7fd4ca1d0615ed7dcba5bc2e6e850a01a0ba32cc2547db7d2"
+metafile = true
+
+[[files]]
+file = "mods/mysticpotions.pw.toml"
+hash = "e88bd43c76e7f02657e685e6de28eafbd238888bd9bda65abc783dd76f0e14b4"
 metafile = true
 
 [[files]]
