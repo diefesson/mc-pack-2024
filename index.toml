@@ -363,6 +363,11 @@ hash = "548d64331dc91c7b6c0be327504eedd6baedbb9030c88519eb8eaeb5ed76c17f"
 metafile = true
 
 [[files]]
+file = "mods/seamless-loading-screen.pw.toml"
+hash = "4c8bc70a427bd4378fe49ae05779fdc1c098d2bbd42ad0e4f13b4cff3636d8ef"
+metafile = true
+
+[[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "68164d451a0943c94e547ee439b54ecb959e2b9208a9171371cb939800cff491"
 metafile = true
@@ -460,6 +465,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "9df2220c4b5415c78073cc07dd0e71063451d65fc94e56d43c81b9a0061e674d"
+metafile = true
+
+[[files]]
+file = "mods/yeetus-experimentus.pw.toml"
+hash = "b3d23826bc8dcea21e068ed4bef034e069420be4e502924b5df89af184afd88f"
 metafile = true
 
 [[files]]
