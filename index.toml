@@ -198,6 +198,11 @@ hash = "5c2eeb18cd38f190d0e9642bbce4d1c90ce721f92c952300f4a88e6e53896ba3"
 metafile = true
 
 [[files]]
+file = "mods/fastload.pw.toml"
+hash = "ab6d5c5981eb90445718e5224c7e92a04e4f180373b11fc944d7dce43c704318"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
@@ -238,6 +243,21 @@ hash = "108625453a9b1c63249b00d125df05844b72391f1cd85c9bf75d9c470bb733d9"
 metafile = true
 
 [[files]]
+file = "mods/lightspeed.pw.toml"
+hash = "4a58810e9373dead7214ba727d484881315ccba44f449aeee97c69dde76ec8a0"
+metafile = true
+
+[[files]]
+file = "mods/lmd.pw.toml"
+hash = "248236f9a25ecdaae6da07fca215de2e657c4c25db8d224f1d5fa77b4ac9f79a"
+metafile = true
+
+[[files]]
+file = "mods/lmft.pw.toml"
+hash = "1d89a6f70098d772ad57faf46ac4e6e15106b3e5bad57bb5c6d8ff13533cc809"
+metafile = true
+
+[[files]]
 file = "mods/mantle.pw.toml"
 hash = "6c0648dc99270900800404089ac76535af2bc3edcfd6c9cca3038eb0618dc077"
 metafile = true
@@ -250,6 +270,11 @@ metafile = true
 [[files]]
 file = "mods/modelfix.pw.toml"
 hash = "5c19efce1c76b3426050bb3d56f22717cab123a9678859d909452683d088ff87"
+metafile = true
+
+[[files]]
+file = "mods/modernfix.pw.toml"
+hash = "cdb2ffaf0ef8cc5b9344f1f201c4e389c228267d56aac7e1230e7d5d80a46179"
 metafile = true
 
 [[files]]
