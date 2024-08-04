@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "690ec684996e59e38342741bf2bdadb72f548444706b1d456dc333535d5ef441"
+hash = "d0b73a66244163de797d4c884f85650ce18ee2bc6900e3326c129d77c3c4f4de"
 
 [[files]]
 file = "config/embeddium++.toml"
@@ -549,4 +549,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8eaaf1b874d01421fbd535adcb7953c438806dd94fa12f8f9ee062ea0a61cd31"
+hash = "be7d99945791af3c406461df3b927dd8b88270110da1114182c6806fde509344"
