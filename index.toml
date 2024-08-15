@@ -278,6 +278,11 @@ hash = "e5940ab8ea7227c8a9461792b85e98d8a1512fbc464fcbbc2153458913461e1e"
 metafile = true
 
 [[files]]
+file = "mods/mindful-darkness.pw.toml"
+hash = "69d8c0ffbd168ff40355cb83a155a44ad7f6728202a52d8ee7da4812926a6ace"
+metafile = true
+
+[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "5c19efce1c76b3426050bb3d56f22717cab123a9678859d909452683d088ff87"
 metafile = true

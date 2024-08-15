@@ -1,0 +1,13 @@
+name = "Mindful Darkness"
+filename = "MindfulDarkness-v4.0.9-1.19.2-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/pzCY6C3e/versions/e9dCKW7d/MindfulDarkness-v4.0.9-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "afa2ae787048ee7bcffc600515a5f33ddc97d9f7"
+
+[update]
+[update.modrinth]
+mod-id = "pzCY6C3e"
+version = "e9dCKW7d"
