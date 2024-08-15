@@ -218,6 +218,21 @@ hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
 
 [[files]]
+file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
+hash = "8f8d992369dd38343538b307cc36b4458c299df9cc8a4cd6ec3b6ccf1ed73403"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-flowery-mooblooms-forge.pw.toml"
+hash = "9f4e2968deade6339eb2ab8c433ef5578854de0e78d2d8b06dbea3dc624a1394"
+metafile = true
+
+[[files]]
+file = "mods/friends-and-foes-forge.pw.toml"
+hash = "37e420e91db271af3217082820c3a8e8843a45d9d159a468c649d928d897d732"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
@@ -453,6 +468,11 @@ hash = "8fb06ece06447c992a862fa579f06ff9e613ac6ee45a1270f1c925a717f6c26b"
 metafile = true
 
 [[files]]
+file = "mods/tiny-skeletons.pw.toml"
+hash = "025bc7c10c482ac5a0a242b866cfc281ff32497b5828a7259132dddc684937bf"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "f5d90d3b244f45d827ff323de12727bd458650c59c32a51f5070341f57266b47"
 metafile = true
@@ -465,6 +485,16 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "f732c80151deb1a232c62db1735bc0136199691b28c59f5f6f8dacd63dc76375"
+metafile = true
+
+[[files]]
+file = "mods/variants-and-ventures.pw.toml"
+hash = "5208868242f9621a7c0827b79f24c404359fad503fa2206377e75f820db5d0ea"
+metafile = true
+
+[[files]]
+file = "mods/villages-and-pillages.pw.toml"
+hash = "b38649da688a5dc9c905b448d7e035904b07ead9dbd202c78685bb316dd59690"
 metafile = true
 
 [[files]]

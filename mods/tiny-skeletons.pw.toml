@@ -1,0 +1,13 @@
+name = "Tiny Skeletons"
+filename = "TinySkeletons-v4.2.2-1.19.2-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/sY0Rj3F7/TinySkeletons-v4.2.2-1.19.2-Forge.jar"
+hash-format = "sha1"
+hash = "bf61759bb087f8ee6d00a66866bd47080fceed05"
+
+[update]
+[update.modrinth]
+mod-id = "A2xcMSUn"
+version = "sY0Rj3F7"
