@@ -383,6 +383,16 @@ hash = "548d64331dc91c7b6c0be327504eedd6baedbb9030c88519eb8eaeb5ed76c17f"
 metafile = true
 
 [[files]]
+file = "mods/rftools-power.pw.toml"
+hash = "adff25a336a03aa9e7a30924898e3f68ab4d9f6b444ce9892ffd978ac4f7a3d9"
+metafile = true
+
+[[files]]
+file = "mods/rftools-utility.pw.toml"
+hash = "7d423bc4cb12df0c9156f7fdf114ec8d50d765c4106fbcc99e240458cad3332b"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "4c8bc70a427bd4378fe49ae05779fdc1c098d2bbd42ad0e4f13b4cff3636d8ef"
 metafile = true
