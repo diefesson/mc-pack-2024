@@ -468,6 +468,11 @@ hash = "4c8bc70a427bd4378fe49ae05779fdc1c098d2bbd42ad0e4f13b4cff3636d8ef"
 metafile = true
 
 [[files]]
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d2872ce3266e9ef3af4c2a04a953010578b21285022bc8bd49acb00c6283884f"
+metafile = true
+
+[[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "68164d451a0943c94e547ee439b54ecb959e2b9208a9171371cb939800cff491"
 metafile = true
