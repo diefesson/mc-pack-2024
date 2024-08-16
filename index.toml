@@ -118,6 +118,26 @@ hash = "22fd4f9e5381beb05bcf04b61184d25dd2c0372eca0966b9d66b97578041ba84"
 metafile = true
 
 [[files]]
+file = "mods/ct-overhaul-village.pw.toml"
+hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+metafile = true
+
+[[files]]
+file = "mods/ctov-byg-compat.pw.toml"
+hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
+metafile = true
+
+[[files]]
+file = "mods/ctov-friends-and-foes-compat.pw.toml"
+hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+metafile = true
+
+[[files]]
+file = "mods/ctov-waystone-compat.pw.toml"
+hash = "4c572863449a8e8355870f80cc1ac419845250463b8df43243951f5feaeab461"
+metafile = true
+
+[[files]]
 file = "mods/cucumber.pw.toml"
 hash = "9057f40b14fbf6f8801aad97163391e35b3cd27e9802847e31524fb17284a38e"
 metafile = true
