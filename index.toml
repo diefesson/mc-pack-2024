@@ -88,6 +88,11 @@ hash = "1a7e42856ecd67e6d001a3383180248f40e6bc91c25c97f8bac2a3eff735c40c"
 metafile = true
 
 [[files]]
+file = "mods/chunk-loaders.pw.toml"
+hash = "259863e2fe1c5c5da5f4b0ea7e42e383916526a706898479b3ae3bb193930009"
+metafile = true
+
+[[files]]
 file = "mods/chunky.pw.toml"
 hash = "d42a44515e657e67431cb042727db14f697b6d80c88c1da5fbe4c8afce738d29"
 metafile = true
