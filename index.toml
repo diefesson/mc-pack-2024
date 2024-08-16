@@ -13,23 +13,8 @@ file = "config/embeddium-options.json"
 hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
 
 [[files]]
-file = "config/paxi/datapacks/ctov-byg-compat.pw.toml"
-hash = "22893af583899ff9a9b513210e51f39aaf0beb04da36aac28d3bb95fdec26bfd"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/scorched.pw.toml"
 hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
-metafile = true
-
-[[files]]
-file = "datapack/ctov-byg-compat.pw.toml"
-hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
-metafile = true
-
-[[files]]
-file = "datapacks/ctov-byg-compat.pw.toml"
-hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
 metafile = true
 
 [[files]]
@@ -463,6 +448,11 @@ hash = "7d423bc4cb12df0c9156f7fdf114ec8d50d765c4106fbcc99e240458cad3332b"
 metafile = true
 
 [[files]]
+file = "mods/rs-requestify.pw.toml"
+hash = "0f16d03811177deaf1900dcf0f5bf9e4ff7a19a8c99f94c9271000dbe39f5b49"
+metafile = true
+
+[[files]]
 file = "mods/seamless-loading-screen.pw.toml"
 hash = "4c8bc70a427bd4378fe49ae05779fdc1c098d2bbd42ad0e4f13b4cff3636d8ef"
 metafile = true
@@ -470,6 +460,16 @@ metafile = true
 [[files]]
 file = "mods/skinchanger.pw.toml"
 hash = "68164d451a0943c94e547ee439b54ecb959e2b9208a9171371cb939800cff491"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-config-lib.pw.toml"
+hash = "398222d52f12efff3677e283566822a2766a68d98267261c916eda974a899c27"
+metafile = true
+
+[[files]]
+file = "mods/supermartijn642s-core-lib.pw.toml"
+hash = "e5b89a5f97fc7a69797e57c4916f3ed136aab638213ccc51202c3e290ccebe53"
 metafile = true
 
 [[files]]
@@ -500,6 +500,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-expansion.pw.toml"
 hash = "a6eb809941af324a1cb499e32974e718ef1827eecb4270ee5dd209edc237b8f8"
+metafile = true
+
+[[files]]
+file = "mods/thermal-extra.pw.toml"
+hash = "75748d48bd35b027c2f43a4152d0a422aa2b4c468646dd0abdef346fc4ef8c49"
 metafile = true
 
 [[files]]
@@ -570,6 +575,11 @@ metafile = true
 [[files]]
 file = "mods/when-dungeons-arise.pw.toml"
 hash = "69305dd5539decb11f0dcd0056b959a9fd6428121bd945b27e7b181e63f6aa52"
+metafile = true
+
+[[files]]
+file = "mods/wireless-chargers.pw.toml"
+hash = "04be7575e913e307411999bee3c2fdfd78fe3874f713fd0095bfa134c6a6b17f"
 metafile = true
 
 [[files]]
