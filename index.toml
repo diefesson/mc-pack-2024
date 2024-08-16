@@ -13,6 +13,26 @@ file = "config/embeddium-options.json"
 hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
 
 [[files]]
+file = "config/openloader/data/scorched.pw.toml"
+hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
+metafile = true
+
+[[files]]
+file = "datapack/ctov-friends-and-foes-compat.pw.toml"
+hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+metafile = true
+
+[[files]]
+file = "datapacks/ct-overhaul-village.pw.toml"
+hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
+metafile = true
+
+[[files]]
+file = "datapacks/ctov-friends-and-foes-compat.pw.toml"
+hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+metafile = true
+
+[[files]]
 file = "mods/accelerated-decay.pw.toml"
 hash = "3f813783bf926ea1bb516a54894012b37b60a6a8a2cd4088c42e61c8c904840a"
 metafile = true
@@ -365,6 +385,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "37719db4c84932ec073eb8c8d6471c6a03936cf2d961138edf120e53a2e85505"
+metafile = true
+
+[[files]]
+file = "mods/open-loader.pw.toml"
+hash = "22d931365312d6aeee6596362265172cb2b8cd7080563cdd7f3ac97845be5883"
 metafile = true
 
 [[files]]
