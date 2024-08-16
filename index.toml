@@ -413,6 +413,11 @@ hash = "8a23fb9d173401ca3b1eeeba4771fe3ee4dccdc43693daf88f26271d6417660f"
 metafile = true
 
 [[files]]
+file = "mods/pipez.pw.toml"
+hash = "a0b2e62496d9bdbd5f7347f1485c19fb2c5aee6eab20d34e4f3712ebd2440535"
+metafile = true
+
+[[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
 metafile = true
