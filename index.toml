@@ -258,6 +258,11 @@ hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
+file = "mods/immersive-structures.pw.toml"
+hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
+metafile = true
+
+[[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "62af4f3148180d8f45567458e2ca2bce4d39400595c9e67424d21032215b06bc"
 metafile = true
@@ -490,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "025bc7c10c482ac5a0a242b866cfc281ff32497b5828a7259132dddc684937bf"
+metafile = true
+
+[[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "2e878466d1ea07ac7c9c7f827801f38aed23b9cd6a27a47312f98022d8d4a090"
 metafile = true
 
 [[files]]
