@@ -13,23 +13,23 @@ file = "config/embeddium-options.json"
 hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
 
 [[files]]
-file = "config/openloader/data/scorched.pw.toml"
+file = "config/paxi/datapacks/ctov-byg-compat.pw.toml"
+hash = "22893af583899ff9a9b513210e51f39aaf0beb04da36aac28d3bb95fdec26bfd"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/scorched.pw.toml"
 hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
 metafile = true
 
 [[files]]
-file = "datapack/ctov-friends-and-foes-compat.pw.toml"
-hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+file = "datapack/ctov-byg-compat.pw.toml"
+hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
 metafile = true
 
 [[files]]
-file = "datapacks/ct-overhaul-village.pw.toml"
-hash = "2104479f2534504ccbcd9d815d22d1e69bfdfdbdf6d85192f3570978bf11b239"
-metafile = true
-
-[[files]]
-file = "datapacks/ctov-friends-and-foes-compat.pw.toml"
-hash = "1050b5b5e07b9b03c2457ddcc4cb47d8f1846a4f8b09619fd2a9a2fea33936ae"
+file = "datapacks/ctov-byg-compat.pw.toml"
+hash = "0021ce8c74496acce7d1418c609e3c2d97c3ce33e3128c256afb5f463f46b0b5"
 metafile = true
 
 [[files]]
@@ -410,6 +410,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "8895f6fc1d8d8280539f3e381f3b0316d912600d7a8dda216ce83466abaa5aee"
+metafile = true
+
+[[files]]
+file = "mods/paxi.pw.toml"
+hash = "663a3f2f25983b9a40a941bce124de46129313b3c632cbff6bb9858976106b44"
 metafile = true
 
 [[files]]
