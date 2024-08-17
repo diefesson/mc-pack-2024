@@ -453,6 +453,11 @@ hash = "0160cf6eda610a4408e9746211b418e969b951ee900b2ba9ad18c3c444f68eae"
 metafile = true
 
 [[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "d24de70bbcd2460ebdd4ea16b88f7aac305f7f6fe3b306e00a8c9f79c6c2c611"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "687bf6c494c88216555509f4a5df228ac1a65efd6063ade27c34ed8551bf0adc"
 metafile = true
