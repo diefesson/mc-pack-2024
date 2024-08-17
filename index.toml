@@ -313,6 +313,11 @@ hash = "0b7346bc6bc4de7c8d5345684e37100ecc61c115cb03676c32460fe6ddf243ef"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "67c9490c8387cea2c01b65ac518bca67e97a08a4ea72ce9834d4a58be9446022"
+metafile = true
+
+[[files]]
 file = "mods/leave-my-bars-alone.pw.toml"
 hash = "108625453a9b1c63249b00d125df05844b72391f1cd85c9bf75d9c470bb733d9"
 metafile = true
@@ -480,6 +485,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-utility.pw.toml"
 hash = "7d423bc4cb12df0c9156f7fdf114ec8d50d765c4106fbcc99e240458cad3332b"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "e3467bb2df661b312db375f7172b6297a8dd9e9a03924d689e70977f71283d89"
 metafile = true
 
 [[files]]
