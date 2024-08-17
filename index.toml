@@ -93,6 +93,16 @@ hash = "3369ccf13cbc0d0b3ca896002a55c64f56fe4903868cce9156a6dad22e99a46c"
 metafile = true
 
 [[files]]
+file = "mods/botany-pots.pw.toml"
+hash = "493ae7e014d03fa1603a62993442919831bfee098bee319b197592633286aae6"
+metafile = true
+
+[[files]]
+file = "mods/botany-trees.pw.toml"
+hash = "664518e5a22a3567c2d2c7595ec0a3f3deac5d5c239646c92057ae3b86e9b4f5"
+metafile = true
+
+[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "601a671d8bb4771df8f563157e14f44cce5a3a7c526ea3bcb125ef5660995bb1"
 metafile = true
