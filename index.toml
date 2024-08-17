@@ -53,6 +53,11 @@ hash = "9fce81e32e0d1a393173243ccf4929ac7ab68ab3b3146e4007c01ef68e4c1a08"
 metafile = true
 
 [[files]]
+file = "mods/attributefix.pw.toml"
+hash = "8438dada85537f9599642ed17a5938852acce4d42030ed56e7beffc6d9e2443a"
+metafile = true
+
+[[files]]
 file = "mods/badpackets.pw.toml"
 hash = "8a19be19de45743c5f350fc7887974feadefcca9ae6b1de2a6e4bc04cde88776"
 metafile = true
@@ -80,6 +85,11 @@ metafile = true
 [[files]]
 file = "mods/biomesyougo.pw.toml"
 hash = "528ce92eb89388f7fded34dc577bdc8de55e348c2875624573fc5256d2cdbb8e"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "3369ccf13cbc0d0b3ca896002a55c64f56fe4903868cce9156a6dad22e99a46c"
 metafile = true
 
 [[files]]
@@ -343,6 +353,11 @@ hash = "6c0648dc99270900800404089ac76535af2bc3edcfd6c9cca3038eb0618dc077"
 metafile = true
 
 [[files]]
+file = "mods/max-health-fix.pw.toml"
+hash = "87072d2e702e56839ad92a0c8083bea6eeefee5b11da3c6b8abc2ebf437cf16c"
+metafile = true
+
+[[files]]
 file = "mods/mcjtylib.pw.toml"
 hash = "e5940ab8ea7227c8a9461792b85e98d8a1512fbc464fcbbc2153458913461e1e"
 metafile = true
@@ -580,6 +595,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "025bc7c10c482ac5a0a242b866cfc281ff32497b5828a7259132dddc684937bf"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "2245e81c8bdd63131b6fdc7fb218eb3b6ad6c48cbb0014b098ba0f6605fdf99b"
 metafile = true
 
 [[files]]
