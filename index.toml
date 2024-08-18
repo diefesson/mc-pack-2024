@@ -5,12 +5,16 @@ file = "config/DistantHorizons.toml"
 hash = "d0b73a66244163de797d4c884f85650ce18ee2bc6900e3326c129d77c3c4f4de"
 
 [[files]]
+file = "config/cucumber-client.toml"
+hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
+
+[[files]]
 file = "config/embeddium++.toml"
-hash = "f311b19d869dc29c044f583dadb7b87e49f032ae97688c8d2b67bf1090a584eb"
+hash = "405f0e88ee52234fee17f29d8a7bb27957fa4bccd4c3b83fea6f12a3fcf10ab2"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "98f3dc41148b7ce1e19a569f464aa8ca1187e099542809ec65acb8d4cf61fcb4"
+hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -35,7 +39,7 @@ hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture.js"
-hash = "36f54b15632d77ac1c8d1690ac037dfc2ce90960174d8689dcd852227a2a75d8"
+hash = "10751622e566e3d4e909bfc623db181f7a956fce4303d3d84a951f0d7d32a6fe"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -769,4 +773,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "d0897bfbea28672f35676ada5f7447e711803842ee2405c24f09aa41b0dbd8d6"
+hash = "6a218e36b82c4ad7987f3c31131d1b046d8be186f39d2a588bfd6148779808fd"
