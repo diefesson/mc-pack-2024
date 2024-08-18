@@ -1,6 +1,6 @@
-// Adds Minecraft seeds and crops tag for Mystical Agriculture seeds
+// Adds Forge:seeds and mineacraft:crops tag for Mystical Agriculture seeds and crops
 ServerEvents.tags('item', event => {
-    event.add('minecraft:seeds', '#mysticalagriculture:seeds')
+    event.add('forge:seeds', '#mysticalagriculture:seeds')
 })
 
 ServerEvents.tags('block', event => {
