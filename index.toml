@@ -6,16 +6,36 @@ hash = "d0b73a66244163de797d4c884f85650ce18ee2bc6900e3326c129d77c3c4f4de"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "c48830a2227835285a939e50823bf627692f303e71f34c2b4c304d6aef168708"
+hash = "f311b19d869dc29c044f583dadb7b87e49f032ae97688c8d2b67bf1090a584eb"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "2c437080358b80cf160c4aac28d6fc951074496860ab683bc57c4c1e114d9fb7"
+hash = "98f3dc41148b7ce1e19a569f464aa8ca1187e099542809ec65acb8d4cf61fcb4"
+
+[[files]]
+file = "config/jade/jade.json"
+hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
 [[files]]
 file = "config/paxi/datapacks/scorched.pw.toml"
 hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
 metafile = true
+
+[[files]]
+file = "config/voicechat/voicechat-server.properties"
+hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
+
+[[files]]
+file = "kubejs/config/client.properties"
+hash = "d42fe43c003fb4d55d69305ca849514a96fc7a53232e03d5421de9dc3c2e7912"
+
+[[files]]
+file = "kubejs/config/common.properties"
+hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
+
+[[files]]
+file = "kubejs/server_scripts/mysticalagriculture.js"
+hash = "36f54b15632d77ac1c8d1690ac037dfc2ce90960174d8689dcd852227a2a75d8"
 
 [[files]]
 file = "mods/accelerated-decay.pw.toml"
@@ -749,4 +769,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "be7d99945791af3c406461df3b927dd8b88270110da1114182c6806fde509344"
+hash = "d0897bfbea28672f35676ada5f7447e711803842ee2405c24f09aa41b0dbd8d6"

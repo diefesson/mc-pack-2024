@@ -32,7 +32,7 @@
 		#Sets culling mode
 		#Reduces number of visible faces when the neighbor blocks are leaves
 		#Allowed Values: ALL, OFF
-		leavesCulling = "OFF"
+		leavesCulling = "ALL"
 		#Toggles Minecraft Fonts shadows
 		#Depending of the case may increase performance
 		#Gives a flat style text
@@ -47,7 +47,7 @@
 				cullingMaxDistanceX = 4096
 				#Toggles distance culling for entities, doesn't affect monsters culling
 				#Check the options below
-				enable = true
+				enable = false
 				#Configure vertical max distance before cull entities
 				#Value is raw
 				#Range: 0 ~ 512
