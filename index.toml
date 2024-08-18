@@ -26,6 +26,10 @@ hash = "9aeba9d40ab451118ef7064feb211d6c18b101e77e3a966c8b9a7f931904d90e"
 metafile = true
 
 [[files]]
+file = "config/re-skin.toml"
+hash = "7b98503591dfb6e396ac4d2c2d5ff96bef4e52a5ec0c76ddbc269a5553de6493"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
 
@@ -512,6 +516,11 @@ hash = "d24de70bbcd2460ebdd4ea16b88f7aac305f7f6fe3b306e00a8c9f79c6c2c611"
 metafile = true
 
 [[files]]
+file = "mods/reskin.pw.toml"
+hash = "ccfac3ad94b11abfbffcafe8b59ae16899b2349bb802c97b571e8beefc4c114a"
+metafile = true
+
+[[files]]
 file = "mods/rftools-base.pw.toml"
 hash = "687bf6c494c88216555509f4a5df228ac1a65efd6063ade27c34ed8551bf0adc"
 metafile = true
@@ -552,13 +561,13 @@ hash = "4c8bc70a427bd4378fe49ae05779fdc1c098d2bbd42ad0e4f13b4cff3636d8ef"
 metafile = true
 
 [[files]]
-file = "mods/simple-voice-chat.pw.toml"
-hash = "d2872ce3266e9ef3af4c2a04a953010578b21285022bc8bd49acb00c6283884f"
+file = "mods/sekclib.pw.toml"
+hash = "0d205a97b68ba07a92bf79a43d9b808142adc80aee83217b980b65e9b2cfe84a"
 metafile = true
 
 [[files]]
-file = "mods/skinchanger.pw.toml"
-hash = "68164d451a0943c94e547ee439b54ecb959e2b9208a9171371cb939800cff491"
+file = "mods/simple-voice-chat.pw.toml"
+hash = "d2872ce3266e9ef3af4c2a04a953010578b21285022bc8bd49acb00c6283884f"
 metafile = true
 
 [[files]]

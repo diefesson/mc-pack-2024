@@ -1,0 +1,13 @@
+name = "Re:Skin"
+filename = "ReSkin-2.6.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/VG7AUzq2/versions/DBhf05gr/ReSkin-2.6.1-universal.jar"
+hash-format = "sha1"
+hash = "4e8e357334cbaae7e999a1398daec2853a18445d"
+
+[update]
+[update.modrinth]
+mod-id = "VG7AUzq2"
+version = "DBhf05gr"
