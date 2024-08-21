@@ -1,6 +1,6 @@
 name = "YUNG's Better Mineshafts"
 filename = "YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/HjmxVlSr/versions/K4G8SGWy/YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar"

@@ -1,6 +1,6 @@
 name = "Friends&Foes - Beekeeper Hut (Forge/NeoForge)"
 filename = "beekeeperhut-forge-mc1.19.2-2.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/K62sN7Sd/versions/Yq0ZEfbv/beekeeperhut-forge-mc1.19.2-2.0.1.jar"

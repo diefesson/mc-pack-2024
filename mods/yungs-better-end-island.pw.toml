@@ -1,6 +1,6 @@
 name = "YUNG's Better End Island"
 filename = "YungsBetterEndIsland-1.19.2-Forge-1.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2BwBOmBQ/versions/AX0UDNyo/YungsBetterEndIsland-1.19.2-Forge-1.0.jar"

@@ -1,6 +1,6 @@
 name = "Villages & Pillages"
 filename = "villagesandpillages-forge-mc1.19.2-1.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/NxVJXozS/villagesandpillages-forge-mc1.19.2-1.0.1.jar"

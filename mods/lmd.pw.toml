@@ -1,6 +1,6 @@
 name = "Let Me Despawn"
 filename = "letmedespawn-1.18-forge-1.0.3.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/vE2FN5qn/versions/wiNkX0Xr/letmedespawn-1.18-forge-1.0.3.jar"

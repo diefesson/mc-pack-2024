@@ -1,6 +1,6 @@
 name = "Load My F***ing Tags"
 filename = "lmft-1.0.2+1.19-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/67kVxsaO/versions/D7tQvUmL/lmft-1.0.2%2B1.19-forge.jar"

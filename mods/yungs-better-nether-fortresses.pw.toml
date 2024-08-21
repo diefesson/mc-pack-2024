@@ -1,6 +1,6 @@
 name = "YUNG's Better Nether Fortresses"
 filename = "YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Z2mXHnxP/versions/9iPMgrMe/YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar"

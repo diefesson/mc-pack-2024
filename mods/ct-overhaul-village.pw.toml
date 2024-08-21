@@ -1,6 +1,6 @@
 name = "ChoiceTheorem's Overhauled Village"
 filename = "ctov-3.2.6c.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/CXja9TJq/ctov-3.2.6c.jar"
