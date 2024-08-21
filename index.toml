@@ -136,6 +136,11 @@ hash = "601a671d8bb4771df8f563157e14f44cce5a3a7c526ea3bcb125ef5660995bb1"
 metafile = true
 
 [[files]]
+file = "mods/canary.pw.toml"
+hash = "cb66f9704e31a1e58068328943e74c604408cc380a576b396baab69a2dfb14f0"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "1a7e42856ecd67e6d001a3383180248f40e6bc91c25c97f8bac2a3eff735c40c"
 metafile = true
@@ -573,6 +578,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d2872ce3266e9ef3af4c2a04a953010578b21285022bc8bd49acb00c6283884f"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "61799bc6367ee86a72fe54b131576cbbc6f4dbe1a1a134d561e83b02a72691be"
 metafile = true
 
 [[files]]
