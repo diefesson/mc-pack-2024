@@ -486,11 +486,6 @@ hash = "fdfc77add1e06001f7bdd10a9cdc65f66af857213f670ded74b7556b67800cf1"
 metafile = true
 
 [[files]]
-file = "mods/open-loader.pw.toml"
-hash = "22d931365312d6aeee6596362265172cb2b8cd7080563cdd7f3ac97845be5883"
-metafile = true
-
-[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "b24acc9967665b2419dc0d55980bb6348bae3ce5702bb8e4530b32278a9b6ace"
 metafile = true
