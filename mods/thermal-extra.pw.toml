@@ -1,13 +1,13 @@
 name = "Thermal: Extra"
-filename = "ThermalExtra-3.0.5-1.19.2.jar"
+filename = "ThermalExtra-3.1.3-1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QejnMYJo/versions/XqEJHDQ1/ThermalExtra-3.0.5-1.19.2.jar"
+url = "https://cdn.modrinth.com/data/QejnMYJo/versions/JYMMdKVO/ThermalExtra-3.1.3-1.20.1.jar"
 hash-format = "sha1"
-hash = "bb7a3c1876306642142c98be0ebf5aa53f11c5ac"
+hash = "c456d1c66dc436785f9abca311fd2e2a9ef1f125"
 
 [update]
 [update.modrinth]
 mod-id = "QejnMYJo"
-version = "XqEJHDQ1"
+version = "JYMMdKVO"

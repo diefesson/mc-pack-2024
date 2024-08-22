@@ -1,13 +1,13 @@
 name = "Functional Storage"
-filename = "functionalstorage-1.19.2-1.1.11.jar"
+filename = "functionalstorage-1.20.1-1.2.12.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/rC9jFUFi/functionalstorage-1.19.2-1.1.11.jar"
+url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/HpvTQCZn/functionalstorage-1.20.1-1.2.12.jar"
 hash-format = "sha1"
-hash = "0d776ef79603727c4afeb933b1d06d0c62dd9143"
+hash = "5e1c98a440f93eac4269a2ab3ac86912eab825bb"
 
 [update]
 [update.modrinth]
 mod-id = "cO40ZIg3"
-version = "rC9jFUFi"
+version = "HpvTQCZn"

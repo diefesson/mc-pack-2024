@@ -1,13 +1,13 @@
 name = "Falling Leaves (NeoForge/Forge)"
-filename = "Fallingleaves-1.19.1-1.3.1.jar"
+filename = "Fallingleaves-1.20.1-2.1.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/T0Vuacdc/Fallingleaves-1.19.1-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/qCMwYRMZ/Fallingleaves-1.20.1-2.1.0.jar"
 hash-format = "sha1"
-hash = "a01e5f63d4def0940418c4cf0d4d8d0f78000102"
+hash = "7cae5ae0f3ff3af230ecb8557fe0af6ca59f3ef5"
 
 [update]
 [update.modrinth]
 mod-id = "2JAUNCL4"
-version = "T0Vuacdc"
+version = "qCMwYRMZ"

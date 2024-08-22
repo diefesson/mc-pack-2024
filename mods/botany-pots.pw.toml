@@ -1,13 +1,13 @@
 name = "Botany Pots"
-filename = "BotanyPots-Forge-1.19.2-9.0.44.jar"
+filename = "BotanyPots-Forge-1.20.1-13.0.38.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/eZZTpS4W/BotanyPots-Forge-1.19.2-9.0.44.jar"
+url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/rPyXGaKT/BotanyPots-Forge-1.20.1-13.0.38.jar"
 hash-format = "sha1"
-hash = "4ed3a15065eb5d6d8fd842ebe7eaf8e1d6ecc842"
+hash = "b4b12020c30116710833a6c9fa0712a535be26b8"
 
 [update]
 [update.modrinth]
 mod-id = "U6BUTZ7K"
-version = "eZZTpS4W"
+version = "rPyXGaKT"

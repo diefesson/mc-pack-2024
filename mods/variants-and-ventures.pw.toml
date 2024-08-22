@@ -1,13 +1,13 @@
 name = "Variants & Ventures"
-filename = "variantsandventures-mc1.19.2-1.0.3.jar"
+filename = "variantsandventures-forge-mc1.20.1-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/iqYDws44/variantsandventures-mc1.19.2-1.0.3.jar"
+url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/H0Y5AWxx/variantsandventures-forge-mc1.20.1-1.0.5.jar"
 hash-format = "sha1"
-hash = "569846fc77f3223ebd898b481d0ae7cb3f42ef32"
+hash = "485bedf25c8dd6728f76d605936c2e520104a22c"
 
 [update]
 [update.modrinth]
 mod-id = "lNDRiXkY"
-version = "iqYDws44"
+version = "H0Y5AWxx"

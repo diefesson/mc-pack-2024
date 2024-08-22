@@ -1,13 +1,13 @@
 name = "Trading Post"
-filename = "TradingPost-v4.2.0-1.19.2-Forge.jar"
+filename = "TradingPost-v8.0.2-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/VHjccmc4/TradingPost-v4.2.0-1.19.2-Forge.jar"
+url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/LvveFy3w/TradingPost-v8.0.2-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "dfd11adb91524400d3d1f10ef30a391a14b27c87"
+hash = "b5cfd0afd134d118124fb12f5e605574938ddffd"
 
 [update]
 [update.modrinth]
 mod-id = "8pcjMDgj"
-version = "VHjccmc4"
+version = "LvveFy3w"

@@ -1,13 +1,13 @@
 name = "Tips"
-filename = "Tips-Forge-1.19.2-8.0.27.jar"
+filename = "Tips-Forge-1.20.1-12.1.8.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/pCg4M609/Tips-Forge-1.19.2-8.0.27.jar"
+url = "https://cdn.modrinth.com/data/AMCbgyVw/versions/Op6VN0JV/Tips-Forge-1.20.1-12.1.8.jar"
 hash-format = "sha1"
-hash = "9f959040b75390690dc3553654d30d4b2fefd5fc"
+hash = "bb1aaf585ac975f94d27162a1346c60a8d8f2765"
 
 [update]
 [update.modrinth]
 mod-id = "AMCbgyVw"
-version = "pCg4M609"
+version = "Op6VN0JV"

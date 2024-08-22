@@ -1,13 +1,13 @@
 name = "Ensorcellation"
-filename = "ensorcellation-1.19.2-4.3.1.20.jar"
+filename = "ensorcellation-1.20.1-5.0.2.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ImlP9deQ/versions/Ukg0Uxoo/ensorcellation-1.19.2-4.3.1.20.jar"
+url = "https://cdn.modrinth.com/data/ImlP9deQ/versions/VY1IIRi6/ensorcellation-1.20.1-5.0.2.24.jar"
 hash-format = "sha1"
-hash = "1d3bba988596256a33dbaeb811b1fc71a0e2b0e6"
+hash = "e0a018f61c2302c377b26ef3f7c5bd6e8a7303b8"
 
 [update]
 [update.modrinth]
 mod-id = "ImlP9deQ"
-version = "Ukg0Uxoo"
+version = "VY1IIRi6"

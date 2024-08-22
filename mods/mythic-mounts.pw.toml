@@ -1,13 +1,13 @@
 name = "Mythic Mounts"
-filename = "mythicmounts-19.2-7.2.1-forge.jar"
+filename = "mythicmounts-20.1-7.4.2-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xP7vOoRA/versions/rUdDNAKe/mythicmounts-19.2-7.2.1-forge.jar"
+url = "https://cdn.modrinth.com/data/xP7vOoRA/versions/uoWwdhb2/mythicmounts-20.1-7.4.2-forge.jar"
 hash-format = "sha1"
-hash = "2d7804ad78899071034896853bef13cbcede0dd3"
+hash = "a2c411308080ab61da211380321da8490b376285"
 
 [update]
 [update.modrinth]
 mod-id = "xP7vOoRA"
-version = "rUdDNAKe"
+version = "uoWwdhb2"

@@ -1,13 +1,13 @@
 name = "Mystic Potions"
-filename = "MysticPotions-1.3.2-1.19.2-Multi.jar"
+filename = "MysticPotions-1.3.2-1.20.1-Multi.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/5UdtzIKo/versions/GExkOBPT/MysticPotions-1.3.2-1.19.2-Multi.jar"
+url = "https://cdn.modrinth.com/data/5UdtzIKo/versions/cThyVLP1/MysticPotions-1.3.2-1.20.1-Multi.jar"
 hash-format = "sha1"
-hash = "a4fd7f8a814ecd4b47bb23428d1e2cb6c8bf1216"
+hash = "8f2010a295baf0d17f706a5179eace3cf3d9031a"
 
 [update]
 [update.modrinth]
 mod-id = "5UdtzIKo"
-version = "GExkOBPT"
+version = "cThyVLP1"

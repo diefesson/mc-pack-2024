@@ -1,13 +1,13 @@
 name = "Redstone Arsenal"
-filename = "redstone_arsenal-1.19.2-7.3.0.20.jar"
+filename = "redstone_arsenal-1.20.1-8.0.1.24.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KfkTLdPl/versions/kl6tqTBB/redstone_arsenal-1.19.2-7.3.0.20.jar"
+url = "https://cdn.modrinth.com/data/KfkTLdPl/versions/cYYgkgkM/redstone_arsenal-1.20.1-8.0.1.24.jar"
 hash-format = "sha1"
-hash = "24c2d261c08de579ba7dfe4ac2dbc66e5a3cf670"
+hash = "8d008954747ad6633b85f3ccfa0523807a400e8b"
 
 [update]
 [update.modrinth]
 mod-id = "KfkTLdPl"
-version = "kl6tqTBB"
+version = "cYYgkgkM"

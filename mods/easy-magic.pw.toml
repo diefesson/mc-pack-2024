@@ -1,13 +1,13 @@
 name = "Easy Magic"
-filename = "EasyMagic-v4.3.3-1.19.2-Forge.jar"
+filename = "EasyMagic-v8.0.1-1.20.1-Forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/yYI8kLD9/EasyMagic-v4.3.3-1.19.2-Forge.jar"
+url = "https://cdn.modrinth.com/data/9hx3AbJM/versions/W2xPEG9I/EasyMagic-v8.0.1-1.20.1-Forge.jar"
 hash-format = "sha1"
-hash = "0a12eb63de1d90a39b6f634e3ffbc174246e7c14"
+hash = "9bfb5d63ac2e03ecdab8755c968ffa25b799469b"
 
 [update]
 [update.modrinth]
 mod-id = "9hx3AbJM"
-version = "yYI8kLD9"
+version = "W2xPEG9I"

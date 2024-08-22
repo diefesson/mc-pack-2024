@@ -1,13 +1,13 @@
 name = "Crafting Tweaks"
-filename = "craftingtweaks-forge-1.19.2-15.1.9.jar"
+filename = "craftingtweaks-forge-1.20.1-18.2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/c6e4xjFu/craftingtweaks-forge-1.19.2-15.1.9.jar"
+url = "https://cdn.modrinth.com/data/DMu0oBKf/versions/toAiSZzl/craftingtweaks-forge-1.20.1-18.2.5.jar"
 hash-format = "sha1"
-hash = "aa37b290cd5ce6e2b35cb041f8cbdc2f84863ddb"
+hash = "3c4bc369c16bdeb00782b2c141eeb6aecbbbcd0a"
 
 [update]
 [update.modrinth]
 mod-id = "DMu0oBKf"
-version = "c6e4xjFu"
+version = "toAiSZzl"

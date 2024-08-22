@@ -1,13 +1,13 @@
 name = "Jade Addons (Forge)"
-filename = "JadeAddons-1.19.2-forge-3.6.0.jar"
+filename = "JadeAddons-1.20.1-Forge-5.3.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/rPlsZgp0/JadeAddons-1.19.2-forge-3.6.0.jar"
+url = "https://cdn.modrinth.com/data/xuDOzCLy/versions/vSfJX8UF/JadeAddons-1.20.1-Forge-5.3.0.jar"
 hash-format = "sha1"
-hash = "ba22a39b955573dbfa0a402519a553c80dfbca46"
+hash = "1b7af26c7ea4e6528c5c762927b0f80c104f9bda"
 
 [update]
 [update.modrinth]
 mod-id = "xuDOzCLy"
-version = "rPlsZgp0"
+version = "vSfJX8UF"

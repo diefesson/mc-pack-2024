@@ -1,0 +1,13 @@
+name = "Oh The Biomes We've Gone"
+filename = "Oh-The-Biomes-Weve-Gone-Forge-1.1.2-Beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NTi7d3Xc/versions/gGqCA2H2/Oh-The-Biomes-Weve-Gone-Forge-1.1.2-Beta.jar"
+hash-format = "sha1"
+hash = "6360200604def22723e331b18e57e05fcdb44538"
+
+[update]
+[update.modrinth]
+mod-id = "NTi7d3Xc"
+version = "gGqCA2H2"

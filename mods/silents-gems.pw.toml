@@ -1,0 +1,13 @@
+name = "Silent's Gems"
+filename = "silents-gems-1.20.1-4.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y036wakZ/versions/1C4iTP1L/silents-gems-1.20.1-4.7.0.jar"
+hash-format = "sha1"
+hash = "8aa4e92a5076d3c29cdee639676997250cdad3a1"
+
+[update]
+[update.modrinth]
+mod-id = "Y036wakZ"
+version = "1C4iTP1L"
