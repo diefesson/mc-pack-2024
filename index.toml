@@ -46,10 +46,6 @@ file = "kubejs/server_scripts/mysticalagriculture/craftable_heads.js"
 hash = "9dc2ec6c198e9c2f795c4ba49d1d7f3b61cbd0039aa2e073c8a57abad6227157"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/essence_names.js"
-hash = "b431aa37b3954c51421d83936b12c26c9bfa540fb1f90b719cbfbe952079f538"
-
-[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/harder_inferium_seeds.js"
 hash = "838010ad6eb6cde4b04a1cba2bc96a9b1b901558cc44d858092b213de48f4389"
 
@@ -58,8 +54,12 @@ file = "kubejs/server_scripts/mysticalagriculture/harder_prosperity_seed_base.js
 hash = "809d51882add7e3ed440f6ab917adb1610c3acd367b98f77388eab320ee968ec"
 
 [[files]]
+file = "kubejs/server_scripts/mysticalagriculture/harder_resource_seeds.js"
+hash = "87180d41d8f6f00a89caf02126b0f92be3ff2d95ffb851cba3f1df82a5a9d55d"
+
+[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/harder_watering_can.js"
-hash = "fcafe0e00e460dbf7a579f960fe7a3999190fc25e6ecd9d0da28e9253d847564"
+hash = "7e3c16ccaf23248b4403b89438168b37671cf324e0cd2fa0f99ba24203fdde75"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/seed_and_crops_tags.js"
