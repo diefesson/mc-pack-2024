@@ -1,0 +1,13 @@
+name = "ObsidianUI"
+filename = "ObsidianUI-forge-0.2.3+mc1.19.2.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/ByWvmLqV/ObsidianUI-forge-0.2.3%2Bmc1.19.2.jar"
+hash-format = "sha1"
+hash = "9d210c39e051aab8ac4ae09ba5960b433d13dc16"
+
+[update]
+[update.modrinth]
+mod-id = "E0L8mfJZ"
+version = "ByWvmLqV"

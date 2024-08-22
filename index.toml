@@ -356,6 +356,11 @@ hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
 metafile = true
 
 [[files]]
+file = "mods/immediatelyfast.pw.toml"
+hash = "3fd84629dfb4a639c07c49ac3f41d3dfe66bc763f056c8b2d275d0d2742c1115"
+metafile = true
+
+[[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "8cd263da2b2ee411248ffce02ff8653c945aa5fbd55010ef603b14e72498a329"
 metafile = true
@@ -481,6 +486,11 @@ hash = "fdfc77add1e06001f7bdd10a9cdc65f66af857213f670ded74b7556b67800cf1"
 metafile = true
 
 [[files]]
+file = "mods/obsidianui.pw.toml"
+hash = "21bb3786fb19d771d6674a4b9ed9b325cfd20dbbc3ca68e7c6a69a2f09ac72be"
+metafile = true
+
+[[files]]
 file = "mods/open-parties-and-claims.pw.toml"
 hash = "b24acc9967665b2419dc0d55980bb6348bae3ce5702bb8e4530b32278a9b6ace"
 metafile = true
@@ -578,6 +588,11 @@ metafile = true
 [[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "0f16d03811177deaf1900dcf0f5bf9e4ff7a19a8c99f94c9271000dbe39f5b49"
+metafile = true
+
+[[files]]
+file = "mods/ryoamiclights.pw.toml"
+hash = "269f34e1cd2d81414ee11c15c000f2fb0424690a68ca62e076d99eaea45a4253"
 metafile = true
 
 [[files]]
