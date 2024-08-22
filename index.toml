@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "d0b73a66244163de797d4c884f85650ce18ee2bc6900e3326c129d77c3c4f4de"
+hash = "1371fa924190c0dd32d64139ed224482f209f990d11451f242d88a19e778a666"
 
 [[files]]
 file = "config/cucumber-client.toml"
@@ -528,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "827b361fcddfa0bdb84bfa0ebf0e1a38b139804c92aaf9e39218d784e4111fb4"
+metafile = true
+
+[[files]]
+file = "mods/radon.pw.toml"
+hash = "7bdf4e86620a8dcd88ad32d9e983412077cb2fb70ddffc99d9e1f5a2f2a94a1f"
 metafile = true
 
 [[files]]

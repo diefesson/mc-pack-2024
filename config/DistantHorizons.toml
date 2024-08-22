@@ -140,7 +140,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForWorldGenerationThreads = "0.5"
+			runTimeRatioForWorldGenerationThreads = "0.1"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -148,7 +148,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForLodBuilderThreads = "0.25"
+			runTimeRatioForLodBuilderThreads = "0.1"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -156,7 +156,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForFileHandlerThreads = "0.5"
+			runTimeRatioForFileHandlerThreads = "0.25"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -164,7 +164,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForUpdatePropagatorThreads = "0.25"
+			runTimeRatioForUpdatePropagatorThreads = "0.1"
 			#
 			# How many threads should be used when reading/writing LOD data to/from disk? 
 			# 
