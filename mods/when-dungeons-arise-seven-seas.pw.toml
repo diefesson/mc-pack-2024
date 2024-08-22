@@ -1,0 +1,13 @@
+name = "When Dungeons Arise: Seven Seas"
+filename = "DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ZsrrjDbP/versions/AxIOkvEv/DungeonsAriseSevenSeas-1.19.2-1.0.2-forge.jar"
+hash-format = "sha1"
+hash = "b585510746697689562f2661313e5f66718e5861"
+
+[update]
+[update.modrinth]
+mod-id = "ZsrrjDbP"
+version = "AxIOkvEv"

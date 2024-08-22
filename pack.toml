@@ -1,16 +1,16 @@
 name = "Pack 2024"
 author = "DieAlpha"
-version = "1.7.0"
+version = "2.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "4014b4f51104fd9958e740c46c427b23293ace7504faa18686280b7ead32c48b"
+hash = "1b8d9455543a437c5a97de2ed919ca2bde70f7c0bc6a3881516d196df5189cc0"
 
 [versions]
-forge = "47.3.7"
 minecraft = "1.20.1"
+neoforge = "47.1.106"
 
 [options]
 datapack-folder = "config/paxi/datapacks"
