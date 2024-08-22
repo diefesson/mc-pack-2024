@@ -96,11 +96,6 @@ hash = "fd246068b35c4219a9146d267f8f1d02cf34bce069405e164a73addd5466c370"
 metafile = true
 
 [[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "9fce81e32e0d1a393173243ccf4929ac7ab68ab3b3146e4007c01ef68e4c1a08"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "8438dada85537f9599642ed17a5938852acce4d42030ed56e7beffc6d9e2443a"
 metafile = true
