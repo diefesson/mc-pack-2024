@@ -291,6 +291,11 @@ hash = "cf35640e350078e8cd7b29f727c3227aeb0b465f0fba9a266e6cbe15dadc4955"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
+metafile = true
+
+[[files]]
 file = "mods/extreme-reactors.pw.toml"
 hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
@@ -308,6 +313,21 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/formations-nether.pw.toml"
+hash = "48e27884150ca9b0ff7df9a6244be04b4a25c53ce9bb7613b1fbd34e218f13ea"
+metafile = true
+
+[[files]]
+file = "mods/formations-overworld.pw.toml"
+hash = "08a8521bff0674ad3d8fe73a68e44132177d9460436cd5c2527bc14f789618e3"
+metafile = true
+
+[[files]]
+file = "mods/formations.pw.toml"
+hash = "36f13ad8d62d5b71c66efef2c3a92654ac960800244b970c8ca574621eaaf246"
 metafile = true
 
 [[files]]
@@ -333,6 +353,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "3df429445bcc8c196fe253f9d28c160cd00025556abb77de1649c5ef5d8d488a"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
 
 [[files]]
@@ -503,6 +528,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "e63b436dba4a80db68e4c79e5d9f030096fad75fe264490403d75dee3dab72de"
+metafile = true
+
+[[files]]
+file = "mods/philips-ruins.pw.toml"
+hash = "9dbf1f9b6ebd251b8db5b40ef9f33f3fb8ea03f6c6367716a55203f2c7a1ed9d"
 metafile = true
 
 [[files]]
@@ -692,7 +722,7 @@ metafile = true
 
 [[files]]
 file = "mods/towns-and-towers.pw.toml"
-hash = "f4ee188c011337963dc95d3e3c6c76cbd6fccf90c533b09639b490a1129eb522"
+hash = "dcef73437fec1a74a88df117d55f379860090b4e5dd73d0c19f7874e61cc6bd3"
 metafile = true
 
 [[files]]
