@@ -1,6 +1,6 @@
 name = "Formations Nether"
 filename = "formationsnether-1.0.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/cGvQGRls/versions/HBTE0lZv/formationsnether-1.0.5.jar"
