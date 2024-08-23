@@ -397,11 +397,6 @@ hash = "4abb446705450a1c3c2600cd37b56c8e6cf0018c8bfca18fcb0bfb2fbdd3ec2e"
 metafile = true
 
 [[files]]
-file = "mods/ksyxis.pw.toml"
-hash = "cf4d50556f99d310bea0745680a9d8574791ad55880e5a8d85029e85711601ff"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -489,11 +484,6 @@ metafile = true
 [[files]]
 file = "mods/no-nv-flash.pw.toml"
 hash = "56f2f34c9dbd0a4719e05215accb885ac23e8698211c04e99b5dd421acd28023"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "c60be719d5ede034bcc81d79fdec100b8d07c09a270ac01f571cf516840a263b"
 metafile = true
 
 [[files]]
