@@ -152,6 +152,11 @@ hash = "833c0992b726fb4a0bc3789a74ec59276a364c0948a9afc5d170b7f22d7100cc"
 metafile = true
 
 [[files]]
+file = "mods/caelus.pw.toml"
+hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
 metafile = true
