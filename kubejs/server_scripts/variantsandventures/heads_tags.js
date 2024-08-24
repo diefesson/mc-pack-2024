@@ -1,4 +1,4 @@
-heads = [
+const heads = [
     'variantsandventures:gelid_head',
     'variantsandventures:thicket_head',
     'variantsandventures:murk_skull',
