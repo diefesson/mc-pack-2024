@@ -187,6 +187,11 @@ hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "9ced15694261695d7ba1dfcba293ffa46e4864ff3fbf7c1a2cb126fbfd14ce31"
 metafile = true
@@ -234,6 +239,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "0706d481fc6462ca2739b5284e9d60518b5c424dda2a61836d45f68faacbba0a"
+metafile = true
+
+[[files]]
+file = "mods/drogstyle.pw.toml"
+hash = "489952103b17a7b890a02cffe859c0ede5c1191ab8dc3dacbc772bc2012cb823"
 metafile = true
 
 [[files]]
@@ -302,6 +312,11 @@ hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
 metafile = true
 
 [[files]]
+file = "mods/fabrictailor.pw.toml"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+metafile = true
+
+[[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
 metafile = true
@@ -314,6 +329,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "4a73f04a8986129d79ea4f283a0a33ce51af17079b6efa23596af5bc685e1c1e"
+metafile = true
+
+[[files]]
+file = "mods/forgified-fabric-api.pw.toml"
+hash = "83e5ef8ddf5f41c33cde52de9b4991067e8701ecb89353c3a5219a55f6ff04d5"
 metafile = true
 
 [[files]]
@@ -517,6 +537,11 @@ hash = "5304520a63731d43091412cabe6e285b5869cbe00e774b3e6e5d9327e14f8632"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "28b3e0806647eb166e942cf6552993bb6d666949c53f0d51927bdfb063cb6cc4"
+metafile = true
+
+[[files]]
 file = "mods/patchouli.pw.toml"
 hash = "4d0b66ba4cb3c2965bf961d4bb991babb6a60f8a20709d1e295ed7fc8b6d8929"
 metafile = true
@@ -627,11 +652,6 @@ hash = "d68e429bf912389d640bfe66ad9b1317bb6cf5e304625cad4f1da8cd99df22c5"
 metafile = true
 
 [[files]]
-file = "mods/skinrestorer.pw.toml"
-hash = "2a3205f812461f334d862bbbb73a388a33c074df0bc851f18e48da0a2c3ce591"
-metafile = true
-
-[[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
 metafile = true
@@ -642,6 +662,11 @@ hash = "dbe2c430bf58c773082d7fd9d1bee2d510a2e0c08f390f7465e819b6e321ae09"
 metafile = true
 
 [[files]]
+file = "mods/styled-nicknames.pw.toml"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
 file = "mods/supermartijn642s-config-lib.pw.toml"
 hash = "fb0ec93bfbee412229b63a9154abc992ee7e274a84fe569e077f250e6c77abbd"
 metafile = true
@@ -649,6 +674,21 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "97ff489cce6b7ad5a4ed965e09a960efc5f6ad7a6cf4f070a47c8de8d00d917f"
+metafile = true
+
+[[files]]
+file = "mods/switchy-inventories.pw.toml"
+hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
+metafile = true
+
+[[files]]
+file = "mods/switchy-teleport.pw.toml"
+hash = "2565eba14e887a66cd6688e5078de5554ad6ac0a4f6a83724b94aa21a849924f"
+metafile = true
+
+[[files]]
+file = "mods/switchy.pw.toml"
+hash = "a82735a654df650500e5dc437abf6e9a73d70b1e30b0b952126d99ee7ffe6249"
 metafile = true
 
 [[files]]
