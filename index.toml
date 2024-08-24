@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "1371fa924190c0dd32d64139ed224482f209f990d11451f242d88a19e778a666"
+hash = "ff72947d5eaf76baf964ad8dd52881742a624990a6684f9755504f3eb6cc9d1e"
 
 [[files]]
 file = "config/cucumber-client.toml"
@@ -23,6 +23,34 @@ hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
+
+[[files]]
+file = "config/xaerominimap-common.txt"
+hash = "438ddff39d00a3f7d9bca71687acde37eb4e86b00b21e52a75aecb9c3567201f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "0086a79442c7ea91feb81e8169dadaae08de30daa101aa2ea2f00e21c52f7671"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroplus.txt"
+hash = "65d5b9c0c555bf8341c9ac2db7a4c72efaf5a85cefea700cae015749a2a0e796"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "9ae099ab6f21038a68d5582995b25808fcb6fbd77efeafbb1cfd5d1f5373ef3b"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "9509a39c5bf7f7eb53deaab7699bf8f77449af2322168d5d0bfd3db6861a6a88"
 
 [[files]]
 file = "kubejs/config/client.properties"
