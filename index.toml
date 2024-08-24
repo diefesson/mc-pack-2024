@@ -34,7 +34,7 @@ hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/craftable_heads.js"
-hash = "9642c4f1d68a8d89956b44b82d38562dc9fc6aa22eaf6a2d1b41715187251da2"
+hash = "5dcd5347ed63f0063b9ad4e7ca939f2669940c0399d6ffc1b8496c5425830520"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/harder_inferium_seeds.js"

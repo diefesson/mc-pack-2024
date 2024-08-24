@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    function headRecipe(itemA, itemB, output) {
+    function headRecipe(output, itemA, itemB) {
         event.shaped(
             output,
             [
@@ -15,8 +15,8 @@ ServerEvents.recipes(event => {
         )
     }
 
-    headRecipe('mysticalagriculture:zombie_essence', 'mysticalagriculture:ice_essence', 'variantsandventures:gelid_head')
-    headRecipe('mysticalagriculture:zombie_essence', 'mysticalagriculture:nature_essence', 'variantsandventures:thicket_head')
-    headRecipe('mysticalagriculture:skeleton_essence', 'mysticalagriculture:water_essence', 'variantsandventures:murk_skull')
-    headRecipe('mysticalagriculture:skeleton_essence', 'mysticalagriculture:nature_essence', 'variantsandventures:verdant_skull')
+    headRecipe('variantsandventures:gelid_head', 'mysticalagriculture:zombie_essence', 'mysticalagriculture:ice_essence')
+    headRecipe('variantsandventures:thicket_head', 'mysticalagriculture:zombie_essence', 'mysticalagriculture:nature_essence')
+    headRecipe('variantsandventures:murk_skull', 'mysticalagriculture:skeleton_essence', 'mysticalagriculture:water_essence')
+    headRecipe('variantsandventures:verdant_skull', 'mysticalagriculture:skeleton_essence', 'mysticalagriculture:nature_essence')
 })
