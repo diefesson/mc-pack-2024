@@ -151,6 +151,11 @@ hash = "ecdd4372e076170c6b3bc4665dfdc5dac60292aaac013c7f95305b43e8916495"
 metafile = true
 
 [[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "1596f0056944116fc58e9294ede2ecf069f11241ab57836b3096c57a008e67b3"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "be8e217053e3e0bc0179a62beaa1f8e29e22b1cdc2cb0d56bd9836ce5e6dea3b"
 metafile = true
@@ -163,6 +168,11 @@ metafile = true
 [[files]]
 file = "mods/better-burning.pw.toml"
 hash = "01e9bde4d621e86d361cc2cedf7ce0158cad86877688aa4ff8e28703e7cda4b7"
+metafile = true
+
+[[files]]
+file = "mods/better-f3.pw.toml"
+hash = "edf861ea17978ed70778c2c6227a4fa4086a22fde8713493d53263fc2dd41d75"
 metafile = true
 
 [[files]]
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
+metafile = true
+
+[[files]]
+file = "mods/cherished-worlds.pw.toml"
+hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
 metafile = true
 
 [[files]]
@@ -248,6 +263,11 @@ metafile = true
 [[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
+metafile = true
+
+[[files]]
+file = "mods/crunchy-crunchy-advancements.pw.toml"
+hash = "3df253f02cc0cb510b53389ac4f2183803792ee7b93c6b542750978ad274991e"
 metafile = true
 
 [[files]]
@@ -441,6 +461,11 @@ hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
 metafile = true
 
 [[files]]
+file = "mods/inventory-profiles-next.pw.toml"
+hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
+metafile = true
+
+[[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "3662a3f9fc3db0418941a97652ba318b7ad03f6bf926c067a1b261a2de355456"
 metafile = true
@@ -466,6 +491,11 @@ hash = "4abb446705450a1c3c2600cd37b56c8e6cf0018c8bfca18fcb0bfb2fbdd3ec2e"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -478,6 +508,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
+metafile = true
+
+[[files]]
+file = "mods/libipn.pw.toml"
+hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
@@ -661,6 +696,16 @@ hash = "401cf5911b0881235e82c1240a044fe98617708cee884430b47c42e7b2257aaf"
 metafile = true
 
 [[files]]
+file = "mods/right-click-get-crops.pw.toml"
+hash = "053348bdcfcc5ae4603ec7c647c9ec012e54e406ec9f743ac97d40f7b20aeba3"
+metafile = true
+
+[[files]]
+file = "mods/rrls.pw.toml"
+hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
+metafile = true
+
+[[files]]
 file = "mods/rs-requestify.pw.toml"
 hash = "1a1bfe0776cb92961f84add606ac5ef2cf0cea183f1cf8ba168feb29520142a2"
 metafile = true
@@ -698,6 +743,11 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "e9bf45458454e7ceaa9fc33b271b9f408f27b69d5660652a5f7464fad94bb733"
+metafile = true
+
+[[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "414ed4ce44929f2989bfe7a5bf5ddcbffc48883dc074e9a6fd3be4f6483ed0ea"
 metafile = true
 
 [[files]]
