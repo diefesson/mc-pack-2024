@@ -17,8 +17,20 @@ file = "config/embeddium-options.json"
 hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
 
 [[files]]
+file = "config/extremereactors copy/client.toml"
+hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
+
+[[files]]
+file = "config/extremereactors copy/common.toml"
+hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
+
+[[files]]
+file = "config/switchy/config.toml"
+hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
 [[files]]
 file = "config/voicechat/voicechat-server.properties"
@@ -714,6 +726,11 @@ hash = "b7b3080acea13424a7f6301ec97b61eb6fb8b541abc0b43864da3768059e6e86"
 metafile = true
 
 [[files]]
+file = "mods/switchy-status.pw.toml"
+hash = "970b288e1d349e5535e96754075c4d765da3f24a0c4e0939ee126af3ac0fcede"
+metafile = true
+
+[[files]]
 file = "mods/switchy-teleport.pw.toml"
 hash = "2565eba14e887a66cd6688e5078de5554ad6ac0a4f6a83724b94aa21a849924f"
 metafile = true
@@ -940,4 +957,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6a218e36b82c4ad7987f3c31131d1b046d8be186f39d2a588bfd6148779808fd"
+hash = "b79a2327f8fde94a6b82ce00e199f0111554690e9ab776686a7b17116257db4b"

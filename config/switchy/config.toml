@@ -1,0 +1,22 @@
+
+# Permission for editing module data
+# Allowed: Non-operators can import this module, and it's imported by default
+# Operator: Operators can import this module using command flags
+[moduleEditable]
+	"switchy_teleport:spawn_point" = "ALLOWED"
+	"switchy_inventories:ender_chests" = "ALLOWED"
+	"switchy_inventories:experience" = "ALLOWED"
+	"switchy_inventories:inventories" = "ALLOWED"
+	"switchy_teleport:last_location" = "ALLOWED"
+	"switchy_status:health" = "ALLOWED"
+	"switchy_status:hunger" = "ALLOWED"
+	"switchy_status:status_effects" = "ALLOWED"
+
+# Permission for editing module data
+# These values are read-only - changing them here has no effect.
+# Always_Allowed: Non-operators can import this module
+# Never: This module cannot be imported
+[moduleEditableReadOnly]
+	"switchy:fabric_tailor" = "ALWAYS_ALLOWED"
+	"switchy:styled_nicknames" = "ALWAYS_ALLOWED"
+
