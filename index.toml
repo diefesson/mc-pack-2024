@@ -171,11 +171,6 @@ hash = "01e9bde4d621e86d361cc2cedf7ce0158cad86877688aa4ff8e28703e7cda4b7"
 metafile = true
 
 [[files]]
-file = "mods/better-f3.pw.toml"
-hash = "edf861ea17978ed70778c2c6227a4fa4086a22fde8713493d53263fc2dd41d75"
-metafile = true
-
-[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
@@ -256,6 +251,11 @@ hash = "2bda116744ab10a64e92dc6f97549850e5d74b58b985f406818a8f76abcba7f7"
 metafile = true
 
 [[files]]
+file = "mods/controlling.pw.toml"
+hash = "2a50d21837bba88e3c9490c6bb8e0a9b44b052645d5c1481b48a060439c20a3c"
+metafile = true
+
+[[files]]
 file = "mods/corgilib.pw.toml"
 hash = "9ced15694261695d7ba1dfcba293ffa46e4864ff3fbf7c1a2cb126fbfd14ce31"
 metafile = true
@@ -318,6 +318,11 @@ metafile = true
 [[files]]
 file = "mods/drogstyle.pw.toml"
 hash = "489952103b17a7b890a02cffe859c0ede5c1191ab8dc3dacbc772bc2012cb823"
+metafile = true
+
+[[files]]
+file = "mods/dungeons-and-taverns.pw.toml"
+hash = "bc9c72c9e7580585dafa413ad247a3590b44cbc7380f6b50f8e2e8bda7cfb5ce"
 metafile = true
 
 [[files]]
@@ -456,6 +461,11 @@ hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
 
 [[files]]
+file = "mods/iceberg.pw.toml"
+hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "14fe03952c7447438394a34c9a4aaf4c062645dfd1512ac35f8f0ce580855185"
 metafile = true
@@ -468,11 +478,6 @@ metafile = true
 [[files]]
 file = "mods/immersive-structures.pw.toml"
 hash = "87184da0fbda69dd2d209f9597beca5241893eb32e3e3d07356d1be3afa496b8"
-metafile = true
-
-[[files]]
-file = "mods/inventory-profiles-next.pw.toml"
-hash = "96320bde9afd69623633debefbaa0d32224fe259ab668c34ad6eab95ba982b22"
 metafile = true
 
 [[files]]
@@ -506,11 +511,6 @@ hash = "4abb446705450a1c3c2600cd37b56c8e6cf0018c8bfca18fcb0bfb2fbdd3ec2e"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -523,11 +523,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
-metafile = true
-
-[[files]]
-file = "mods/libipn.pw.toml"
-hash = "f3b0e45a85c3aafbf05a3828a38cd2985f3678b41fa95cfbd5d828ce4fcd4eaa"
 metafile = true
 
 [[files]]
@@ -736,6 +731,11 @@ hash = "456a6afb9efe768e49e3fb427d0fac43e7af6534794b0e0873879341d3d82efd"
 metafile = true
 
 [[files]]
+file = "mods/searchables.pw.toml"
+hash = "35905f57cdb21a2aaa26345f2fabe3137ee2db6ee3bb2149cea206611b11ef69"
+metafile = true
+
+[[files]]
 file = "mods/silent-gear.pw.toml"
 hash = "399181e95079a84299af9720dc7726066a4e973a14b0a46b97b863058aaf9c93"
 metafile = true
@@ -883,6 +883,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "9b3bb44a08158f10e8c2d88c4d80a987ba45e5667670dfbbfd55890fc247f239"
+metafile = true
+
+[[files]]
+file = "mods/travelersbackpack.pw.toml"
+hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
 metafile = true
 
 [[files]]

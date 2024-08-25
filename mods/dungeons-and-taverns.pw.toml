@@ -1,0 +1,13 @@
+name = "Dungeons and Taverns"
+filename = "dungeons-and-taverns-3.0.3.f.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tpehi7ww/versions/ojHpWOrz/dungeons-and-taverns-3.0.3.f.jar"
+hash-format = "sha1"
+hash = "3f324242f3daf4785a8b9338f228679418f4870a"
+
+[update]
+[update.modrinth]
+mod-id = "tpehi7ww"
+version = "ojHpWOrz"
