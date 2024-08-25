@@ -21,7 +21,7 @@
 [XP] null OW Dim Dir:true
 [XP] Data Dir Mode:0
 [XP] Nether Cave Fix:true
-[XP] Disable Xaero Internet Access:false
+[XP] Disable Xaero Internet Access:true
 [XP] Expanded Setting Entries:false
 [XP] Palette NewChunks:false
 [XP] Save/Load Palette NewChunks to Disk:true

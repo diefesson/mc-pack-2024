@@ -29,6 +29,18 @@ file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
 [[files]]
+file = "config/silentgear-client.toml"
+hash = "8ee773dd1d72dfa674663d4e8179ac3c2bae2d4bf2d97a2a403235b1a857a402"
+
+[[files]]
+file = "config/silentgear-common.toml"
+hash = "e1f254d002148c00d451ca74d641025ea8e1908e74d69d8e3b276ca6bfe8212a"
+
+[[files]]
+file = "config/silentgems-common.toml"
+hash = "f0a914fb446298828ab01457eb64f4b1fe36ab58d27abade4b593000683d6588"
+
+[[files]]
 file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
@@ -54,7 +66,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/xaeroplus.txt"
-hash = "65d5b9c0c555bf8341c9ac2db7a4c72efaf5a85cefea700cae015749a2a0e796"
+hash = "9ef51096c1ff3288aefad9cb0792e1a941283c9707b18d4b835177eeffbf747e"
 
 [[files]]
 file = "config/xaeroworldmap-common.txt"
@@ -1027,4 +1039,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "b79a2327f8fde94a6b82ce00e199f0111554690e9ab776686a7b17116257db4b"
+hash = "e9ea53281205977e43ca71438b60ed128c16efad6024884aafe07e968e52f4c8"
