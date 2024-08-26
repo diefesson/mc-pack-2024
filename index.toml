@@ -109,8 +109,16 @@ file = "kubejs/server_scripts/mysticalagriculture/seed_and_crops_tags.js"
 hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/smelter.js"
-hash = "34da5b03d24d9a3557f8c567bb7c0b2d961e7cd5fc7bf7f73360eeaf34581d8d"
+file = "kubejs/server_scripts/thermal/bigreactors.js"
+hash = "0d26b2d83c482f5165385a14a7a4e56ae9d998cc3bd31bb9569da327bcdcbd43"
+
+[[files]]
+file = "kubejs/server_scripts/thermal/common.js"
+hash = "913278d8b8ad40fd0ece70329364dad8b8bcb8fbfd672c35a7afc4a319fc476b"
+
+[[files]]
+file = "kubejs/server_scripts/thermal/mysticalagriculture.js"
+hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
 
 [[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
