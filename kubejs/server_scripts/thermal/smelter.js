@@ -20,7 +20,6 @@ ServerEvents.recipes(event => {
             ],
             energy
         })
-
     }
 
     function press3x3RecipePair(block, ingot, energy) {
@@ -60,4 +59,20 @@ ServerEvents.recipes(event => {
         400
     )
 
+    press3x3RecipePair(
+        { tag: 'forge:storage_blocks/depleted_uranium' },
+        { tag: 'forge:ingots/depleted_uranium' },
+        400
+    )
+
+    press3x3RecipePair(
+        { tag: 'forge:storage_blocks/plutonium' },
+        { tag: 'forge:ingots/plutonium' },
+        400
+    )
+    press3x3RecipePair(
+        { tag: 'forge:ingots/plutonium' },
+        { tag: 'forge:nuggets/plutonium' },
+        400
+    )
 })

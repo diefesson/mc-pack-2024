@@ -86,7 +86,7 @@ hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
 file = "kubejs/server_scripts/bigreactors/tags.js"
-hash = "858f2ed06c7eedc66bca4a545782f30c195f34bb384304bfd37ff5183efa8a81"
+hash = "f874fff37ad7caebccdc935ed5510b5eb369af574af7e956bb1f097583ffb578"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/craftable_heads.js"
@@ -110,7 +110,7 @@ hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/smelter.js"
-hash = "8395314097dd3d8c8834f0e75409c7c7afcb128011fe6422c4197bbafb5836f6"
+hash = "34da5b03d24d9a3557f8c567bb7c0b2d961e7cd5fc7bf7f73360eeaf34581d8d"
 
 [[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
