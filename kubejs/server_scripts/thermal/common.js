@@ -21,8 +21,16 @@ global['pressRecipe'] = (event, result, input, die) => {
     })
 }
 
-global['press3x3RecipePair'] = (event, block, ingot, energy) => {
+global['press3x3RecipePair'] = (event, block, ingot) => {
     const pressRecipe = global['pressRecipe']
-    pressRecipe(event, block, Item.of(ingot, 9), { item: 'thermal:press_packing_3x3_die' }, energy)
-    pressRecipe(event, Item.of(ingot, 9), block, { item: 'thermal:press_unpacking_die' }, energy)
+    pressRecipe(event, block, Item.of(ingot, 9), { item: 'thermal:press_packing_3x3_die' })
+    pressRecipe(event, Item.of(ingot, 9), block, { item: 'thermal:press_unpacking_die' })
+}
+
+global['pulverizerRecipe'] = (event, result, ingredient) => {
+    event.custom({
+        type: 'thermal:pulverizer',
+        ingredient: ingredient,
+        result: result,
+    })
 }

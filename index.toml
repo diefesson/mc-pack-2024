@@ -114,11 +114,15 @@ hash = "0d26b2d83c482f5165385a14a7a4e56ae9d998cc3bd31bb9569da327bcdcbd43"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"
-hash = "913278d8b8ad40fd0ece70329364dad8b8bcb8fbfd672c35a7afc4a319fc476b"
+hash = "0b898e73b4e47fefd498af4b7c88d4ec0bcfa1b83cc08598024585f41dc18e60"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/mysticalagriculture.js"
 hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
+
+[[files]]
+file = "kubejs/server_scripts/thermal/rftools.js"
+hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
 
 [[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
