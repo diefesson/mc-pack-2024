@@ -113,6 +113,10 @@ file = "kubejs/server_scripts/mysticalagriculture/seed_and_crops_tags.js"
 hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
+file = "kubejs/server_scripts/mysticalagriculture/spawner.js"
+hash = "919e1a4081b7add1db7466bd7118af9261ce8fbc086c889ca23c3d1d86aed352"
+
+[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
 hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
 
@@ -1068,4 +1072,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e9ea53281205977e43ca71438b60ed128c16efad6024884aafe07e968e52f4c8"
+hash = "e1031215174c9b9b75857319cc535660fa1bc041407b54aa163019dba6e12a4d"
