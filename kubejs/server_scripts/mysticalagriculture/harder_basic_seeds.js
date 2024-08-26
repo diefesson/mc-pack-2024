@@ -1,31 +1,20 @@
 ServerEvents.recipes(event => {
-    function seedRecipe(seed, middle, sides) {
-        event.remove({ output: seed })
-        event.shaped(
-            seed,
-            [
-                ' B ',
-                'BSB',
-                ' B '
-            ],
-            {
-                S: middle,
-                B: sides,
-            },
-        )
-    }
+    const seedRecipe = global['seedRecipe']
 
     seedRecipe(
+        event,
         'mysticalagriculture:inferium_seeds',
         'minecraft:wheat_seeds',
         'mysticalagriculture:inferium_block',
     )
     seedRecipe(
+        event,
         'mysticalagriculture:prosperity_seed_base',
         'minecraft:wheat_seeds',
         'mysticalagriculture:prosperity_block',
     )
     seedRecipe(
+        event,
         'mysticalagriculture:soulium_seed_base',
         'mysticalagriculture:prosperity_seed_base',
         'mysticalagriculture:soulium_block'

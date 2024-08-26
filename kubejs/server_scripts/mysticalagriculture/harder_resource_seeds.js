@@ -23,26 +23,8 @@ function findRecipe(event, seedsItem) {
     return recipe
 }
 
-function infusionRecipe(event, middle, ingredientA, ingredientB, result) {
-    let recipeJson = {
-        type: 'mysticalagriculture:infusion',
-        input: middle,
-        ingredients: [
-            ingredientA,
-            ingredientB,
-            ingredientA,
-            ingredientB,
-            ingredientA,
-            ingredientB,
-            ingredientA,
-            ingredientB,
-        ],
-        result: result
-    }
-    event.custom(recipeJson)
-}
-
 ServerEvents.recipes(event => {
+    const infusionRecipe = global['infusionRecipe']
     const cropRegistryInstance = CropRegistry.getInstance()
     const crops = cropRegistryInstance.getCrops()
     for (let crop of crops) {
@@ -57,14 +39,12 @@ ServerEvents.recipes(event => {
                 event.remove({ id: `mysticalagriculture:seed/infusion/${name}` })
                 infusionRecipe(
                     event,
+                    Item.of(seedsItem, 1),
                     recipe.get('input'),
                     ingredientA,
                     Item.of(ingredientB, 1),
-                    Item.of(seedsItem, 1)
                 )
             }
         }
     }
 })
-
-
