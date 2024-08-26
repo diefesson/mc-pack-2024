@@ -39,7 +39,6 @@ function infusionRecipe(event, middle, ingredientA, ingredientB, result) {
         ],
         result: result
     }
-    console.log('adding MA recipe', recipeJson)
     event.custom(recipeJson)
 }
 
