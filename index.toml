@@ -306,6 +306,11 @@ hash = "26ac5097839dfbf2f567e8e441a7149d7cccbe3456449e904fb75614a3789bc8"
 metafile = true
 
 [[files]]
+file = "mods/creativecore.pw.toml"
+hash = "7904b90959114c56ada031802a4d1097fd716964c7c3624eae9fabf1b23020d0"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
@@ -953,6 +958,16 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "7d5dba4cf4a48ae96d728377767c5cd1b3d743967255b987d272c6f884372463"
+metafile = true
+
+[[files]]
+file = "mods/waterframes.pw.toml"
+hash = "5ad9cbd70e99f9df7a2673b2dec61f6e5d76b11e775855e22a439528e9f52200"
+metafile = true
+
+[[files]]
+file = "mods/watermedia.pw.toml"
+hash = "2f671980cf377a9c34466759d170bf20d12ce3f26a30d2802c479611e663bfa6"
 metafile = true
 
 [[files]]
