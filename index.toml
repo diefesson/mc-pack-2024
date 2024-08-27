@@ -37,8 +37,12 @@ file = "config/cucumber-client.toml"
 hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 
 [[files]]
+file = "config/cull-less-leaves.json"
+hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
 file = "config/embeddium++.toml"
-hash = "405f0e88ee52234fee17f29d8a7bb27957fa4bccd4c3b83fea6f12a3fcf10ab2"
+hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
 [[files]]
 file = "config/embeddium-options.json"
