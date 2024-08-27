@@ -45,11 +45,11 @@ file = "config/embeddium-options.json"
 hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
 
 [[files]]
-file = "config/extremereactors copy/client.toml"
+file = "config/extremereactors/client.toml"
 hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
 
 [[files]]
-file = "config/extremereactors copy/common.toml"
+file = "config/extremereactors/common.toml"
 hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
 
 [[files]]
