@@ -211,6 +211,11 @@ hash = "0f14bace851a24d3051652bc9c6f94112424bf668c6dc6356489bd46ca3af464"
 metafile = true
 
 [[files]]
+file = "mods/bclib.pw.toml"
+hash = "d71225c33f2287ca8c0f61483a8d9da35c80a69cb14f252dceaf0e504435bb7f"
+metafile = true
+
+[[files]]
 file = "mods/better-burning.pw.toml"
 hash = "01e9bde4d621e86d361cc2cedf7ce0158cad86877688aa4ff8e28703e7cda4b7"
 metafile = true
@@ -223,6 +228,16 @@ metafile = true
 [[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1eba2958ca157bb11a8a3c99a83ecb256ebd78f2757fc54822d7e6b5f73080c6"
+metafile = true
+
+[[files]]
+file = "mods/betterend.pw.toml"
+hash = "bd5f853537d50e0b156f5a5cb4ca557771aa0828ccf46b22b31a3aa549d615ed"
+metafile = true
+
+[[files]]
+file = "mods/betternether.pw.toml"
+hash = "d1a9663f1984c580facd4f217dc45ef1df0030776c0c773e03b573469405e052"
 metafile = true
 
 [[files]]
@@ -288,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "673b81b2090bdce49d7743e8c4b3e8587d1106ad6d032f23148c39f7787a0bac"
+metafile = true
+
+[[files]]
+file = "mods/connector-extras.pw.toml"
+hash = "ca80a80a9a068c01ad3b2d8d484a943897b6e87325ca70e5dea2d59c2eba9160"
 metafile = true
 
 [[files]]
