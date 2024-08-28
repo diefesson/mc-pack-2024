@@ -1,3 +1,3 @@
 StartupEvents.registry('item', event => {
-    event.create('volatile:volatile_dust')
+    event.create('volatiledust:volatile_dust')
 })

@@ -118,7 +118,7 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/kubejs/textures/item/volatile_dust.png"
+file = "kubejs/assets/volatiledust/textures/item/volatile_dust.png"
 hash = "26111863e965927eda42120483bae415883027b16db152c4e9e9b988e350b1d6"
 
 [[files]]
@@ -195,7 +195,7 @@ hash = "97347043be36ecbefd23ff28c026e5b0c291834ffcec817c640c7ad5b9e7047d"
 
 [[files]]
 file = "kubejs/startup_scripts/volatiledust/volatile_dust.js"
-hash = "13c0f36e51d7aeb2f3b2977e18e5af882d66635596a886196e692b60cf9b9be9"
+hash = "4d225ea0ad5f4710758dc2995b65f8e7db47f4ab5316a28420cad07ecb1ec640"
 
 [[files]]
 file = "mods/accessories-cc-layer.pw.toml"
