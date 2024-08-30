@@ -1,0 +1,13 @@
+name = "Guard Villagers"
+filename = "guardvillagers-1.20.1-1.6.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/H1sntfo8/versions/gPD6mgz1/guardvillagers-1.20.1-1.6.7.jar"
+hash-format = "sha1"
+hash = "7bfe6f938dc1d44f79110aaab474e03ed41d734d"
+
+[update]
+[update.modrinth]
+mod-id = "H1sntfo8"
+version = "gPD6mgz1"

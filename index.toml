@@ -598,6 +598,11 @@ hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
 
 [[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "8e1b26725ac9dc2cb4abc0353286e17ac24511beb353fc3b2b10a3ec2263754a"
+metafile = true
+
+[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "d0d383d4ff24fd6a4c5a9319806b0c99da9d0120fa14719911596eb39abc6f20"
 metafile = true
@@ -910,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "d68e429bf912389d640bfe66ad9b1317bb6cf5e304625cad4f1da8cd99df22c5"
+metafile = true
+
+[[files]]
+file = "mods/smarter-farmers-farmers-replant.pw.toml"
+hash = "5bd08c2eaaa3b608c9db792c3f5e00392f58760900970d87e53907dc4d3e8b1b"
 metafile = true
 
 [[files]]
