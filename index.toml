@@ -213,6 +213,11 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
+file = "mods/alexs-mobs.pw.toml"
+hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
+metafile = true
+
+[[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "e794a0240ad915c2c8e43a04e6dfded947bf11f3895533dce2e6114cb250f373"
 metafile = true
@@ -323,6 +328,11 @@ hash = "d1d6ff2b3749a159e309433d774a85b485a1d72931363cd181192bfb95b85c44"
 metafile = true
 
 [[files]]
+file = "mods/citadel.pw.toml"
+hash = "82de5845ba726131d003e6111e5686e92c36746753d255b117c77628f040846a"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "38cf4a76862812fefc9b1ae0b8fac02b3f706716f3228eb859b511950273e791"
 metafile = true
@@ -373,6 +383,11 @@ hash = "7904b90959114c56ada031802a4d1097fd716964c7c3624eae9fabf1b23020d0"
 metafile = true
 
 [[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "d68a785913f7c620440674dd53c69f2985f7875182f34613c335007a7edb443a"
+metafile = true
+
+[[files]]
 file = "mods/cristel-lib.pw.toml"
 hash = "d4768ef37900b4cc89d15e3fb12c59ad1b21818e247186b8ae1f491208b4abe8"
 metafile = true
@@ -420,6 +435,11 @@ metafile = true
 [[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "225db355171f4bf205c7ba1162699bcb3f8b710cbe041160d333a012f5f3259e"
+metafile = true
+
+[[files]]
+file = "mods/domestication-innovation.pw.toml"
+hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
 metafile = true
 
 [[files]]
@@ -475,6 +495,11 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "cd9104745e733e2f61c2de7639f1041017cf22af56d9f27994553ffb4e48b4d9"
+metafile = true
+
+[[files]]
+file = "mods/enderman-overhaul.pw.toml"
+hash = "8a9f2ca24bc82f4cd3fb8167ca0fb88412f3496e9d77702b983a6e9cbd3d2640"
 metafile = true
 
 [[files]]
@@ -795,6 +820,16 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "5e05604371293e654f97880c8865c62ea7ef33cf63dd841c2b28d1d1d8ff01ce"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-config.pw.toml"
+hash = "92b0bc142a7cbc4af73ec922b72e9ab6f7b41cedc35a7dbbd49bbc3d66f88fcc"
+metafile = true
+
+[[files]]
+file = "mods/resourceful-lib.pw.toml"
+hash = "33c1012df4c3267ee9e70509001739908b2f2c72ae0b2728a750b3516644aa2c"
 metafile = true
 
 [[files]]
