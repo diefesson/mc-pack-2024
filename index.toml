@@ -699,12 +699,12 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "7a3ee34f8f8223369e564c3913b18fd8f11203a9e5140b75c44432cd6a72354f"
+hash = "9b7ba45339f261208da79400b41228be1739efbc966132b139e98e687abfec03"
 metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "ebed87a123ca7173e6437d2cb15751a24b825e60786dc3ea24784b8f3b3cd651"
+hash = "fb166167b8ffa599ce4dd28fecba942cbc4fbfe7145d1839485c8ad48d708091"
 metafile = true
 
 [[files]]
@@ -719,7 +719,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "16a1eec40d186d4b7ad57d507a615b66b06ca58c6a10d54cddd86c9236c5eb67"
+hash = "a9efea666aba295f54996cb69c68203cf0e12b30b8da9969f5e6e14cd7e1fbce"
 metafile = true
 
 [[files]]
@@ -729,7 +729,7 @@ metafile = true
 
 [[files]]
 file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "8f3277933add83c477bb965776cc55025a6b8bbfe429612264c9777e90938da8"
+hash = "91999628f36f32528cda59097bc82903a7d8e1797f87cc451b08fbde6a331f96"
 metafile = true
 
 [[files]]
@@ -939,7 +939,7 @@ metafile = true
 
 [[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "5bd08c2eaaa3b608c9db792c3f5e00392f58760900970d87e53907dc4d3e8b1b"
+hash = "f1c53ca19fc28c3c492cde7330b6df4e19c39b3c491680d1cfbdac1fa0a48d7f"
 metafile = true
 
 [[files]]

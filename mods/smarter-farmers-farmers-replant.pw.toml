@@ -1,6 +1,6 @@
 name = "Smarter Farmers (farmers replant)"
 filename = "smarterfarmers-1.20-2.0.1.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/9jPmYL4L/smarterfarmers-1.20-2.0.1.jar"
