@@ -1,12 +1,12 @@
 name = "Pack 2024"
 author = "DieAlpha"
-version = "2.0.0"
+version = "2.1.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "087f09c41427d8eb10cdae05e8df521eed40e09b3b18fc7597ab49f4d5b06018"
+hash = "8630b5c9e564b4944dd03310d539dc046c58e91a746af8b7d38af3bcff44e1c8"
 
 [versions]
 minecraft = "1.20.1"
