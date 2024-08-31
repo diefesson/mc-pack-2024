@@ -135,7 +135,7 @@ hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
 file = "kubejs/server_scripts/bigreactors/tags.js"
-hash = "f874fff37ad7caebccdc935ed5510b5eb369af574af7e956bb1f097583ffb578"
+hash = "d3ae600dab30922b950e4a6b9a85916db68840d62070f2d889f311918636c5bd"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
@@ -171,7 +171,7 @@ hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/bigreactors.js"
-hash = "0d26b2d83c482f5165385a14a7a4e56ae9d998cc3bd31bb9569da327bcdcbd43"
+hash = "01b647b9b9698b50bf12004de2542fbf7b93c80da6d0fc36b10a186d21fc13ed"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"

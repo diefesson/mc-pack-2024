@@ -5,49 +5,49 @@ ServerEvents.recipes(event => {
     smelterRecipe(
         event,
         [
-            { tag: 'forge:ingots/uranium', chance: 1.25 },
+            { item: 'bigreactors:yellorium_ingot', chance: 1.25, locked: true },
             { item: 'thermal:lead_nugget', chance: 1.0 },
         ],
         [
-            { tag: 'forge:raw_materials/uranium' }
+            { item: 'bigreactors:raw_yellorium' }
         ],
     )
     smelterRecipe(
         event,
         [
-            { tag: 'forge:ingots/uranium', chance: 2.0 },
+            { item: 'bigreactors:yellorium_ingot', chance: 2.0, locked: true },
             { item: 'thermal:lead_ingot', chance: 0.1 }
         ],
         [
-            { tag: 'forge:ores/uranium' }
+            { tag: 'forge:ores/yellorium' }
         ],
     )
 
     press3x3RecipePair(
         event,
-        { tag: 'forge:storage_blocks/uranium' },
-        { tag: 'forge:ingots/uranium' },
+        { item: 'bigreactors:yellorium_block' },
+        { item: 'bigreactors:yellorium_ingot' },
     )
     press3x3RecipePair(
         event,
-        { tag: 'forge:ingots/uranium' },
-        { tag: 'forge:nuggets/uranium' },
-    )
-
-    press3x3RecipePair(
-        event,
-        { tag: 'forge:storage_blocks/depleted_uranium' },
-        { tag: 'forge:ingots/depleted_uranium' },
+        { item: 'bigreactors:yellorium_ingot' },
+        { item: 'bigreactors:yellorium_nugget' },
     )
 
     press3x3RecipePair(
         event,
-        { tag: 'forge:storage_blocks/plutonium' },
-        { tag: 'forge:ingots/plutonium' },
+        { item: 'bigreactors:cyanite_block' },
+        { item: 'bigreactors:cyanite_ingot' },
+    )
+
+    press3x3RecipePair(
+        event,
+        { item: 'bigreactors:blutonium_block' },
+        { item: 'bigreactors:blutonium_ingot' },
     )
     press3x3RecipePair(
         event,
-        { tag: 'forge:ingots/plutonium' },
-        { tag: 'forge:nuggets/plutonium' },
+        { item: 'bigreactors:blutonium_ingot' },
+        { item: 'bigreactors:blutnoum_nugget' },
     )
 })
