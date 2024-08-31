@@ -313,6 +313,11 @@ hash = "833c0992b726fb4a0bc3789a74ec59276a364c0948a9afc5d170b7f22d7100cc"
 metafile = true
 
 [[files]]
+file = "mods/bygone-nether.pw.toml"
+hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -915,6 +920,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
+metafile = true
+
+[[files]]
+file = "mods/sculk-expansion.pw.toml"
+hash = "6f565916286c0436c8393297438db195cda9eb09625f42d6aa0a7db4c84fc928"
 metafile = true
 
 [[files]]
