@@ -273,6 +273,11 @@ hash = "01e9bde4d621e86d361cc2cedf7ce0158cad86877688aa4ff8e28703e7cda4b7"
 metafile = true
 
 [[files]]
+file = "mods/better-clouds.pw.toml"
+hash = "80f233a6a013fc9dda639a6e65e83c869a0545923a56b570f65b240815f11f2e"
+metafile = true
+
+[[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "032c6fa1b771d43a6716738e33b8e7daec34af4e8eec007adc6d22cf824f2a2f"
 metafile = true
@@ -1145,6 +1150,11 @@ metafile = true
 [[files]]
 file = "mods/xnet.pw.toml"
 hash = "5ab82b5b3085b566707c8dfa005a82409df13f7f28a40b630eea8eb8f05f9961"
+metafile = true
+
+[[files]]
+file = "mods/yacl.pw.toml"
+hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
 metafile = true
 
 [[files]]
