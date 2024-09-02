@@ -1,3 +1,6 @@
+const ThermalFlags = Java.loadClass('cofh.thermal.lib.util.ThermalFlags')
+ThermalFlags.setFlag(ThermalFlags.FLAG_NUCLEAR_EXPLOSIVES, true)
+
 ServerEvents.recipes(event => {
     event.shaped(
         Item.of('thermal:nuke_tnt'),
