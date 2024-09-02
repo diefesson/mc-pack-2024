@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "ff72947d5eaf76baf964ad8dd52881742a624990a6684f9755504f3eb6cc9d1e"
 
 [[files]]
+file = "config/alexsmobs.toml"
+hash = "1be7218a59893ff4b66de988c6f8f4b850d82be93fd12140bd8f4d70e0af4e91"
+
+[[files]]
 file = "config/betterend/blocks.json"
 hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
 
