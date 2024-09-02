@@ -190,6 +190,10 @@ file = "kubejs/server_scripts/thermal/mysticalagriculture.js"
 hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
 
 [[files]]
+file = "kubejs/server_scripts/thermal/nuke_recipes.js"
+hash = "12a120b03609e1b04132a7ae5e06dbd728da3bc605647e7bd5e131a2404a6be0"
+
+[[files]]
 file = "kubejs/server_scripts/thermal/rftools.js"
 hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
 
