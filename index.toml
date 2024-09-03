@@ -167,7 +167,7 @@ hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/spawner.js"
-hash = "919e1a4081b7add1db7466bd7118af9261ce8fbc086c889ca23c3d1d86aed352"
+hash = "e7ddbd2bfd0464a169458f0f7e53db2a03dc77b89b87b4793e0ded71a62123a6"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
