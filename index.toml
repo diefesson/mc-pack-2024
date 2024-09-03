@@ -635,6 +635,11 @@ hash = "0b20ffa61c1bd741aeb720c397ea91367662d8523b421faf26081a02b8410c05"
 metafile = true
 
 [[files]]
+file = "mods/gravestone-mod.pw.toml"
+hash = "0551857540cbc10288e09dcdae4561d59b71d0204ddf743f08f90a2d0e8122c0"
+metafile = true
+
+[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "8e1b26725ac9dc2cb4abc0353286e17ac24511beb353fc3b2b10a3ec2263754a"
 metafile = true
