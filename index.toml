@@ -1090,6 +1090,11 @@ hash = "5bc578f409819105cd718ac6d13916d7984a2e4a110fe3a6585befa25d792077"
 metafile = true
 
 [[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "f585401f2abc481550e0cb27d4abf85e78fe99237ff4864126f171b17a884d9f"
+metafile = true
+
+[[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "0d14af1975c6d59fe2ba6329a49df2d9b97d67b5b6448ed886b50de276c96a96"
 metafile = true
