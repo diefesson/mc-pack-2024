@@ -885,11 +885,6 @@ hash = "4f27d1d2a0d41bc0376e5680e7d2db66506cb67e0cd9b2a09259f354b23407dc"
 metafile = true
 
 [[files]]
-file = "mods/refined-storage.pw.toml"
-hash = "9a8bc01ac2c21bad372e5b7db21e6d6207c0e1f1d60d1481157a2131ad653a26"
-metafile = true
-
-[[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "5e05604371293e654f97880c8865c62ea7ef33cf63dd841c2b28d1d1d8ff01ce"
 metafile = true
@@ -942,11 +937,6 @@ metafile = true
 [[files]]
 file = "mods/rrls.pw.toml"
 hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
-metafile = true
-
-[[files]]
-file = "mods/rs-requestify.pw.toml"
-hash = "1a1bfe0776cb92961f84add606ac5ef2cf0cea183f1cf8ba168feb29520142a2"
 metafile = true
 
 [[files]]
