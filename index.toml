@@ -545,6 +545,21 @@ hash = "cd9104745e733e2f61c2de7639f1041017cf22af56d9f27994553ffb4e48b4d9"
 metafile = true
 
 [[files]]
+file = "mods/emienchants.pw.toml"
+hash = "73ea8b5d2b98240dc86c959590815d86bcd0ba9ad85f2cf938555e82c7ffd545"
+metafile = true
+
+[[files]]
+file = "mods/emiffect.pw.toml"
+hash = "68d1babb9367d13f4ac375ea41cd4f1affaf12a5ff047386ab2c6aee83c9a023"
+metafile = true
+
+[[files]]
+file = "mods/emitrades.pw.toml"
+hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+metafile = true
+
+[[files]]
 file = "mods/enderman-overhaul.pw.toml"
 hash = "8a9f2ca24bc82f4cd3fb8167ca0fb88412f3496e9d77702b983a6e9cbd3d2640"
 metafile = true
@@ -702,6 +717,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "4abb446705450a1c3c2600cd37b56c8e6cf0018c8bfca18fcb0bfb2fbdd3ec2e"
+metafile = true
+
+[[files]]
+file = "mods/justenoughbreeding.pw.toml"
+hash = "0472442cebb2d0cd92c6dcf52d1b05704a72ec381c184fa89dbb249d82720ca3"
 metafile = true
 
 [[files]]
