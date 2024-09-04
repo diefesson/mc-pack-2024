@@ -220,6 +220,11 @@ hash = "a972aed68b0ebd92b74aa3dfd300813361f4dd9c402940eb298321bfe7f45710"
 metafile = true
 
 [[files]]
+file = "mods/ae2.pw.toml"
+hash = "723eb1e1a42eb2fe8461d2b0ef73d8f5a37b723924a534fc054879e959aa28c7"
+metafile = true
+
+[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
@@ -242,6 +247,11 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
+metafile = true
+
+[[files]]
+file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
+hash = "13a3593cd47946c34d07c2a379f0ec70a7dcdb11b6260a676b04ff95c47f8195"
 metafile = true
 
 [[files]]
@@ -735,8 +745,18 @@ hash = "34fa06879563b53a17312870c64150fe42f1446f823e7b7836cb63de342f00c7"
 metafile = true
 
 [[files]]
+file = "mods/mega.pw.toml"
+hash = "ea38e04a0c76c2c6c6129f0049a623cc6220c32517b5ad25f86ec44ce595b638"
+metafile = true
+
+[[files]]
 file = "mods/memoryleakfix.pw.toml"
 hash = "eab12c7fddf20f293b8726f7553d2c0c0b6c578a2ba03ddf59ae40f6e684e2ce"
+metafile = true
+
+[[files]]
+file = "mods/merequester.pw.toml"
+hash = "f534679d0620dcb63c31937b6b38682380222a44eef7892b8407eae7dc6f8eeb"
 metafile = true
 
 [[files]]
@@ -867,6 +887,16 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "1193e637f80901dff66079c25cc7c413db9cc9e7f7d8c28e680dddaaff6cbd23"
+metafile = true
+
+[[files]]
+file = "mods/polymorph.pw.toml"
+hash = "00322f0c2a1ed0b9e28f823b3c7f5b40d3ede06db32f3d4aa4d1391a994c306a"
+metafile = true
+
+[[files]]
+file = "mods/polymorphic-energistics.pw.toml"
+hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
 metafile = true
 
 [[files]]
