@@ -1,0 +1,13 @@
+name = "Not Enough Wands"
+filename = "notenoughwands-1.20-6.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ElVMD7Qz/versions/2X1skJtu/notenoughwands-1.20-6.0.2.jar"
+hash-format = "sha1"
+hash = "98d78d28ca200597154f8f99a5735490fd1d4ec4"
+
+[update]
+[update.modrinth]
+mod-id = "ElVMD7Qz"
+version = "2X1skJtu"

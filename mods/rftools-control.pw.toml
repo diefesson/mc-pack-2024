@@ -1,0 +1,13 @@
+name = "RFTools Control"
+filename = "rftoolscontrol-1.20-7.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/DQjhR62z/versions/86sZOj88/rftoolscontrol-1.20-7.0.2.jar"
+hash-format = "sha1"
+hash = "64c2b896d2f948384e574165c227eb5b158174a2"
+
+[update]
+[update.modrinth]
+mod-id = "DQjhR62z"
+version = "86sZOj88"

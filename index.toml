@@ -340,11 +340,6 @@ hash = "c3bd53ec8df6c98fc76099623ba350808736d01b7f658dc57d63196027a74ba1"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "833c0992b726fb4a0bc3789a74ec59276a364c0948a9afc5d170b7f22d7100cc"
-metafile = true
-
-[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
 metafile = true
@@ -462,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "cbf20f8ad7c30691dc237cf21aeafb578d6afb8a135a1d84f4a9e957b9637327"
+metafile = true
+
+[[files]]
+file = "mods/deep-resonance.pw.toml"
+hash = "828696e31de1db4cca36a303dc5ae77a37cd2351f8d42b2bbe8ebb03ffe783ae"
 metafile = true
 
 [[files]]
@@ -855,6 +855,11 @@ hash = "56f2f34c9dbd0a4719e05215accb885ac23e8698211c04e99b5dd421acd28023"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-wands.pw.toml"
+hash = "141d0d08147094e0c75b405fdd32633e162684208f31f69a8a79afffc31c47f3"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "20ae985a3d4a13c4fee0abbf2e37b152750d606ffd9aeb3d94b823d47c360fe0"
 metafile = true
@@ -956,7 +961,12 @@ metafile = true
 
 [[files]]
 file = "mods/rftools-builder.pw.toml"
-hash = "39e2421e615feaeeb3d2fe23cf68c1fc21341657c1a4aada65fd4fd13c0d0a44"
+hash = "f7b999fc9b7f559699fe716cfc98b6edd8e37098e2d1c9fbf56f0755575dbba3"
+metafile = true
+
+[[files]]
+file = "mods/rftools-control.pw.toml"
+hash = "dd3c89e9a93707a3a4d07cb52b739890e147f974efaaf8818a96a8ba880212b5"
 metafile = true
 
 [[files]]
@@ -967,6 +977,11 @@ metafile = true
 [[files]]
 file = "mods/rftools-power.pw.toml"
 hash = "28cc6b3694a8db45431717a1cc50b2bbde8973a67c86bc8bd172b3644c315c46"
+metafile = true
+
+[[files]]
+file = "mods/rftools-storage.pw.toml"
+hash = "1fb11f5f99604adf2738973be74aa2a0d21a232efb27fa714f72ea0687b0b386"
 metafile = true
 
 [[files]]
@@ -1236,7 +1251,7 @@ metafile = true
 
 [[files]]
 file = "mods/xnet.pw.toml"
-hash = "5ab82b5b3085b566707c8dfa005a82409df13f7f28a40b630eea8eb8f05f9961"
+hash = "02c552e168050cc2ede7f47103eca0de8639ea4d229a1ebb02913334f4621f42"
 metafile = true
 
 [[files]]

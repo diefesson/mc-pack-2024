@@ -1,0 +1,13 @@
+name = "RFTools Storage"
+filename = "rftoolsstorage-1.20-5.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/tx4M6qRg/versions/Ddl2B7wC/rftoolsstorage-1.20-5.0.3.jar"
+hash-format = "sha1"
+hash = "a8d26d5340275f02beb40d4f337628744a7507e7"
+
+[update]
+[update.modrinth]
+mod-id = "tx4M6qRg"
+version = "Ddl2B7wC"
