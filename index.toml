@@ -550,6 +550,11 @@ hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
+file = "mods/effective.pw.toml"
+hash = "52c352ab67527da90d25e2c3be2013fc65f1fdf8f56c16964abf55da4c5f4ac8"
+metafile = true
+
+[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "b814fff06b977987df71b2e0fd8a4f68439a88c5ec5dd843ad59638beabc2f3a"
 metafile = true
@@ -617,6 +622,11 @@ metafile = true
 [[files]]
 file = "mods/explorify.pw.toml"
 hash = "2362f0d0bc9c31ff7bf6a0ddab29cf4122f8c381610c8da5e19fa4b6ab7c1b44"
+metafile = true
+
+[[files]]
+file = "mods/explosive-enhancement-forge.pw.toml"
+hash = "82c2b5cc851bc61fee6c4d38b6cfe44c707599e1231a8637f1e359005fa92a18"
 metafile = true
 
 [[files]]

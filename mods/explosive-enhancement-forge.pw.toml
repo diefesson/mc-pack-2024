@@ -1,0 +1,13 @@
+name = "Explosive Enhancement: Reforged"
+filename = "explosiveenhancement-1.0.1-tacz.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/r0camchr/versions/fuNuc0UG/explosiveenhancement-1.0.1-tacz.jar"
+hash-format = "sha1"
+hash = "874714407d5ac9a7c68a510b13156d5621434e5f"
+
+[update]
+[update.modrinth]
+mod-id = "r0camchr"
+version = "fuNuc0UG"
