@@ -475,6 +475,11 @@ hash = "f6317dc039dd9efe5ef1c7b225c7a0f9a52f4ebd93a4b27726916369135f3059"
 metafile = true
 
 [[files]]
+file = "mods/distinguished-potions.pw.toml"
+hash = "cef66e1f1ea94002512bc3dd30d5525634539af22463b045550c33d53c9cfc78"
+metafile = true
+
+[[files]]
 file = "mods/do-a-barrel-roll.pw.toml"
 hash = "225db355171f4bf205c7ba1162699bcb3f8b710cbe041160d333a012f5f3259e"
 metafile = true
@@ -557,6 +562,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "e141c57090cc48337e6a8b88e10edb3b434de8967aa6cbff252896b4ed53cf89"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "209650d6b1278001a2e082735d7d6acbe363cf5ca8d04f2ee86d1074be9f8186"
 metafile = true
 
 [[files]]
@@ -1062,6 +1072,11 @@ metafile = true
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+metafile = true
+
+[[files]]
+file = "mods/stylish-effects.pw.toml"
+hash = "08e8afaae636ca5c4a3aebdfd5a8bdbec8e3358cc2ee3ed9484444d792a1fc72"
 metafile = true
 
 [[files]]

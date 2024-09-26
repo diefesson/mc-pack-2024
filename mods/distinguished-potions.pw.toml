@@ -1,0 +1,13 @@
+name = "Distinguished Potions"
+filename = "DistinguishedPotions-v8.0.2-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/gVDdbffP/DistinguishedPotions-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "11b591a16576a053c09a238f89d46209bcf75860"
+
+[update]
+[update.modrinth]
+mod-id = "lX1xTFBZ"
+version = "gVDdbffP"
