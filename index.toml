@@ -230,6 +230,11 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
+file = "mods/alexs-caves.pw.toml"
+hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
+metafile = true
+
+[[files]]
 file = "mods/alexs-mobs.pw.toml"
 hash = "c7ef8f8629620ae3d9d2da71aaf440624c40157a80c0eda4298c0aa60b7c76c0"
 metafile = true
@@ -582,6 +587,11 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "209650d6b1278001a2e082735d7d6acbe363cf5ca8d04f2ee86d1074be9f8186"
+metafile = true
+
+[[files]]
+file = "mods/ender-zoology.pw.toml"
+hash = "4a28664e3fcefd04bd20931cb96253fa9903b0d727e1c3d24d20245dca3a862a"
 metafile = true
 
 [[files]]
