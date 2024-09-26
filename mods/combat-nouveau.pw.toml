@@ -1,0 +1,13 @@
+name = "Combat Nouveau"
+filename = "CombatNouveau-v8.0.5-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Iv3kcKZn/versions/rB3qvqaE/CombatNouveau-v8.0.5-1.20.1-Forge.jar"
+hash-format = "sha1"
+hash = "8ccd73ee2dbb65b96851b77dcfcbda484123b72b"
+
+[update]
+[update.modrinth]
+mod-id = "Iv3kcKZn"
+version = "rB3qvqaE"

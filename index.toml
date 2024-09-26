@@ -355,6 +355,11 @@ hash = "6bda60bbc4bbf9b615db6ae54cba617af10d2bd4fd5ae32a3ee72137a592999e"
 metafile = true
 
 [[files]]
+file = "mods/charm-of-undying.pw.toml"
+hash = "137b39563f5c77fd0198a2a39031e1211c5352a3ed78ab73d575ea6bdc63e139"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "e831528e2efb10f189ff2601bf5b7ee3e1ac138554a661878458bd2931377358"
 metafile = true
@@ -382,6 +387,11 @@ metafile = true
 [[files]]
 file = "mods/collective.pw.toml"
 hash = "9877a4268206623fd1059d4d2a5735385a7d69ac400e0446f8d29f039a66e6d7"
+metafile = true
+
+[[files]]
+file = "mods/combat-nouveau.pw.toml"
+hash = "98681d53edf666a50c48994ae14b896e241105fc76685a65f88e1900aed5107e"
 metafile = true
 
 [[files]]
@@ -457,6 +467,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "cbf20f8ad7c30691dc237cf21aeafb578d6afb8a135a1d84f4a9e957b9637327"
+metafile = true
+
+[[files]]
+file = "mods/cut-through.pw.toml"
+hash = "512199afb263274b758378f2117d8f9abac194cdef1fb79d7cb83e95199259d0"
 metafile = true
 
 [[files]]
@@ -640,6 +655,11 @@ hash = "407515ad53eeca14af2d34c5bc64492e63230b176354f74cce558223c0f6d26f"
 metafile = true
 
 [[files]]
+file = "mods/friendly-fire.pw.toml"
+hash = "b4ba73879e70c398e9031fa5bae119d9afd56089cd61f5d81e8ff73a16d2ed61"
+metafile = true
+
+[[files]]
 file = "mods/friends-and-foes-beekeeper-hut-forge.pw.toml"
 hash = "84ef0fb7778092862f9ee00cf9addfa323809397beeb199f003346bd32f5f3d4"
 metafile = true
@@ -762,6 +782,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "7043b1170bccf3153c51a3edce60eaa93d2ab75ec79bdb7c02885dcd1ef1162d"
+metafile = true
+
+[[files]]
+file = "mods/magnum-torch.pw.toml"
+hash = "4c3da1a208b5db619af284da4f9f84077934e05eb99d3ffb8cf315a2b10e2b6a"
 metafile = true
 
 [[files]]
@@ -936,7 +961,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "706d6672573487080de5a3008b9f97a81c2405ef8aab8be82cb6416b7d84608a"
+hash = "2cf36fe7043b6d7ec5930790334e7ab551db9879474418785e9e71592db63ce2"
 metafile = true
 
 [[files]]
