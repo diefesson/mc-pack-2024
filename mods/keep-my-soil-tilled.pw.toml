@@ -1,6 +1,6 @@
 name = "Keep My Soil Tilled"
 filename = "keepmysoiltilled-1.20.1-2.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OC5Zubbe/versions/JW5Cb1yd/keepmysoiltilled-1.20.1-2.4.jar"

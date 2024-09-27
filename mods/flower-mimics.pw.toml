@@ -1,6 +1,6 @@
 name = "Flower Mimics"
 filename = "flowermimics-1.20.1-2.0.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1r5vvCad/versions/cE0nrb3J/flowermimics-1.20.1-2.0.jar"

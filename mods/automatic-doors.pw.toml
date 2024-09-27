@@ -1,6 +1,6 @@
 name = "Automatic Doors"
 filename = "automaticdoors-1.20.1-4.8.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/PGBgocFc/versions/r67ml53I/automaticdoors-1.20.1-4.8.jar"

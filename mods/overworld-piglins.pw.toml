@@ -1,6 +1,6 @@
 name = "Overworld Piglins"
 filename = "overworldpiglins-1.20.1-1.5.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jKFstkn1/versions/z9JQjTTG/overworldpiglins-1.20.1-1.5.jar"

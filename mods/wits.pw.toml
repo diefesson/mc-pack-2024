@@ -1,6 +1,6 @@
 name = "WITS (What Is This Structure?)"
 filename = "wits-1.1.0+1.20.1-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVo2esap/versions/KdWVlCUM/wits-1.1.0%2B1.20.1-forge.jar"

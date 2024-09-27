@@ -1,6 +1,6 @@
 name = "Move Boats"
 filename = "moveboats-1.20.1-3.4.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7qPEjpyt/versions/RLfE9Cja/moveboats-1.20.1-3.4.jar"

@@ -1,6 +1,6 @@
 name = "Random Bone Meal Flowers"
 filename = "randombonemealflowers-1.20.1-4.6.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/17enPZMC/versions/OLGhPSDQ/randombonemealflowers-1.20.1-4.6.jar"
