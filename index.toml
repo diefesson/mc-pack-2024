@@ -366,7 +366,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "80f233a6a013fc9dda639a6e65e83c869a0545923a56b570f65b240815f11f2e"
+hash = "882b12134411b87816a279dc2a26fa0a6463ae284ff96785b8f01c78803c6a4b"
 metafile = true
 
 [[files]]
@@ -726,7 +726,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
+hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
 metafile = true
 
 [[files]]
@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
+hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
 metafile = true
 
 [[files]]
