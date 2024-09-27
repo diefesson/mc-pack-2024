@@ -760,11 +760,6 @@ hash = "d379aab2ce33cf8e5de6d110342107b29dfe976565634106f1561857a7a3412c"
 metafile = true
 
 [[files]]
-file = "mods/gravestone-mod.pw.toml"
-hash = "0551857540cbc10288e09dcdae4561d59b71d0204ddf743f08f90a2d0e8122c0"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "8e1b26725ac9dc2cb4abc0353286e17ac24511beb353fc3b2b10a3ec2263754a"
 metafile = true
@@ -1402,11 +1397,6 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "9b3bb44a08158f10e8c2d88c4d80a987ba45e5667670dfbbfd55890fc247f239"
-metafile = true
-
-[[files]]
-file = "mods/travelersbackpack.pw.toml"
-hash = "d945d00210d333b8dc2ed7fc5e253f2866af7e1ee72c60630d3dc32f21662838"
 metafile = true
 
 [[files]]
