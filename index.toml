@@ -222,10 +222,6 @@ file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
 hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
 
 [[files]]
-file = "kubejs/server_scripts/silentgear/remove_bronze_recipe.js"
-hash = "2202152eb9a0cfd73f5a520e50516792eac40d1e55bde7e6cd46d1c3356cde52"
-
-[[files]]
 file = "kubejs/server_scripts/thermal/bigreactors.js"
 hash = "01b647b9b9698b50bf12004de2542fbf7b93c80da6d0fc36b10a186d21fc13ed"
 
@@ -244,6 +240,10 @@ hash = "e1bd67adb6577aa7f1ead65c2ee0a604506f9913b7190840cce71668d0898684"
 [[files]]
 file = "kubejs/server_scripts/thermal/rftools.js"
 hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
+
+[[files]]
+file = "kubejs/server_scripts/thermal/silentgear.js"
+hash = "382d4346d28ef54af0da62aea255535f97d00f15f5a25900d99df30199cd37d2"
 
 [[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
