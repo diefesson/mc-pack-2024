@@ -385,6 +385,11 @@ hash = "1eba2958ca157bb11a8a3c99a83ecb256ebd78f2757fc54822d7e6b5f73080c6"
 metafile = true
 
 [[files]]
+file = "mods/bettergrassify.pw.toml"
+hash = "84de876d52ffc672b11836ab8ea226057e1d9cf13b8242585f85693bcdd8e4ff"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "33e828c63a098d971fb2b98cfa0f90bf96337d3a254afdc863463f4d62b57781"
 metafile = true
