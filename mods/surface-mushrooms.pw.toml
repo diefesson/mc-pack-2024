@@ -1,0 +1,13 @@
+name = "Surface Mushrooms"
+filename = "surfacemushrooms-1.20.1-3.5.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/Jch00SNX/versions/8GPxW8Ti/surfacemushrooms-1.20.1-3.5.jar"
+hash-format = "sha1"
+hash = "ea69cb7655fcfddb32c32e3556ab892b0f682d89"
+
+[update]
+[update.modrinth]
+mod-id = "Jch00SNX"
+version = "8GPxW8Ti"

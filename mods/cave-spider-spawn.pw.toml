@@ -1,0 +1,13 @@
+name = "Cave Spider Spawn"
+filename = "cavespiderspawn-1.20.1-1.2.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/9IUlkb2K/versions/fKktV3dS/cavespiderspawn-1.20.1-1.2.jar"
+hash-format = "sha1"
+hash = "70b52bc90f03b1d80c163d2027466d0803d55f1f"
+
+[update]
+[update.modrinth]
+mod-id = "9IUlkb2K"
+version = "fKktV3dS"

@@ -1,0 +1,13 @@
+name = "Beautified Chat [Client]"
+filename = "beautifiedchatclient-1.20.1-2.6.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/mtIxmNw5/versions/L4DZu2GJ/beautifiedchatclient-1.20.1-2.6.jar"
+hash-format = "sha1"
+hash = "b6fe69fdcc7abc0575f49b8552b23629aabe69cf"
+
+[update]
+[update.modrinth]
+mod-id = "mtIxmNw5"
+version = "L4DZu2GJ"
