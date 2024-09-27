@@ -256,7 +256,7 @@ metafile = true
 
 [[files]]
 file = "mods/accessories.pw.toml"
-hash = "e720f40b076b772144bc5c4ec7d4ce5cb0f5bf269cbdc9fcdef6e47ad1d49756"
+hash = "8ecbe94e93ade6d5b25b433eff22454cfd3f1c896f27cd2c9a14db622ff2ed06"
 metafile = true
 
 [[files]]
@@ -625,11 +625,6 @@ hash = "b6a2eece281f73726473d67ae7de5010886a6bf82a75ea3049620851f70c11b1"
 metafile = true
 
 [[files]]
-file = "mods/effective.pw.toml"
-hash = "52c352ab67527da90d25e2c3be2013fc65f1fdf8f56c16964abf55da4c5f4ac8"
-metafile = true
-
-[[files]]
 file = "mods/embeddium.pw.toml"
 hash = "2a4e32365b962f7857d6003af7abee398a92919a5b3ddcd2a51ab9359b80865a"
 metafile = true
@@ -726,7 +721,7 @@ metafile = true
 
 [[files]]
 file = "mods/fabrictailor.pw.toml"
-hash = "ee9bd23aea09a314966d57a211d84aa288e7803c4277c6996edac334eee77c58"
+hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
 
 [[files]]
@@ -792,6 +787,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "a46b048c4c4903b9437a471cb008318bbafd9c18628657e85068c96740e70bab"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "e3d76a00653ad01990335334e8e0f9c76c8572483cdd57a649d6816ef4ca8e49"
 metafile = true
 
 [[files]]
@@ -902,6 +902,11 @@ metafile = true
 [[files]]
 file = "mods/kelp-fertilizer.pw.toml"
 hash = "44913294bc7db73ddcac0f8f45eb5d4cbb2237c8a50d74fdc8c136ab3c04c8cf"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
 metafile = true
 
 [[files]]
@@ -1245,11 +1250,6 @@ hash = "053348bdcfcc5ae4603ec7c647c9ec012e54e406ec9f743ac97d40f7b20aeba3"
 metafile = true
 
 [[files]]
-file = "mods/rrls.pw.toml"
-hash = "e46fef51b6d5e218f7e111a3c45711fde114a49fa38e99dc86b505a3d2ab630a"
-metafile = true
-
-[[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "236f2081c7d05b4aedd9a44e57434818332f63091645d7d3b2fd6356de0646aa"
 metafile = true
@@ -1321,7 +1321,7 @@ metafile = true
 
 [[files]]
 file = "mods/styled-nicknames.pw.toml"
-hash = "274b84b0e258d26e57d647506d0d1995da1fd82cecbedbe98caeedd45faa4d23"
+hash = "e6f4e06c4d4442c08a9f64772a3e078209d57a5d81f6c8ee0fde0da006789a3a"
 metafile = true
 
 [[files]]
