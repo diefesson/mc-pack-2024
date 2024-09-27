@@ -65,6 +65,46 @@ file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
 [[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
+hash = "9650981fa587dc92a2b8b6fdac72bf8e76526d16c33a967ffc45d5da811b4be9"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-jungle-temples.pw.toml"
+hash = "0bafc535a3123e44125fcb341295db6027bdd6dfd5a946ac7b03a091c9f7ce13"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-nether-fortress-compat.pw.toml"
+hash = "5741b0d73c80cea226387cfcc0393a276652a5f5e129026086c2c8e4935419b4"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-ocean-monuments-compat.pw.toml"
+hash = "84b2691e7ab61b8df1d50ca0b80c302733eec44b397e933e83176dcb56a43182"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-strongholds-compat.pw.toml"
+hash = "fc30ad3c3cba0bd102b873675a6f4cf8ff47aad783e4fac1147339ffae93945d"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
+hash = "9766f1e081b617d78969690c00e149eeaa235ff4352ae831d4ed83c5e5d2914b"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-bygone-nether-compat.pw.toml"
+hash = "2f1dc716a858d66c0daf1a42d917c57bbf793d7f42a7b091a2f3f334e8e586fd"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
+hash = "1c75ab143c85bd59449ccb832ba39b23987607cd423d0da6019462a99da60aac"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
 hash = "645e9835a3868607a3d0e8645242b87ac7b6d39ff02248df9ae3e3d8e770e696"
 metafile = true
@@ -1132,6 +1172,11 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "5e05604371293e654f97880c8865c62ea7ef33cf63dd841c2b28d1d1d8ff01ce"
+metafile = true
+
+[[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "428f716063af83a502d9c62d3257f63223a03a40ea20781caa1cc90f7a8ecce7"
 metafile = true
 
 [[files]]

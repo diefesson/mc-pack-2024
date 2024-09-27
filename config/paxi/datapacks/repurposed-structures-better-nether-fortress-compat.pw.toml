@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Nether Fortress Compat"
+filename = "Repurposed_Structures-Better_Nether_Fortress_v6.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7vT7Bwz9/versions/qpGLXNZK/Repurposed_Structures-Better_Nether_Fortress_v6.zip"
+hash-format = "sha1"
+hash = "b99f45ecd694b0fb1b8320934111173889453d8b"
+
+[update]
+[update.modrinth]
+mod-id = "7vT7Bwz9"
+version = "qpGLXNZK"

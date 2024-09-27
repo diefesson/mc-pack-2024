@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Strongholds Compat"
+filename = "Repurposed_Structures-Better_Strongholds_v5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uJ0YMl4f/versions/Mk16m8e6/Repurposed_Structures-Better_Strongholds_v5.zip"
+hash-format = "sha1"
+hash = "8fdd9470c6ba56768f708241480dd6de36d3c53a"
+
+[update]
+[update.modrinth]
+mod-id = "uJ0YMl4f"
+version = "Mk16m8e6"

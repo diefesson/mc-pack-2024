@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Witch Huts Compat"
+filename = "Repurposed_Structures-Better_Witch_Huts_v4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ePaZVJM4/versions/Q6deEx42/Repurposed_Structures-Better_Witch_Huts_v4.zip"
+hash-format = "sha1"
+hash = "6d4407319ef0d01b19495506ccc46b266facc457"
+
+[update]
+[update.modrinth]
+mod-id = "ePaZVJM4"
+version = "Q6deEx42"
