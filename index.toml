@@ -1470,6 +1470,11 @@ hash = "c72c9fb086e6ead5f9576141ec5a1a2b775d79a63e654da6250bf8ee4c858b26"
 metafile = true
 
 [[files]]
+file = "mods/wits.pw.toml"
+hash = "7caa79debb3ea49fa9d2323ace302571c0dd25b71cae533d04816bc827a370ac"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "7cbfdbc54b821e3dd167ff2f6d3c4f7a906a93360a59fa8b3abbca1cad12ca3d"
 metafile = true
