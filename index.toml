@@ -2,11 +2,19 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "ff72947d5eaf76baf964ad8dd52881742a624990a6684f9755504f3eb6cc9d1e"
+hash = "18ce1e13f556eadc8064ec4bf88a64341fdd71ed90b4bb83ef50b387f3a80d25"
+
+[[files]]
+file = "config/alexscaves-client.toml"
+hash = "40a65fa13a7b5f5d9e22b2f91e2d8d319721408ba7eb793de2da511096ff0fb4"
+
+[[files]]
+file = "config/alexscaves-general.toml"
+hash = "f67deaab79d031be646bd8e404b15e19b8afeba64d821937a6871cdc106ce559"
 
 [[files]]
 file = "config/alexsmobs.toml"
-hash = "1be7218a59893ff4b66de988c6f8f4b850d82be93fd12140bd8f4d70e0af4e91"
+hash = "05c06fb5b71c04f7dfb45468c5975bf4257b5b6e87180a4915f7e7cf7ace6a91"
 
 [[files]]
 file = "config/betterend/blocks.json"

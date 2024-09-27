@@ -101,6 +101,33 @@ _version = 2
 			# Increasing this value will reduce CPU load but may may cause 
 			# LODs to become outdated more frequently or for longer.
 			minTimeBetweenChunkUpdatesInSeconds = 1
+			#
+			# Normally DH will attempt to skip creating LODs for chunks it's already seen
+			# and that haven't changed.
+			# 
+			# However sometimes that logic incorrecly prevents LODs from being updated.
+			# Disabling this check may fix issues where LODs aren't updated after
+			# blocks have been changed.
+			disableUnchangedChunkCheck = false
+			#
+			# If true LOD generation for pre-existing chunks will attempt to pull the lighting data 
+			# saved in Minecraft's Region files. 
+			# If false DH will pull in chunks without lighting and re-light them. 
+			#  
+			# Setting this to true will result in faster LOD generation 
+			# for already generated worlds, but is broken by most lighting mods. 
+			#  
+			# Set this to false if LODs are black.
+			pullLightingForPregeneratedChunks = false
+			#
+			# A comma separated list of block resource locations that won't be rendered by DH. 
+			# Note: air is always included in this list.
+			ignoredRenderBlockCsv = "minecraft:barrier,minecraft:structure_void,minecraft:light,minecraft:tripwire"
+			#
+			# A comma separated list of block resource locations that shouldn't be rendered 
+			# if they are in a 0 sky light underground area. 
+			# Note: air is always included in this list.
+			ignoredRenderCaveBlockCsv = "minecraft:glow_lichen,minecraft:rail,minecraft:water,minecraft:lava,minecraft:bubble_column"
 
 		[client.advanced.autoUpdater]
 			#
@@ -126,7 +153,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfLodBuilderThreads = 1
+			numberOfLodBuilderThreads = 2
 			#
 			# Should only be disabled if deadlock occurs and LODs refuse to update. 
 			# This will cause CPU usage to drastically increase for the Lod Builder threads. 
@@ -140,7 +167,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForWorldGenerationThreads = "0.1"
+			runTimeRatioForWorldGenerationThreads = "0.5"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -148,7 +175,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForLodBuilderThreads = "0.1"
+			runTimeRatioForLodBuilderThreads = "0.25"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -156,7 +183,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForFileHandlerThreads = "0.25"
+			runTimeRatioForFileHandlerThreads = "0.5"
 			#
 			# If this value is less than 1.0, it will be treated as a percentage 
 			# of time each thread can run before going idle. 
@@ -164,7 +191,7 @@ _version = 2
 			# This can be used to reduce CPU usage if the thread count 
 			# is already set to 1 for the given option, or more finely 
 			# tune CPU performance.
-			runTimeRatioForUpdatePropagatorThreads = "0.1"
+			runTimeRatioForUpdatePropagatorThreads = "0.25"
 			#
 			# How many threads should be used when reading/writing LOD data to/from disk? 
 			# 
@@ -176,7 +203,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfFileHandlerThreads = 1
+			numberOfFileHandlerThreads = 2
 			#
 			# How many threads should be used when applying LOD updates? 
 			# An LOD update is the operation of down-sampling a high detail LOD 
@@ -195,7 +222,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfUpdatePropagatorThreads = 1
+			numberOfUpdatePropagatorThreads = 2
 			#
 			# How many threads should be used when generating LOD 
 			# chunks outside the normal render distance? 
@@ -209,7 +236,7 @@ _version = 2
 			# If the total thread count in Distant Horizon's config is more threads than your CPU has cores, 
 			# CPU performance may suffer if Distant Horizons has a lot to load or generate. 
 			# This can be an issue when first loading into a world, when flying, and/or when generating new terrain.
-			numberOfWorldGenerationThreads = 1
+			numberOfWorldGenerationThreads = 2
 
 		[client.advanced.logging]
 			#
@@ -252,6 +279,14 @@ _version = 2
 			# If enabled, the mod will log information about the world generation process. 
 			# This can be useful for debugging.
 			logWorldGenLoadEvent = "LOG_WARNING_TO_CHAT_AND_FILE"
+			#
+			# If enabled, a chat message will be displayed when a replay is started 
+			# giving some basic information about how DH will function.
+			showReplayWarningOnStartup = true
+			#
+			# If enabled, a chat message will be displayed when a potentially problematic 
+			# mod is installed alongside DH.
+			showModCompatibilityWarningsOnStartup = true
 
 		[client.advanced.debugging]
 			#
@@ -291,6 +326,10 @@ _version = 2
 			# SHOW_BLOCK_MATERIAL: LODs' color will be based on their material. 
 			# SHOW_OVERLAPPING_QUADS: LODs will be drawn with total white, but overlapping quads will be drawn with red.
 			debugRendering = "OFF"
+			#
+			# If true OpenGL Buffer garbage collection will be logged 
+			# this also includes the number of live buffers.
+			logBufferGarbageCollection = false
 
 			[client.advanced.debugging.debugWireframe]
 				#
@@ -448,7 +487,7 @@ _version = 2
 				# Additional Info: Currently this cull all faces 
 				#  with skylight value of 0 in dimensions that 
 				#  does not have a ceiling.
-				enableCaveCulling = true
+				enableCaveCulling = false
 				#
 				# Identical to the other frustum culling option
 				# only used when a shader mod is present using the DH API
@@ -457,7 +496,8 @@ _version = 2
 				# Disable this if shadows render incorrectly.
 				disableShadowPassFrustumCulling = false
 				#
-				# At what Y value should cave culling start?
+				# At what Y value should cave culling start? 
+				# Lower this value if you get walls for areas with 0 light.
 				caveCullingHeight = 40
 				#
 				# How should LODs be shaded? 
@@ -496,6 +536,13 @@ _version = 2
 				# 
 				# Disable this if you see LODs disappearing at the corners of your vision.
 				disableFrustumCulling = false
+				#
+				# If true all beacons near the camera won't be drawn to prevent vanilla overdraw. 
+				# If false all beacons will be rendered. 
+				# 
+				# Generally this should be left as false. It's main purpose is for debugging
+				# beacon updating/rendering.
+				disableBeaconDistanceCulling = false
 
 			[client.advanced.graphics.quality]
 				#
@@ -690,6 +737,18 @@ _version = 2
 				#
 				# How intense should the noise should be?
 				noiseIntensity = "5.0"
+
+			[client.advanced.graphics.genericRendering]
+				#
+				# If true non terrain objects will be rendered in DH's terrain. 
+				# This includes beacon beams and clouds.
+				enableRendering = true
+				#
+				# If true LOD beacon beams will be rendered.
+				enableBeaconRendering = true
+				#
+				# If true LOD clouds will be rendered.
+				enableCloudRendering = true
 
 		[client.advanced.worldGenerator]
 			#
