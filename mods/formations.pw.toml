@@ -3,11 +3,11 @@ filename = "formations-1.0.2a-forge-mc1.20.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/yvSRnc4T/formations-1.0.2a-forge-mc1.20.2.jar"
+url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/b1oQODQL/formations-1.0.2a-forge-mc1.20.2.jar"
 hash-format = "sha1"
-hash = "3da4ac62df6d546448190cf2f261d83ea6ae3cfb"
+hash = "145d49061915ee9a869d1b1b8f4fe0de9cb2c565"
 
 [update]
 [update.modrinth]
 mod-id = "tPe4xnPd"
-version = "yvSRnc4T"
+version = "b1oQODQL"

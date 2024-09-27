@@ -1,13 +1,13 @@
 name = "CorgiLib"
-filename = "Corgilib-Forge-1.20.1-4.0.3.0.jar"
+filename = "Corgilib-Forge-1.20.1-4.0.3.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/h6OcIaNc/Corgilib-Forge-1.20.1-4.0.3.0.jar"
+url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/RE7m8W42/Corgilib-Forge-1.20.1-4.0.3.2.jar"
 hash-format = "sha1"
-hash = "f1e83ce2be72a4e9e505e06d9317aeeaec767886"
+hash = "690e8eb66a5dfb9ee580562a4971b05f5b1c77b4"
 
 [update]
 [update.modrinth]
 mod-id = "ziOp6EO8"
-version = "h6OcIaNc"
+version = "RE7m8W42"
