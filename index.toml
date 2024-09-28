@@ -17,34 +17,6 @@ file = "config/alexsmobs.toml"
 hash = "05c06fb5b71c04f7dfb45468c5975bf4257b5b6e87180a4915f7e7cf7ace6a91"
 
 [[files]]
-file = "config/betterend/blocks.json"
-hash = "eec67453561a2f4656c218c3eaa91691318a7b45a887cae065dcc70e045cff5b"
-
-[[files]]
-file = "config/betterend/client.json"
-hash = "b0c5fe0ddb608e1511f9fb145768bbf5308ffd3a58f54c1fb3734635384b9e01"
-
-[[files]]
-file = "config/betterend/enchantments.json"
-hash = "fe93e79aff2fc28279544d8578bc01206964d94cd404c9845ebe871128196803"
-
-[[files]]
-file = "config/betterend/entities.json"
-hash = "c88c23c520341d800c6403788d500a2c8db1eebf1cb3920f9809b31f00e6558b"
-
-[[files]]
-file = "config/betterend/generator.json"
-hash = "23bc0018ddd33f04aedd4dae697f7adb66cac431ff5faaa60fc02d76392afc2e"
-
-[[files]]
-file = "config/betterend/items.json"
-hash = "5fb18af78d9d096929c49224dab452715b319de8dd433a274c54adb25ea7f005"
-
-[[files]]
-file = "config/betterend/portals.json"
-hash = "c0900ca41e9721a30bf49f00762f9fb80367908cd668d5c32ab2816e61ff51d7"
-
-[[files]]
 file = "config/cucumber-client.toml"
 hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 
@@ -59,14 +31,6 @@ hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 [[files]]
 file = "config/embeddium-options.json"
 hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
-
-[[files]]
-file = "config/extremereactors/client.toml"
-hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
-
-[[files]]
-file = "config/extremereactors/common.toml"
-hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
 
 [[files]]
 file = "config/jade/jade.json"
@@ -186,10 +150,6 @@ file = "kubejs/config/common.properties"
 hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
-file = "kubejs/server_scripts/bigreactors/tags.js"
-hash = "d3ae600dab30922b950e4a6b9a85916db68840d62070f2d889f311918636c5bd"
-
-[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
 hash = "8b203d4072484cbebff3f4cb7d87f3bd83feca1ce71e7c7b1ddd4638bea17621"
 
@@ -215,15 +175,11 @@ hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/spawner.js"
-hash = "e7ddbd2bfd0464a169458f0f7e53db2a03dc77b89b87b4793e0ded71a62123a6"
+hash = "9218265b990c8b98e9b716247b6eac7cb060c691d2260daef001de5c3dc55132"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
 hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
-
-[[files]]
-file = "kubejs/server_scripts/thermal/bigreactors.js"
-hash = "01b647b9b9698b50bf12004de2542fbf7b93c80da6d0fc36b10a186d21fc13ed"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"
@@ -232,10 +188,6 @@ hash = "0b898e73b4e47fefd498af4b7c88d4ec0bcfa1b83cc08598024585f41dc18e60"
 [[files]]
 file = "kubejs/server_scripts/thermal/mysticalagriculture.js"
 hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
-
-[[files]]
-file = "kubejs/server_scripts/thermal/nuke_recipes.js"
-hash = "e1bd67adb6577aa7f1ead65c2ee0a604506f9913b7190840cce71668d0898684"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/rftools.js"
@@ -418,11 +370,6 @@ hash = "9a2582ab994afefc2243c7a04ff0a9abfa640c4cd52e5c29fd15371ecbbe1aca"
 metafile = true
 
 [[files]]
-file = "mods/bygone-nether.pw.toml"
-hash = "af3ece2be745c14463ba713fd453cfca07f829137059d74954cc392a6de36e3e"
-metafile = true
-
-[[files]]
 file = "mods/caelus.pw.toml"
 hash = "eaa144428b42dedd12beea31db366ca686a621c9945d45a35494dca25846fc63"
 metafile = true
@@ -583,11 +530,6 @@ hash = "cef66e1f1ea94002512bc3dd30d5525634539af22463b045550c33d53c9cfc78"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "225db355171f4bf205c7ba1162699bcb3f8b710cbe041160d333a012f5f3259e"
-metafile = true
-
-[[files]]
 file = "mods/domestication-innovation.pw.toml"
 hash = "815edded2c6be145f2a82e48a4044955e4969a220d29d4290f395d38a6ff15e8"
 metafile = true
@@ -640,11 +582,6 @@ metafile = true
 [[files]]
 file = "mods/embeddiumplus.pw.toml"
 hash = "b3646d2ca37ec2b5c5d1a21cf09a589db0791558c7c670c6c92338af0db5ff6c"
-metafile = true
-
-[[files]]
-file = "mods/emi-loot.pw.toml"
-hash = "6c4cabb4ea10c57f7607d523b95f6f43574ed61bf7367aba267b195d6e705890"
 metafile = true
 
 [[files]]
@@ -723,11 +660,6 @@ hash = "b847914227e4c87c2d2bef0ff9a42d500923d26e4d4d1ddaff69e434197b10ec"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
-metafile = true
-
-[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
@@ -798,11 +730,6 @@ hash = "a46b048c4c4903b9437a471cb008318bbafd9c18628657e85068c96740e70bab"
 metafile = true
 
 [[files]]
-file = "mods/fzzy-config.pw.toml"
-hash = "e3d76a00653ad01990335334e8e0f9c76c8572483cdd57a649d6816ef4ca8e49"
-metafile = true
-
-[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "842114b0822d9c2b8b3f474afa55bb973687e8c779aa1cf83548d6ed49b348cd"
 metafile = true
@@ -830,6 +757,11 @@ metafile = true
 [[files]]
 file = "mods/healing-campfire.pw.toml"
 hash = "526b24f38180686e3d9f7a88db422692c0756c68ab2b447547fd84d481d72d7f"
+metafile = true
+
+[[files]]
+file = "mods/hide-experimental-warning.pw.toml"
+hash = "33984c61223779392e93e3a6f45d4bec9b3c3c97be1c23db03ded7931a4dae1d"
 metafile = true
 
 [[files]]
@@ -913,11 +845,6 @@ hash = "44913294bc7db73ddcac0f8f45eb5d4cbb2237c8a50d74fdc8c136ab3c04c8cf"
 metafile = true
 
 [[files]]
-file = "mods/kotlin-for-forge.pw.toml"
-hash = "82ffc26ad624cdd846cbbeb99ed40ef44229ec7006a7ae7e8caa8df6409c20db"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "6625e424713698763eb78672190c0662f5c301058a6339c6d165ea8e7461417b"
 metafile = true
@@ -930,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "872aa47e230bf2b5e378044e2dbbec43498dc5ab55151f11c4d5b8b57ef85104"
-metafile = true
-
-[[files]]
-file = "mods/lithostitched.pw.toml"
-hash = "4b1da0e12da5509e45ff702060183e75ee05ca74d3397992ce8f2fe53cafdcba"
 metafile = true
 
 [[files]]
@@ -1553,11 +1475,6 @@ hash = "fc3b414060d61cdd7fa43523789533c64eb31271b1f579933de899338de08e3f"
 metafile = true
 
 [[files]]
-file = "mods/yeetus-experimentus.pw.toml"
-hash = "5d9a0fbad5a23306da09dc524b698ad7fa00b27637a8bbbb4e11fca8c3700d36"
-metafile = true
-
-[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
 metafile = true
@@ -1620,11 +1537,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "5b5fdfaf8e757e4f54e621aca1c52f5d8c90c7be3bc78c2978173326f5c02bf5"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
 metafile = true
 
 [[files]]

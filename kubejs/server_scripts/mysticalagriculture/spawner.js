@@ -38,7 +38,6 @@ ServerEvents.recipes(event => {
         Item.of('mysticalagriculture:enderman_essence', 16),
         [
             { entity: 'minecraft:enderman', weight: 3 },
-            { entity: 'bygonenether:warped_enderman', weight: 1 },
             { entity: 'endermanoverhaul:badlands_enderman', weight: 1 },
             { entity: 'endermanoverhaul:cave_enderman', weight: 1 },
             { entity: 'endermanoverhaul:crimson_enderman', weight: 1 },
