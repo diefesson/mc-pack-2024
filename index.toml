@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "18ce1e13f556eadc8064ec4bf88a64341fdd71ed90b4bb83ef50b387f3a80d25"
+hash = "3e221f1c161ec1309306e2c306d8b9bef31648ad3ed315996886880461058f37"
 
 [[files]]
 file = "config/alexscaves-client.toml"
@@ -1546,4 +1546,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e1031215174c9b9b75857319cc535660fa1bc041407b54aa163019dba6e12a4d"
+hash = "10f7b7a62d7ae64816310eba6e7b2f2d5cca411606a99a26618f7caee6cd80df"
