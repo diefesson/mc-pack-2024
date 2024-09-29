@@ -1,0 +1,13 @@
+name = "Terraphilic"
+filename = "Terraphilic v1.0.0 f15-48 Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8T4mO5eV/versions/clzxXStH/Terraphilic%20v1.0.0%20f15-48%20Forge.jar"
+hash-format = "sha1"
+hash = "5b5e3310713d52b837a828cd589130f411b0f1d6"
+
+[update]
+[update.modrinth]
+mod-id = "8T4mO5eV"
+version = "clzxXStH"

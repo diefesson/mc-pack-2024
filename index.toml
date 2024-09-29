@@ -760,6 +760,11 @@ hash = "526b24f38180686e3d9f7a88db422692c0756c68ab2b447547fd84d481d72d7f"
 metafile = true
 
 [[files]]
+file = "mods/hearths.pw.toml"
+hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "33984c61223779392e93e3a6f45d4bec9b3c3c97be1c23db03ded7931a4dae1d"
 metafile = true
@@ -1312,6 +1317,11 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "bd294726639dc8e4be6ea5c8c69ee6691a5d9554246b6ee5f5c23dc21d4f4b52"
+metafile = true
+
+[[files]]
+file = "mods/terraphilic.pw.toml"
+hash = "64c4164798f2cde83526acb79e2dd9a762bb4e5ef5a40754b9f8439083eacee0"
 metafile = true
 
 [[files]]
