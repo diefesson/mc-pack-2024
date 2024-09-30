@@ -33,6 +33,14 @@ file = "config/embeddium-options.json"
 hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
 
 [[files]]
+file = "config/extremereactors/client.toml"
+hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
+
+[[files]]
+file = "config/extremereactors/common.toml"
+hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
@@ -150,6 +158,10 @@ file = "kubejs/config/common.properties"
 hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
+file = "kubejs/server_scripts/bigreactors/tags.js"
+hash = "d3ae600dab30922b950e4a6b9a85916db68840d62070f2d889f311918636c5bd"
+
+[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
 hash = "8b203d4072484cbebff3f4cb7d87f3bd83feca1ce71e7c7b1ddd4638bea17621"
 
@@ -180,6 +192,10 @@ hash = "9218265b990c8b98e9b716247b6eac7cb060c691d2260daef001de5c3dc55132"
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
 hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
+
+[[files]]
+file = "kubejs/server_scripts/thermal/bigreactors.js"
+hash = "f37d04fa698bc1a2103877f6e4681859e9aa651888dcea9476a9b98a798e444d"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"
@@ -660,6 +676,11 @@ hash = "b847914227e4c87c2d2bef0ff9a42d500923d26e4d4d1ddaff69e434197b10ec"
 metafile = true
 
 [[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "40568e27bafdcd30606f25192bf1450dfb292b77cb7a3d9b47cf05b59bd8aa51"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "b5fa39db5c13454ebc82cfc76da7fa33ccaa389986f407a033c5c9675633f00c"
 metafile = true
@@ -1087,6 +1108,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
+metafile = true
+
+[[files]]
+file = "mods/powah.pw.toml"
+hash = "24660c4b368b47a6f6ad3aee54b044b0036ec5c1c63bba2031124a78949d13ca"
 metafile = true
 
 [[files]]
@@ -1547,6 +1573,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "5b5fdfaf8e757e4f54e621aca1c52f5d8c90c7be3bc78c2978173326f5c02bf5"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "46eaae7e5edd7fc4169a3ecaee4f4b6f54edbf620232193531b1dbc7b34051dd"
 metafile = true
 
 [[files]]
