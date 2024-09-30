@@ -5,18 +5,6 @@ file = "config/DistantHorizons.toml"
 hash = "3e221f1c161ec1309306e2c306d8b9bef31648ad3ed315996886880461058f37"
 
 [[files]]
-file = "config/alexscaves-client.toml"
-hash = "40a65fa13a7b5f5d9e22b2f91e2d8d319721408ba7eb793de2da511096ff0fb4"
-
-[[files]]
-file = "config/alexscaves-general.toml"
-hash = "f67deaab79d031be646bd8e404b15e19b8afeba64d821937a6871cdc106ce559"
-
-[[files]]
-file = "config/alexsmobs.toml"
-hash = "05c06fb5b71c04f7dfb45468c5975bf4257b5b6e87180a4915f7e7cf7ace6a91"
-
-[[files]]
 file = "config/cucumber-client.toml"
 hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 
