@@ -246,16 +246,6 @@ hash = "d45d8ba9633fe8d819e6a8822b5f25807a52a5f29a82e87d31ce8920fd080500"
 metafile = true
 
 [[files]]
-file = "mods/alexs-caves.pw.toml"
-hash = "85fce482d849eba76bcd90f27cecb352c0be3f06753234ad3cd4ac89c9d3f784"
-metafile = true
-
-[[files]]
-file = "mods/alexs-mobs.pw.toml"
-hash = "c107c014f7703badbf59958405f64b888a1b5a56e21d8092e204c851032c3a6e"
-metafile = true
-
-[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "9218f4af5213f4b0b33fc72d8f30728c7ff973e61867baf009114d0e28a7dc89"
 metafile = true
