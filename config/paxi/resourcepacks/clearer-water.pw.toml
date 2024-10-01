@@ -1,0 +1,13 @@
+name = "Clearer Water"
+filename = "Clearer Water.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/JeCajAKQ/versions/j9emMxWI/Clearer%20Water.zip"
+hash-format = "sha1"
+hash = "e8c33eb1867d2fa0c93715b12e6cd95632c82ddd"
+
+[update]
+[update.modrinth]
+mod-id = "JeCajAKQ"
+version = "j9emMxWI"

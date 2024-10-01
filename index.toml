@@ -63,11 +63,6 @@ hash = "9766f1e081b617d78969690c00e149eeaa235ff4352ae831d4ed83c5e5d2914b"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-bygone-nether-compat.pw.toml"
-hash = "2f1dc716a858d66c0daf1a42d917c57bbf793d7f42a7b091a2f3f334e8e586fd"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
 hash = "1c75ab143c85bd59449ccb832ba39b23987607cd423d0da6019462a99da60aac"
 metafile = true
@@ -75,6 +70,26 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
 hash = "4e5a1d1713e927fe0d219653b2f04175fb13b7e52eaf16c081be6b1a022a5d8c"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/clearer-water.pw.toml"
+hash = "d3bbf2177dec66b91286878844f0264bde85023f5e82a02ab247215d64a09e36"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
+hash = "e02de790490a2b1a9da31aa8b0f55517c6186bec39d42d269cd899091f30f7c6"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/environmental-water.pw.toml"
+hash = "fc6162a117f7a6edb8477aeafde60261ed2c5f5a5fb7e5cef73eca5e30e3cba3"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
+hash = "018f24ab1380ecde5718cb096be904d3b649f7aa0dde73365d25b033a8e93820"
 metafile = true
 
 [[files]]
@@ -764,6 +779,11 @@ hash = "5d4381413d502b8bd3e41908df40b0da103b01c3b9e9e557c7549aeca0b1c260"
 metafile = true
 
 [[files]]
+file = "mods/held-item-tooltips.pw.toml"
+hash = "a9d5cb62ed450a6934f1aa05cc459682fd6117a18de9b589aca356d2bdddfe80"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "33984c61223779392e93e3a6f45d4bec9b3c3c97be1c23db03ded7931a4dae1d"
 metafile = true
@@ -1081,6 +1101,11 @@ metafile = true
 [[files]]
 file = "mods/polymorphic-energistics.pw.toml"
 hash = "d2131f406e8030c38d79aa38d62c2484afb9b2303f5c9d950597fd9d50e2c441"
+metafile = true
+
+[[files]]
+file = "mods/polytone.pw.toml"
+hash = "c619f9b5e0d5b3e521a239efb957aaa1e0f3448b56999a0d1050d552ecdd185d"
 metafile = true
 
 [[files]]

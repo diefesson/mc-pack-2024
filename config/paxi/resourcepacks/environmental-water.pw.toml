@@ -1,0 +1,13 @@
+name = "Environmental Water"
+filename = "Environmental Water 1.20.0-1.20.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/5QsxmK1S/versions/Nnht7rBU/Environmental%20Water%201.20.0-1.20.1.zip"
+hash-format = "sha1"
+hash = "0e0388b9d724d09fcc5f8b81253d81b1c8832ad3"
+
+[update]
+[update.modrinth]
+mod-id = "5QsxmK1S"
+version = "Nnht7rBU"
