@@ -961,8 +961,18 @@ hash = "9b7ba45339f261208da79400b41228be1739efbc966132b139e98e687abfec03"
 metafile = true
 
 [[files]]
+file = "mods/mmmmmmmmmmmm.pw.toml"
+hash = "576c417264b009f3c01ced746380c84fc5ebeae2598cce3115ca6e0d6c25012d"
+metafile = true
+
+[[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "fb166167b8ffa599ce4dd28fecba942cbc4fbfe7145d1839485c8ad48d708091"
+metafile = true
+
+[[files]]
+file = "mods/mob-plaques.pw.toml"
+hash = "fbcc9479ed3ece8b67699836233e63a59f2b51e3ad29d8b18532e081b046820b"
 metafile = true
 
 [[files]]
@@ -1433,6 +1443,11 @@ metafile = true
 [[files]]
 file = "mods/tools-complement.pw.toml"
 hash = "b145e523b42212e609cc5918d4afd8c2cb50ea69bfa76e1c4beec3f03e11f69e"
+metafile = true
+
+[[files]]
+file = "mods/torohealth-damage-indicators-updated.pw.toml"
+hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
 metafile = true
 
 [[files]]
