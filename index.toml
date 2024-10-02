@@ -1476,6 +1476,11 @@ hash = "874b4f49257c1edc7b76b39bef268806f91d84c42b4ceee5bc1ac0cccf7e5c94"
 metafile = true
 
 [[files]]
+file = "mods/village-bell-recipe.pw.toml"
+hash = "c7ed63b19b19b2f59777eb71b8c49e4a69fc5c1ccbb55d58ba9429d4b0780543"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "73d33b2755b5b450140c3a052ae0443baa4c58494d040fff973bce9504e23230"
 metafile = true

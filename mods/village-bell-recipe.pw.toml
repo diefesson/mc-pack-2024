@@ -1,0 +1,13 @@
+name = "Village Bell Recipe"
+filename = "villagebellrecipe-1.20.1-3.6.jar"
+side = "server"
+
+[download]
+url = "https://cdn.modrinth.com/data/u692zai1/versions/lbLLqkCm/villagebellrecipe-1.20.1-3.6.jar"
+hash-format = "sha1"
+hash = "e9efc2348776917797329f57b14f9a0c2e742478"
+
+[update]
+[update.modrinth]
+mod-id = "u692zai1"
+version = "lbLLqkCm"
