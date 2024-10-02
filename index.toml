@@ -1036,6 +1036,11 @@ hash = "d29d5519a5a3ee2b47f2afd96d0ea8a3d8003c873e9ed8b1f8d1c9e5801797fd"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "b5667d8296390025430b548d3f6d0d2c727cf2659f7f57f8c2b4e5d3444774f3"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
 metafile = true
