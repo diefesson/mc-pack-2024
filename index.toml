@@ -113,6 +113,14 @@ file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
 [[files]]
+file = "config/visual_workbench.json"
+hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
+
+[[files]]
+file = "config/visualworkbench-client.toml"
+hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
+
+[[files]]
 file = "config/voicechat/voicechat-server.properties"
 hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
 
