@@ -819,6 +819,11 @@ hash = "c38ed7a5b70957a61e1ed644355bbf57ea3ae96f418920473505e4e2ce83aba3"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "01c1739b0a62eaa9326444b58b56222ca8d66bf3ccb677e9ecfa54baa8c98a13"
+metafile = true
+
+[[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "4e760cbf30987b3bcc24e78a1b09d769b826be26fce29f774e17f2a5c2c57006"
 metafile = true
