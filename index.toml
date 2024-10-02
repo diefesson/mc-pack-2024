@@ -1487,7 +1487,7 @@ metafile = true
 
 [[files]]
 file = "mods/village-bell-recipe.pw.toml"
-hash = "c7ed63b19b19b2f59777eb71b8c49e4a69fc5c1ccbb55d58ba9429d4b0780543"
+hash = "d827a200a334becfdabafe1bc9271866c1d73f367a7881c59bc35d4a8abb069a"
 metafile = true
 
 [[files]]
