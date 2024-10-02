@@ -1572,7 +1572,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-api.pw.toml"
-hash = "896b09e7166d70f08e089862ad5eb8dbc8cfed02608f2c478587dbea191aadf2"
+hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
