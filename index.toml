@@ -29,6 +29,10 @@ file = "config/extremereactors/common.toml"
 hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
 
 [[files]]
+file = "config/fabrictailor.json"
+hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
