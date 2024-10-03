@@ -976,11 +976,6 @@ hash = "fb166167b8ffa599ce4dd28fecba942cbc4fbfe7145d1839485c8ad48d708091"
 metafile = true
 
 [[files]]
-file = "mods/mob-plaques.pw.toml"
-hash = "fbcc9479ed3ece8b67699836233e63a59f2b51e3ad29d8b18532e081b046820b"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "23007c9b06315a062ca923911d9fd89066946f6f52df31c06548fa8bc241b55c"
 metafile = true
@@ -1043,6 +1038,11 @@ metafile = true
 [[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "38eb04b5ae4e429509e8c90fed921719d600166d9be12fcd4f263cce3b117c8a"
+metafile = true
+
+[[files]]
+file = "mods/neat.pw.toml"
+hash = "ea5b25c98cfd8aaf9b7ae70d97f8659209e03ca4986e06e690f475ba975fdb08"
 metafile = true
 
 [[files]]
@@ -1453,11 +1453,6 @@ metafile = true
 [[files]]
 file = "mods/tools-complement.pw.toml"
 hash = "b145e523b42212e609cc5918d4afd8c2cb50ea69bfa76e1c4beec3f03e11f69e"
-metafile = true
-
-[[files]]
-file = "mods/torohealth-damage-indicators-updated.pw.toml"
-hash = "bc4a64821f2ae6d53d19a040589413e2e16b954843a257bfcdd85e446159e31c"
 metafile = true
 
 [[files]]
