@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    const headRecipe = global['headRecipe']
+    const headRecipe = global.mysticalagriculture.headRecipe
 
     headRecipe(
         event,

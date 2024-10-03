@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    const spawnerRecipe = global['spawnerRecipe']
+    const spawnerRecipe = global.mysticalagriculture.spawnerRecipe
     spawnerRecipe(
         event,
         Item.of('mysticalagriculture:basalz_essence', 24),

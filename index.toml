@@ -178,39 +178,47 @@ hash = "d3ae600dab30922b950e4a6b9a85916db68840d62070f2d889f311918636c5bd"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
-hash = "8b203d4072484cbebff3f4cb7d87f3bd83feca1ce71e7c7b1ddd4638bea17621"
+hash = "db933cd85559ef5729d236077b9f9d8e8344e8fb498ff03f2fdaaa80643410c4"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/craftable_heads.js"
-hash = "77c57b093eff9112bc2955cf83e0f57c40bc85b6f54346f14d4d638d3b4fdcc9"
+hash = "a574eeb4ce9501d9db6621a5df8b9f93cf2d63d1fe63fd01bc892c49e273518a"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/harder_basic_seeds.js"
-hash = "f2a486b9428c49831ba4744ac80bc83094c8d9bba7f18303dcfe031960cb0bdc"
-
-[[files]]
-file = "kubejs/server_scripts/mysticalagriculture/harder_resource_seeds.js"
-hash = "8ea3508c902f69fe818f0bc3c3ddccc754eddd2562307c0ec744724e76b9db03"
-
-[[files]]
-file = "kubejs/server_scripts/mysticalagriculture/harder_watering_can.js"
-hash = "7e3c16ccaf23248b4403b89438168b37671cf324e0cd2fa0f99ba24203fdde75"
+file = "kubejs/server_scripts/mysticalagriculture/essence_scaling.js"
+hash = "237cf0a5b2df41c5fbac0235cedc1fcf591bb3e1c18a6a68f3b52fff85301fca"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/seed_and_crops_tags.js"
 hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner.js"
-hash = "9218265b990c8b98e9b716247b6eac7cb060c691d2260daef001de5c3dc55132"
+file = "kubejs/server_scripts/mysticalagriculture/spawner_creepers.js"
+hash = "60b21437cfed96498b9de60bb6a925b8cf4107aacf9a1379a3fcd2f501fe112f"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/thermal.js"
-hash = "84620efbb72884ac9cfe3a43692af609a8014fb841bf1d16d3ace1151860ff12"
+file = "kubejs/server_scripts/mysticalagriculture/spawner_endermen.js"
+hash = "412834131e4263bc346781c37c9a11724aca1eef150da3225d114415d4d69080"
+
+[[files]]
+file = "kubejs/server_scripts/mysticalagriculture/spawner_skeletons.js"
+hash = "9c975a8c084cdfd96c01a042af2b0296751b1ed5fee5001ec3a3b132461372cb"
+
+[[files]]
+file = "kubejs/server_scripts/mysticalagriculture/spawner_thermal.js"
+hash = "f4b3e5d2340adca2a5d0473391ecd65486351bbc597b7e43c4762cacd3a41cbe"
+
+[[files]]
+file = "kubejs/server_scripts/mysticalagriculture/spawner_villagers.js"
+hash = "c0d76c64525b320887bf920e52ab2e8578a5ae8708b966e705f19d2f8af0801a"
+
+[[files]]
+file = "kubejs/server_scripts/mysticalagriculture/spawner_zombies.js"
+hash = "47ce90d05164cda6c08e6e2b5202927860fbb8b91c82811ad3361044fbbacb98"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/bigreactors.js"
-hash = "f37d04fa698bc1a2103877f6e4681859e9aa651888dcea9476a9b98a798e444d"
+hash = "09e0be5ab106ef98e129e97323a0f96730ff7155a96a0b0492f8f1d0ad1a8b7b"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"
