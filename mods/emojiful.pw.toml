@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/72GXx2MO/versions/NFYwjzXZ/Emojiful-Forge-1.20.1-4.2.0.jar"
-hash-format = "sha1"
-hash = "3a715b0c8e9244a0d6aace3e3d2f863a62ddc3bc"
+hash-format = "sha512"
+hash = "df643bfc3efd3cdca4084a23ab204e1d2004e5f305c55aec9d64d5907c380013d8ff44df7fcf3f06758c99c805104436468b0db270ea510bf3c10e507d9da5fd"
 
 [update]
 [update.modrinth]

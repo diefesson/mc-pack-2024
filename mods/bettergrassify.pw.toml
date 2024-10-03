@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/rIszHs6Q/BetterGrassify-1.2.1%2Bforge.1.20.1.jar"
-hash-format = "sha1"
-hash = "495e0dca187b509fe492aaaaefdd55438e61b057"
+hash-format = "sha512"
+hash = "c9ef57b0c30ee096f9f7ea7f8a013ffc7dfde42161299eb90e4ad0913b9752cca73797f4dba04ef40a1b12c4a94f64d14a45e0e65ad9faa6cd53b11bebcd82f2"
 
 [update]
 [update.modrinth]

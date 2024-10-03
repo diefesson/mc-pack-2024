@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/tPe4xnPd/versions/b1oQODQL/formations-1.0.2a-forge-mc1.20.2.jar"
-hash-format = "sha1"
-hash = "145d49061915ee9a869d1b1b8f4fe0de9cb2c565"
+hash-format = "sha512"
+hash = "afb90effafac1b9592cd4ce1e2ce2f8601547546a25efa9ce1a9fb5eaeb8fe64b2176b4aa36bdfa758eff687c1e58207a3f52138a68c12e0efeb9f0d96e22529"
 
 [update]
 [update.modrinth]

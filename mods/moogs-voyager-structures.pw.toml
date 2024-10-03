@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OQAgZMH1/versions/iYOyd0Bu/mvs-4.1.2-1.20-forge.jar"
-hash-format = "sha1"
-hash = "e9f86cac87da18465afc21f9750b36b2f8554665"
+hash-format = "sha512"
+hash = "f1132c18db23118f9c90006393fbe1ac1a9c7d2f8aa8d6e0ad2e5c31801b0496e7d0a2c1f19ec30e3b6e47283c197908f6db3d4bcbb4f890540888cfd2af9180"
 
 [update]
 [update.modrinth]

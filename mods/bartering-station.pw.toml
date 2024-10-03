@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/EOig9U0j/versions/4op6LZEK/BarteringStation-v8.0.0-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "85668fe9a01aab770ca502e72b5d5bbcf9e6e25b"
+hash-format = "sha512"
+hash = "999d29b7e454865e80432da594fb155c1d77c6b2ce9f4f3f1bf1673510b732b75d2a44bce044563ba020fcbdb92fff1c2c67047c4a5a7fc9c0836a32c18744fb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/TMXT4IEs/CreativeCore_FORGE_v2.12.15_mc1.20.1.jar"
-hash-format = "sha1"
-hash = "0f88ac76fe440df0e6af19decbf9514f61870913"
+hash-format = "sha512"
+hash = "47899bd3630a95fdeab0b690f1f842b8c52c88f7f5045b541d6df794878228215b3eb9b31c88ee5790d2bafb2eb09f9aecfe6e079aa0578f423536c9ae949ec8"
 
 [update]
 [update.modrinth]

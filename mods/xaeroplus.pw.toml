@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/EnPUzSTg/versions/HdQNRzkN/XaeroPlus-2.24%2Bforge-1.20.1-WM1.39.0-MM24.4.0.jar"
-hash-format = "sha1"
-hash = "9deb3954bb67ccfff9b4889d45ae3f586e424887"
+hash-format = "sha512"
+hash = "8792652713ad20dab80502880f1b5485bb75402adcc3abe58a0d6662e04fc1d23fe35706cb557e228812bdde9310d40a4cbc5c6669048aed2e687e237d61b797"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jKFstkn1/versions/z9JQjTTG/overworldpiglins-1.20.1-1.5.jar"
-hash-format = "sha1"
-hash = "e5e5f5fd5f5c82ade041be3b98c32607e48086df"
+hash-format = "sha512"
+hash = "caf77eb131c968a7df70f3723e29f393ca0e4510673ef6293bc26190f098c58190b4641420c13f62e1e0e1efa82fee60249bac2eb951e511f396381f6e9923d5"
 
 [update]
 [update.modrinth]

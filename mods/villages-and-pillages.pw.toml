@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/klXONLDA/versions/SqrgJPv7/villagesandpillages-forge-mc1.20.1-1.0.1.jar"
-hash-format = "sha1"
-hash = "f20bdc9f73cb6a71d0259ec50bf874c9541581fd"
+hash-format = "sha512"
+hash = "79fa640af9009dd9cf7a6249cf5ff1563a0592dea49026d8352d4bd355ebac81bd7222a73916b085527cf2c5e1bae9d4ebbb6c1e1ee3d11c59d2166d0392bb51"
 
 [update]
 [update.modrinth]

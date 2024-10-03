@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/BOCJKD49/versions/qwOpEWqP/friendsandfoes-forge-mc1.20.1-3.0.1.jar"
-hash-format = "sha1"
-hash = "dc48af5679473537ae685088a85f9fd388f41da5"
+hash-format = "sha512"
+hash = "e2c137e561975c11b91ef76c67eca0692b7f616d979890968190283209e75839224008be87101d7b16eada11dd748c074b92d031872e79c83631b494d23f842c"
 
 [update]
 [update.modrinth]

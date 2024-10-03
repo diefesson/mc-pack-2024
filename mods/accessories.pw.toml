@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jtmvUHXj/versions/FaoxARTF/accessories-neoforge-1.0.0-beta.36%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "ce7a8f67e1ba473139702f1412ed68667acfb4c1"
+hash-format = "sha512"
+hash = "33467d3f30cb805e044d497366011ae05c4a5dcb78433a6db4d1451001a11a1a0ab5560ebb43d0490e09a853edf8f3760602c1909d49327c377d21549a392e6c"
 
 [update]
 [update.modrinth]

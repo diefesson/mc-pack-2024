@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
+hash-format = "sha512"
+hash = "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
 
 [update]
 [update.modrinth]

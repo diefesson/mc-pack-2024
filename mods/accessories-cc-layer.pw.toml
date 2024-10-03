@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/izkDUlrJ/versions/kDJWGdl4/accessories_cclayer-7.4.0-beta.14%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "6b7a6cc4a4cd437e01ee8edcd0633f05d4f00e2a"
+hash-format = "sha512"
+hash = "bb1b6f864a594a26a3ff497f69e25f2b1683267ac4747eae07e9eda3d025086699baabb3b5ce366349ced006fa72b590a96a971ad673e5336671eb326e69d087"
 
 [update]
 [update.modrinth]

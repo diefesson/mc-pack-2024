@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jjuIRIVr/versions/Jeg9Zxud/megacells-forge-2.4.4-1.20.1.jar"
-hash-format = "sha1"
-hash = "bafc90a131c52efa98f4b056b6c2a2c7f7031009"
+hash-format = "sha512"
+hash = "6d2dae1c3c31c3c475cb2a666159f125fe363f4dafa5db42e19bf19d7467ee98e828993171d245b379cd50a2e51bc122fd29be74b22f61938b8cb01aaaec4210"
 
 [update]
 [update.modrinth]

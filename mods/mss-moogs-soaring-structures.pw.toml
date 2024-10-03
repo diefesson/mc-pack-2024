@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/RJCLIx7k/versions/1sEtaMzu/mss-1.1.2-1.20.jar"
-hash-format = "sha1"
-hash = "36fad7e582a8a2a10a133bfae3c8d2e619a08bc5"
+hash-format = "sha512"
+hash = "04d1cbacf65ae189ffc1833694cf2605397c45a39da48244149b4ae1e924700a5734f483431daf6f3f6526badfba3f74ed444fa7bc08d71ee7142c6987b494b2"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/Rm4OOdHd/versions/hJuIowdr/hideexperimentalwarning-1.20.1-1.2.jar"
-hash-format = "sha1"
-hash = "9ae7fa690a25fb809f12bc683412071f9d8a3405"
+hash-format = "sha512"
+hash = "d18013a57005c5ef902f656f76237edf5b92e00880b241ed22f6327a19bece3bc0ecbaa6038fc19b6559a9436d73e4bfe378d8b7b463e8676e140c48bbb715a9"
 
 [update]
 [update.modrinth]

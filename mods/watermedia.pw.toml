@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/G922NeHS/versions/6ui6crmh/watermedia-2.0.71.jar"
-hash-format = "sha1"
-hash = "4c3d2aedcb9582d3c137022725dcb1799628fa5e"
+hash-format = "sha512"
+hash = "b66551af5547a3066479fc9465cb521f91a22786d57168c153ff090d8d096bcd43141a59b4910c941447ca1f980b3f4374556db33551a90a41968a930e835661"
 
 [update]
 [update.modrinth]

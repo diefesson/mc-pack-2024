@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/owDBGfRd/versions/cSk3xHfo/zombiehorsespawn-1.20.1-5.1.jar"
-hash-format = "sha1"
-hash = "b5c7f34c54f19ec477545b2444f871a19c218744"
+hash-format = "sha512"
+hash = "a0bdb6fff2b9c28cd84df70fa9b20cc227e08016a5dcd04f0adc74a4acd7a63545ce78cd4bbf5c3ec226a93172b1fe355783f9fd339af66eccd31a4ee13874c4"
 
 [update]
 [update.modrinth]

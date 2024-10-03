@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/AVo2esap/versions/KdWVlCUM/wits-1.1.0%2B1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "59b065469899b8bb5f0dea25abc164baca278587"
+hash-format = "sha512"
+hash = "1054ed2244881af7b3dac63ea60eafda7dc142e6058af5ac0448a5288f4cec96e02d59417c4a8a5af8afd7518ad6c49fa04a36bfb1e5bac700ccdd219c1e1eda"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/lNDRiXkY/versions/J6RLrCwL/variantsandventures-mc1.20.1-1.0.3.jar"
-hash-format = "sha1"
-hash = "cedcbd080d893171974667ae89ac9d4e381f59ca"
+hash-format = "sha512"
+hash = "14e922a5eee8a59c86d5a05f057c9be8d9b6a37830b8b5591a6295250562df10fcededf6bf02ebb26e1d61cf591d52f4021297bf43dfeda04e761db52515ae03"
 
 [update]
 [update.modrinth]

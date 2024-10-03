@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/RTOwYh47/ImmediatelyFast-Forge-1.2.20%2B1.20.4.jar"
-hash-format = "sha1"
-hash = "2d1db3fda15a62b9775630da99eef2616bcd20e9"
+hash-format = "sha512"
+hash = "66f319449a1a721b52ce9f2e70f9b986d088956e14eec0795fe5be7bcbe07ff05a39064314d1406d3a42a66491392c759656efa1999518533a1c9c273024b965"
 
 [update]
 [update.modrinth]

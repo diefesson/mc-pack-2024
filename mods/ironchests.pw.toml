@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/n2de3t2z/versions/BlgpMWjV/ironchests-5.0.2-forge.jar"
-hash-format = "sha1"
-hash = "610aa09a1d83253db6bf32f6b12c84d446fa99b6"
+hash-format = "sha512"
+hash = "948a446b1e65776a4184df89fdc7d3af424bf53ef62cef7fdd03c51a8ebefc8be78c1027ad073d0bc21d003ef85e84318b184bdcf90ef8f497ffaafb6942f6e1"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/DyTvM1dv/versions/BYzQMmi7/AmbientEnvironment-forge-1.20.1-11.0.0.1.jar"
-hash-format = "sha1"
-hash = "821b958ee15d97b19583d00f9513093147417540"
+hash-format = "sha512"
+hash = "4ae07091f258c3378f5f55fe30c2d7cba6aaf49155c25fb3585d00486e8d965935f3ba8c9f070ef5393bca591c2df7a030893e1c350aeaae31881a05bb3e0f89"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/euzGeN6k/versions/mucZ9uPP/archers_paradox-1.20.1-5.0.0.17.jar"
-hash-format = "sha1"
-hash = "09991b139e2ee89c55f1e14385329ef41776870f"
+hash-format = "sha512"
+hash = "3ac67b4dfbd2f292d668577e522a1b0ccaa688df85ba42f580f40cee473dfa1ed93570416dc2501ffff76cd4d2bb9e7aae9f679082980b771a4653a4c15b2c13"
 
 [update]
 [update.modrinth]

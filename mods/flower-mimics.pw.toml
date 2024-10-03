@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1r5vvCad/versions/cE0nrb3J/flowermimics-1.20.1-2.0.jar"
-hash-format = "sha1"
-hash = "aa57d35f1e88bd001328cf4d23023056cdfa0126"
+hash-format = "sha512"
+hash = "ea29a7cbcda1d9791539821c0389e7c7bbeabda84ac5d9c2711f7198e0fb7ec89fef0a073359723da458e27e3ac39060341aff92cec9f87117b654964d7e064d"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/1eAoo2KR/versions/C0nuSdTs/YetAnotherConfigLib-3.5.0%2B1.20.1-forge.jar"
-hash-format = "sha1"
-hash = "e2f450a47ef4d81705175cd18ba36d1782948908"
+hash-format = "sha512"
+hash = "c6bfce414e6a4142b4e8439ffbe9d2ac8814642669fc8ea1356da88bb96a9b0d77f991ea658059d8d44401f12af6c4b1e91c8a976d80e8b978accbfe964a32c9"
 
 [update]
 [update.modrinth]

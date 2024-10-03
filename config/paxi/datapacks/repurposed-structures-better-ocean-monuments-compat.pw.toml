@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/WQ8xE11Z/versions/S1HbCX1t/Repurposed_Structures-Better_Monuments_v6.zip"
-hash-format = "sha1"
-hash = "b8a3a0582a5ebb659993a8c1a60b83a1ed348848"
+hash-format = "sha512"
+hash = "b800db712b41a2ed2e2dbf738e16bfc217b84871fe40ad51e4c100b65c4bafa69363c6ffd74dd1900c91fea82eb46beb94c4f965569359e78977f3d1dbc34415"
 
 [update]
 [update.modrinth]

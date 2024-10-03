@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/pl0jGXIx/versions/BGS3vPEg/MysticalAgradditions-1.20.1-7.0.3.jar"
-hash-format = "sha1"
-hash = "9e6cc339e6bb3e9646f7617eeb1208e519ad7f6d"
+hash-format = "sha512"
+hash = "941c34f7a1795288c37dd94b181d8bd1f8f2773e7437986de79adb7099a33c05e3b8f3dc36237e7031e036cfc24d72287899b089e1d07ef3a71b4f7dd578576e"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/705gWllI/versions/cwzXpY1E/emiffect-forge-1.1.2%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "cb87cd6b12e3a9cc5bbb979406d310fe50cd92a6"
+hash-format = "sha512"
+hash = "d1aa78d400796abea326498d3143af8ae4d61fa9635339be36ae38f342c586e309216c4e2b8d19fd5eaaa17a24e60c590dc33059f910ea941398fd3ebf2b1324"
 
 [update]
 [update.modrinth]

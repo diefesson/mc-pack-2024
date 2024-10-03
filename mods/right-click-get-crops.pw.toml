@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/phrqJM0N/versions/3BHBBpeD/right_click_get_crops-1.20.1-1.6.0.12.jar"
-hash-format = "sha1"
-hash = "a70e3ac76ec65e003780bc5eaa020b05539f7744"
+hash-format = "sha512"
+hash = "c7db8c425e46f4cc9e37b9fca6b361d0c3f03adddec31b0da84a6ff16cadc889b8bd047f8350eaf52f20387058a7bf1a5b5777ddcd131b7b5585ea4a72f6097e"
 
 [update]
 [update.modrinth]

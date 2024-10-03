@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/hTGmExq6/versions/KFMj3vTY/guifollowers-1.20.1-3.8.jar"
-hash-format = "sha1"
-hash = "9d92663cf6beb84bedc5d313d4deccbfb6c77452"
+hash-format = "sha512"
+hash = "c276bef3fa2e5fd2a80dabd1e4b4a372bcb45f3cc448dde22c0bba42963619979db900808e52b210911525602ee788a4a303e1e907c4b82e282adf6ffaa6a7c2"
 
 [update]
 [update.modrinth]

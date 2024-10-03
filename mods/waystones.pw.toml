@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/W8MOY86K/waystones-forge-1.20-14.1.5.jar"
-hash-format = "sha1"
-hash = "b230ba56efd3ef4c92d92651bbc76e8119eb211c"
+hash-format = "sha512"
+hash = "f451b94379343fcf25d37eeb846902fbd51d946ffd46114c32b32a79a1719a5943da996b21a4d640995942d191d4bd21b4f6e104db39acb7db36ba6e2d87f621"
 
 [update]
 [update.modrinth]

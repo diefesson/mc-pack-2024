@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7YM5AXYm/versions/RIzY810a/noanimaltemptdelay-1.20.1-1.2.jar"
-hash-format = "sha1"
-hash = "06eede19c34764ce0e1c181f5384a0e07a0fada8"
+hash-format = "sha512"
+hash = "72a3c99c3aca22d20248e330742275d607f76f3a5d77ca175b34f4cf31f3befeee434720abf2d88d40cf02b7e95bd2e86a6c31f759aa27ae376724b453a697fb"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U6BUTZ7K/versions/7GoC3OB5/BotanyPots-Forge-1.20.1-13.0.39.jar"
-hash-format = "sha1"
-hash = "c1e33db0edc008f0626712dc1a389947820224e4"
+hash-format = "sha512"
+hash = "af43e1f3a38ccf6d6cb55b474ec3230728a3433920c73bc96716ad1dc20da5ff4a447be8a9ee57a8786461b74412dc6ee2c7c4ebcb71f573e538533cb1b314f2"
 
 [update]
 [update.modrinth]

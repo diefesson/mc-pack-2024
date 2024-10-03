@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DQjhR62z/versions/86sZOj88/rftoolscontrol-1.20-7.0.2.jar"
-hash-format = "sha1"
-hash = "64c2b896d2f948384e574165c227eb5b158174a2"
+hash-format = "sha512"
+hash = "ca3afa805f4dd4c4a2be34060ee7796ce22ae9090b17a609da480d4123ebef83930b1f51d5430e95f32a2e24191d03ada40e7988d334bd327d834f2d3b852b1f"
 
 [update]
 [update.modrinth]

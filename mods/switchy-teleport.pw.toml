@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/W1foSJDS/versions/HOzLg1EP/switchy-teleport-1.2.5%2B1.20.jar"
-hash-format = "sha1"
-hash = "a9fbe6b7531c5c02c8dbfa4483cb934e6a23737c"
+hash-format = "sha512"
+hash = "4f59de72e60e336c10a44dc88e82e3c1ca83ded859011c2507a9b3c28503877749e11df2a45a5b5189c7dbe52dc6ec0f0a4c72a15d79b8692ca3b9d9bd8a7d29"
 
 [update]
 [update.modrinth]

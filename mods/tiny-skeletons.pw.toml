@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/A2xcMSUn/versions/bvxrcKcl/TinySkeletons-v8.0.1-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "aa27ac3af67afd192f789adc4d78e752a68d6272"
+hash-format = "sha512"
+hash = "ba17016c697cbc6cf02202b7dc3dc2016b748cf5c67980d3f20469d4143cdbfe5e9840fe99549ea757155ee01b1b0954154d04d7487b65831fd73add08dc84ed"
 
 [update]
 [update.modrinth]

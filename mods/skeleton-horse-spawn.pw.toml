@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZcqNoW8j/versions/30rVPv1N/skeletonhorsespawn-1.20.1-4.0.jar"
-hash-format = "sha1"
-hash = "bac6ccda124e64fcb4a1a811239b11bae2b9cf02"
+hash-format = "sha512"
+hash = "f84e977b06462791117dcd99956f655fbd95e860b95ff2f615a6d515ee6528efb35f86bc24cbc63cc300c6633a7401c3313a244e688c23a8c01b401bbb165772"
 
 [update]
 [update.modrinth]

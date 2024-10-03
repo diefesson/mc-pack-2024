@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/6rPhicfw/versions/V64m0nEP/icepreventscropgrowth-1.20.1-3.4.jar"
-hash-format = "sha1"
-hash = "9992f84ca97798e5bc292b9030b9edadd30c9855"
+hash-format = "sha512"
+hash = "dafb6abf596c213fb938a42b1ace0a31d3bf20775f373efa55e73502ca53359e509f4ae4727cdc8e1206b736c79ad034e50104f66b9b8260084045b9d8350192"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ss0QuCRx/versions/kbR6TC3S/switchy-2.9.4%2B1.20.jar"
-hash-format = "sha1"
-hash = "833a6a9c3fd7cbb7e6060f8b59c9da1dd20f7d77"
+hash-format = "sha512"
+hash = "ad791317e3f9bcee071a8587b1c292ff5a196fb0f8f7392a3cb328f44245c2ac05940ec7f3eaa16890f7eef02749899e0cb599eaee842b35a0565a7984af3b18"
 
 [update]
 [update.modrinth]

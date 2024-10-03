@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/kOuPUitF/versions/sfesmy1R/healingcampfire-1.20.1-6.1.jar"
-hash-format = "sha1"
-hash = "0155985524ded9e7aa1edc63e1904e89856b53d3"
+hash-format = "sha512"
+hash = "e25cf94109d988ebad8e763f91e7180a7d49d41e8efbe7a724ec0907eea177b9479c53c0c520c83548cf4ec00f191afa31cbec9d6db3f8e4b1e3526c9d2c602b"
 
 [update]
 [update.modrinth]

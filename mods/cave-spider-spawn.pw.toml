@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/9IUlkb2K/versions/fKktV3dS/cavespiderspawn-1.20.1-1.2.jar"
-hash-format = "sha1"
-hash = "70b52bc90f03b1d80c163d2027466d0803d55f1f"
+hash-format = "sha512"
+hash = "eaa2c6cc30fc56f8e5c5f19df50eb40ef3b8809b7fb00e02fb772f830b39846362ff613c0867aa2dce940d4f31b8669bee6fac9e334b03b737a10b67946f6ab6"
 
 [update]
 [update.modrinth]

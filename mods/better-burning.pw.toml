@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/uNBP8Xul/versions/ofC4BKPB/BetterBurning-Forge-1.20.1-9.0.2.jar"
-hash-format = "sha1"
-hash = "57892d336534d4c43d2e338c9b64eeafeb2a35f2"
+hash-format = "sha512"
+hash = "ea1c2527c6cdc50ad551d297de595484761c0fd4d7dee50f03d263635e17ea5f32fb5fc843901535c8dbead0b9807be70e46824b6c8d75732738d63b0d51bddc"
 
 [update]
 [update.modrinth]

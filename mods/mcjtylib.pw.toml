@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/1Zu0uTEE/versions/IjGaFb6t/mcjtylib-1.20-8.0.6.jar"
-hash-format = "sha1"
-hash = "f40a1df96ffba5fcded7565e8024b3a412387b27"
+hash-format = "sha512"
+hash = "863c119b5e31c4905a800eb939fce1043dd2ebe8ee1350fe9d4080450d9c449e3b87b31d5fb20f2cca7629b8e5b0200b437b3e200c7f3ccb9b1fb436301b85d4"
 
 [update]
 [update.modrinth]

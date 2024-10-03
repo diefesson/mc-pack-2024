@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ElVMD7Qz/versions/2X1skJtu/notenoughwands-1.20-6.0.2.jar"
-hash-format = "sha1"
-hash = "98d78d28ca200597154f8f99a5735490fd1d4ec4"
+hash-format = "sha512"
+hash = "587252b7517f27e507a458597ea1fa16b5232c34040e49c36e30bbc5f079476ad04c66f878d139a9c6e5b899b94e88d0a63551384e2e4d3f9602091caa3ce4e5"
 
 [update]
 [update.modrinth]

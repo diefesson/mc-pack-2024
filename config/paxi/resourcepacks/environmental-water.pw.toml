@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/5QsxmK1S/versions/Nnht7rBU/Environmental%20Water%201.20.0-1.20.1.zip"
-hash-format = "sha1"
-hash = "0e0388b9d724d09fcc5f8b81253d81b1c8832ad3"
+hash-format = "sha512"
+hash = "3f88509e9e1405819755064b14228a0c6554ad546ef6aa87e36ae004f477d4465eaca4b5a51359ca123004cf1f4ea937b32b9ef4b236f9e323492e3098e89bdc"
 
 [update]
 [update.modrinth]

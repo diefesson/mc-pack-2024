@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/rOUBggPv/versions/VOQdQhsn/supermartijn642corelib-1.1.17a-forge-mc1.20.1.jar"
-hash-format = "sha1"
-hash = "592d758396570d1369cffab610a622a1600b98a6"
+hash-format = "sha512"
+hash = "c9ab002ed38c355c496667462ecee69ab092779bc271947fbc5b82263c77991fee309dfffabcd173b3bf555132ec415e920088a9d3d2d25fd22ec5ca3113146a"
 
 [update]
 [update.modrinth]

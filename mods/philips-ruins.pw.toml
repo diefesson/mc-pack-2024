@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/IzRZrVvw/Philips-Ruins1.20.1-4.5.jar"
-hash-format = "sha1"
-hash = "82733a98055aabfb070896fb9b72cca4930c6458"
+hash-format = "sha512"
+hash = "a2972e414ec75867c9fc7f1521b09c5c22272dea60f7ef6276727ffdb6f3819197ad984136e30c2770e4904fea1e48435e7db71ef1cc464aaca85be32a36ec80"
 
 [update]
 [update.modrinth]

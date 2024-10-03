@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/jSV9w0J5/versions/DMn6ktl4/IllagerInvasion-v8.0.6-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "0e00440fb2eee67d243ee3f4a5471aecee5f3f62"
+hash-format = "sha512"
+hash = "71e5446d6e017e43a978b9b01af4dcabaf5231ab51d5d6db31fb6b2020fa04fd0f2eabc134cc3b91d65e2aa57ed96eb2bf4d76a772bd19a5bef9b4c5011c8ed4"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/nGUXvjTa/versions/qawBJ6PD/mns-1.0.1-1.20-forge.jar"
-hash-format = "sha1"
-hash = "49669e04356c3e568040487be24ce864da40f4bc"
+hash-format = "sha512"
+hash = "42286637deff6d4d9c6aa53bd78383c063ea20610c164bdc1fb3fd5d55cd6e64ba13988c541cce902dc073f26529cb6f8f9917c9447c13f24602e7afd63ba75b"
 
 [update]
 [update.modrinth]

@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/54plduvG/versions/mQu6HPBz/piglinnames-1.20.1-1.1.jar"
-hash-format = "sha1"
-hash = "3d68a1a98c2c7ff011db01e38f59701f6d94696e"
+hash-format = "sha512"
+hash = "34fd7b5ff3d2dfc3521dc7e52e33acca88638714b8141905285b7664400907a779416bfc9b56fd4d8ff4108070d7f1f6cfda9605b602d05f1049f7b3185b6ab3"
 
 [update]
 [update.modrinth]

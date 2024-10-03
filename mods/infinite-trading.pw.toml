@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/U3eoZT3o/versions/MXcvx0Go/infinitetrading-1.20.1-4.5.jar"
-hash-format = "sha1"
-hash = "b972382d90784c5e7ec1ee8090df6bb9547f7294"
+hash-format = "sha512"
+hash = "a13bbaf301404b812e68a58ad81b86288ad8972da023727b6740afa124d743621b42351b148a17bd368002af1feb023aecd2961a77285b726c94122f50a317d8"
 
 [update]
 [update.modrinth]

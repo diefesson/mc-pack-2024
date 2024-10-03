@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/sk9knFPE/versions/maCpsT70/rhino-forge-2001.2.3-build.6.jar"
-hash-format = "sha1"
-hash = "0c91c1710d7338f139b7cb3465f00590e210139e"
+hash-format = "sha512"
+hash = "5e9f06561b776c472848d0f44461ad4daef64b08db9734ced785fede6198748f785f7ca721f806cf118c995bc43b2807e138845962b43fa2d91d97d972237341"
 
 [update]
 [update.modrinth]

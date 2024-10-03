@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/E0L8mfJZ/versions/3UXTHiK6/ObsidianUI-forge-0.2.3%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "aaa69c42410847ac5d13034fba9d519e0afd0abf"
+hash-format = "sha512"
+hash = "07f3890ac55345eb4c7091af03ca7523ee5eb6a7db0a651479096d1a85ebbdfccc6c5e81de6546fcb2e5a9953c89cdacdc98e2ffd6aa020da3d72d8f295f8fa3"
 
 [update]
 [update.modrinth]

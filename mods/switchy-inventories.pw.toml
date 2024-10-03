@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ZLlbzi9I/versions/QfOTVDPG/switchy-inventories-1.8.2%2B1.19.jar"
-hash-format = "sha1"
-hash = "0a737fe2d0abdc1b63e1e8203d0b86491864bfdd"
+hash-format = "sha512"
+hash = "31275a30f279c4bd13661770ff5e971f48f7433d4e9235305847c3f8d93a0443a464fa4a4545ecba2adb1dff10579199e8c0ac2ae3af943d8b4d991acf00639a"
 
 [update]
 [update.modrinth]

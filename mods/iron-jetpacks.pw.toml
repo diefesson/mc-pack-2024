@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/2AlB2wZ9/IronJetpacks-1.20.1-7.0.6.jar"
-hash-format = "sha1"
-hash = "33e3c77c82ebe8aa3502ae29047262ff553a5d8d"
+hash-format = "sha512"
+hash = "90328784be890453d75b7c2cbb1fe0d0c261e56cca92b619aed5b659e8c80d92ab25c51e6620df05e86ed82d8d41768128e9b47c733968d9db363d77cb89ddfc"
 
 [update]
 [update.modrinth]

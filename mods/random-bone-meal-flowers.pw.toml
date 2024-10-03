@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/17enPZMC/versions/OLGhPSDQ/randombonemealflowers-1.20.1-4.6.jar"
-hash-format = "sha1"
-hash = "7801154d3e90a261ae8876f4997061d4553a1fe4"
+hash-format = "sha512"
+hash = "807845e15baeebb9262660fca09f3247e309bb11aaaf4143d7b2ac6f1a09b2b7c5eb2a4afed7a5b70befd20971380d0396d9a245d9288ba7c9d072fc577ee0f1"
 
 [update]
 [update.modrinth]

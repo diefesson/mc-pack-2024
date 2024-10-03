@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/pASfBwdH/Hearths%20v1.0.1%20f12-48.jar"
-hash-format = "sha1"
-hash = "40f280ffb0b4c797d7e31536b74b92e2bfc30ef4"
+hash-format = "sha512"
+hash = "2ddbeb0c7c838d173044c72062d34028fb2f4e52b03c3949e920a3ee62452bbe29d55a6d5d2b9e881a185c262552d92a745389e8883f7fdab5ff811ce562e2b9"
 
 [update]
 [update.modrinth]

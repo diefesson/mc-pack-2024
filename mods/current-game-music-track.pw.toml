@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/YWZbIwtC/versions/XVduIs66/currentgamemusictrack-1.20.1-2.2.jar"
-hash-format = "sha1"
-hash = "42101eab001d9f7fb237e9a02edf0575cdf92541"
+hash-format = "sha512"
+hash = "c984e0289759c0632c1aaf68b9e2b329b28bae417a3cab6b4fc165a77c5756a67a567923f519dad3d8eb686def75161842c01df0d0b0301da35ff8d4a1781124"
 
 [update]
 [update.modrinth]

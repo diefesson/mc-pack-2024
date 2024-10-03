@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/VmGOLJeH/versions/xCODJyNc/nofeathertrample-1.20.1-1.3.jar"
-hash-format = "sha1"
-hash = "69cf015b003eda94ffdec3ea3f323fda6fdfa34c"
+hash-format = "sha512"
+hash = "4c63260d1d8c6c22d4365658b7ae9fce10895aec5a08d6df300d2714bd3e8f5d335037217240b645a781e326b051976e956429875f7084b480666b8d87233ca5"
 
 [update]
 [update.modrinth]

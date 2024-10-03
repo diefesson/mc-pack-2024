@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/8pcjMDgj/versions/LvveFy3w/TradingPost-v8.0.2-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "b5cfd0afd134d118124fb12f5e605574938ddffd"
+hash-format = "sha512"
+hash = "c401f6bdd7aaef623bbc5c55fbd1d33184a427ad7f89bc7713050cb7adb61346badea266009b8f9ecf3624ea3e537a4b23d7f360ecf369e9d208b2df8902777c"
 
 [update]
 [update.modrinth]

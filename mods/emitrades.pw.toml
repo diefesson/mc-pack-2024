@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/j2HhbEE7/versions/LBT7pcVH/emitrades-forge-1.2.1%2Bmc1.20.1.jar"
-hash-format = "sha1"
-hash = "ea86eceb04978bc366fe022bbab5dd5ea0bd3ab4"
+hash-format = "sha512"
+hash = "b0344906a3da867373edf6a4d5a7bcb1d0aa0aaf11825244b9d1d5aeb1aec1c5d023b754ab8f881905c7086ba11d2cdc5740ba29ab967b4549346531bcbc1b86"
 
 [update]
 [update.modrinth]

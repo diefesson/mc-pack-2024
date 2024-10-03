@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/hmAeYRJT/versions/B4bbIFD8/betterspawnercontrol-1.20.1-4.6.jar"
-hash-format = "sha1"
-hash = "3371e913f3072659bbd288e0f3ba7f84a085493c"
+hash-format = "sha512"
+hash = "334e5d78b34d2958beb1a5ce8eaf9fb2486db1c75357aa346aa7c40cd1eceabb7a3cf0743ab2fb4c942e1e6fc7bc1a93aca399716988b34c10c9ddcd1a06a389"
 
 [update]
 [update.modrinth]

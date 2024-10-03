@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/4lO2KZlF/versions/FjEO5apf/crunchy-crunchy-advancements-1.7.0%2B1.20.jar"
-hash-format = "sha1"
-hash = "74339ad2e554ae9ad8519b0f64911e66a9248eab"
+hash-format = "sha512"
+hash = "5d6e45d9371145cbdd6a3135d50c02af13c6e81766ca016d346979b3124d7c15fb5d1c14f29ca29b4650c01d9507f8a649e3eddac0c7ac06a7702b8055b04929"
 
 [update]
 [update.modrinth]

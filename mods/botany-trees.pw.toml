@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/mvs7RoIW/versions/CVdKpUBO/BotanyTrees-Forge-1.20.1-9.0.17.jar"
-hash-format = "sha1"
-hash = "a614ca44d0f7ce118da73821c59d419eb69b71ec"
+hash-format = "sha512"
+hash = "853d1a79e514f72a93c22292bffcded38677f62b8280d4e019bb58c2a7fe4fa2a0bd65f4b022aacf6e465961b02bedc0c2b03dcb3471a72c471f0253c37a688c"
 
 [update]
 [update.modrinth]

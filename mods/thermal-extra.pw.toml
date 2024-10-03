@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/QejnMYJo/versions/b3cfVw1l/ThermalExtra-3.1.8-1.20.1.jar"
-hash-format = "sha1"
-hash = "8dc76b886324a6222cd6bd31b0280b5cc8a69599"
+hash-format = "sha512"
+hash = "30adb537beac9d2248f442556f6087973da399f4455dbdb03b2f157931af879ad7262fdca6427726f2d35032ade3ce50f7063efa1a1ea6cfe13d3df32108be10"
 
 [update]
 [update.modrinth]

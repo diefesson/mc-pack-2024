@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/3azQ6p0W/versions/xLN2AayC/cherishedworlds-forge-6.1.6%2B1.20.1.jar"
-hash-format = "sha1"
-hash = "07dc81c2c36fd3686185eaa1668bf1e9a483e048"
+hash-format = "sha512"
+hash = "d34ad1e258f3f32d408436778d7ae0cc502f8310e3fd9336fda5894fd530164e9d15a01083e81feaaca0408533685d493fbf5bd765f66484fc04d295085d004a"
 
 [update]
 [update.modrinth]

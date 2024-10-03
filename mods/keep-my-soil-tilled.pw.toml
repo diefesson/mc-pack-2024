@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/OC5Zubbe/versions/JW5Cb1yd/keepmysoiltilled-1.20.1-2.4.jar"
-hash-format = "sha1"
-hash = "1d7981ca104905b4297bb8c33f65470c10bff31c"
+hash-format = "sha512"
+hash = "744691aa70a273a166c3e18da9411978d52aed180346fcbb0c430a0db5f70e5ef2d8828ea2c2fbea30816b1cd2aaa31a0a8e84002d9d6c856291cddb42f4f0ce"
 
 [update]
 [update.modrinth]

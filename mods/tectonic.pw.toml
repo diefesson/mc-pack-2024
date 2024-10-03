@@ -5,8 +5,8 @@ pin = true
 
 [download]
 url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/rktqBfn4/tectonic-forge-1.19.3-2.3.5a.jar"
-hash-format = "sha1"
-hash = "25c603e099928ad75c2020b351fe448f1dd68e44"
+hash-format = "sha512"
+hash = "fc4d515dab49317d4b61579e457cf36e0b2fee32d62db9746e43e79f1f534548df33af5d89fb46243cda663a0c530ce82595f1282d42cca8716f2a85637a4c44"
 
 [update]
 [update.modrinth]

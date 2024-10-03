@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/lX1xTFBZ/versions/gVDdbffP/DistinguishedPotions-v8.0.2-1.20.1-Forge.jar"
-hash-format = "sha1"
-hash = "11b591a16576a053c09a238f89d46209bcf75860"
+hash-format = "sha512"
+hash = "9d17e9dbe271ae0e95cf8d50d5290accc2f710eb1df284638239d1d684ce8ab89ca0cc52f019bacc02bf7251fcdf2dd84026c8fb99f545edebd7aecf4ee3e5fa"
 
 [update]
 [update.modrinth]

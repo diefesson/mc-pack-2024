@@ -4,8 +4,8 @@ side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/2rL16t1O/versions/1xSRBbRW/Enhanced-Celestials-Forge-1.20.1-5.0.1.0.jar"
-hash-format = "sha1"
-hash = "ce008a2ebdaec1cc69fe0b6e181d7411d8c32c48"
+hash-format = "sha512"
+hash = "bf46e9d1f29ab03737c7b9e0bf333244c3e5059763a30817174462fa26e4f8296e55d4ba1ab2a0d6081852b110abec373268620b241c53ac57e6b0bd0ddb14aa"
 
 [update]
 [update.modrinth]

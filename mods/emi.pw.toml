@@ -4,8 +4,8 @@ side = "client"
 
 [download]
 url = "https://cdn.modrinth.com/data/fRiHVvU7/versions/9BeUhlBt/emi-1.1.13%2B1.20.1%2Bforge.jar"
-hash-format = "sha1"
-hash = "914170e531accbdb08e5a1c757d7bfdc3201b40c"
+hash-format = "sha512"
+hash = "4687c71d4406aaedf4f80ab5537abcafd1e6246535e78dab1176cb18684d39eb43b0c6dfe8ef10cbd5f9ae9abc586d908559fcb24d099e2d31754bb381b3a2c1"
 
 [update]
 [update.modrinth]
