@@ -1,4 +1,4 @@
-advancedItemTooltips:false
+advancedItemTooltips:true
 allowServerListing:true
 ao:true
 attackIndicator:1
@@ -123,6 +123,7 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
 key_key.inventory:key.keyboard.e
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
@@ -181,7 +182,6 @@ key_key.screenshot:key.keyboard.f2
 key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.unknown
-key_key.special_ability:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.control
 key_key.submode:key.keyboard.unknown
@@ -206,6 +206,7 @@ key_keybind.ironjetpacks.descend:key.keyboard.unknown
 key_keybind.ironjetpacks.engine:key.keyboard.k
 key_keybind.ironjetpacks.hover:key.keyboard.l
 key_keybind.ironjetpacks.increment_throttle:key.keyboard.period
+key_neat.keybind.toggle:key.keyboard.unknown
 key_setting.keybinds.switch_to_end:key.keyboard.unknown
 key_setting.keybinds.switch_to_nether:key.keyboard.unknown
 key_setting.keybinds.switch_to_overworld:key.keyboard.unknown
@@ -262,6 +263,7 @@ key_setting.world_map.waystone_waypoint_set:key.keyboard.unknown
 key_setting.world_map.waystones_sync:key.keyboard.unknown
 key_setting.world_map.world_tools:key.keyboard.unknown
 key_setting.xaeroplus.sodium_embeddium_integration:key.keyboard.unknown
+key_supplementaries.keybind.quiver:key.keyboard.unknown
 lang:en_us
 lastServer:
 mainHand:"right"

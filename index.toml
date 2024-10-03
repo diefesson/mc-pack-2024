@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "3e221f1c161ec1309306e2c306d8b9bef31648ad3ed315996886880461058f37"
+hash = "96ae368723697b4bf5a1c923f32f5e99b443208e4e05b84e47cb4ce70038a5fd"
 
 [[files]]
 file = "config/cucumber-client.toml"
@@ -1662,4 +1662,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "10f7b7a62d7ae64816310eba6e7b2f2d5cca411606a99a26618f7caee6cd80df"
+hash = "95d14eccccd6884fb9252b43670c061881c759e694bd441ec657ea2f72772482"
