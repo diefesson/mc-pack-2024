@@ -1,0 +1,13 @@
+name = "Breedable Killer Rabbit"
+filename = "breedablekillerrabbit-1.20.1-3.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bhXPWTWy/versions/VxGALM93/breedablekillerrabbit-1.20.1-3.7.jar"
+hash-format = "sha512"
+hash = "9b2500d9f9c7e341751eca334c2659761b27f9397774e223adc3d7f121ae238a3925c3c5127d4938223eed99d4dc56c9abaccffde2e5e0f815d05c84fc3041a6"
+
+[update]
+[update.modrinth]
+mod-id = "bhXPWTWy"
+version = "VxGALM93"

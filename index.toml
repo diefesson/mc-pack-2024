@@ -5,12 +5,20 @@ file = "config/DistantHorizons.toml"
 hash = "96ae368723697b4bf5a1c923f32f5e99b443208e4e05b84e47cb4ce70038a5fd"
 
 [[files]]
+file = "config/cavespiderspawn.json5"
+hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
+
+[[files]]
 file = "config/cucumber-client.toml"
 hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 
 [[files]]
 file = "config/cull-less-leaves.json"
 hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/despawningeggshatch.json5"
+hash = "093b2af1f2df668d92cd66e57264b9522478b9fae58aa245af9ab8930b3e4dbb"
 
 [[files]]
 file = "config/embeddium++.toml"
@@ -33,8 +41,24 @@ file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
 [[files]]
+file = "config/hiddenrecipebook.json5"
+hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
+
+[[files]]
+file = "config/huskspawn.json5"
+hash = "9755f88ed91ed652367969085616f28a0e7b118a2390e05fc942cf58206e4d62"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
+
+[[files]]
+file = "config/mooshroomspawn.json5"
+hash = "6fc72213e69f8816da5416d3bf0b88cbd037468234c484d20d1e979e98cd1cbc"
+
+[[files]]
+file = "config/mooshroomtweaks.json5"
+hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
 
 [[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
@@ -107,6 +131,58 @@ hash = "e1f254d002148c00d451ca74d641025ea8e1908e74d69d8e3b276ca6bfe8212a"
 [[files]]
 file = "config/silentgems-common.toml"
 hash = "f0a914fb446298828ab01457eb64f4b1fe36ab58d27abade4b593000683d6588"
+
+[[files]]
+file = "config/starterkit.json5"
+hash = "18c81c65c991801a3335ee10b63fb9db04b70decc17960263eed54e198f0a35c"
+
+[[files]]
+file = "config/starterkit/descriptions/Archer.txt"
+hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"
+
+[[files]]
+file = "config/starterkit/descriptions/Default.txt"
+hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"
+
+[[files]]
+file = "config/starterkit/descriptions/Kit_1.txt"
+hash = "83d474628b1c3aedf359adf05b6792364deda80f4053475fdf9b0c1ad864b957"
+
+[[files]]
+file = "config/starterkit/descriptions/Lumberjack.txt"
+hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"
+
+[[files]]
+file = "config/starterkit/descriptions/Witch.txt"
+hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
+
+[[files]]
+file = "config/starterkit/kits/Default.txt"
+hash = "20a4ed17bd8d96107afb66f42de6f6de8f57a2dd73bb95bacb2ce66af8165217"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Archer.txt"
+hash = "2d33c0b751d94e542b0ccecf3709e4872b6097d8e450b8336d78f5bfdce38306"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Default.txt"
+hash = "7ef15dda287a37b866a4dbf58964aa5404b73bfbbbc06c8e9aac1ffe7352ad10"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Kit_1.txt"
+hash = "20a4ed17bd8d96107afb66f42de6f6de8f57a2dd73bb95bacb2ce66af8165217"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Lumberjack.txt"
+hash = "2f481c3b16599f5563ae0ad9f932a5ce5929d2ffce51cd6c67adc3b93694541c"
+
+[[files]]
+file = "config/starterkit/kits/inactive/Witch.txt"
+hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
+
+[[files]]
+file = "config/strayspawn.json5"
+hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
 
 [[files]]
 file = "config/switchy/config.toml"
@@ -414,6 +490,11 @@ hash = "f509dbf723ba7f4a12eb8f1d4d446bfcaa6cc412227c3ccba94e39b120cfe3d1"
 metafile = true
 
 [[files]]
+file = "mods/breedable-killer-rabbit.pw.toml"
+hash = "ddee3e3991d6c832f7886ce49f35afe051a3061c946f4100500065feb44e2ab6"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
@@ -519,6 +600,11 @@ hash = "d956483e48f170625e4dec20f42c8e009c408591d618c8426b805f3a24076022"
 metafile = true
 
 [[files]]
+file = "mods/crying-portals.pw.toml"
+hash = "e7d8c3a4b91192e6cfd7cc78207f51d35af5d9bc90e0ee223cc4b2380daf5c4b"
+metafile = true
+
+[[files]]
 file = "mods/ct-overhaul-village.pw.toml"
 hash = "6f6d2d569d7d3efa930b095db24b7f828e3aa4a264f0cef1cdbafe9c4d7847a0"
 metafile = true
@@ -556,6 +642,11 @@ metafile = true
 [[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "36ea769516d056683b619fe7eae9e39c9d1f19f4de21b2b5026749e94f2c63eb"
+metafile = true
+
+[[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+hash = "29c358385d2eadb95eca7355c374ade259c9716c1da65d2c980e544c7a5eca1d"
 metafile = true
 
 [[files]]
@@ -744,6 +835,11 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
+file = "mods/fish-on-the-line.pw.toml"
+hash = "da0ac82c8455e578151e4b0c16684fa4731228a6e76e83e551e9ab6fc677d174"
+metafile = true
+
+[[files]]
 file = "mods/flower-mimics.pw.toml"
 hash = "dd29d6187f20c9d72a500684a2f37037b3d57ec40bb8636b96b9679eacaa43c9"
 metafile = true
@@ -834,8 +930,18 @@ hash = "250e605a9b9321bf70462677937dc0e2afd04561c5507a9c5bab739c7d5da491"
 metafile = true
 
 [[files]]
+file = "mods/hidden-recipe-book.pw.toml"
+hash = "6c73bc0864e65074a00e6c3fd5266b388d4d2964a24775bf0063359c9240ebff"
+metafile = true
+
+[[files]]
 file = "mods/hide-experimental-warning.pw.toml"
 hash = "005920cd18ea09c63df60a2007852c1791d9af4b19d74a5e5e9cff5f14461ec4"
+metafile = true
+
+[[files]]
+file = "mods/husk-spawn.pw.toml"
+hash = "aa9a749337380b9f9cc6ef93b259cdd6a38dc25dc70a2612fd2ecef0ed358d4a"
 metafile = true
 
 [[files]]
@@ -1014,6 +1120,16 @@ hash = "ef8ad203d666ead3be8535c8fdf39059c2faa9f4513cdd74d1698a4d4c5838f7"
 metafile = true
 
 [[files]]
+file = "mods/mooshroom-spawn.pw.toml"
+hash = "68d1f76aa754045cd6ba219daf4cba4ca034509ec2a3df7fe12922b1fd1f3623"
+metafile = true
+
+[[files]]
+file = "mods/mooshroom-tweaks.pw.toml"
+hash = "c32d94df0cd64ed2463608a4dc4b119165419f6120fc30693b4332c189b40d00"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -1139,6 +1255,11 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
+file = "mods/persistent-inventory-search.pw.toml"
+hash = "d8001c0ff1ccf9b0050c312a57a89a76090efeb8f5343b641d2c47200e00387d"
+metafile = true
+
+[[files]]
 file = "mods/pet-names.pw.toml"
 hash = "73342e146f646236472d5943f442d64fa4529360f36074b27febf9fa95bcc657"
 metafile = true
@@ -1206,6 +1327,11 @@ metafile = true
 [[files]]
 file = "mods/realistic-bees.pw.toml"
 hash = "caf126387f7df00f36a22f09b3d36b21b9adb6a0b292a06d2ac94c1d5b734ce9"
+metafile = true
+
+[[files]]
+file = "mods/recast.pw.toml"
+hash = "bfd59d6b69f6ed4c316643ee30325da4c7b601489489fff3564364b882a56d07"
 metafile = true
 
 [[files]]
@@ -1324,6 +1450,16 @@ hash = "5896c416f9f4479b5cad4a9c2965e1777dd9cb88e4ec223284ccb694ea366273"
 metafile = true
 
 [[files]]
+file = "mods/sleep-sooner.pw.toml"
+hash = "afdaa0ac6979135afff43ebb305e7c9f2139c0825e54777473c8ec353f901098"
+metafile = true
+
+[[files]]
+file = "mods/smaller-nether-portals.pw.toml"
+hash = "1f88e5035699ea85017fb8216613e97b555b50d11761c0139bfbaa41a4cb6121"
+metafile = true
+
+[[files]]
 file = "mods/smarter-farmers-farmers-replant.pw.toml"
 hash = "ccfd6470814cb143ab00c4e4ae5978980d594e8d3d89f21cf660a8242e76c24e"
 metafile = true
@@ -1346,6 +1482,16 @@ metafile = true
 [[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "12574447517027848c3b93afc26f2fbae54bb99ab439bd17570b691a1a60ef84"
+metafile = true
+
+[[files]]
+file = "mods/starter-kit.pw.toml"
+hash = "caa2884f648520af6510587788326c4e19771fdf975e84b0f575372319325716"
+metafile = true
+
+[[files]]
+file = "mods/stray-spawn.pw.toml"
+hash = "7b6fb05dee6b2e62f3609ca8741baed8b88b42aba25844c03a70ef9ca1008c53"
 metafile = true
 
 [[files]]
@@ -1461,6 +1607,11 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
+metafile = true
+
+[[files]]
+file = "mods/thorny-bush-protection.pw.toml"
+hash = "f6d98f4d9b5536af46d87a578b6a2abc6c03afacd131b8c3ac3e72540f76c4df"
 metafile = true
 
 [[files]]

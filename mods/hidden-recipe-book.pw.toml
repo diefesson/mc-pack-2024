@@ -1,0 +1,13 @@
+name = "Hidden Recipe Book"
+filename = "hiddenrecipebook-1.20.1-4.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/NbPqFmZs/versions/5TAPp5Il/hiddenrecipebook-1.20.1-4.7.jar"
+hash-format = "sha512"
+hash = "fc875b054f4f631f64ea2a4242f03f5ed8999c4d75c13c026c8d7fb017f04360a4fe6fbcd5c1bf4c26563cc866b56bd7ca34a604ffa0975ab2330697dc1f90ce"
+
+[update]
+[update.modrinth]
+mod-id = "NbPqFmZs"
+version = "5TAPp5Il"

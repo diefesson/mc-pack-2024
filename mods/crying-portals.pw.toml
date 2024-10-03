@@ -1,0 +1,13 @@
+name = "Crying Portals"
+filename = "cryingportals-1.20.1-2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3RkVNglH/versions/cB8CWBqv/cryingportals-1.20.1-2.8.jar"
+hash-format = "sha512"
+hash = "01c5cbc237ba93af389fe21fa98866a81e32738e480914a618072fb336cf2288d6c6e2ebb978fd129a14b556f56d8604fdaac1593e1d3fd5f8465f3218f4243c"
+
+[update]
+[update.modrinth]
+mod-id = "3RkVNglH"
+version = "cB8CWBqv"

@@ -1,0 +1,13 @@
+name = "Starter Kit"
+filename = "starterkit-1.20.1-7.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6L3ydNi8/versions/nGVvCsgb/starterkit-1.20.1-7.1.jar"
+hash-format = "sha512"
+hash = "45458b4f60a4c1bacc1354ce1e9b995c622329f830716bc5d6e42fe9c1ea4ec87db1ca528fb4f85962f48005d2da44967ec29178c04c63fca92ded8e86588a22"
+
+[update]
+[update.modrinth]
+mod-id = "6L3ydNi8"
+version = "nGVvCsgb"

@@ -1,0 +1,13 @@
+name = "Recast"
+filename = "recast-1.20.1-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8TWzoOby/versions/ImnWzYVz/recast-1.20.1-3.5.jar"
+hash-format = "sha512"
+hash = "455d533918ca52b313e7b1505e34c3379f774473532fcd01f10c2b9536de4642dba4de6aca509d5b736321d23b513ac6dfaff6aff2df1c6a681514c4872e3697"
+
+[update]
+[update.modrinth]
+mod-id = "8TWzoOby"
+version = "ImnWzYVz"

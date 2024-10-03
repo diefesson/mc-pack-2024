@@ -1,0 +1,13 @@
+name = "Mooshroom Tweaks"
+filename = "mooshroomtweaks-1.20.1-3.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/B10lMHiA/versions/X5eILg1M/mooshroomtweaks-1.20.1-3.5.jar"
+hash-format = "sha512"
+hash = "93821529e9674065f8b812aa0eaf3f766efe471d92c3904775e4e2d7bcc08f61d29f15bae4e7793491cb574545980d1c3e615f937af166aa9e803fdf6241ffaf"
+
+[update]
+[update.modrinth]
+mod-id = "B10lMHiA"
+version = "X5eILg1M"
