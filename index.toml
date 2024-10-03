@@ -281,6 +281,11 @@ hash = "8dce782d35499ad82aa8baa59e9a9b1c1a9ab0a6eac55ffabcea6f8f98b2b681"
 metafile = true
 
 [[files]]
+file = "mods/amendments.pw.toml"
+hash = "a1b5ddac0b1ab07ddb68a78d589eb4a44ee2b3fef4f1b1b0c0b8cf0b8a1436dd"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "0a1d5aeaae3975eaa4bb3a98e91852f797a5095794af70df41d50841c57ca347"
 metafile = true
@@ -713,6 +718,11 @@ metafile = true
 [[files]]
 file = "mods/fallingleavesforge.pw.toml"
 hash = "25fa919ea97a60c39737bdd490e3a8f78361f42416453d83bd9a291908b821b2"
+metafile = true
+
+[[files]]
+file = "mods/fast-paintings.pw.toml"
+hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
 metafile = true
 
 [[files]]
@@ -1353,6 +1363,11 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "f3c45080e81efae68d313fd410ee80be56fb926b8580a8b509020fd611e3ffee"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "71f5447cc88aaa5d1f4a494cbebc9ecb3aa268c1fd4fa2931371a0763c0a09dc"
 metafile = true
 
 [[files]]
