@@ -137,50 +137,6 @@ file = "config/starterkit.json5"
 hash = "18c81c65c991801a3335ee10b63fb9db04b70decc17960263eed54e198f0a35c"
 
 [[files]]
-file = "config/starterkit/descriptions/Archer.txt"
-hash = "2ea003ce1408175d33f2bf55cb2de60b7aca7d652b922a84ec52d7d77eb99b64"
-
-[[files]]
-file = "config/starterkit/descriptions/Default.txt"
-hash = "19df01c903be0cc0216fbca05181ff06c2aff09f2ef213e78ea93f82d2cb1324"
-
-[[files]]
-file = "config/starterkit/descriptions/Kit_1.txt"
-hash = "83d474628b1c3aedf359adf05b6792364deda80f4053475fdf9b0c1ad864b957"
-
-[[files]]
-file = "config/starterkit/descriptions/Lumberjack.txt"
-hash = "5091e1a2d5a2927fe1d8f6a6a233ace60f2407be05384f3140b839e9ad3a041a"
-
-[[files]]
-file = "config/starterkit/descriptions/Witch.txt"
-hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
-
-[[files]]
-file = "config/starterkit/kits/Default.txt"
-hash = "20a4ed17bd8d96107afb66f42de6f6de8f57a2dd73bb95bacb2ce66af8165217"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Archer.txt"
-hash = "2d33c0b751d94e542b0ccecf3709e4872b6097d8e450b8336d78f5bfdce38306"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Default.txt"
-hash = "7ef15dda287a37b866a4dbf58964aa5404b73bfbbbc06c8e9aac1ffe7352ad10"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Kit_1.txt"
-hash = "20a4ed17bd8d96107afb66f42de6f6de8f57a2dd73bb95bacb2ce66af8165217"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Lumberjack.txt"
-hash = "2f481c3b16599f5563ae0ad9f932a5ce5929d2ffce51cd6c67adc3b93694541c"
-
-[[files]]
-file = "config/starterkit/kits/inactive/Witch.txt"
-hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
-
-[[files]]
 file = "config/strayspawn.json5"
 hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
 
@@ -1642,6 +1598,11 @@ metafile = true
 [[files]]
 file = "mods/trashslot.pw.toml"
 hash = "61f276b2c47ef43f76dc57f19ad6a3b64893aec15729b7c8c0c37f844c89ccc7"
+metafile = true
+
+[[files]]
+file = "mods/travelers-titles.pw.toml"
+hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
 metafile = true
 
 [[files]]
