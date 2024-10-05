@@ -5,6 +5,10 @@ file = "config/DistantHorizons.toml"
 hash = "96ae368723697b4bf5a1c923f32f5e99b443208e4e05b84e47cb4ce70038a5fd"
 
 [[files]]
+file = "config/ambientsounds-client.json"
+hash = "db3c131736ee1e7135dd6bf55c82b745e1403d57dacfe9a6cce2a8f066d14da8"
+
+[[files]]
 file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
@@ -308,11 +312,6 @@ metafile = true
 [[files]]
 file = "mods/alternate-current.pw.toml"
 hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
-metafile = true
-
-[[files]]
-file = "mods/ambient-environment.pw.toml"
-hash = "1047a7b018546f650c04d6999110a3b80b246fd0ab716e8375d3565c3942dcfe"
 metafile = true
 
 [[files]]
