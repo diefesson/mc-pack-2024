@@ -9,6 +9,14 @@ file = "config/ambientsounds-client.json"
 hash = "db3c131736ee1e7135dd6bf55c82b745e1403d57dacfe9a6cce2a8f066d14da8"
 
 [[files]]
+file = "config/barteringstation-client.toml"
+hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
+
+[[files]]
+file = "config/barteringstation-server.toml"
+hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
+
+[[files]]
 file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
@@ -147,6 +155,10 @@ hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
 [[files]]
 file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
+
+[[files]]
+file = "config/tradingpost-server.toml"
+hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
 [[files]]
 file = "config/visual_workbench.json"
