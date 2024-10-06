@@ -209,6 +209,10 @@ file = "config/tradingpost-server.toml"
 hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
 [[files]]
+file = "config/universalbonemeal-server.toml"
+hash = "4715fb99956abe954a35c3fc9519d32c72189640e7c3b91d87a28ce0caa54990"
+
+[[files]]
 file = "config/visual_workbench.json"
 hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
 
