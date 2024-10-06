@@ -345,16 +345,6 @@ file = "kubejs/startup_scripts/volatiledust/volatile_dust.js"
 hash = "4d225ea0ad5f4710758dc2995b65f8e7db47f4ab5316a28420cad07ecb1ec640"
 
 [[files]]
-file = "mods/accessories-cc-layer.pw.toml"
-hash = "5f0ae1f47d00c1d3ed7132f07b05879ae0062bb07ce7d706ca8157e27e27604e"
-metafile = true
-
-[[files]]
-file = "mods/accessories.pw.toml"
-hash = "a1bb215cabb3f5a68f21158acfb4fd8e2ed207645345d41d0bacceafcf773c85"
-metafile = true
-
-[[files]]
 file = "mods/advancedperipherals.pw.toml"
 hash = "1a98d8812477f336c746f9e4cbc159a795ccfb5b305a887f35b04955fcc8e85d"
 metafile = true
@@ -647,6 +637,11 @@ metafile = true
 [[files]]
 file = "mods/cull-less-leaves-reforged.pw.toml"
 hash = "df9ee07891e8347da9c0eef226a2043ab9299fdc8b2350c93a78af9c37455ee7"
+metafile = true
+
+[[files]]
+file = "mods/curios.pw.toml"
+hash = "0fd0d294ce7414d112dbfd66ff6ee4e7d06c1c8650d0d521a8d39669604b56d8"
 metafile = true
 
 [[files]]
