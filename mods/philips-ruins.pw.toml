@@ -1,13 +1,13 @@
 name = "Philips Ruins"
-filename = "Philips-Ruins1.20.1-4.5.jar"
+filename = "Philips-Ruins1.20.1-4.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/IzRZrVvw/Philips-Ruins1.20.1-4.5.jar"
+url = "https://cdn.modrinth.com/data/KdJhOYVV/versions/TntWUwDY/Philips-Ruins1.20.1-4.6.jar"
 hash-format = "sha512"
-hash = "a2972e414ec75867c9fc7f1521b09c5c22272dea60f7ef6276727ffdb6f3819197ad984136e30c2770e4904fea1e48435e7db71ef1cc464aaca85be32a36ec80"
+hash = "d12819b2ad62db7f3257da8dbd1cf56645241fe86aa36378e69dfb45bd899cf057677139ce9d1e9cea9e71c369ff24a5869fb725dd0aa19adc6dc316ce6a1775"
 
 [update]
 [update.modrinth]
 mod-id = "KdJhOYVV"
-version = "IzRZrVvw"
+version = "TntWUwDY"

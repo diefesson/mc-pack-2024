@@ -1,13 +1,13 @@
 name = "BetterGrassify"
-filename = "BetterGrassify-1.2.1+forge.1.20.1.jar"
+filename = "BetterGrassify-1.2.3+forge.1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/rIszHs6Q/BetterGrassify-1.2.1%2Bforge.1.20.1.jar"
+url = "https://cdn.modrinth.com/data/m5T5xmUy/versions/zJTCa0a7/BetterGrassify-1.2.3%2Bforge.1.20.1.jar"
 hash-format = "sha512"
-hash = "c9ef57b0c30ee096f9f7ea7f8a013ffc7dfde42161299eb90e4ad0913b9752cca73797f4dba04ef40a1b12c4a94f64d14a45e0e65ad9faa6cd53b11bebcd82f2"
+hash = "87d6e6f4c17ffd00bfd3950bc7f7569b089e27708c3fa66a56f2b8f896adda69439da6f7b8f4e57dffaa64fe61e0aa5b2f0cca92d3ad16ed7080acee1d59d6f3"
 
 [update]
 [update.modrinth]
 mod-id = "m5T5xmUy"
-version = "rIszHs6Q"
+version = "zJTCa0a7"
