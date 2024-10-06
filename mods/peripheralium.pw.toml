@@ -1,0 +1,13 @@
+name = "Peripheralium"
+filename = "peripheralium-forge-1.20.1-0.7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vV2a9qrZ/versions/OzsmyHI4/peripheralium-forge-1.20.1-0.7.0.jar"
+hash-format = "sha512"
+hash = "39141da9d5e568f355fde4c8ef61d81f8835fbe72d5d5096692622f6fa6bf2cb36c1d8761715f98f3810b8fd574b3ddb32860596bb7f2fc95e401abd2f8eda55"
+
+[update]
+[update.modrinth]
+mod-id = "vV2a9qrZ"
+version = "OzsmyHI4"

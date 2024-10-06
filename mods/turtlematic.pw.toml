@@ -1,0 +1,13 @@
+name = "Turtlematic"
+filename = "turtlematic-forge-1.20.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/UogK5QqE/versions/x0biK22T/turtlematic-forge-1.20.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "f4b7d790fa8c10d643e68b08e90dea55daf726b8801c970f347d10dc738849f065273b0e9eab258c2c48ad50072f5942c4b34a9452e6eb2296e3bdc923173178"
+
+[update]
+[update.modrinth]
+mod-id = "UogK5QqE"
+version = "x0biK22T"

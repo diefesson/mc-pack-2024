@@ -1,6 +1,22 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/Advancedperipherals/general.toml"
+hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
+
+[[files]]
+file = "config/Advancedperipherals/metaphysics.toml"
+hash = "708933b1de278e96e67050d8c589297e7cf6c7051c7c69e866068d6f150c026a"
+
+[[files]]
+file = "config/Advancedperipherals/peripherals.toml"
+hash = "044d48f0876884a4004e4822c8a143c98fc99c8470ab2f02caa834bc6cf18089"
+
+[[files]]
+file = "config/Advancedperipherals/world.toml"
+hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
+
+[[files]]
 file = "config/DistantHorizons.toml"
 hash = "96ae368723697b4bf5a1c923f32f5e99b443208e4e05b84e47cb4ce70038a5fd"
 
@@ -304,6 +320,11 @@ metafile = true
 [[files]]
 file = "mods/accessories.pw.toml"
 hash = "a1bb215cabb3f5a68f21158acfb4fd8e2ed207645345d41d0bacceafcf773c85"
+metafile = true
+
+[[files]]
+file = "mods/advancedperipherals.pw.toml"
+hash = "1a98d8812477f336c746f9e4cbc159a795ccfb5b305a887f35b04955fcc8e85d"
 metafile = true
 
 [[files]]
@@ -997,6 +1018,11 @@ hash = "217257e68194a122e08f44bbcfaa00e469a26be30da4c39cc675420f05119ee7"
 metafile = true
 
 [[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
+metafile = true
+
+[[files]]
 file = "mods/kubejs.pw.toml"
 hash = "ab560ae0b28cf4c61544f7863a796bafef294a8724fe12f9bf6fed6d3b542c2a"
 metafile = true
@@ -1219,6 +1245,11 @@ metafile = true
 [[files]]
 file = "mods/paxi.pw.toml"
 hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
+metafile = true
+
+[[files]]
+file = "mods/peripheralium.pw.toml"
+hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
 metafile = true
 
 [[files]]
@@ -1614,6 +1645,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/turtlematic.pw.toml"
+hash = "39af17bc142b6ed455f36e2d675ccf770144539d6f3cc2887983fd4631d1b259"
 metafile = true
 
 [[files]]
