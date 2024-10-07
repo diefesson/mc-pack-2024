@@ -261,6 +261,10 @@ file = "config/voicechat/voicechat-server.properties"
 hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
 
 [[files]]
+file = "config/wands.json"
+hash = "eb7d6d545ad3227483ae715a4d2ee903b420f5a5301f6ea98f41027e5f64ec38"
+
+[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "438ddff39d00a3f7d9bca71687acde37eb4e86b00b21e52a75aecb9c3567201f"
 
@@ -554,6 +558,11 @@ metafile = true
 [[files]]
 file = "mods/breedable-killer-rabbit.pw.toml"
 hash = "ddee3e3991d6c832f7886ce49f35afe051a3061c946f4100500065feb44e2ab6"
+metafile = true
+
+[[files]]
+file = "mods/building-wands.pw.toml"
+hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
 
 [[files]]
@@ -1294,11 +1303,6 @@ metafile = true
 [[files]]
 file = "mods/no-nv-flash.pw.toml"
 hash = "abe0d72f0a439edc40f7174f5b13b934323f8c2b785a3d748fd6164956407505"
-metafile = true
-
-[[files]]
-file = "mods/not-enough-wands.pw.toml"
-hash = "5ce353b9a25cce531da5bd42a6d0286b9dd0c32b4163ee6a9230ac4c23ba14a8"
 metafile = true
 
 [[files]]
