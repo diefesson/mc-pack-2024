@@ -1,6 +1,6 @@
 ServerEvents.recipes(event => {
     event.shapeless(
-        'volatiledust:volatile_dust',
+        'diefalpha:volatile_dust',
         [
             'minecraft:amethyst_shard',
             'minecraft:phantom_membrane',
@@ -12,7 +12,7 @@ ServerEvents.recipes(event => {
         'minecraft:dragon_breath',
         [
             'minecraft:glass_bottle',
-            'volatiledust:volatile_dust'
+            'diefalpha:volatile_dust'
         ]
     )
 })
