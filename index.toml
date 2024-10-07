@@ -322,7 +322,7 @@ hash = "d3ae600dab30922b950e4a6b9a85916db68840d62070f2d889f311918636c5bd"
 
 [[files]]
 file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
-hash = "a7d673bbab8555769a5661cd090a991c5e63dc27878adea7895617b6c91932a0"
+hash = "2b35db133f5be273ab166ba3fcab30a135961fe2c54e808e3c5b54452132b122"
 
 [[files]]
 file = "kubejs/server_scripts/diefalpha/volatile_dust.js"

@@ -4,7 +4,7 @@ ServerEvents.recipes(event => {
         [
             'minecraft:paper',
             'minecraft:phantom_membrane',
-            'minecraft:ender_pearl',
+            '#forge:ender_pearls',
             'minecraft:magma_cream'
         ],
     )
