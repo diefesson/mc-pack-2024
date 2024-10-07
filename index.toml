@@ -85,6 +85,70 @@ file = "config/huskspawn.json5"
 hash = "9755f88ed91ed652367969085616f28a0e7b118a2390e05fc942cf58206e4d62"
 
 [[files]]
+file = "config/ironjetpacks-client.toml"
+hash = "064bce017541c1879c18259538271741f049baf6fa571f51c21453fbfccee8bd"
+
+[[files]]
+file = "config/ironjetpacks-common.toml"
+hash = "9d5a231c3019f9bf27767a746edc38ea01d4c5fd105441531aee58f69ff75789"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/bronze.json"
+hash = "e3f4a15ba5c70989158d9a2b02ab4f49c806581a8c559775f99ccd67b0d62541"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/copper.json"
+hash = "7a76ee539715a89404bed3ee73bd4c17893930edc65c2744ba58b8baf62b73af"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/creative.json"
+hash = "e94d00d800399f8872223eb9ddd069af29cb0df9e723643716a97171f171aff2"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/diamond.json"
+hash = "240d56e72d4da834fcb2ace929342411fdffa883649e3d19a7b5661f4cca7c86"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/electrum.json"
+hash = "ebb617a4964b7219ac9fc77cbfb2d8a648e785c8908aa9a86601eddca137e3a4"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/emerald.json"
+hash = "ed1c9022f3b1b46b6434826cd418285cd2c7bff743e6ef5f0ce7bec4cd87496e"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/gold.json"
+hash = "ebd5725008fca182149e5c44a6d805ca867b17d8525f60eb2ee74ad44e7635ed"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/invar.json"
+hash = "e9aa481d12fd32bb409470489185f3fa84bc028c31d83775093fcc387b665010"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/iron.json"
+hash = "4c8e0e11258e8949021b7c299e299e161be6ee74d84c275b30474b05839ef99d"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/platinum.json"
+hash = "d8d22dff20afa7005c36c99c134755e3445e5634abb3c106c4f7f9724928648c"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/silver.json"
+hash = "c4a580e0af131a53c2a426e2cc6fe74a5701d95db11452787dc58d9ff8057890"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/steel.json"
+hash = "fa60be7334fc5ae8af621351c21dc83cc8c58f0c66cf3e3d021d4d1b26a632bd"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/stone.json"
+hash = "827dbd6769fe938180f561a4ac864f09a06a21294194d30e373228c31d526622"
+
+[[files]]
+file = "config/ironjetpacks/jetpacks/wood.json"
+hash = "ff7ecb8977a95f5dceeb73af64e4d33d5689f6dc9b8d5f5c046b20f1599bafac"
+
+[[files]]
 file = "config/jade/jade.json"
 hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
 
