@@ -49,6 +49,10 @@ file = "config/despawningeggshatch.json5"
 hash = "093b2af1f2df668d92cd66e57264b9522478b9fae58aa245af9ab8930b3e4dbb"
 
 [[files]]
+file = "config/double-hotbar-configs.toml"
+hash = "bef7fd3b507081800c7858a8ff783227ad357c3c53a431beae4a15678b0cbf13"
+
+[[files]]
 file = "config/embeddium++.toml"
 hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
@@ -71,6 +75,10 @@ hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 [[files]]
 file = "config/hiddenrecipebook.json5"
 hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
+
+[[files]]
+file = "config/hotbarswapper.toml"
+hash = "0eb9ff2607d2945b6563dc54f6c91250f10cfacd9e6cd0a475931e34c84eaea3"
 
 [[files]]
 file = "config/huskspawn.json5"
@@ -669,6 +677,11 @@ hash = "29c358385d2eadb95eca7355c374ade259c9716c1da65d2c980e544c7a5eca1d"
 metafile = true
 
 [[files]]
+file = "mods/ding.pw.toml"
+hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "ac0dd0f58d624e654619433093cbff12d8d7b9839184a816accf8061fc3757cc"
 metafile = true
@@ -691,6 +704,11 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "1ee629d0bdb7351a28503d5592e7540836765bdb6b332cc798e8b9bd23bb6ed8"
+metafile = true
+
+[[files]]
+file = "mods/double-hotbar.pw.toml"
+hash = "38697ee4478e5dc675009630bd56562f8f06a06d621e828c0d5cb6879ba22ef3"
 metafile = true
 
 [[files]]
@@ -959,6 +977,11 @@ hash = "005920cd18ea09c63df60a2007852c1791d9af4b19d74a5e5e9cff5f14461ec4"
 metafile = true
 
 [[files]]
+file = "mods/hotbar-swapper.pw.toml"
+hash = "6caa7aab50c3b37fdefe6d2cc8c6b6157c9882bd67cd0711e4f583ecf50d0d9f"
+metafile = true
+
+[[files]]
 file = "mods/husk-spawn.pw.toml"
 hash = "aa9a749337380b9f9cc6ef93b259cdd6a38dc25dc70a2612fd2ecef0ed358d4a"
 metafile = true
@@ -971,6 +994,11 @@ metafile = true
 [[files]]
 file = "mods/iceberg.pw.toml"
 hash = "0b8aa31807551619198a73997b8d67e9a773fccc4ca9245a182d6731e2228675"
+metafile = true
+
+[[files]]
+file = "mods/ichunutil.pw.toml"
+hash = "3aa75e307989c0a66a0658b5c6776e8d664d73f55a99e5ff30ef24d4d2918619"
 metafile = true
 
 [[files]]
@@ -1870,4 +1898,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "95d14eccccd6884fb9252b43670c061881c759e694bd441ec657ea2f72772482"
+hash = "decb1b19431b4434847b5d9af3f775a2e8eecb2c52b537ab6b9ed213c4102ad6"
