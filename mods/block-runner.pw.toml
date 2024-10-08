@@ -1,0 +1,13 @@
+name = "Block Runner"
+filename = "BlockRunner-v8.0.4-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/1VSGxqkt/versions/JCUr7it5/BlockRunner-v8.0.4-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "d13dbe6d30092800f47006dc90754f2fd09422158b3d95f634325a1e82cb00c7898fde65d7bbdd6d95a6d004272227821b5bfb58be8c64af781d6b562e7ac48b"
+
+[update]
+[update.modrinth]
+mod-id = "1VSGxqkt"
+version = "JCUr7it5"

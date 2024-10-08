@@ -465,6 +465,11 @@ hash = "6a39ed880470d436054cd73421f6bd7b9bdaffdce67bb2be3dae3885f82367d7"
 metafile = true
 
 [[files]]
+file = "mods/armor-statues.pw.toml"
+hash = "05dda113751f1aa8b057368d70820be2b53ca7a8a968f9a12fd43a208f84658c"
+metafile = true
+
+[[files]]
 file = "mods/armor-visibility.pw.toml"
 hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
 metafile = true
@@ -542,6 +547,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "70ee5b8c58a4618fa0d94034c0b1422ef519af47e6f8d1f469e952d483d8f800"
+metafile = true
+
+[[files]]
+file = "mods/block-runner.pw.toml"
+hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
 metafile = true
 
 [[files]]
@@ -1600,6 +1610,11 @@ hash = "caa2884f648520af6510587788326c4e19771fdf975e84b0f575372319325716"
 metafile = true
 
 [[files]]
+file = "mods/straw-statues.pw.toml"
+hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
+metafile = true
+
+[[files]]
 file = "mods/stray-spawn.pw.toml"
 hash = "7b6fb05dee6b2e62f3609ca8741baed8b88b42aba25844c03a70ef9ca1008c53"
 metafile = true
@@ -1772,6 +1787,11 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "388e7cabca90d61def6526c021ff1c222996378dad4a24a24518fccd2a8bdbcd"
+metafile = true
+
+[[files]]
+file = "mods/universal-enchants.pw.toml"
+hash = "4a631f8cba58afa73fb1de8bd9904c983f32bd6ed05ec67c95c7cd547807043c"
 metafile = true
 
 [[files]]
