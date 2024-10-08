@@ -21,7 +21,7 @@
 	offsetX = 0
 	#The Y offset for the HUD.
 	#Range: > -2147483648
-	offsetY = 0
+	offsetY = -25
 	#Show HUD over the chat?
 	showOverChat = false
 

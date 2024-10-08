@@ -86,7 +86,7 @@ hash = "9755f88ed91ed652367969085616f28a0e7b118a2390e05fc942cf58206e4d62"
 
 [[files]]
 file = "config/ironjetpacks-client.toml"
-hash = "064bce017541c1879c18259538271741f049baf6fa571f51c21453fbfccee8bd"
+hash = "0cd96194b7acae3d3538d869ac35c879a16887b3bd30fc191b5be7b7bca6b0ff"
 
 [[files]]
 file = "config/ironjetpacks-common.toml"
@@ -235,6 +235,10 @@ hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
 [[files]]
 file = "config/strayspawn.json5"
 hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
+
+[[files]]
+file = "config/stylisheffects-client.toml"
+hash = "75599519d774180e407bde10a8781ee6b26561781bbbe1a528884f5e13248833"
 
 [[files]]
 file = "config/switchy/config.toml"
@@ -1942,4 +1946,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "decb1b19431b4434847b5d9af3f775a2e8eecb2c52b537ab6b9ed213c4102ad6"
+hash = "2b9a555265c093e3baf78f42e53d218b2484cf4219b55f97c708faf57ec2a869"
