@@ -33,6 +33,30 @@ file = "config/barteringstation-server.toml"
 hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
 
 [[files]]
+file = "config/betterdeserttemples-forge-1_20.toml"
+hash = "0046eed2a3e6a6d4fc4d3e3edeb0e4b2fbaeb248422945c40a693a1be6b4354d"
+
+[[files]]
+file = "config/betterfortresses-forge-1_20.toml"
+hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
+
+[[files]]
+file = "config/betterjungletemples-forge-1_20.toml"
+hash = "7d9c148ff147c8d6282e6b90e08bd78350616592d187fa97f88c3204925a1673"
+
+[[files]]
+file = "config/bettermineshafts-forge-1_20.toml"
+hash = "e1bb6ee9bec8c0cc8de5d2105c6531b17d2e4c308a218fde35c71cb0f87d6a6e"
+
+[[files]]
+file = "config/betteroceanmonuments-forge-1_20.toml"
+hash = "0bb334f5c52d073a53c179c6a9433ef2db99abb32394453e72206e3fbbec76ef"
+
+[[files]]
+file = "config/betterwitchhuts-forge-1_20.toml"
+hash = "c0fff68a453fed3ed2000786f35b95991b55aa2621fa6ff78e08955de624b7c5"
+
+[[files]]
 file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
