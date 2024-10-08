@@ -157,6 +157,10 @@ file = "config/morezombievillagers.json5"
 hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
 
 [[files]]
+file = "config/neat-client.toml"
+hash = "1ff762949ca3100de0b4be76d72d4ed2f5de3215bb3816e456341e1b55a9d413"
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
 hash = "38ff7c751ef8c215dbf40d5f16d098da83f038481ed6cb9e1be4ae4b7d980ab3"
 metafile = true
