@@ -262,7 +262,7 @@ hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
 
 [[files]]
 file = "config/wands.json"
-hash = "eb7d6d545ad3227483ae715a4d2ee903b420f5a5301f6ea98f41027e5f64ec38"
+hash = "44575356465b2dce9d4a6ec30fb20b4355180d27b70cced1f116e538a7383ff5"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
