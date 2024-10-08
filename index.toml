@@ -73,6 +73,10 @@ file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
 [[files]]
+file = "config/healingcampfire.json5"
+hash = "c5cc3c071a9722b7909e147798906410cf16630aa4c110a467370506221b982b"
+
+[[files]]
 file = "config/hiddenrecipebook.json5"
 hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
 
@@ -123,6 +127,10 @@ hash = "6fc72213e69f8816da5416d3bf0b88cbd037468234c484d20d1e979e98cd1cbc"
 [[files]]
 file = "config/mooshroomtweaks.json5"
 hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
+
+[[files]]
+file = "config/morezombievillagers.json5"
+hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
 
 [[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
@@ -195,6 +203,10 @@ hash = "e1f254d002148c00d451ca74d641025ea8e1908e74d69d8e3b276ca6bfe8212a"
 [[files]]
 file = "config/silentgems-common.toml"
 hash = "f0a914fb446298828ab01457eb64f4b1fe36ab58d27abade4b593000683d6588"
+
+[[files]]
+file = "config/skeletonhorsespawn.json5"
+hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -295,6 +307,10 @@ hash = "9ae099ab6f21038a68d5582995b25808fcb6fbd77efeafbb1cfd5d1f5373ef3b"
 [[files]]
 file = "config/xaeroworldmap.txt"
 hash = "9509a39c5bf7f7eb53deaab7699bf8f77449af2322168d5d0bfd3db6861a6a88"
+
+[[files]]
+file = "config/zombiehorsespawn.json5"
+hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -1250,6 +1266,11 @@ hash = "c32d94df0cd64ed2463608a4dc4b119165419f6120fc30693b4332c189b40d00"
 metafile = true
 
 [[files]]
+file = "mods/more-zombie-villagers.pw.toml"
+hash = "0d4ca51758d8a012861e1001efe4ae64d7714507bc072c5b0c821f508a6e2c4b"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
 metafile = true
@@ -1297,6 +1318,11 @@ metafile = true
 [[files]]
 file = "mods/neat.pw.toml"
 hash = "ea5b25c98cfd8aaf9b7ae70d97f8659209e03ca4986e06e690f475ba975fdb08"
+metafile = true
+
+[[files]]
+file = "mods/neruina.pw.toml"
+hash = "e6de05ff93544874f2e8a8f6646def228e877aad97396d14e43b9996849a4eab"
 metafile = true
 
 [[files]]
@@ -1357,6 +1383,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
+file = "mods/packet-fixer.pw.toml"
+hash = "a50cf466fa2262f8a9cef3d7dfe60dae300b95dfc5cc052f909f86c5ba7698f7"
 metafile = true
 
 [[files]]
@@ -1627,6 +1658,11 @@ metafile = true
 [[files]]
 file = "mods/stylish-effects.pw.toml"
 hash = "d81aae3d0916b3d60201f43b2eab687600991c36fa6959b61442bf378419ade0"
+metafile = true
+
+[[files]]
+file = "mods/suggestionproviderfix.pw.toml"
+hash = "b4d0b6f15ffd0a9d2b77f989ee94cd88c138aca9f0752324a88e8d9a808537b7"
 metafile = true
 
 [[files]]

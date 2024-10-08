@@ -1,0 +1,13 @@
+name = "Suggestion Provider Fix"
+filename = "SuggestionProviderFix-1.20.1-1.0.0.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/rDPwXXZ4/versions/CR40hFR2/SuggestionProviderFix-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "efdf78bf91de42ba3e99d4eb0034bc4cf61e6c46753bd0defa7444138aeb9ae27fd6f250477a76cd6ec210138e2df945d3a50cd2451889e8aec8de48af69a76c"
+
+[update]
+[update.modrinth]
+mod-id = "rDPwXXZ4"
+version = "CR40hFR2"

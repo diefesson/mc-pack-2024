@@ -1,0 +1,13 @@
+name = "More Zombie Villagers"
+filename = "morezombievillagers-1.20.1-3.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/xu15hkKT/versions/RPT0LXwC/morezombievillagers-1.20.1-3.6.jar"
+hash-format = "sha512"
+hash = "e95c93abe92f2bc722a78f72c3540dbfbbaf4515069ea5954c81b1bd1de8ac967759ef15686f0d37b9c6d13772c26eed2afa9db5ee98e79516a37b3739df53e6"
+
+[update]
+[update.modrinth]
+mod-id = "xu15hkKT"
+version = "RPT0LXwC"
