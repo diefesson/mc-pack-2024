@@ -353,6 +353,26 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
+file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
+hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
+hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
+hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-server.toml"
+hash = "3ead48ae4d148dde74fc3b5abe707d0e0f0033393d7a728f55e48f9b88420d46"
+
+[[files]]
+file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
+hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
