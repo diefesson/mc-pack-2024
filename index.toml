@@ -233,6 +233,10 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "config/realisticbees.json5"
+hash = "7c086633a5d7c36ab701af615235b609a28a95f6a929f8227da3f647936a1718"
+
+[[files]]
 file = "config/silentgear-client.toml"
 hash = "8ee773dd1d72dfa674663d4e8179ac3c2bae2d4bf2d97a2a403235b1a857a402"
 
