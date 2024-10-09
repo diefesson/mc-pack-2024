@@ -665,6 +665,11 @@ hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
 metafile = true
 
 [[files]]
+file = "mods/cave-dust.pw.toml"
+hash = "8cecef107bc478f399553ef1b20882dcf89ad3dc0aadfef6c4a554ed5b015b9d"
+metafile = true
+
+[[files]]
 file = "mods/cave-spider-spawn.pw.toml"
 hash = "1b2e273ad3782f85a9249313621fe503cbb6236ef34c284081982d8f9fd87076"
 metafile = true
@@ -1070,8 +1075,8 @@ hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "ae6f348bf819766652cc5239404cfa02f03fa0580d686b7c7215576e12f45e00"
+file = "mods/geophilic-reforged.pw.toml"
+hash = "5f4e3fdc30e27bdb602e202d054a4984663fbd23cb264ac64651baf440b9e58a"
 metafile = true
 
 [[files]]
@@ -1237,6 +1242,11 @@ metafile = true
 [[files]]
 file = "mods/leaves-be-gone.pw.toml"
 hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
+metafile = true
+
+[[files]]
+file = "mods/lithosphere.pw.toml"
+hash = "ec24f6ad16db4a5e81a62eb79177c1cc6b074d10a0a84bf39c502b79648ee32a"
 metafile = true
 
 [[files]]
@@ -1775,11 +1785,6 @@ hash = "5fbbf68cb1b20f590f1222e4ee399483ba59be857ff0ed60f7d4a160c8c0abcc"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "e5f7a51585bb0dbec0d4c33cc06797008f1fff434872766d8fe2fd19e06f3b37"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
@@ -1787,16 +1792,6 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "110413feb1f6da20eb70bce0f88f51e2d7241bf2fc810cd30cbdd024e51df587"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "3b61fcf1c80cfdd79282be71ddfa9cce02fc13f8d87a760db455e2a97b801f40"
-metafile = true
-
-[[files]]
-file = "mods/terraphilic.pw.toml"
-hash = "7868a9a95577806baa75985f2ab0e0dc09b2c17ec4934c72e181376bb59a4146"
 metafile = true
 
 [[files]]
