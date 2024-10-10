@@ -1175,11 +1175,6 @@ hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
 
 [[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
-metafile = true
-
-[[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "1d946f8d1242c153b7015a139360eaa7e0601a562a77bd1b50ecb70acbf1a456"
 metafile = true
@@ -1552,11 +1547,6 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
-file = "mods/random-bone-meal-flowers.pw.toml"
-hash = "23001ec4628f5fc72aa463d53da8fa350db112bd3508ee98f51ffe06dc44d8da"
 metafile = true
 
 [[files]]
