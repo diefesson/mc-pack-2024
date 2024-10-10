@@ -18,7 +18,7 @@ hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "96ae368723697b4bf5a1c923f32f5e99b443208e4e05b84e47cb4ce70038a5fd"
+hash = "33930c1b023fbab0d05d328bb0bc6c28b8b29483c7994aa14c805faab8de254e"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -90,7 +90,7 @@ hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "64101bb76549478994ffb7f7620a25fe8f460a9af2e893d8c1ca27d70770cb75"
+hash = "da63bcc34336efd3b8800bfe50470a8da28e46d5eca363c43d6996197cd2151d"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
@@ -662,11 +662,6 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
-metafile = true
-
-[[files]]
-file = "mods/cave-dust.pw.toml"
-hash = "8cecef107bc478f399553ef1b20882dcf89ad3dc0aadfef6c4a554ed5b015b9d"
 metafile = true
 
 [[files]]

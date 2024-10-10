@@ -446,7 +446,7 @@ _version = 2
 				radius = "4.0"
 				#
 				# Enable Screen Space Ambient Occlusion
-				enabled = false
+				enabled = true
 
 			[client.advanced.graphics.advancedGraphics]
 				#
@@ -560,7 +560,7 @@ _version = 2
 				maxHorizontalResolution = "BLOCK"
 				#
 				# The radius of the mod's render distance. (measured in chunks)
-				lodChunkRenderDistanceRadius = 32
+				lodChunkRenderDistanceRadius = 64
 				#
 				# Should the blocks underneath avoided blocks gain the color of the avoided block? 
 				# 
@@ -571,14 +571,14 @@ _version = 2
 				# This indicates how quickly LODs decrease in quality the further away they are. 
 				# Higher settings will render higher quality fake chunks farther away, 
 				# but will increase memory and GPU usage.
-				horizontalQuality = "LOW"
+				horizontalQuality = "MEDIUM"
 				#
 				# How should LOD transparency be handled. 
 				# 
 				# COMPLETE: LODs will render transparent. 
 				# FAKE: LODs will be opaque, but shaded to match the blocks underneath. 
 				# DISABLED: LODs will be opaque.
-				transparency = "DISABLED"
+				transparency = "COMPLETE"
 				#
 				# This indicates how well LODs will represent 
 				# overhangs, caves, floating islands, etc. 
@@ -586,7 +586,7 @@ _version = 2
 				# 
 				# Lowest Quality: HEIGHT_MAP
 				# Highest Quality: EXTREME
-				verticalQuality = "LOW"
+				verticalQuality = "MEDIUM"
 				#
 				# What blocks shouldn't be rendered as LODs? 
 				# 
@@ -630,7 +630,7 @@ _version = 2
 					# 0.0: Fog starts at the player's position. 
 					# 1.0: Fog starts at the closest edge of the vanilla render distance. 
 					# 1.414: Fog starts at the corner of the vanilla render distance.
-					farFogStart = "0.0"
+					farFogStart = "0.4"
 					#
 					# What is the minimum fog thickness? 
 					# 
