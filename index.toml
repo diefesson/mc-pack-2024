@@ -1110,11 +1110,6 @@ hash = "dd8ba38757d9e7743b0c9a6c5b21a8167b1c0fa1a982a836cc3bb9efc4bb61e9"
 metafile = true
 
 [[files]]
-file = "mods/held-item-tooltips.pw.toml"
-hash = "250e605a9b9321bf70462677937dc0e2afd04561c5507a9c5bab739c7d5da491"
-metafile = true
-
-[[files]]
 file = "mods/hidden-recipe-book.pw.toml"
 hash = "6c73bc0864e65074a00e6c3fd5266b388d4d2964a24775bf0063359c9240ebff"
 metafile = true
