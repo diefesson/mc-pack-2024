@@ -1,0 +1,13 @@
+name = "Akashic Tome"
+filename = "AkashicTome-1.7-27.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/JBthPdnp/versions/FKIrMLZn/AkashicTome-1.7-27.jar"
+hash-format = "sha512"
+hash = "2f55c52f400931e5b8947eed211f892a3dc5c2f60c6e5100ef78f990e096d0272909681808d037a1dc3b25fafdf2ffd59a64a9c354ab73f080172076e2443513"
+
+[update]
+[update.modrinth]
+mod-id = "JBthPdnp"
+version = "FKIrMLZn"

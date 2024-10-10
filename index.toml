@@ -500,6 +500,11 @@ hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
 
 [[files]]
+file = "mods/akashic-tome.pw.toml"
+hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "a21507bc60d5503dd97d43cff689503f95d11ff462a1795cdbde7261bcb51fe5"
 metafile = true
@@ -1337,6 +1342,11 @@ metafile = true
 [[files]]
 file = "mods/more-zombie-villagers.pw.toml"
 hash = "0d4ca51758d8a012861e1001efe4ae64d7714507bc072c5b0c821f508a6e2c4b"
+metafile = true
+
+[[files]]
+file = "mods/morph-o-tool.pw.toml"
+hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
 metafile = true
 
 [[files]]
