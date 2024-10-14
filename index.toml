@@ -1380,11 +1380,6 @@ hash = "5ee99a3aede6e7b666f5241664b114b746de0bcc5591970fc4b5bf9f66cef30a"
 metafile = true
 
 [[files]]
-file = "mods/mysticpotions.pw.toml"
-hash = "e6260a35677a7aa74fb028fce48cc85c7a205c862d534fe1163d19c886b09572"
-metafile = true
-
-[[files]]
 file = "mods/naturalist.pw.toml"
 hash = "fe1c8024d788448e46f6d7bd19c61a5dc1f8f5eda5a6b37bf68d3cf688de1935"
 metafile = true
