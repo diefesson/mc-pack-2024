@@ -910,18 +910,8 @@ hash = "4fcdcfc4fc654d24afd65dcbb7e325c3f78c35f7b75041a0f3ccb4d098d29363"
 metafile = true
 
 [[files]]
-file = "mods/emienchants.pw.toml"
-hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
-metafile = true
-
-[[files]]
 file = "mods/emiffect.pw.toml"
 hash = "f9f6ab1a6f68298710ca37f82503969531856c67138c4049f20c134d8b70dc55"
-metafile = true
-
-[[files]]
-file = "mods/emitrades.pw.toml"
-hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
 metafile = true
 
 [[files]]
@@ -1207,6 +1197,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "f56899dc797d3f9bc3b9198670525f21f8b2f5eb567b504ca4c94a1412e0b3a1"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "02977d28acd2089c39dbe5b65fd08e78094fb650b4afc810f757cb5cea1fbda8"
 metafile = true
 
 [[files]]
