@@ -77,10 +77,6 @@ file = "config/cull-less-leaves.json"
 hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
 
 [[files]]
-file = "config/despawningeggshatch.json5"
-hash = "093b2af1f2df668d92cd66e57264b9522478b9fae58aa245af9ab8930b3e4dbb"
-
-[[files]]
 file = "config/double-hotbar-configs.toml"
 hash = "bef7fd3b507081800c7858a8ff783227ad357c3c53a431beae4a15678b0cbf13"
 
@@ -525,6 +521,11 @@ hash = "a1b5ddac0b1ab07ddb68a78d589eb4a44ee2b3fef4f1b1b0c0b8cf0b8a1436dd"
 metafile = true
 
 [[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "1ef6a334d659a6c52db931faa93f9519aadd7b41d6277eff9a367e1846ec0099"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -837,11 +838,6 @@ metafile = true
 [[files]]
 file = "mods/deep-resonance.pw.toml"
 hash = "36ea769516d056683b619fe7eae9e39c9d1f19f4de21b2b5026749e94f2c63eb"
-metafile = true
-
-[[files]]
-file = "mods/despawning-eggs-hatch.pw.toml"
-hash = "29c358385d2eadb95eca7355c374ade259c9716c1da65d2c980e544c7a5eca1d"
 metafile = true
 
 [[files]]
