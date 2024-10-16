@@ -1,5 +1,4 @@
 ServerEvents.recipes(event => {
-    console.warn('here')
     const pulverizerRecipe = global['pulverizerRecipe']
     const smelterRecipe = global['smelterRecipe']
 

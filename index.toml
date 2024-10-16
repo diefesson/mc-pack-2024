@@ -449,6 +449,10 @@ file = "kubejs/server_scripts/mysticalagriculture/spawner_zombies.js"
 hash = "47ce90d05164cda6c08e6e2b5202927860fbb8b91c82811ad3361044fbbacb98"
 
 [[files]]
+file = "kubejs/server_scripts/regions_unexplored/recipes.js"
+hash = "43f2b21c2c0cf68b348e195d2273607dd1e7eb63a831293ec0467f5fa1f7b838"
+
+[[files]]
 file = "kubejs/server_scripts/thermal/bigreactors.js"
 hash = "09e0be5ab106ef98e129e97323a0f96730ff7155a96a0b0492f8f1d0ad1a8b7b"
 
@@ -466,7 +470,7 @@ hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/silentgear.js"
-hash = "382d4346d28ef54af0da62aea255535f97d00f15f5a25900d99df30199cd37d2"
+hash = "10773e1c3cc020b5a0a09e565283a503de1d705247352b9596e076093ef9bc15"
 
 [[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
