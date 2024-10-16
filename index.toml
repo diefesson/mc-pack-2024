@@ -22,7 +22,7 @@ hash = "33930c1b023fbab0d05d328bb0bc6c28b8b29483c7994aa14c805faab8de254e"
 
 [[files]]
 file = "config/ambientsounds-client.json"
-hash = "db3c131736ee1e7135dd6bf55c82b745e1403d57dacfe9a6cce2a8f066d14da8"
+hash = "dbcaec173cd8f5a1c81e1e1e6919e4d1bc49a092a30e541196eb7935e86f6eec"
 
 [[files]]
 file = "config/barteringstation-client.toml"
