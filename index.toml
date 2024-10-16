@@ -735,6 +735,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/compact-storage.pw.toml"
+hash = "e4727c7453cda2425fb51c305186f7f4e7f93adc5d84dfc73f09ca977215485b"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -1187,11 +1192,6 @@ metafile = true
 [[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "0ea3e93d0259b6c442d3fafae93da3a2a99c5a4961de8dae8246f4bc803540ed"
-metafile = true
-
-[[files]]
-file = "mods/ironchests.pw.toml"
-hash = "9f7a8ad731e2454ad29de4bc85ed100eff8f21f0516fa9a8cf58939ad2ba16cf"
 metafile = true
 
 [[files]]
