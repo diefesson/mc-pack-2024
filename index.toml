@@ -1080,6 +1080,11 @@ hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
 metafile = true
 
 [[files]]
+file = "mods/galosphere.pw.toml"
+hash = "ba706cbb4ca92061ea0f5876b1c60005cf2a7699ef33eedead669141ac854b9d"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "1484808760dad0e89dfbd3e3758b96dc9ecbb3d46fcec1489ac9d090213376c6"
 metafile = true
