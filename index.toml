@@ -810,6 +810,11 @@ hash = "0fd0d294ce7414d112dbfd66ff6ee4e7d06c1c8650d0d521a8d39669604b56d8"
 metafile = true
 
 [[files]]
+file = "mods/curious-lanterns.pw.toml"
+hash = "10d90264238fc258c2eb7670d16ccec53b186b9bd07c44deaa84b5fef61ee8f4"
+metafile = true
+
+[[files]]
 file = "mods/current-game-music-track.pw.toml"
 hash = "53a3530a65542e2212a93a272acd9f2f085c94780900bbda73d8811d55880226"
 metafile = true
@@ -1532,6 +1537,11 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "1f75e91fee61c8a8bb122e627e1c09967ff5f31ada805ce3f32bbc7e80d0ea86"
+metafile = true
+
+[[files]]
+file = "mods/radiant-gear.pw.toml"
+hash = "727690c2d81afb1012d68bd174bb0a492a6a8e973c32978b0502353b279f5be8"
 metafile = true
 
 [[files]]
