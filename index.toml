@@ -145,8 +145,24 @@ file = "config/ironjetpacks/jetpacks/ultimate.json"
 hash = "d82fa9cda81d0f614da19be8dd1aaef6a21a3cf32cc4a8a8cd50378c10d6eec8"
 
 [[files]]
+file = "config/jade/hide-blocks.json"
+hash = "247df2699ebb5a0d4c9585aeeb267ef9388cd5bee2b13ca340f35124a135b35b"
+
+[[files]]
+file = "config/jade/hide-entities.json"
+hash = "6e1cb5065144018f529332ba1bf25c4c74429218da676984ae7892dcac3136e6"
+
+[[files]]
 file = "config/jade/jade.json"
-hash = "eb873218ba32acb5f6f7bda005ae40b737544edd2ad146903bea145195d66aa5"
+hash = "df999597fcd6e6a74f4091301d245f2022c3fe4dcc3b74216ffcabbc348c083c"
+
+[[files]]
+file = "config/jade/plugins.json"
+hash = "a13b9d5b309c848573eb3189086889e88a6e1c537b44b21df781f94baaa6fa1c"
+
+[[files]]
+file = "config/jade/sort-order.json"
+hash = "c128d5c74ff644a7b0d81d270b10deb4915c4dc9bc887f781891de891aa409e7"
 
 [[files]]
 file = "config/lmft.json"
@@ -166,7 +182,7 @@ hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "1ff762949ca3100de0b4be76d72d4ed2f5de3215bb3816e456341e1b55a9d413"
+hash = "70aa600e01863efb78e6b30c6b268a967acd866d349f462faceaede718b9bfff"
 
 [[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"

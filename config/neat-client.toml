@@ -33,5 +33,5 @@
 	#Disables the rendering of the vanilla name tag
 	disable_name_tag = true
 	#Blacklist uses entity IDs, not their display names. Use F3 to see them in the Neat bar.
-	Blacklist = ["minecraft:shulker", "minecraft:armor_stand", "minecraft:cod", "minecraft:salmon", "minecraft:pufferfish", "minecraft:tropical_fish", "minecraft:tadpole"]
+	Blacklist = ["minecraft:shulker", "minecraft:armor_stand", "minecraft:cod", "minecraft:salmon", "minecraft:pufferfish", "minecraft:tropical_fish", "minecraft:tadpole", "dummmmmmy:target_dummy"]
 
