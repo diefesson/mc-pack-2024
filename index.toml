@@ -61,6 +61,14 @@ file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
 [[files]]
+file = "config/chargedcharms-client.toml"
+hash = "e44d54a638526b7b8451e0cd2bf79f1a979f325817ee4774cccd6b48b36a8248"
+
+[[files]]
+file = "config/chargedcharms-common.toml"
+hash = "b2790b91918a23229b78563625b3e3f665eaf7a3ed45b46c9eaf1fbeddf394ab"
+
+[[files]]
 file = "config/combatnouveau-client.toml"
 hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 

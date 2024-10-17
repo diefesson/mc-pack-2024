@@ -1,0 +1,5 @@
+
+[rendering]
+	#Show Charged Charm on player chest.
+	showCharms = true
+

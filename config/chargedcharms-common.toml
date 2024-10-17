@@ -1,0 +1,44 @@
+
+[charms]
+	#Disable Charged Regeneration Charm
+	disableRegenCharm = false
+	#Disable Charged Absorption Charm
+	disableAbsorptionCharm = false
+	#Disable Charged Glow Up Charm
+	disableGlowupCharm = false
+	#Disable Charged Totem Charm
+	disableTotemCharm = false
+	#Disable Charged Enchanted Totem Charm
+	disableEnchTotemCharm = false
+	#Disable Charged Speed Charm
+	disableSpeedCharm = false
+
+[tweaks]
+	#Cooldown in seconds for the Charged Absorption Charm.
+	#Range: 0 ~ 300
+	absorptionCooldown = 20
+	#Duration in seconds for the Charged Absorption Charm effect.
+	#Range: 1 ~ 300
+	absorptionDuration = 5
+	#Charged Absorption Charm effect amplifier.
+	#Range: 0 ~ 255
+	absorptionAmplifier = 0
+	#Low health percentage to trigger Charged Regeneration Charm.
+	#Range: 0.2 ~ 0.8
+	regenPercentage = 0.5
+	#Duration in seconds for the Charged Regeneration Charm effect.
+	#Range: 1 ~ 300
+	regenDuration = 15
+	#Charged Regeneration Charm effect amplifier.
+	#Range: 0 ~ 255
+	regenAmplifier = 0
+	#Duration in seconds for the Charged Glow Up Charm effect.
+	#Range: 1 ~ 300
+	glowUpDuration = 30
+	#Duration in seconds for the Charged Speed Charm effect.
+	#Range: 1 ~ 360
+	speedDuration = 180
+	#Cooldown in seconds for the Charged Speed Charm.
+	#Range: 0 ~ 360
+	speedCooldown = 120
+
