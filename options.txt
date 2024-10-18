@@ -35,7 +35,7 @@ glDebugVerbosity:1
 glintSpeed:0.5
 glintStrength:0.75
 graphicsMode:1
-guiScale:0
+guiScale:3
 hideBundleTutorial:false
 hideLightningFlashes:false
 hideMatchedNames:true
@@ -106,6 +106,8 @@ key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.spread:key.keyboard.unknown
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
 key_key.curios.open.desc:key.keyboard.unknown
+key_key.cycleLeft:key.keyboard.unknown
+key_key.cycleRight:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
 key_key.double_hotbar.swap:key.keyboard.r
 key_key.drop:key.keyboard.q
@@ -126,13 +128,12 @@ key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
 key_key.hotbarswapper.ignoreSlot:key.keyboard.unknown
-key_key.hotbarswapper.swap:key.keyboard.left.shift
+key_key.hotbarswapper.swap:key.keyboard.left.control
 key_key.hotbarswapper.swapRowNext:key.keyboard.unknown
 key_key.hotbarswapper.swapRowPrev:key.keyboard.unknown
 key_key.hotbarswapper.swapSlot:key.keyboard.unknown
 key_key.hotbarswapper.swapSlotNext:key.keyboard.unknown
 key_key.hotbarswapper.swapSlotPrev:key.keyboard.unknown
-key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
 key_key.inventory:key.keyboard.e
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
@@ -191,10 +192,13 @@ key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
-key_key.sprint:key.keyboard.unknown
+key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f
 key_key.switchy.open:key.keyboard.y
+key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
+key_key.toggleSelectedItemTooltips:key.keyboard.unknown
+key_key.toggleVisualItemContents:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete:ALT
 key_key.trashslot.toggle:key.keyboard.unknown
@@ -223,7 +227,7 @@ key_key.wands.wand_mode:key.keyboard.unknown
 key_key.wands.wand_orientation:key.keyboard.unknown
 key_key.wands.wand_palette_mode:key.keyboard.unknown
 key_key.wands.wand_rotate:key.keyboard.unknown
-key_key.wands.wand_undo:key.keyboard.z:CONTROL
+key_key.wands.wand_undo:key.keyboard.z
 key_key.whisper:key.keyboard.unknown
 key_keybind.advancedperipherals.description:key.keyboard.unknown
 key_keybind.ironjetpacks.ascend:key.keyboard.unknown
