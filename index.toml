@@ -97,6 +97,10 @@ file = "config/embeddium-options.json"
 hash = "da63bcc34336efd3b8800bfe50470a8da28e46d5eca363c43d6996197cd2151d"
 
 [[files]]
+file = "config/emi.css"
+hash = "0de8d7ae7196e32513e10b279df547587791d2aed2209fed49ca7689c761c94a"
+
+[[files]]
 file = "config/enchantinginfuser-server.toml"
 hash = "4228952319baa6c9d7a3aaf1016e4ad753120455c49f8ebba11739248189e886"
 
