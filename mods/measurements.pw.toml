@@ -1,0 +1,13 @@
+name = "Measurements"
+filename = "Measurements-forge-1.20.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/wLINU2AB/versions/EHwSQ3lX/Measurements-forge-1.20.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "f6d3f38f37f205edefd765392c3548ab9550722c5209a0eb81d5e22bd00cba27927e273709cabb49b83e3b5230d32daef8277cd07a27d87abd38ce68779064c4"
+
+[update]
+[update.modrinth]
+mod-id = "wLINU2AB"
+version = "EHwSQ3lX"

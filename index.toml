@@ -1314,6 +1314,11 @@ hash = "7041659854a3033c9bf27e758ab3d6e65e26acc59961283f2ded5ffe13532330"
 metafile = true
 
 [[files]]
+file = "mods/measurements.pw.toml"
+hash = "c117b7d9db0436a11918a2a43e555b7926afc223001db73923d25da745f27446"
+metafile = true
+
+[[files]]
 file = "mods/mega.pw.toml"
 hash = "855f6e941abb12b3354fc7184779d572607bc37a027cfc3c25bf6b7297b01cfb"
 metafile = true
