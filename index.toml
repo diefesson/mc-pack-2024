@@ -299,7 +299,7 @@ hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
-hash = "4715fb99956abe954a35c3fc9519d32c72189640e7c3b91d87a28ce0caa54990"
+hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -994,11 +994,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "b2c23de66eef4d951b7185a53199631c4a1115832aa13ef24fd10f40a02c0d83"
-metafile = true
-
-[[files]]
-file = "mods/extended-bone-meal.pw.toml"
-hash = "8d2a23a8be246afb2e85e3d9d8c5ac343da04da2402c562820b159fbbe7729b5"
 metafile = true
 
 [[files]]
