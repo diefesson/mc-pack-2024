@@ -177,6 +177,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/measurements-client.toml"
+hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
+
+[[files]]
 file = "config/mooshroomspawn.json5"
 hash = "6fc72213e69f8816da5416d3bf0b88cbd037468234c484d20d1e979e98cd1cbc"
 
