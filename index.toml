@@ -1899,6 +1899,16 @@ hash = "b1f5cbdf71d181ada156dcaa33cd8b7c5cf8271812c9f7bbb6d6791eb66903a5"
 metafile = true
 
 [[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "692960348d6f2f5b587412c677524ba15dc39b29bfcf19ca5798492c0462a040"
+metafile = true
+
+[[files]]
+file = "mods/towers-of-the-wild-additions.pw.toml"
+hash = "e47935f71c9e6ceb21ec1be3b1db0ed512d463ed3b9cc555b8d5788d2550fe1f"
+metafile = true
+
+[[files]]
 file = "mods/towns-and-towers.pw.toml"
 hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
