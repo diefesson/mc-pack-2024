@@ -197,41 +197,6 @@ file = "config/neat-client.toml"
 hash = "70aa600e01863efb78e6b30c6b268a967acd866d349f462faceaede718b9bfff"
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-desert-temples-compat.pw.toml"
-hash = "38ff7c751ef8c215dbf40d5f16d098da83f038481ed6cb9e1be4ae4b7d980ab3"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-jungle-temples.pw.toml"
-hash = "c9008688633dfa353e3629b3864cde47d910b5cbb1a6df37933b70c09ce399c8"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-nether-fortress-compat.pw.toml"
-hash = "09a2d82f1c3ea15fd7a67c085f3c0a30dd5c5e352f691a14295ed78ab455312b"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-ocean-monuments-compat.pw.toml"
-hash = "bcda15a9cda34b6778895284b51cec4cbc86796fd9016123d708d2caf174085c"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-strongholds-compat.pw.toml"
-hash = "e54c281bce8bb8cffddb726cc28b19e04f1a7f643328c282a357c54be4cd8085"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-better-witch-huts-compat.pw.toml"
-hash = "ce06a6be2bf0c2ca3a94fd5c78f1a51413ffff83ea2322df32eacb5f472555fb"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/repurposed-structures-friends-and-foes-compat.pw.toml"
-hash = "4062b56e7e43679c61575eb1f09930f2987bbfc150fbd910d30c1633e5f5e157"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
 hash = "da6cacd85d1b3dd1b058aac6934094901fe802b16370f5da8bab73da8ea20c78"
 metafile = true
@@ -1620,11 +1585,6 @@ metafile = true
 [[files]]
 file = "mods/regions-unexplored.pw.toml"
 hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
-metafile = true
-
-[[files]]
-file = "mods/repurposed-structures-forge.pw.toml"
-hash = "8eb888dcb9a92907e44a836676b2dcfa23b1b541de37259f9115ebdde3cbedee"
 metafile = true
 
 [[files]]
