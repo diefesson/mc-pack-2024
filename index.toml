@@ -1823,7 +1823,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-extra.pw.toml"
-hash = "e48dbb37a4d8baf407cada6a04f5383396b68631924f30b2026436b2fc926bf6"
+hash = "1dc09355044a69ef3f71b3c2da433d3927c4f8842e087bece4b95dddea3cf63d"
 metafile = true
 
 [[files]]
@@ -1938,12 +1938,12 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "af9493da3299662eba5ec0ffe8dd4334eab9941335287bf0047d8204d9561484"
+hash = "da590734b1065bbc0018dcdedbdd4df158015afb6cfb18150b141ecf220e898c"
 metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "7163727a5c2a54e92838bf26bd604e378df2263f43220efd61091449f9c7ff5b"
+hash = "6bd9a69579d445076430caf5a5c0c963eba51a4712fe65f6a405beb5ee07f920"
 metafile = true
 
 [[files]]
