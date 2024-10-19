@@ -1,0 +1,8 @@
+[
+  {
+    "mob": "minecraft:wither_skeleton",
+    "when": "onjoin",
+    "random": 0.25,
+    "helditem": "minecraft:bow"
+  }
+]

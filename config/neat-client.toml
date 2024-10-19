@@ -31,7 +31,7 @@
 	"Show Debug Info with F3" = true
 	show_entity_name = true
 	#Disables the rendering of the vanilla name tag
-	disable_name_tag = true
+	disable_name_tag = false
 	#Blacklist uses entity IDs, not their display names. Use F3 to see them in the Neat bar.
 	Blacklist = ["minecraft:shulker", "minecraft:armor_stand", "minecraft:cod", "minecraft:salmon", "minecraft:pufferfish", "minecraft:tropical_fish", "minecraft:tadpole", "dummmmmmy:target_dummy", "strawstatues:straw_statue"]
 
