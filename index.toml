@@ -25,6 +25,10 @@ file = "config/ambientsounds-client.json"
 hash = "dbcaec173cd8f5a1c81e1e1e6919e4d1bc49a092a30e541196eb7935e86f6eec"
 
 [[files]]
+file = "config/automaticdoors.json5"
+hash = "41d2f298349c9c34173fbd9aa48639a9c428de03de2c55f0f7978f6e13181426"
+
+[[files]]
 file = "config/barteringstation-client.toml"
 hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
@@ -83,6 +87,10 @@ hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 [[files]]
 file = "config/cull-less-leaves.json"
 hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
+
+[[files]]
+file = "config/currentgamemusictrack.json5"
+hash = "bc91d1a5edb0f43e1e22ce4708041f404bc2f24524a17f3b687289373298de29"
 
 [[files]]
 file = "config/double-hotbar-configs.toml"
@@ -198,7 +206,7 @@ hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "70aa600e01863efb78e6b30c6b268a967acd866d349f462faceaede718b9bfff"
+hash = "51711ea1a0a6936781ed56f6d8d451258b7f847346d579c45a7e4921632d8421"
 
 [[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
@@ -228,6 +236,10 @@ metafile = true
 [[files]]
 file = "config/realisticbees.json5"
 hash = "7c086633a5d7c36ab701af615235b609a28a95f6a929f8227da3f647936a1718"
+
+[[files]]
+file = "config/seamless_loading_screen.json"
+hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 
 [[files]]
 file = "config/silentgear-client.toml"
@@ -298,6 +310,10 @@ file = "config/tradingpost-server.toml"
 hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
 [[files]]
+file = "config/travelerstitles-forge-1_20.toml"
+hash = "4e9051538fa6d374813709fb1d5d29f33035e6543208f55a5590a8be425bb6b0"
+
+[[files]]
 file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
@@ -316,6 +332,10 @@ hash = "8f7e198d3b5acdc1fc756d40a6c0c113f9384629db9fb5331fee03544d7733c6"
 [[files]]
 file = "config/wands.json"
 hash = "44575356465b2dce9d4a6ec30fb20b4355180d27b70cced1f116e538a7383ff5"
+
+[[files]]
+file = "config/waystones-common.toml"
+hash = "79b70776cb6bd838d4c5c8e4d96b655181845be41f166762d6ae2d073a9c9271"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
