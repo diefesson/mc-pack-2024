@@ -917,6 +917,11 @@ hash = "5cc23a02788b472e556a8769fd7e9d8249f5a2998df2505243e17875cfa3dc18"
 metafile = true
 
 [[files]]
+file = "mods/emi-loot.pw.toml"
+hash = "3dbc9206585bb9a4fb3f6af39672f335e57b5e5f581524c429f014240e2b44b3"
+metafile = true
+
+[[files]]
 file = "mods/emi.pw.toml"
 hash = "15781779a01a0a867d0a5451c0006e0d1ac23095b4cba7cf9eb678bdeb8341ba"
 metafile = true
@@ -1084,6 +1089,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
+metafile = true
+
+[[files]]
+file = "mods/fzzy-config.pw.toml"
+hash = "1af002536daedf982c8088033f076406833c439844cdf681c7c251782c63e829"
 metafile = true
 
 [[files]]
@@ -1479,6 +1489,11 @@ metafile = true
 [[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "a50cf466fa2262f8a9cef3d7dfe60dae300b95dfc5cc052f909f86c5ba7698f7"
+metafile = true
+
+[[files]]
+file = "mods/particle-core.pw.toml"
+hash = "650afa0a6b854b46bbf1d088cbe51d800b6a71fa9f4491a6a1e6021256841a90"
 metafile = true
 
 [[files]]

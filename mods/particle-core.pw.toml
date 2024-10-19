@@ -1,0 +1,13 @@
+name = "Particle Core"
+filename = "particle_core-0.2.5+1.20.1+forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/RSeLon5O/versions/2pgXWmty/particle_core-0.2.5%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "1da3ce936ce34f60ee96aa1faab9fec89f1227152a3c146bbe48a404cb93918f1f8722a6c44afc3eda8a9e4ea6f97a61ad6788da6085aec1816b1c3871e15c9c"
+
+[update]
+[update.modrinth]
+mod-id = "RSeLon5O"
+version = "2pgXWmty"
