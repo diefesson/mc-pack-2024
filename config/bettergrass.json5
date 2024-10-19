@@ -1,0 +1,62 @@
+{
+	// General
+	// OFF/FAST/FANCY (default: FANCY)
+	betterGrassMode: "FANCY",
+	// (default: true)
+	snowy: true,
+	// 
+	// Connected Blocks
+	// (default: true)
+	grassBlocks: true,
+	// (default: false)
+	dirtPaths: false,
+	// (default: false)
+	farmLands: false,
+	// (default: true)
+	podzol: true,
+	// (default: true)
+	mycelium: true,
+	// (default: true)
+	crimsonNylium: true,
+	// (default: true)
+	warpedNylium: true,
+	moreBlocks: [
+		"biomesoplenty:mossy_black_sand",
+		"biomeswevegone:lush_grass_block",
+		"regions_unexplored:argillite_grass_block",
+		"regions_unexplored:brimsprout_nylium",
+		"regions_unexplored:chalk_grass_block",
+		"regions_unexplored:cobalt_nylium",
+		"regions_unexplored:deepslate_grass_block",
+		"regions_unexplored:deepslate_prismoss",
+		"regions_unexplored:deepslate_viridescent_nylium",
+		"regions_unexplored:glistering_nylium",
+		"regions_unexplored:mycotoxic_moss",
+		"regions_unexplored:peat_grass_block",
+		"regions_unexplored:prismoss",
+		"regions_unexplored:silt_grass_block",
+		"regions_unexplored:stone_grass_block",
+		"regions_unexplored:viridescent_nylium",
+		"regions_unexplored:overgrown_bone_block",
+		"biomeswevegone:podzol_dacite",
+		"biomeswevegone:overgrown_dacite",
+		"biomeswevegone:overgrown_stone",
+		"regions_unexplored:silt_podzol"
+	],
+	// 
+	// Better Snow
+	// OFF/OPTIFINE/LAMBDA (default: OPTIFINE)
+	betterSnowMode: "LAMBDA",
+	excludedTags: [
+		"leaves",
+		"buttons",
+		"rails",
+		"wooden_pressure_plates"
+	],
+	excludedBlocks: [
+		"heavy_weighted_pressure_plate",
+		"light_weighted_pressure_plate",
+		"polished_blackstone_pressure_plate",
+		"stone_pressure_plate"
+	]
+}

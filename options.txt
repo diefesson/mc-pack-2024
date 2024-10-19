@@ -34,7 +34,7 @@ gamma:0.5
 glDebugVerbosity:1
 glintSpeed:0.5
 glintStrength:0.75
-graphicsMode:1
+graphicsMode:2
 guiScale:3
 hideBundleTutorial:false
 hideLightningFlashes:false

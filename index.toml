@@ -45,6 +45,10 @@ file = "config/betterfortresses-forge-1_20.toml"
 hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
 [[files]]
+file = "config/bettergrass.json5"
+hash = "f8e2c56c6523172e6c4970ef731432ba419755ef61370af4bd1e500b5d7a89ce"
+
+[[files]]
 file = "config/betterjungletemples-forge-1_20.toml"
 hash = "7d9c148ff147c8d6282e6b90e08bd78350616592d187fa97f88c3204925a1673"
 
@@ -2185,4 +2189,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f01a2fa917d450c9cb9e73415214fa9f2001155d3f2a978afcb8fc1b5e21c3e3"
+hash = "08b57ef032c1a031ff9b6bb1f6a808be6d22c9884987246e60ff9c71b7099b27"
