@@ -199,6 +199,7 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
+key_key.trade_cycling.cycle_trades:key.keyboard.c
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete:ALT
 key_key.trashslot.toggle:key.keyboard.unknown

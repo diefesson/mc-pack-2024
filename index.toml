@@ -1983,6 +1983,11 @@ hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
 
 [[files]]
+file = "mods/trade-cycling.pw.toml"
+hash = "ad1e2e4cc4502e515c21f3ba5116ffa8aa5a32f736dad61c0b6b2829d03e966b"
+metafile = true
+
+[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
 metafile = true
@@ -2189,4 +2194,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "08b57ef032c1a031ff9b6bb1f6a808be6d22c9884987246e60ff9c71b7099b27"
+hash = "3d1c610d32c10260eea83d8ab6b199908bb15bf0d82fbcb7b2ee473f7802168c"
