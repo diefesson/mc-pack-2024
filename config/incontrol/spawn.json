@@ -1,8 +1,9 @@
 [
   {
     "mob": "minecraft:wither_skeleton",
-    "when": "onjoin",
+    "when": "finalize",
     "random": 0.25,
-    "helditem": "minecraft:bow"
+    "helditem": "minecraft:bow",
+    "result": "allow"
   }
 ]
