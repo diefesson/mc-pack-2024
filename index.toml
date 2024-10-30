@@ -558,11 +558,6 @@ file = "kubejs/startup_scripts/diefalpha/volatile_dust copy.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
-file = "mods/advancedperipherals.pw.toml"
-hash = "1a98d8812477f336c746f9e4cbc159a795ccfb5b305a887f35b04955fcc8e85d"
-metafile = true
-
-[[files]]
 file = "mods/ae2.pw.toml"
 hash = "411c7f45960d3e5e5321ad7c4365a623bf881de361ed69359df2b01c5d8df76f"
 metafile = true
@@ -750,11 +745,6 @@ metafile = true
 [[files]]
 file = "mods/cave-spider-spawn.pw.toml"
 hash = "1b2e273ad3782f85a9249313621fe503cbb6236ef34c284081982d8f9fd87076"
-metafile = true
-
-[[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "79668ca512d50388ea7bb4998f99842bc39ae8484e3cc9bba71c0a8f2fa818cd"
 metafile = true
 
 [[files]]
@@ -1588,11 +1578,6 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
-file = "mods/peripheralium.pw.toml"
-hash = "fac1fc963952e2ca10e21289d27cc3a2629cb0f2f33b8ec33f2d37cf9335fd08"
-metafile = true
-
-[[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "d8001c0ff1ccf9b0050c312a57a89a76090efeb8f5343b641d2c47200e00387d"
 metafile = true
@@ -2000,11 +1985,6 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
-metafile = true
-
-[[files]]
-file = "mods/turtlematic.pw.toml"
-hash = "39af17bc142b6ed455f36e2d675ccf770144539d6f3cc2887983fd4631d1b259"
 metafile = true
 
 [[files]]
