@@ -475,7 +475,7 @@ hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
 file = "kubejs/server_scripts/bigreactors/tags.js"
-hash = "3910370d0d585d6baf7a3dc7c007b64261e75925e23803213e4cac523a5eb250"
+hash = "09b631823e5dd413d70b58af7475e0f72b7a89a8e119b2c589d32ab93fe13d91"
 
 [[files]]
 file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
