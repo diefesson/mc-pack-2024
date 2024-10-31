@@ -1681,11 +1681,6 @@ hash = "bfd59d6b69f6ed4c316643ee30325da4c7b601489489fff3564364b882a56d07"
 metafile = true
 
 [[files]]
-file = "mods/redirector.pw.toml"
-hash = "50676a9f0c30e103f7177be053cb6547f6150f4f96166a7915450612efe01311"
-metafile = true
-
-[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
 metafile = true
