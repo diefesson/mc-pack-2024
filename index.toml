@@ -478,10 +478,6 @@ file = "kubejs/server_scripts/bigreactors/tags.js"
 hash = "3910370d0d585d6baf7a3dc7c007b64261e75925e23803213e4cac523a5eb250"
 
 [[files]]
-file = "kubejs/server_scripts/compactstorage/recipes.js"
-hash = "ffa43ed3b88bf168271a4a7a7878fa6553421c529e944927a074a41f4b92cd3c"
-
-[[files]]
 file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
 hash = "2b35db133f5be273ab166ba3fcab30a135961fe2c54e808e3c5b54452132b122"
 
@@ -812,11 +808,6 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
-metafile = true
-
-[[files]]
-file = "mods/compact-storage.pw.toml"
-hash = "e4727c7453cda2425fb51c305186f7f4e7f93adc5d84dfc73f09ca977215485b"
 metafile = true
 
 [[files]]
@@ -1812,6 +1803,21 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "0d20f839c559393256f2b32ae34942cc50d28330cee7d0dcdc799ae5e0819d3f"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-core.pw.toml"
+hash = "51be7ae1b115eb77f1e7774f2158c98fbda07db1197ff5f3bda1991b5b57db4b"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage.pw.toml"
+hash = "33a163a80095346b4751f09b36c02c1da4f43f292a1ac1954848b14ef1e2c23e"
 metafile = true
 
 [[files]]
