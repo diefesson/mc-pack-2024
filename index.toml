@@ -374,6 +374,10 @@ file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
 [[files]]
+file = "config/variantsandventures.json"
+hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
+
+[[files]]
 file = "config/visual_workbench.json"
 hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
 
