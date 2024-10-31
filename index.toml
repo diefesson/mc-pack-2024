@@ -474,6 +474,10 @@ file = "kubejs/server_scripts/bigreactors/tags.js"
 hash = "3910370d0d585d6baf7a3dc7c007b64261e75925e23803213e4cac523a5eb250"
 
 [[files]]
+file = "kubejs/server_scripts/compactstorage/recipes.js"
+hash = "ffa43ed3b88bf168271a4a7a7878fa6553421c529e944927a074a41f4b92cd3c"
+
+[[files]]
 file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
 hash = "2b35db133f5be273ab166ba3fcab30a135961fe2c54e808e3c5b54452132b122"
 
