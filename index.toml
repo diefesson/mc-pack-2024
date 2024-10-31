@@ -1831,6 +1831,16 @@ hash = "7b6fb05dee6b2e62f3609ca8741baed8b88b42aba25844c03a70ef9ca1008c53"
 metafile = true
 
 [[files]]
+file = "mods/structory-towers.pw.toml"
+hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
+metafile = true
+
+[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
 metafile = true
