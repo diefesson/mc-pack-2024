@@ -18,7 +18,7 @@ hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "33930c1b023fbab0d05d328bb0bc6c28b8b29483c7994aa14c805faab8de254e"
+hash = "6ffe7d4c52f01549fda59bcf4388bee0e369f1412350f7328b90e0c676e67197"
 
 [[files]]
 file = "config/ambientsounds-client.json"

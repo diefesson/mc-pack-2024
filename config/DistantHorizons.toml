@@ -459,7 +459,7 @@ _version = 2
 				# AS_GRASS: all sides of dirt LOD's render using the top (green) color. 
 				# FADE_TO_DIRT: sides fade from grass to dirt. 
 				# AS_DIRT: sides render entirely as dirt.
-				grassSideRendering = "FADE_TO_DIRT"
+				grassSideRendering = "AS_GRASS"
 				#
 				# Determines how far from the camera Distant Horizons will start rendering. 
 				# Measured as a percentage of the vanilla render distance.
