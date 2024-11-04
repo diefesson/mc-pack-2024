@@ -1211,6 +1211,11 @@ hash = "005920cd18ea09c63df60a2007852c1791d9af4b19d74a5e5e9cff5f14461ec4"
 metafile = true
 
 [[files]]
+file = "mods/highlight.pw.toml"
+hash = "bfe8e8ef61657bfc608211ceec3ba076813b6b534b31ab05c51d52fdbdaf6833"
+metafile = true
+
+[[files]]
 file = "mods/hopo-better-mineshaft.pw.toml"
 hash = "855dfcb695fefc246bfff37b51bdaa8283cab8ae51bbe3cda034e586a2b0cde5"
 metafile = true
