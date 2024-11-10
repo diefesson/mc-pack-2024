@@ -1,0 +1,13 @@
+name = "Archaeology Banners"
+filename = "ArchaeologyBanners-Forge-1.20.1-5.1.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HZGv2FlJ/versions/LKLevGBE/ArchaeologyBanners-Forge-1.20.1-5.1.6.jar"
+hash-format = "sha512"
+hash = "4829f961e6358bc803fc18579a07322632a6d608017a53860762d039bd29796186cac0b86b1c147f8e9528266e3bb5fc7ad9238d67d672df5dcce739ef22d23f"
+
+[update]
+[update.modrinth]
+mod-id = "HZGv2FlJ"
+version = "LKLevGBE"

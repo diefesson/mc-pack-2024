@@ -1,0 +1,13 @@
+name = "Gilded Sherds"
+filename = "GildedSherds-Forge-1.20.1-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/hoN558ya/versions/zDHTyTxd/GildedSherds-Forge-1.20.1-1.0.2.jar"
+hash-format = "sha512"
+hash = "7e9114919bca28043fff0f225a3e748a4411a0567b5b994b2508837e0c701501a94d9311af4f142a0dd22feaab03252ab6ce8cf213bd946848915fd630dd0e83"
+
+[update]
+[update.modrinth]
+mod-id = "hoN558ya"
+version = "zDHTyTxd"

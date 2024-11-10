@@ -621,6 +621,11 @@ hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
 metafile = true
 
 [[files]]
+file = "mods/archaeology-banners.pw.toml"
+hash = "24ebeea05b78332214236fd833df0d2c1b63f43fe8dbdf9131555f79302dc570"
+metafile = true
+
+[[files]]
 file = "mods/archers-paradox.pw.toml"
 hash = "9e40762be394c42df1b4fda5b37646b4fff31ac3c38e06219dc1758131f9037e"
 metafile = true
@@ -1181,6 +1186,11 @@ hash = "5f4e3fdc30e27bdb602e202d054a4984663fbd23cb264ac64651baf440b9e58a"
 metafile = true
 
 [[files]]
+file = "mods/gilded-sherds.pw.toml"
+hash = "bbfeea88d6b33d3ec14f03ad31e83021876550f6968d6e75d6c020efd06e91b6"
+metafile = true
+
+[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
@@ -1556,6 +1566,11 @@ hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
 metafile = true
 
 [[files]]
+file = "mods/oh-my-sherd.pw.toml"
+hash = "2a7c575e1f4470cfab6863734a7f7c72afe909b7527ef39e65db066907ad7c61"
+metafile = true
+
+[[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "811c7a3f6161293fb3984bbb747e5989bfe6d045101f079609a24d02c61822a6"
 metafile = true
@@ -1773,6 +1788,16 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/sherd-duplication.pw.toml"
+hash = "5f38189eeb1db82a8e23ae70e82137d71bf86279222ebe9451021b9cd6999041"
+metafile = true
+
+[[files]]
+file = "mods/shield-banner-fix.pw.toml"
+hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
 metafile = true
 
 [[files]]
