@@ -926,6 +926,11 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
+file = "mods/dis-enchanting-table.pw.toml"
+hash = "bce0feec0173346982b9aa7b5ea98876804a3e56931c254de1c69e78cd45b1b5"
+metafile = true
+
+[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "ac0dd0f58d624e654619433093cbff12d8d7b9839184a816accf8061fc3757cc"
 metafile = true
@@ -1391,6 +1396,21 @@ hash = "33ac8df50343a510256bb78c4dca99014fd4f88fdb548edd8aed6a3013f8947e"
 metafile = true
 
 [[files]]
+file = "mods/majrusz-library.pw.toml"
+hash = "bc6a2458b8337e76c0636142242ef36f75ff13e65f977fdd81bb5cc823e5b360"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-accessories.pw.toml"
+hash = "f545b1b6ed0b49e284c55310f4fe8a74e663d46cf1a1ffcec733e0cdc5ce7399"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-enchantments.pw.toml"
+hash = "e15076021a888aa4c0d5320c3c1bb97d5ff882b7596453b07b78cce462036178"
+metafile = true
+
+[[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
@@ -1453,6 +1473,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
+metafile = true
+
+[[files]]
+file = "mods/monolib.pw.toml"
+hash = "9c3f2ed213953c882756ccfdd39aef6eb1018843e94e7d9313816afba0df8860"
 metafile = true
 
 [[files]]
@@ -2023,6 +2048,11 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
+metafile = true
+
+[[files]]
+file = "mods/tool-leveling.pw.toml"
+hash = "5e9513b76a73f004f1206d0e56fc518917c7b65a32f1adaafa3950b3f386fd2e"
 metafile = true
 
 [[files]]
