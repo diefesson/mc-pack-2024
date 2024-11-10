@@ -1,0 +1,13 @@
+name = "Stony Cliffs Are Cool"
+filename = "Stony Cliffs for Lithostitched v1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/boFjx9eY/versions/m2RpZi3X/Stony%20Cliffs%20for%20Lithostitched%20v1.1.2.jar"
+hash-format = "sha512"
+hash = "532f533d6458fabd1f3dbd30a474981b22c68a57a84c36eb2098dd1321e00629d8f88dcdd5b08780174dec530a67f477b7f0a529d2f805db7c73d9b0bc3948d6"
+
+[update]
+[update.modrinth]
+mod-id = "boFjx9eY"
+version = "m2RpZi3X"

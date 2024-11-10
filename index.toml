@@ -1901,6 +1901,11 @@ hash = "caa2884f648520af6510587788326c4e19771fdf975e84b0f575372319325716"
 metafile = true
 
 [[files]]
+file = "mods/stony-cliffs-are-cool.pw.toml"
+hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
+metafile = true
+
+[[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
 metafile = true
