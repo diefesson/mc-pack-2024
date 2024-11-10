@@ -46,7 +46,7 @@ hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "f8e2c56c6523172e6c4970ef731432ba419755ef61370af4bd1e500b5d7a89ce"
+hash = "2215b02e4db72bf9922faf8df6a2e1504557175433ee581fed0110f761b68e91"
 
 [[files]]
 file = "config/betterjungletemples-forge-1_20.toml"

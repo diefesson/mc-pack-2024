@@ -23,6 +23,9 @@
 	moreBlocks: [
 		"biomesoplenty:mossy_black_sand",
 		"biomeswevegone:lush_grass_block",
+		"biomeswevegone:overgrown_dacite",
+		"biomeswevegone:overgrown_stone",
+		"biomeswevegone:podzol_dacite",
 		"regions_unexplored:argillite_grass_block",
 		"regions_unexplored:brimsprout_nylium",
 		"regions_unexplored:chalk_grass_block",
@@ -32,16 +35,14 @@
 		"regions_unexplored:deepslate_viridescent_nylium",
 		"regions_unexplored:glistering_nylium",
 		"regions_unexplored:mycotoxic_moss",
+		"regions_unexplored:overgrown_bone_block",
 		"regions_unexplored:peat_grass_block",
+		"regions_unexplored:peat_podzol",
 		"regions_unexplored:prismoss",
 		"regions_unexplored:silt_grass_block",
+		"regions_unexplored:silt_podzol",
 		"regions_unexplored:stone_grass_block",
 		"regions_unexplored:viridescent_nylium",
-		"regions_unexplored:overgrown_bone_block",
-		"biomeswevegone:podzol_dacite",
-		"biomeswevegone:overgrown_dacite",
-		"biomeswevegone:overgrown_stone",
-		"regions_unexplored:silt_podzol"
 	],
 	// 
 	// Better Snow
