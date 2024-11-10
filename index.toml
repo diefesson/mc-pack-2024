@@ -303,7 +303,7 @@ hash = "8ee773dd1d72dfa674663d4e8179ac3c2bae2d4bf2d97a2a403235b1a857a402"
 
 [[files]]
 file = "config/silentgear-common.toml"
-hash = "e1f254d002148c00d451ca74d641025ea8e1908e74d69d8e3b276ca6bfe8212a"
+hash = "8c6a3f7d28e1db299730566f7002c4869fa657754c99f15ec99e0ddd7a6a34b6"
 
 [[files]]
 file = "config/silentgems-common.toml"
@@ -926,8 +926,8 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
-file = "mods/dis-enchanting-table.pw.toml"
-hash = "bce0feec0173346982b9aa7b5ea98876804a3e56931c254de1c69e78cd45b1b5"
+file = "mods/disenchanter.pw.toml"
+hash = "03113de39d3e5192ab75d18a1c049ab1c636809205891439623367a89fd85d75"
 metafile = true
 
 [[files]]
@@ -1473,11 +1473,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
-metafile = true
-
-[[files]]
-file = "mods/monolib.pw.toml"
-hash = "9c3f2ed213953c882756ccfdd39aef6eb1018843e94e7d9313816afba0df8860"
 metafile = true
 
 [[files]]
@@ -2048,11 +2043,6 @@ metafile = true
 [[files]]
 file = "mods/titanium.pw.toml"
 hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
-metafile = true
-
-[[files]]
-file = "mods/tool-leveling.pw.toml"
-hash = "5e9513b76a73f004f1206d0e56fc518917c7b65a32f1adaafa3950b3f386fd2e"
 metafile = true
 
 [[files]]
