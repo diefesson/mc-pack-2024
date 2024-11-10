@@ -1,0 +1,13 @@
+name = "All The Trims"
+filename = "allthetrims-3.4.3-forge+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pnsUKrap/versions/Hcatfmo7/allthetrims-3.4.3-forge%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "97e42cd698bc390dc02361182c7ec5550178db3e4176471d5c858f51529adc97ab83459fb7899478969966625ae0eb8331e333834d22abd43c693b5e4fde9dd0"
+
+[update]
+[update.modrinth]
+mod-id = "pnsUKrap"
+version = "Hcatfmo7"

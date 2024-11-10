@@ -581,6 +581,11 @@ hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
+file = "mods/allthetrims.pw.toml"
+hash = "dd2c4d7752f493fee40b3e417692b0ed32d356001c479c1b3d33d95adafeb8b6"
+metafile = true
+
+[[files]]
 file = "mods/almost-unified.pw.toml"
 hash = "a21507bc60d5503dd97d43cff689503f95d11ff462a1795cdbde7261bcb51fe5"
 metafile = true
@@ -953,6 +958,11 @@ metafile = true
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "2cb023db53755521a12ce3bddec83722ca56119a7add03e9c3fbb202ab8a51b4"
+metafile = true
+
+[[files]]
+file = "mods/dynamic-trim.pw.toml"
+hash = "e0035e516aff4df2789654926c3ddfc092ca24ba185d5937a4cec3ac16e984e7"
 metafile = true
 
 [[files]]
