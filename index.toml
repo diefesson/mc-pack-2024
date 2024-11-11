@@ -2012,7 +2012,7 @@ metafile = true
 
 [[files]]
 file = "mods/thermal-extra.pw.toml"
-hash = "1dc09355044a69ef3f71b3c2da433d3927c4f8842e087bece4b95dddea3cf63d"
+hash = "797c075e2e21b77de26c5d1173f04038cd8c532aeddb62ed802c9a32bbf415db"
 metafile = true
 
 [[files]]
