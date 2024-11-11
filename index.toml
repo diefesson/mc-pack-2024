@@ -2122,6 +2122,11 @@ hash = "254dd9e2432c72afdec37e0ef8236ae6c3cf2eb291cc1f959c2a78221cef2c05"
 metafile = true
 
 [[files]]
+file = "mods/no-chat-reports.pw.toml"
+hash = "b849dfdaaa3e4ad635fb16595bfd6ae03b83de0c02f5b06faafb24cc33926f3f"
+metafile = true
+
+[[files]]
 file = "mods/no-feather-trample.pw.toml"
 hash = "59a456a98d57d479a69eea9206eeff205282b90921328149eb56472e95150346"
 metafile = true
@@ -2129,6 +2134,11 @@ metafile = true
 [[files]]
 file = "mods/no-nv-flash.pw.toml"
 hash = "abe0d72f0a439edc40f7174f5b13b934323f8c2b785a3d748fd6164956407505"
+metafile = true
+
+[[files]]
+file = "mods/no-telemetry.pw.toml"
+hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
 metafile = true
 
 [[files]]
