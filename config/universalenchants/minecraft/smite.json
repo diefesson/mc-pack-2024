@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "majruszsenchantments:misanthropy",
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:instigating",
+    "ensorcellation:magic_edge",
+    "ensorcellation:damage_villager",
+    "ensorcellation:damage_ender",
+    "ensorcellation:damage_illager",
+    "minecraft:impaling",
+    "minecraft:bane_of_arthropods"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "redstone_arsenal:flux_sickle",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:magic_edge"
+  ]
+}

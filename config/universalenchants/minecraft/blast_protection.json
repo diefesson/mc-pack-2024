@@ -1,0 +1,14 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor",
+    "$minecraft:universal_enchants_horse_armor"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "minecraft:fire_protection",
+    "majruszsenchantments:magic_protection",
+    "minecraft:projectile_protection",
+    "ensorcellation:magic_protection"
+  ]
+}

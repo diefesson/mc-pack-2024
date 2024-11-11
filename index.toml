@@ -374,6 +374,562 @@ file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
 [[files]]
+file = "config/universalenchants-client.toml"
+hash = "e68b3726795170c1fa1b164da2e11934b3e5bad25b17e924ebfc13848fc8f524"
+
+[[files]]
+file = "config/universalenchants-common.toml"
+hash = "fa4abcf3ae2d3d10814664074cd9b6d876c55cb877b5a5dac3edc5217bd8b5af"
+
+[[files]]
+file = "config/universalenchants-server.toml"
+hash = "eae249f4e0b49b03a6a4fb8a6fe16552a5d37c5f7608d14bb8a552e31bf54a46"
+
+[[files]]
+file = "config/universalenchants/cofh_core/holding.json"
+hash = "d1fb3644ac72c37dd30399cea371837adab8e5036a13216a3c657193c066894b"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/amphibious.json"
+hash = "f6276f8a329c8d77b99475ef0dbf92264111271be760f56cdebaf444f1a20016"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/blazing_protection.json"
+hash = "10077936066cbf57f9a02e382b3d3923b6b38f3eeecdc0c9b1ac4c8e9fbbb99b"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/blight_curse.json"
+hash = "6cb8ed019e02424da1b1a3e3e43f88c9ecad4463157b3291bc62027abe9e8666"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/bubbling.json"
+hash = "7662856feac84cfb3e8b72eb6c4f79044b420e48be629d1c3fce81dff526c430"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/chain_lightning.json"
+hash = "e69a5e7703835141daf6749e3580da9abdbcc9a0a11e62e188e24e1c3f4d6007"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/charisma.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/deflection.json"
+hash = "1fdf90960bb96142042d7ca80578e6d163afd63b15a2c616a6c4838fed68b7b9"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/defusal.json"
+hash = "92fb0229d0e3d8adf99ba9a5e9cae89a84246f834c9acc1992432cc918db6c3b"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/disc_jockey.json"
+hash = "5d9a8fe69bf816241b1cfd0247f4c32b052ea2763b9f24f97790869c6ffca60a"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/fireproof.json"
+hash = "5002b9923877c197e0da9506cfa876913f2b610a3984ea33fefeefc6c8e8a22b"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/frost_fang.json"
+hash = "777ef006999064dc2229ee633601161b62f314c013b014dd3fb2d61cee5524f3"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/gluttonous.json"
+hash = "2ec109744e7452fc3837166f3cc1ed526e26b2a4bda013653377938f8bed53ff"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/healing_aura.json"
+hash = "ab7a400c366ec44af0a0672215ab67aeaad68c2f9c36770fc52614c4d1c374eb"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/health_boost.json"
+hash = "d13987aa15d3acdcc4cae8097d774cd4e8412a987b265ef1fe83d08f761e2a5f"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/health_siphon.json"
+hash = "3a6375acd03e95f02a01217c091ae66b13806c131fa2b5d4260f0e16e860f9a5"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/herding.json"
+hash = "32bc0c12edb7611e0b8e55e0604f51f446c4082a396c011b2780e4205f2a1cee"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/immaturity_curse.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/immunity_frame.json"
+hash = "a3e8f24459407a493ac05809637d538c00f5967e029248bd9c5fc0f60fde834c"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/infamy_curse.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/intimidation.json"
+hash = "397df6a516eaa7cd22410e2f4a60cbb2484b1170699a10c4c0e94bd51f14ef53"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/linked_inventory.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/magnetic.json"
+hash = "9f2c813d2a7432281b765ddb1e15276fb7bc4c303802cd6a95a3eea19c73b622"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/muffled.json"
+hash = "42fba1625546de7918588da111c7248bd93feb23fd7b126080aae70cdc41c655"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/ore_scenting.json"
+hash = "6cb8ed019e02424da1b1a3e3e43f88c9ecad4463157b3291bc62027abe9e8666"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/poison_resistance.json"
+hash = "86de7caf2de8bcfd7dbfbf8a0494c0b138a044626dac7652af57953ad7afd126"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/psychic_wall.json"
+hash = "ddac81ba3f48b7e7b9d56783684fabf8a7fa254f470fc50acd1a7ffe3aeb8087"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/rejuvenation.json"
+hash = "2097d7de38a89ccd262401d382e593e371b98fa226072d4219812bb8edacd080"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/shadow_hands.json"
+hash = "6fce4805b36465a4189a72ab74b9c724e85bedbac55537f6a6d5f54bb10f4943"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/speedster.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/tethered_teleport.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/total_recall.json"
+hash = "923c65e1fdd392f13edb062bb1e7016d3365a0ed2caca8100ee274cbe15f1394"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/undead_curse.json"
+hash = "cfc47686eba3dfc55c67094d8765b0379fda55e913017eba8a970a38686e56b6"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/vampire.json"
+hash = "7b785cf7329694691d69a0459790303649e8611f2762a4ab72aa518c8625c045"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/void_cloud.json"
+hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
+
+[[files]]
+file = "config/universalenchants/domesticationinnovation/warping_bite.json"
+hash = "486de0ff4f5c51f834685e15eb008626610b496d405073e393756f4ac28aedfe"
+
+[[files]]
+file = "config/universalenchants/enderzoology/decay.json"
+hash = "3c071f2600a533250ab37ca7b7cd351adac7dcc261477f320863e32566aa1674"
+
+[[files]]
+file = "config/universalenchants/enderzoology/repellent.json"
+hash = "60ff21285e9e09a74f0b9002b63e90b3b8715e4f57ef725adce1ec943eed9fc6"
+
+[[files]]
+file = "config/universalenchants/enderzoology/soulbound.json"
+hash = "d1fb3644ac72c37dd30399cea371837adab8e5036a13216a3c657193c066894b"
+
+[[files]]
+file = "config/universalenchants/enderzoology/withering.json"
+hash = "5b0e582b4b549a1882862349d9fa5587fe1ca8793e3baf813af207293d1e20b7"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/air_affinity.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/angler.json"
+hash = "ab56aa19c007bb3b73a58cae240ed46051c65ae7f71b8b64118ff3fb21a1beee"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/bulwark.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/cavalier.json"
+hash = "6a8b43efdb0d6f719cdc44b23f981c89c39e4e324e7c0383905a4ff6bd58e969"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/curse_fool.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/curse_mercy.json"
+hash = "6a8b43efdb0d6f719cdc44b23f981c89c39e4e324e7c0383905a4ff6bd58e969"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/damage_ender.json"
+hash = "2b5e0589acb3b9b420e6df1ae2b0757f44906d38d87371e8b3b0074f22945bad"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/damage_illager.json"
+hash = "7908cd987cb47312b710bcc54812357e5545519013cd78b309012e7e33bd1aae"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/damage_villager.json"
+hash = "2115ec2ccd5746db3e0a6206f5e2ac9c12c7d25efc1fe478b5e99142aabd2fad"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/displacement.json"
+hash = "2ba0874269505e7a1f5486672267b368b27150a45fee99cc14386b644a4cfbb8"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/excavating.json"
+hash = "1da32f8973cda1f46bc65b1169bdfda598423e7e9dfe68eacb1d122efe904447"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/fire_rebuke.json"
+hash = "07092b7bc8f2161704d1b0816b7ad093913d5f2961afffc01770215116879a88"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/frost_aspect.json"
+hash = "5c6dabc38fc1bfc26690d0e34692446245c7a1d76dc60689ef5e7554452bcf50"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/frost_rebuke.json"
+hash = "5afc274aa907c31bdf420ddda569f2e9eaac12388bf6e2b02064012a294c8c5b"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/gourmand.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/hunter.json"
+hash = "5b0e582b4b549a1882862349d9fa5587fe1ca8793e3baf813af207293d1e20b7"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/instigating.json"
+hash = "5ab57a4ffeaf77a0832573cdf307bc54e972a4c84fe76e1ac6580273a4cead6d"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/leech.json"
+hash = "6a8b43efdb0d6f719cdc44b23f981c89c39e4e324e7c0383905a4ff6bd58e969"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/magic_edge.json"
+hash = "6831a94291146a3ba11c84de443d0ba9e3a5292ee358effd6b84b95a789adb2a"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/magic_protection.json"
+hash = "219866ab5a88afb3b85f6e206bcbd5d95f0f8ed7f1ecaa236713df46f22d45fb"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/phalanx.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/pilfering.json"
+hash = "ab56aa19c007bb3b73a58cae240ed46051c65ae7f71b8b64118ff3fb21a1beee"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/quick_draw.json"
+hash = "5b0e582b4b549a1882862349d9fa5587fe1ca8793e3baf813af207293d1e20b7"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/reach.json"
+hash = "60ff21285e9e09a74f0b9002b63e90b3b8715e4f57ef725adce1ec943eed9fc6"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/soulbound.json"
+hash = "98741dea5f344053070d9e670fe382cea684916039afac36043ce27f727629f8"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/trueshot.json"
+hash = "2e48ec1d6149e923ea90dbbea346aa0990b52d0593da39363ffb13887e7cd2b1"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/vitality.json"
+hash = "60ff21285e9e09a74f0b9002b63e90b3b8715e4f57ef725adce1ec943eed9fc6"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/volley.json"
+hash = "e9ef8f7744e74679ba38f70be61b765f8609b2775feb3f2d9ad678104ce2680a"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/vorpal.json"
+hash = "6a8b43efdb0d6f719cdc44b23f981c89c39e4e324e7c0383905a4ff6bd58e969"
+
+[[files]]
+file = "config/universalenchants/ensorcellation/xp_boost.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/breaking_curse.json"
+hash = "96ad946002dde6b3211811092ea563dd0ad9dcb55e3a2c577b2f1df6dd3ad845"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/corrosion_curse.json"
+hash = "9a124633ce75769d315c4507ce0d1f7c1e56279c8ee7fd2823db74adf9176c62"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/death_wish.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/dodge.json"
+hash = "bfb6a2e53c3e0d0e3a0be8f262c26beb745a502c66c81d0b433b1547de0269df"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/enlightenment.json"
+hash = "9a124633ce75769d315c4507ce0d1f7c1e56279c8ee7fd2823db74adf9176c62"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/fatigue_curse.json"
+hash = "7be0b1e14865697edb883008fe4bbe3791220530cad744bba8eb4a47fdfe430d"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/fishing_fanatic.json"
+hash = "ab56aa19c007bb3b73a58cae240ed46051c65ae7f71b8b64118ff3fb21a1beee"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/fuse_cutter.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/gold_fuelled.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/harvester.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/horse_frost_walker.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/horse_protection.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/horse_swiftness.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/hunter.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/immortality.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/incompatibility_curse.json"
+hash = "3425fac324fdb0923fd6361d5787fa7c6877fa6a892c96e30fc660e81d38ec93"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/leech.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/magic_protection.json"
+hash = "beee9388a2fbdbe1ca70697985b65188cabad2aa8e547b4b481793fdebdf9761"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/misanthropy.json"
+hash = "e41f0d0a86c6c31a29c5325dc06805005194eeaff5953bec1db9325950e275b7"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/repulsion.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/sixth_sense.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/slippery_curse.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/smelter.json"
+hash = "46aba0e0e74f8427bcc6e7a65c9f591b6c47f196668257b276affda28ad87983"
+
+[[files]]
+file = "config/universalenchants/majruszsenchantments/telekinesis.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/minecraft/aqua_affinity.json"
+hash = "ea9ce3a6347f72f5898a1f77de77e0074f038304be6680118d842ea6f5f93413"
+
+[[files]]
+file = "config/universalenchants/minecraft/bane_of_arthropods.json"
+hash = "9cd1d97cc7843dcd56a54f77bc9d4da78f1684e8b31b226a533a35114e78208a"
+
+[[files]]
+file = "config/universalenchants/minecraft/binding_curse.json"
+hash = "b5d245ceda89179246c22517372fd023985c9e1029ab97f99189aac76a936126"
+
+[[files]]
+file = "config/universalenchants/minecraft/blast_protection.json"
+hash = "cb4382abf84cf8da3bb5fe79863fcd1b2ee2321fc7f9d8dc6eac14fe851db79e"
+
+[[files]]
+file = "config/universalenchants/minecraft/channeling.json"
+hash = "287c8ab479cacd5ff00d66efbd2e1556fb853cf15adf4f3432ecfab85bbb8028"
+
+[[files]]
+file = "config/universalenchants/minecraft/depth_strider.json"
+hash = "b1b1489d2e7ee321c64c9d536d4a569efe63bc4b14a51a06c37ca848f6665439"
+
+[[files]]
+file = "config/universalenchants/minecraft/efficiency.json"
+hash = "78a515f60fd9a9e09dd64672355577d4ae9297ea300696fc4413bf662ad43ccf"
+
+[[files]]
+file = "config/universalenchants/minecraft/feather_falling.json"
+hash = "41101b71437442bcf01bcb6251964782338decf022f8be2a532d5f3c6c19323d"
+
+[[files]]
+file = "config/universalenchants/minecraft/fire_aspect.json"
+hash = "8a432b0a4d0571c8a41e2c3752551076547a3154dc894701b1a6902c8d81cfba"
+
+[[files]]
+file = "config/universalenchants/minecraft/fire_protection.json"
+hash = "869e1ebb205a8665adc46e9a1d3bf5cf412684d670bad0eb896b78461d7a9711"
+
+[[files]]
+file = "config/universalenchants/minecraft/flame.json"
+hash = "d44051ae41c7678200b83b91fefea8eaeda4a679ea2f8b523a688e00b4123fcc"
+
+[[files]]
+file = "config/universalenchants/minecraft/fortune.json"
+hash = "f4eba293e89515563b0f3185002478e70c98636f599ba133c5c3e8acc7071159"
+
+[[files]]
+file = "config/universalenchants/minecraft/frost_walker.json"
+hash = "6f6844bb25cb1242ba2b3c9fada3d406b6305dd0cc784066c5913059ab85f828"
+
+[[files]]
+file = "config/universalenchants/minecraft/impaling.json"
+hash = "1c2131e84b332d8a4dbaa80b61e5747baf093ddb815fb57d5dc2b743a8f56ff9"
+
+[[files]]
+file = "config/universalenchants/minecraft/infinity.json"
+hash = "d44051ae41c7678200b83b91fefea8eaeda4a679ea2f8b523a688e00b4123fcc"
+
+[[files]]
+file = "config/universalenchants/minecraft/knockback.json"
+hash = "a3817c526e83acc89914fa9efd0e158fbee815327749df32daf53d5daaae3289"
+
+[[files]]
+file = "config/universalenchants/minecraft/looting.json"
+hash = "15d0f0fe40fb62a816de73130e913e0a37fb1e35aa2bc0b17a39717eb2962b6d"
+
+[[files]]
+file = "config/universalenchants/minecraft/loyalty.json"
+hash = "7339c8b98a5652d5ee89ec49217dfd52f4877b0406a670802c5a415af890af77"
+
+[[files]]
+file = "config/universalenchants/minecraft/luck_of_the_sea.json"
+hash = "780bb92b982ebf16f44f84a5e3915def8c8e0962e5de3d4ff402086a7eda7a34"
+
+[[files]]
+file = "config/universalenchants/minecraft/lure.json"
+hash = "ab56aa19c007bb3b73a58cae240ed46051c65ae7f71b8b64118ff3fb21a1beee"
+
+[[files]]
+file = "config/universalenchants/minecraft/mending.json"
+hash = "2f6fb4e1efba5a5efa8fe7c7ae918743d7dd7196ad0c8ec4830baf5d86ec896c"
+
+[[files]]
+file = "config/universalenchants/minecraft/multishot.json"
+hash = "2c7abd4e6ae8ffbd220d408f2dfbbc368d415845d22c239f04bdc34b2934005d"
+
+[[files]]
+file = "config/universalenchants/minecraft/piercing.json"
+hash = "d4cd5d9c046908a9873b1dfbb7b360250176a47f5a265e8fab987bc4cfd044b3"
+
+[[files]]
+file = "config/universalenchants/minecraft/power.json"
+hash = "d44051ae41c7678200b83b91fefea8eaeda4a679ea2f8b523a688e00b4123fcc"
+
+[[files]]
+file = "config/universalenchants/minecraft/projectile_protection.json"
+hash = "35efa05b3a21603bb5c743c53a63621025e21b5c12a3acad3f3459a7e80a6b7d"
+
+[[files]]
+file = "config/universalenchants/minecraft/protection.json"
+hash = "36301f7fba76b9e597e0d72663a0491e37416710ccac6770de25096c4401bdfa"
+
+[[files]]
+file = "config/universalenchants/minecraft/punch.json"
+hash = "d44051ae41c7678200b83b91fefea8eaeda4a679ea2f8b523a688e00b4123fcc"
+
+[[files]]
+file = "config/universalenchants/minecraft/quick_charge.json"
+hash = "ba800da9a63d00114bdfc0fba95d852094d7c125103322855cd539f2568491b3"
+
+[[files]]
+file = "config/universalenchants/minecraft/respiration.json"
+hash = "66a2b7abc10b11e038678f357d28d67e79e059d75858e364870b65a62a696585"
+
+[[files]]
+file = "config/universalenchants/minecraft/riptide.json"
+hash = "56c0fc016775d553625a788567b0de86ee717a72684caa8042e426869c1c8ec9"
+
+[[files]]
+file = "config/universalenchants/minecraft/sharpness.json"
+hash = "de7e341640a98c76970fdc29a95f719c5ccbaf2e7a12e06241e20f5241fe42e6"
+
+[[files]]
+file = "config/universalenchants/minecraft/silk_touch.json"
+hash = "a39e53e07fd4e5b9207456750dd4f2c1188e3ae03a40d177ee706c06c0a0847b"
+
+[[files]]
+file = "config/universalenchants/minecraft/smite.json"
+hash = "155f7de620f3f228779b24a581ced56bc6d1448ac438849c2855c66974ac8827"
+
+[[files]]
+file = "config/universalenchants/minecraft/soul_speed.json"
+hash = "5eb05be176cc9b0823fb77b3d5245e9b537f2634adc5e456a67f6fcb180708fc"
+
+[[files]]
+file = "config/universalenchants/minecraft/sweeping.json"
+hash = "95b0737357743b779ce51e2105f91c4c586a110610441891f868f912f9981ec8"
+
+[[files]]
+file = "config/universalenchants/minecraft/swift_sneak.json"
+hash = "bfb6a2e53c3e0d0e3a0be8f262c26beb745a502c66c81d0b433b1547de0269df"
+
+[[files]]
+file = "config/universalenchants/minecraft/thorns.json"
+hash = "e3565edd14d623cffb410f0f3f1a578d346428d6cfb0be2b063b58e4525be3de"
+
+[[files]]
+file = "config/universalenchants/minecraft/unbreaking.json"
+hash = "e03ee075ffe3c7d661a03ea59b1967f73d520c581de7e52ebe7a388f5288ee68"
+
+[[files]]
+file = "config/universalenchants/minecraft/vanishing_curse.json"
+hash = "1fc03fdc850ef567057e37b4d03b47acbe594d341104562f029dfb004aa6182e"
+
+[[files]]
+file = "config/universalenchants/mysticalagriculture/mystical_enlightenment.json"
+hash = "3c071f2600a533250ab37ca7b7cd351adac7dcc261477f320863e32566aa1674"
+
+[[files]]
+file = "config/universalenchants/mysticalagriculture/soul_siphoner.json"
+hash = "3c071f2600a533250ab37ca7b7cd351adac7dcc261477f320863e32566aa1674"
+
+[[files]]
+file = "config/universalenchants/supplementaries/stasis.json"
+hash = "b42f46a97ca33bf535ad8db887f7ec56b2bc0a9addbf2d6fdbff7a7615406eb7"
+
+[[files]]
 file = "config/variantsandventures.json"
 hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
 

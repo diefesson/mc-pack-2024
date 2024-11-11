@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:weapon",
+    "redstone_arsenal:flux_wrench",
+    "$minecraft:universal_enchants_axe",
+    "$minecraft:trident"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:frost_aspect"
+  ]
+}

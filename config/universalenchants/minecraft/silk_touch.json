@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:digger",
+    "ae2:annihilation_plane",
+    "thermal:flux_drill",
+    "thermal:flux_saw"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "majruszsenchantments:smelter",
+    "minecraft:looting",
+    "minecraft:fortune",
+    "minecraft:luck_of_the_sea"
+  ]
+}

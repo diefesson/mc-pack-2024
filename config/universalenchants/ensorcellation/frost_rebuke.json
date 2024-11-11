@@ -1,0 +1,12 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:armor_chest"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse",
+    "ensorcellation:displacement",
+    "minecraft:thorns",
+    "ensorcellation:fire_rebuke"
+  ]
+}

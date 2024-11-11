@@ -1,0 +1,13 @@
+{
+  "schemaVersion": 2,
+  "items": [
+    "$minecraft:crossbow",
+    "supplementaries:slingshot",
+    "enderzoology:hunting_bow",
+    "$minecraft:trident",
+    "$minecraft:bow"
+  ],
+  "incompatible": [
+    "majruszsenchantments:incompatibility_curse"
+  ]
+}
