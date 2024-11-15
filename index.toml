@@ -1342,11 +1342,6 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
-file = "mods/citadel.pw.toml"
-hash = "05fdc598a3d7461f62d878ebe8d3d7fd714ca8bdeb93831e9f0e0876adfca01a"
-metafile = true
-
-[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -1494,11 +1489,6 @@ metafile = true
 [[files]]
 file = "mods/distinguished-potions.pw.toml"
 hash = "6e9c23ecadf0465c97f14a001689a82948ca0ff185c5e47e40472fc7b91ba937"
-metafile = true
-
-[[files]]
-file = "mods/domestication-innovation.pw.toml"
-hash = "bfd2911d1fc7136f92be93d4e3081b85f30109373ac640fbac2e3b3896d709f2"
 metafile = true
 
 [[files]]
