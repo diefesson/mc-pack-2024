@@ -2727,6 +2727,11 @@ hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
 
 [[files]]
+file = "mods/world-preview.pw.toml"
+hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
+metafile = true
+
+[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "810b21ef36d06aee4633fbf8664d5430a09d25a41c00da6ebb3f24a9c436384a"
 metafile = true
