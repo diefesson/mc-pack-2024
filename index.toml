@@ -1217,6 +1217,11 @@ hash = "3c1204a7f78bc67e690692166095acf4d101d5da1a8bb338173da07c981c6830"
 metafile = true
 
 [[files]]
+file = "mods/bad-wither-no-cookie.pw.toml"
+hash = "cf91e95108b487edd7e8d7c8a5a466a8d6f1218a6469c8dd7e866b8c551ecace"
+metafile = true
+
+[[files]]
 file = "mods/badoptimizations.pw.toml"
 hash = "66972afb7cfed3f736873f00c3178c7c55b995ea8a5edb96327a9b71bc3f7d42"
 metafile = true
@@ -1874,6 +1879,11 @@ metafile = true
 [[files]]
 file = "mods/jei.pw.toml"
 hash = "e53309f3e24377300fc30a6785f5db1ad51e4e71911ba774f484eb80f2db2e68"
+metafile = true
+
+[[files]]
+file = "mods/jump-over-fences.pw.toml"
+hash = "39d576bdf14b906a1e6b11154473f5fb9444919aed049f3841779c9afce65359"
 metafile = true
 
 [[files]]
