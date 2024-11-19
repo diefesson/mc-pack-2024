@@ -37,10 +37,6 @@ file = "config/barteringstation-server.toml"
 hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
 
 [[files]]
-file = "config/betterdeserttemples-forge-1_20.toml"
-hash = "0046eed2a3e6a6d4fc4d3e3edeb0e4b2fbaeb248422945c40a693a1be6b4354d"
-
-[[files]]
 file = "config/betterfortresses-forge-1_20.toml"
 hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
@@ -49,20 +45,8 @@ file = "config/bettergrass.json5"
 hash = "2215b02e4db72bf9922faf8df6a2e1504557175433ee581fed0110f761b68e91"
 
 [[files]]
-file = "config/betterjungletemples-forge-1_20.toml"
-hash = "7d9c148ff147c8d6282e6b90e08bd78350616592d187fa97f88c3204925a1673"
-
-[[files]]
-file = "config/bettermineshafts-forge-1_20.toml"
-hash = "e1bb6ee9bec8c0cc8de5d2105c6531b17d2e4c308a218fde35c71cb0f87d6a6e"
-
-[[files]]
 file = "config/betteroceanmonuments-forge-1_20.toml"
 hash = "0bb334f5c52d073a53c179c6a9433ef2db99abb32394453e72206e3fbbec76ef"
-
-[[files]]
-file = "config/betterwitchhuts-forge-1_20.toml"
-hash = "c0fff68a453fed3ed2000786f35b95991b55aa2621fa6ff78e08955de624b7c5"
 
 [[files]]
 file = "config/cavespiderspawn.json5"
@@ -1187,11 +1171,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/areas.pw.toml"
-hash = "6a39ed880470d436054cd73421f6bd7b9bdaffdce67bb2be3dae3885f82367d7"
-metafile = true
-
-[[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "05dda113751f1aa8b057368d70820be2b53ca7a8a968f9a12fd43a208f84658c"
 metafile = true
@@ -1404,11 +1383,6 @@ metafile = true
 [[files]]
 file = "mods/creeper-overhaul.pw.toml"
 hash = "1ad27ac63d9c939149112a6cfdddd9ef00fb9be26b1d824ba3540dbdd62e1f48"
-metafile = true
-
-[[files]]
-file = "mods/cristel-lib.pw.toml"
-hash = "99980f9ce1894fa11fe230087959d05e1f95c1e6eea004879a4f0ec04f38c70f"
 metafile = true
 
 [[files]]
@@ -1837,11 +1811,6 @@ hash = "ecaf990d63fd8d20c940d77fcf8378511addfe18c23f9615482938a78adaed37"
 metafile = true
 
 [[files]]
-file = "mods/immersive-structures.pw.toml"
-hash = "9276cb26c8a8313bb5d7b9b94c61306b1ab25f257a5e49032585b9d5ecd48f09"
-metafile = true
-
-[[files]]
 file = "mods/improved-sign-editing.pw.toml"
 hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
@@ -1992,11 +1961,6 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "769e63679043d6ed2c9bd7c23448662297516cff99d8dd1b75c56df294df1e6b"
-metafile = true
-
-[[files]]
 file = "mods/mindful-darkness.pw.toml"
 hash = "8c0b39fe7dcf2de0a30bc02f07e6c23d500790dc07853be246e057b97065febb"
 metafile = true
@@ -2007,11 +1971,6 @@ hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
 metafile = true
 
 [[files]]
-file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "d5ad42fed396a52a7f12d27f35352381ab2b0a2ab2e0b02c0f4635c9ed0196bc"
-metafile = true
-
-[[files]]
 file = "mods/modelfix.pw.toml"
 hash = "ab170eabaeec3e80c59e850a7d8aee32edfffd6a1e40e2c2f44575c69d122054"
 metafile = true
@@ -2019,11 +1978,6 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
@@ -2064,11 +2018,6 @@ metafile = true
 [[files]]
 file = "mods/move-minecarts.pw.toml"
 hash = "a48098cb088a91fc900ba29a0193d0a7d5e40a4e674e1eb70c46345bf80efacb"
-metafile = true
-
-[[files]]
-file = "mods/mss-moogs-soaring-structures.pw.toml"
-hash = "24d767d82a8c986915768d119f7f5ab1ddded864967887ece5bad5b9d8aa779b"
 metafile = true
 
 [[files]]
@@ -2212,11 +2161,6 @@ hash = "73342e146f646236472d5943f442d64fa4529360f36074b27febf9fa95bcc657"
 metafile = true
 
 [[files]]
-file = "mods/philips-ruins.pw.toml"
-hash = "77a0edefb7b112dac7cf2e90ce2b76cfa49cf9dd39b21542e09ad70119e7a47a"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
 metafile = true
@@ -2264,11 +2208,6 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
-metafile = true
-
-[[files]]
-file = "mods/random-village-names.pw.toml"
-hash = "8d108ee450f19e786d741fb02e8d56eafc39fb1558d0a9a0f462bdaae60e9920"
 metafile = true
 
 [[files]]
@@ -2477,11 +2416,6 @@ hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
 metafile = true
 
 [[files]]
-file = "mods/structory.pw.toml"
-hash = "d0b06ed3c01796837223764708bafdc354ca271083f29700aa2de1c5e1b4ff89"
-metafile = true
-
-[[files]]
 file = "mods/styled-nicknames.pw.toml"
 hash = "f30b7c49b72607c07fc8b3a06355d03ffdbb0b9d6d2e9bccbf994b8299cc8f5f"
 metafile = true
@@ -2622,11 +2556,6 @@ hash = "e47935f71c9e6ceb21ec1be3b1db0ed512d463ed3b9cc555b8d5788d2550fe1f"
 metafile = true
 
 [[files]]
-file = "mods/towns-and-towers.pw.toml"
-hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
-metafile = true
-
-[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "ad1e2e4cc4502e515c21f3ba5116ffa8aa5a32f736dad61c0b6b2829d03e966b"
 metafile = true
@@ -2762,11 +2691,6 @@ hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-desert-temples.pw.toml"
-hash = "7db9f54055379da4817571a66ab3e5c17ec03f55cafc8ef157e3fa585b20e1ee"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-dungeons.pw.toml"
 hash = "3b896ddf7389ad7d403b354cd94966c65f4989c9675ec245681b5c78d5208317"
 metafile = true
@@ -2782,11 +2706,6 @@ hash = "ad5edce3b2c6d7eb7a260f4b712ef43583eec3a5e83638fd44f11e6d583e7366"
 metafile = true
 
 [[files]]
-file = "mods/yungs-better-mineshafts.pw.toml"
-hash = "4ce517d9069d08501f48e928692dc2f4617980683a2c4521f22c1ec538f34dcc"
-metafile = true
-
-[[files]]
 file = "mods/yungs-better-nether-fortresses.pw.toml"
 hash = "3ca605850961bbfb53cd2737349acb6cff01e452cce9f32c2da6c0593d89eda7"
 metafile = true
@@ -2799,26 +2718,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
-metafile = true
-
-[[files]]
-file = "mods/yungs-better-witch-huts.pw.toml"
-hash = "35e69603e8b8b3c999f2054d34949578088c40d0042e13678fd1f85d793add34"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "2c40cfe9099281acc57efa8d168dc685fd739cc067afce92c8d4a0697a00b67a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-cave-biomes.pw.toml"
-hash = "f3667d44c514bfb740e4c3c6fd85daa1023d37f3af22defa634c2e5c02e1c919"
-metafile = true
-
-[[files]]
-file = "mods/yungs-extras.pw.toml"
-hash = "cbc4a42265c7235d95f596f4d03819d868e002c2b175f2f6bd30420416a7cef2"
 metafile = true
 
 [[files]]
