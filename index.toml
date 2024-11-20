@@ -1441,11 +1441,6 @@ hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
 metafile = true
 
 [[files]]
-file = "mods/deep-resonance.pw.toml"
-hash = "36ea769516d056683b619fe7eae9e39c9d1f19f4de21b2b5026749e94f2c63eb"
-metafile = true
-
-[[files]]
 file = "mods/ding.pw.toml"
 hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
@@ -1608,11 +1603,6 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "b2c23de66eef4d951b7185a53199631c4a1115832aa13ef24fd10f40a02c0d83"
-metafile = true
-
-[[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "8528e7ab67d1d3121cd08ec609e251992f16edebd5b919321f877f551497f9cb"
 metafile = true
 
 [[files]]
@@ -2651,11 +2641,6 @@ hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
 
 [[files]]
-file = "mods/world-preview.pw.toml"
-hash = "4cbaef598ee1cb241ea0efe33eb3947a503f25409952e860ec69833692c7822d"
-metafile = true
-
-[[files]]
 file = "mods/xaeroplus.pw.toml"
 hash = "810b21ef36d06aee4633fbf8664d5430a09d25a41c00da6ebb3f24a9c436384a"
 metafile = true
@@ -2713,11 +2698,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "b7a292c2f1505290e694c1083417984286d34cff09497cd00f78aadfbacff89f"
 metafile = true
 
 [[files]]
