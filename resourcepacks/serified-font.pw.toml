@@ -1,0 +1,13 @@
+name = "Serified Font"
+filename = "Serified Font v1.1 f1-34.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/L0iIXINl/versions/5cd6k8ol/Serified%20Font%20v1.1%20f1-34.zip"
+hash-format = "sha512"
+hash = "87bcad3e2d5be6615ed0c2d353b8e45e57fd824b095788d4b90522386410dd84d755391264b1361b1a6d27b71cdea7f5000ea5c5fcb24e320b38cfecca478d37"
+
+[update]
+[update.modrinth]
+mod-id = "L0iIXINl"
+version = "5cd6k8ol"

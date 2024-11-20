@@ -2728,3 +2728,8 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "88d582fb74bdff1282b17dea99e694d6fc315f94a101cff213e7816c1f90aba8"
+
+[[files]]
+file = "resourcepacks/serified-font.pw.toml"
+hash = "0c0d2c88c860220fd9d551b3ce7f1e3ca54ab07bbf47fa6ace89657eb3a1716e"
+metafile = true
