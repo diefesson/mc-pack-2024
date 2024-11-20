@@ -98,7 +98,7 @@ hash = "0de8d7ae7196e32513e10b279df547587791d2aed2209fed49ca7689c761c94a"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
-hash = "9cc6f39c2b3894106f1941c3ed28c13ba881af2ec982ec31ed26134f029095e2"
+hash = "f8a8fbc9f6824f2e45ab9a89d56b378cef21bbde65bb3498f2a4f234e4ea5dc1"
 
 [[files]]
 file = "config/extremereactors/client.toml"

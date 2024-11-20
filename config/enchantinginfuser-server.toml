@@ -53,7 +53,7 @@
 		rare_cost_multiplier = 4
 		#Cost level to scale prices by. This is not a strict value, meaning it can be exceeded (e.g. when applying treasure enchantments).
 		#Range: > 1
-		maximum_cost = 50
+		maximum_cost = 55
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		scale_costs_by_vanilla_only = true
 		#Base cost multiplier for each level for uncommon enchantments.
@@ -152,7 +152,7 @@
 		rare_cost_multiplier = 4
 		#Cost level to scale prices by. This is not a strict value, meaning it can be exceeded (e.g. when applying treasure enchantments).
 		#Range: > 1
-		maximum_cost = 50
+		maximum_cost = 55
 		#When scaling costs, only account for vanilla enchantments. Otherwise enchanting costs will become ludicrously cheap with many modded enchantments present.
 		scale_costs_by_vanilla_only = true
 		#Base cost multiplier for each level for uncommon enchantments.
