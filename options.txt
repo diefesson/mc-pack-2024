@@ -179,6 +179,7 @@ key_key.loadToolbarActivator:key.keyboard.unknown
 key_key.modernfix.config:key.keyboard.unknown
 key_key.mute_microphone:key.keyboard.unknown
 key_key.nextDestination:key.keyboard.unknown
+key_key.open_muffler_gui:key.keyboard.unknown
 key_key.openManual:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab

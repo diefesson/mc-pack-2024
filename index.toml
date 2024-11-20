@@ -1616,6 +1616,11 @@ hash = "8528e7ab67d1d3121cd08ec609e251992f16edebd5b919321f877f551497f9cb"
 metafile = true
 
 [[files]]
+file = "mods/extreme_sound_muffler.pw.toml"
+hash = "20cf588f9bf8b021676f5e6bfb0bb6b2735a03bc4f0c705a414336b96ef69410"
+metafile = true
+
+[[files]]
 file = "mods/fabrictailor.pw.toml"
 hash = "25ccb0dd97330715a5a5dd4ab2a9820811085116ee7b6fa8d38e6b0d453321eb"
 metafile = true
@@ -2098,11 +2103,6 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "e72b207751da2fe6c7a52c741d603740f68d343fa58536b3fc8d8f5841129f75"
-metafile = true
-
-[[files]]
-file = "mods/omega-mute.pw.toml"
-hash = "bfecef970c45bf8e0833dc97c1e3cd47ead9084fd28d0b6ed5cb84dcdfe59076"
 metafile = true
 
 [[files]]
@@ -2727,4 +2727,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "71f8d0bac0c680684d8d3d83d3e21ed24ecc3feecee871062e11dbd7148afe58"
+hash = "88d582fb74bdff1282b17dea99e694d6fc315f94a101cff213e7816c1f90aba8"
