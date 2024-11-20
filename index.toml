@@ -2727,7 +2727,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "88d582fb74bdff1282b17dea99e694d6fc315f94a101cff213e7816c1f90aba8"
+hash = "8a85b01ff24a6aaa8906964aa5c74dbedea07aa1d907f0581b25338a4577b983"
 
 [[files]]
 file = "resourcepacks/serified-font.pw.toml"

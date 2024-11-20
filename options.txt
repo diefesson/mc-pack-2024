@@ -2,7 +2,7 @@ advancedItemTooltips:false
 allowServerListing:true
 ao:true
 attackIndicator:1
-autoJump:true
+autoJump:false
 autoSuggestions:true
 backgroundForChatOnly:true
 biomeBlendRadius:2
