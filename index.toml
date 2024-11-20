@@ -274,6 +274,34 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "config/pneumaticcraft-client.toml"
+hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
+
+[[files]]
+file = "config/pneumaticcraft-common.toml"
+hash = "28c48920d100dbedc094a3c7fb0ca6476732d024d21f7f2dd6d7e4db35969560"
+
+[[files]]
+file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
+hash = "0b8a774af5b8d3bad4eb57883418264e3f94d4bde83aa6d93161a50e8718fd0f"
+
+[[files]]
+file = "config/pneumaticcraft/MicromissileDefaults.cfg"
+hash = "cf52b07316b17e5217bcd9983b8b5060683d0fe0ed26376e41011bf40e3ea997"
+
+[[files]]
+file = "config/pneumaticcraft/PneumaticArmorHUDLayout.cfg"
+hash = "569a7727399eb2532a2320c17b379d88950105884440f1ede330cb8b73163a6e"
+
+[[files]]
+file = "config/pneumaticcraft/ProgrammingPuzzleBlacklist.cfg"
+hash = "dbf7e597284cb34c451872fadf82fbeb705e4d66d8e17ac358b5cc10cfb7a321"
+
+[[files]]
+file = "config/pneumaticcraft/thirdparty.cfg"
+hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
+
+[[files]]
 file = "config/realisticbees.json5"
 hash = "7c086633a5d7c36ab701af615235b609a28a95f6a929f8227da3f647936a1718"
 
@@ -1816,6 +1844,16 @@ hash = "41380e348514a875090cf51f72989287fe12255f38dd3a1fc84eab67c98920c9"
 metafile = true
 
 [[files]]
+file = "mods/industrial-foregoing-souls.pw.toml"
+hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
+metafile = true
+
+[[files]]
+file = "mods/industrial-foregoing.pw.toml"
+hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
+metafile = true
+
+[[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "1d946f8d1242c153b7015a139360eaa7e0601a562a77bd1b50ecb70acbf1a456"
 metafile = true
@@ -2158,6 +2196,11 @@ metafile = true
 [[files]]
 file = "mods/pipez.pw.toml"
 hash = "4eadf64420cd4db093db67201bfbf36165515f3466a4b849794516c72914ce51"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "2747684f5f951be800969f122b5aca9936e8bf2bdf8e2fb45602fb2c720d11fa"
 metafile = true
 
 [[files]]
@@ -2707,7 +2750,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "8a85b01ff24a6aaa8906964aa5c74dbedea07aa1d907f0581b25338a4577b983"
+hash = "30538c5d903fcb31ef94680cd3a1f41f3475e37eb4044c58f908866244ec42cb"
 
 [[files]]
 file = "resourcepacks/serified-font.pw.toml"
