@@ -1512,6 +1512,11 @@ hash = "38697ee4478e5dc675009630bd56562f8f06a06d621e828c0d5cb6879ba22ef3"
 metafile = true
 
 [[files]]
+file = "mods/dramatic-doors.pw.toml"
+hash = "ba9f6d5101942ad2e822b7da72f640724ca29313b76283df9d800a2ab30fb5b1"
+metafile = true
+
+[[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
 metafile = true
