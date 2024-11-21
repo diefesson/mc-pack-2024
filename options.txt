@@ -1,4 +1,4 @@
-advancedItemTooltips:false
+advancedItemTooltips:true
 allowServerListing:true
 ao:true
 attackIndicator:1
@@ -87,6 +87,9 @@ key_key.armor_visibility.armor_visibility_toggle:key.keyboard.h
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
 key_key.chat:key.keyboard.t
+key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
+key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
+key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.cofh.mode_change_decrement:key.keyboard.b
 key_key.cofh.mode_change_increment:key.keyboard.v
 key_key.command:key.keyboard.unknown

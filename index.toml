@@ -61,6 +61,10 @@ file = "config/chargedcharms-common.toml"
 hash = "b2790b91918a23229b78563625b3e3f665eaf7a3ed45b46c9eaf1fbeddf394ab"
 
 [[files]]
+file = "config/clienttweaks-common.toml"
+hash = "be304fcc29161393c6d672a810ef895a95948ccd1d41c465755a2ee95363a84a"
+
+[[files]]
 file = "config/combatnouveau-client.toml"
 hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 
@@ -1362,6 +1366,11 @@ hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
 
 [[files]]
+file = "mods/client-tweaks.pw.toml"
+hash = "e9fa39438ebb06f2973825bd4223bc34290ee25c4b262467674d2492ee63ba55"
+metafile = true
+
+[[files]]
 file = "mods/cloth-config.pw.toml"
 hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
@@ -1914,6 +1923,11 @@ metafile = true
 [[files]]
 file = "mods/kelp-fertilizer.pw.toml"
 hash = "217257e68194a122e08f44bbcfaa00e469a26be30da4c39cc675420f05119ee7"
+metafile = true
+
+[[files]]
+file = "mods/kleeslabs.pw.toml"
+hash = "854fee4f67f647fe73d95363dbbae8ec7f31e6e410e7f219958bc994d94e97b9"
 metafile = true
 
 [[files]]
@@ -2763,7 +2777,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "30538c5d903fcb31ef94680cd3a1f41f3475e37eb4044c58f908866244ec42cb"
+hash = "832db54f563e7797beb6ce9310881929e8847cfd1bff6e2dbccf6760869cdb21"
 
 [[files]]
 file = "resourcepacks/serified-font.pw.toml"
