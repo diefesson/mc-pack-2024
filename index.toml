@@ -1122,6 +1122,10 @@ file = "kubejs/server_scripts/thermal/smarterfarmers.js"
 hash = "a78773b73a880b489a5b00e9f1299660da9dbf78ba0b834ab822f155093abbed"
 
 [[files]]
+file = "kubejs/server_scripts/thermal/supplementaries.js"
+hash = "31b1afbd5ec58db2e02bbfed4bc2ad88b1c42cf3e82b95a74f27a8a82f210932"
+
+[[files]]
 file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
 hash = "94046d91d1d398d49bd1264103fde245e01e9edf88628093a5c1647f10ff386b"
 
