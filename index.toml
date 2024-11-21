@@ -105,14 +105,6 @@ file = "config/enchantinginfuser-server.toml"
 hash = "f8a8fbc9f6824f2e45ab9a89d56b378cef21bbde65bb3498f2a4f234e4ea5dc1"
 
 [[files]]
-file = "config/extremereactors/client.toml"
-hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
-
-[[files]]
-file = "config/extremereactors/common.toml"
-hash = "be10a9268abac357fffeb9253daebf7cb6be05fb07c8208cadb7b316757f8a85"
-
-[[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
@@ -1062,10 +1054,6 @@ file = "kubejs/config/common.properties"
 hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
-file = "kubejs/server_scripts/bigreactors/tags.js"
-hash = "09b631823e5dd413d70b58af7475e0f72b7a89a8e119b2c589d32ab93fe13d91"
-
-[[files]]
 file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
 hash = "2b35db133f5be273ab166ba3fcab30a135961fe2c54e808e3c5b54452132b122"
 
@@ -1116,10 +1104,6 @@ hash = "47ce90d05164cda6c08e6e2b5202927860fbb8b91c82811ad3361044fbbacb98"
 [[files]]
 file = "kubejs/server_scripts/regions_unexplored/recipes.js"
 hash = "43f2b21c2c0cf68b348e195d2273607dd1e7eb63a831293ec0467f5fa1f7b838"
-
-[[files]]
-file = "kubejs/server_scripts/thermal/bigreactors.js"
-hash = "09e0be5ab106ef98e129e97323a0f96730ff7155a96a0b0492f8f1d0ad1a8b7b"
 
 [[files]]
 file = "kubejs/server_scripts/thermal/common.js"
