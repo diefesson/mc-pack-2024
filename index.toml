@@ -117,6 +117,14 @@ file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
 [[files]]
+file = "config/framedblocks-client.toml"
+hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
+
+[[files]]
+file = "config/framedblocks-common.toml"
+hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
+
+[[files]]
 file = "config/healingcampfire.json5"
 hash = "c5cc3c071a9722b7909e147798906410cf16630aa4c110a467370506221b982b"
 
@@ -1006,6 +1014,10 @@ file = "config/zombiehorsespawn.json5"
 hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
+file = "defaultconfigs/framedblocks-server.toml"
+hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
+
+[[files]]
 file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
 hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
 
@@ -1713,6 +1725,11 @@ metafile = true
 [[files]]
 file = "mods/formations.pw.toml"
 hash = "b51c7b9ec1dd82a7de85506352b8a33af00d74d4310cdee91a84d6b3fb4cdd27"
+metafile = true
+
+[[files]]
+file = "mods/framedblocks.pw.toml"
+hash = "fc26e28382062a5e04d4b1d991ac13412f1d4b7a0b3fdec9689fd25fd2306186"
 metafile = true
 
 [[files]]
