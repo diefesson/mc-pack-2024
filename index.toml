@@ -1062,6 +1062,10 @@ file = "kubejs/server_scripts/diefalpha/volatile_dust.js"
 hash = "2ba9aba7c7bc346ed9a5147745911813fcc92280560006eb06b9885367f2f1aa"
 
 [[files]]
+file = "kubejs/server_scripts/industrialforegoing/laser_drill.js"
+hash = "b0da2cf30eeeac561b1f3b1c5a9685a3b6b050601e319f1bde0cba5fbf2f595f"
+
+[[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
 hash = "db933cd85559ef5729d236077b9f9d8e8344e8fb498ff03f2fdaaa80643410c4"
 
