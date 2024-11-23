@@ -278,6 +278,11 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/serified-font.pw.toml"
+hash = "0c0d2c88c860220fd9d551b3ce7f1e3ca54ab07bbf47fa6ace89657eb3a1716e"
+metafile = true
+
+[[files]]
 file = "config/pneumaticcraft-client.toml"
 hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
@@ -2779,8 +2784,3 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "832db54f563e7797beb6ce9310881929e8847cfd1bff6e2dbccf6760869cdb21"
-
-[[files]]
-file = "resourcepacks/serified-font.pw.toml"
-hash = "0c0d2c88c860220fd9d551b3ce7f1e3ca54ab07bbf47fa6ace89657eb3a1716e"
-metafile = true
