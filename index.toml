@@ -1039,8 +1039,8 @@ file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
 [[files]]
-file = "kubejs/assets/diefalpha/textures/item/phantom_fabric.png"
-hash = "728e39bcb9b90c6b77c70fc44b7257be7128ea68022a7791e799af08b63a9c9a"
+file = "kubejs/assets/diefalpha/textures/item/phantom_plate.png"
+hash = "f7d270f6cc6939a21fdea49805a423cf03fa44ba7865c9bb160b8468b95f19dd"
 
 [[files]]
 file = "kubejs/assets/diefalpha/textures/item/volatile_dust.png"
@@ -1059,12 +1059,12 @@ file = "kubejs/config/common.properties"
 hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
 
 [[files]]
-file = "kubejs/server_scripts/diefalpha/phantom_fabric.js"
-hash = "2b35db133f5be273ab166ba3fcab30a135961fe2c54e808e3c5b54452132b122"
+file = "kubejs/server_scripts/diefalpha/phantom_plate.js"
+hash = "2ee09bcaf7ab6361eb64a9853cfd4221e7741e844141cb8e9ad57e2e620bc44e"
 
 [[files]]
 file = "kubejs/server_scripts/diefalpha/volatile_dust.js"
-hash = "2ba9aba7c7bc346ed9a5147745911813fcc92280560006eb06b9885367f2f1aa"
+hash = "3cd08ba9ae5b48557fe72dfbfaa22ad7ba918932ce035024dd69bfb65d88de0a"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
@@ -1139,11 +1139,11 @@ file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
 hash = "94046d91d1d398d49bd1264103fde245e01e9edf88628093a5c1647f10ff386b"
 
 [[files]]
-file = "kubejs/startup_scripts/diefalpha/phantom_fabric.js"
-hash = "1bae39cdbdad63787369dcb65e6860777bbc7e1a8956287af37c137bc75e4e42"
+file = "kubejs/startup_scripts/diefalpha/phantom_plate.js"
+hash = "07f964654020aef8b7d9edcb5ea650eaef9e9bf293915bc593903862232473ec"
 
 [[files]]
-file = "kubejs/startup_scripts/diefalpha/volatile_dust copy.js"
+file = "kubejs/startup_scripts/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]

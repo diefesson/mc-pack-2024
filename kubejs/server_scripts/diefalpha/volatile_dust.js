@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
         'diefalpha:volatile_dust',
         [
             'minecraft:amethyst_shard',
-            'minecraft:phantom_membrane',
+            'minecraft:redstone',
             'minecraft:redstone',
             'minecraft:blaze_powder'
         ],

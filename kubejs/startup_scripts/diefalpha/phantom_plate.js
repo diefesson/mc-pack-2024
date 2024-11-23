@@ -1,3 +1,3 @@
 StartupEvents.registry('item', event => {
-    event.create('diefalpha:phantom_fabric')
+    event.create('diefalpha:phantom_plate')
 })
