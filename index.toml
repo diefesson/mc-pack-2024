@@ -1491,6 +1491,11 @@ hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
 metafile = true
 
 [[files]]
+file = "mods/dark-mode-everywhere.pw.toml"
+hash = "5400dcbfe6fe2fe93feb57c992888e053f5d9069a7591a1d4d2e4a652852a4ff"
+metafile = true
+
+[[files]]
 file = "mods/ding.pw.toml"
 hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
@@ -2027,7 +2032,7 @@ metafile = true
 
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "77c00cf7be5f275c6cf6e1fd1aa1d4876b845dbef2866ca2a9e10e823b27f8bf"
+hash = "769e63679043d6ed2c9bd7c23448662297516cff99d8dd1b75c56df294df1e6b"
 metafile = true
 
 [[files]]
@@ -2037,7 +2042,7 @@ metafile = true
 
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "ecb51ebcd5d705ac025487ca7704555f621e39284317b4b93dc906ec3f679bda"
+hash = "d5ad42fed396a52a7f12d27f35352381ab2b0a2ab2e0b02c0f4635c9ed0196bc"
 metafile = true
 
 [[files]]
@@ -2052,7 +2057,7 @@ metafile = true
 
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
-hash = "07c8a5f7d302ad39965ba633465cf9d4f470a575263306e61e4caebeac3417a0"
+hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
