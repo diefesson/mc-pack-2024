@@ -2026,8 +2026,18 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
+file = "mods/mes-moogs-end-structures.pw.toml"
+hash = "77c00cf7be5f275c6cf6e1fd1aa1d4876b845dbef2866ca2a9e10e823b27f8bf"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
+metafile = true
+
+[[files]]
+file = "mods/mns-moogs-nether-structures.pw.toml"
+hash = "ecb51ebcd5d705ac025487ca7704555f621e39284317b4b93dc906ec3f679bda"
 metafile = true
 
 [[files]]
@@ -2038,6 +2048,11 @@ metafile = true
 [[files]]
 file = "mods/modernfix.pw.toml"
 hash = "885b3a412f67ae39c7cddd9fe878e82e055ebb9bc7246255987cceb66f336ab3"
+metafile = true
+
+[[files]]
+file = "mods/moogs-voyager-structures.pw.toml"
+hash = "07c8a5f7d302ad39965ba633465cf9d4f470a575263306e61e4caebeac3417a0"
 metafile = true
 
 [[files]]
