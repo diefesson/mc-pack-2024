@@ -190,7 +190,7 @@ hash = "0cd96194b7acae3d3538d869ac35c879a16887b3bd30fc191b5be7b7bca6b0ff"
 
 [[files]]
 file = "config/ironjetpacks-common.toml"
-hash = "9d5a231c3019f9bf27767a746edc38ea01d4c5fd105441531aee58f69ff75789"
+hash = "eab47028c2c120b2bdb20c05acf43194da421b169d97f08c05436cd971b27320"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/advanced.json"
@@ -1065,6 +1065,10 @@ hash = "2ee09bcaf7ab6361eb64a9853cfd4221e7741e844141cb8e9ad57e2e620bc44e"
 [[files]]
 file = "kubejs/server_scripts/diefalpha/volatile_dust.js"
 hash = "3cd08ba9ae5b48557fe72dfbfaa22ad7ba918932ce035024dd69bfb65d88de0a"
+
+[[files]]
+file = "kubejs/server_scripts/ironjetpacks/recipes.js"
+hash = "42ff3f0882f118aa40adbad7a8233ec5cb274e8fd6509593c09675c4b0066e62"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"
