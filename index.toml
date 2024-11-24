@@ -2311,36 +2311,6 @@ hash = "432be9441cc41863bf980f10a77e33f096b680e42545c4ab95d77890cc5fe47c"
 metafile = true
 
 [[files]]
-file = "mods/rftools-builder.pw.toml"
-hash = "e16385d040347c49d129400153738064c99a67a37b19c37915efecb7dc00ca0d"
-metafile = true
-
-[[files]]
-file = "mods/rftools-control.pw.toml"
-hash = "2ad78129377ded9cb55af29c6439b87848b962b9c7ed866b08786f53157b977d"
-metafile = true
-
-[[files]]
-file = "mods/rftools-dimensions.pw.toml"
-hash = "b423299c96b3f30c26454f85f9ca53986fe06496b1e110bef3a56dd3cb5744bb"
-metafile = true
-
-[[files]]
-file = "mods/rftools-power.pw.toml"
-hash = "20795bc52932ae5a00626e835af106ba5e938de547b4dd767439d0aa67dbf1b6"
-metafile = true
-
-[[files]]
-file = "mods/rftools-storage.pw.toml"
-hash = "b037be98c83e494fcb62b2a93943f1d4b532d2ed2ec1b86039c6180401208c40"
-metafile = true
-
-[[files]]
-file = "mods/rftools-utility.pw.toml"
-hash = "dea0789d9c93a2fe76cfc4bfdce9dd8fe2e701f3046faa25e5291253ba9792ce"
-metafile = true
-
-[[files]]
 file = "mods/rhino.pw.toml"
 hash = "323adfd6ebf5b53181c02f425ea70a0138ab1bde1da58da8874d93d37cd44ec2"
 metafile = true
