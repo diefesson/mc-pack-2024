@@ -1047,8 +1047,8 @@ file = "kubejs/assets/diefalpha/textures/item/volatile_dust.png"
 hash = "b2ce26485efdc92440003d41f66fb6096f2fef4131f1bf541d43e881082002ba"
 
 [[files]]
-file = "kubejs/client_scripts/example.js"
-hash = "152019ed6e0410a82805a95ea10f1ad1a17beaf2b50864d89b8fa9d172129ac7"
+file = "kubejs/client_scripts/hide_components.js"
+hash = "6fdc4383f6ad3ba7b84f08d12e217f25a4b32117567ea0325ea97e077f18d6f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
@@ -1068,7 +1068,7 @@ hash = "3cd08ba9ae5b48557fe72dfbfaa22ad7ba918932ce035024dd69bfb65d88de0a"
 
 [[files]]
 file = "kubejs/server_scripts/ironjetpacks/recipes.js"
-hash = "42ff3f0882f118aa40adbad7a8233ec5cb274e8fd6509593c09675c4b0066e62"
+hash = "c69001223568faa0011dbb12789df8b745f61809dfe2a776c8eb2da8e66f932b"
 
 [[files]]
 file = "kubejs/server_scripts/mysticalagriculture/common.js"

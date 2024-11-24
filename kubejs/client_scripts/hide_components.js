@@ -1,0 +1,10 @@
+EMIEvents.hideItems(event => {
+    event.hide('ironjetpacks:strap')
+    event.hide('ironjetpacks:basic_coil')
+    event.hide('ironjetpacks:advanced_coil')
+    event.hide('ironjetpacks:elite_coil')
+    event.hide('ironjetpacks:ultimate_coil')
+    event.hide('ironjetpacks:cell')
+    event.hide('ironjetpacks:thruster')
+    event.hide('ironjetpacks:capacitor')
+})
