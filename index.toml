@@ -1123,6 +1123,10 @@ file = "kubejs/server_scripts/regions_unexplored/recipes.js"
 hash = "43f2b21c2c0cf68b348e195d2273607dd1e7eb63a831293ec0467f5fa1f7b838"
 
 [[files]]
+file = "kubejs/server_scripts/regions_unexplored/tags.js"
+hash = "93af636e1b4d663ac70b777038310bdc11813fc661a1c0088832fd4a2e812e8c"
+
+[[files]]
 file = "kubejs/server_scripts/thermal/common.js"
 hash = "0b898e73b4e47fefd498af4b7c88d4ec0bcfa1b83cc08598024585f41dc18e60"
 
