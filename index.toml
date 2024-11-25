@@ -85,6 +85,14 @@ file = "config/currentgamemusictrack.json5"
 hash = "bc91d1a5edb0f43e1e22ce4708041f404bc2f24524a17f3b687289373298de29"
 
 [[files]]
+file = "config/darkmodeeverywhere-client.toml"
+hash = "2a6a9f49deb84d0fbd260a36fa9fe83252fef12a4e53e99cbb88f3d25a61e671"
+
+[[files]]
+file = "config/darkmodeeverywhereshaders.json"
+hash = "2b00452f5043e33ccc023d017324e80ef333f861da68a6e989576c46a970f487"
+
+[[files]]
 file = "config/double-hotbar-configs.toml"
 hash = "bef7fd3b507081800c7858a8ff783227ad357c3c53a431beae4a15678b0cbf13"
 
