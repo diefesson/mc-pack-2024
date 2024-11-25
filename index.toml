@@ -2169,6 +2169,11 @@ hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
 metafile = true
 
 [[files]]
+file = "mods/noisium.pw.toml"
+hash = "2448ee89974f5934aa9114270f3e6666cbe203bffe5be6c2905231bb5dc1af81"
+metafile = true
+
+[[files]]
 file = "mods/nyfs-spiders.pw.toml"
 hash = "acaf74883794f150634fbaf000e15098162610d2e1ef2d4029a64c7b0fe71e6e"
 metafile = true
