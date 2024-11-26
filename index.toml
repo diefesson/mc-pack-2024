@@ -21,6 +21,22 @@ file = "config/DistantHorizons.toml"
 hash = "6ffe7d4c52f01549fda59bcf4388bee0e369f1412350f7328b90e0c676e67197"
 
 [[files]]
+file = "config/almostunified/debug.json"
+hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
+
+[[files]]
+file = "config/almostunified/duplicates.json"
+hash = "40639e8cb9e9ea52b8557c50d29fc06e73e2ad1e7ca27ae5ce8fe2eca2e97188"
+
+[[files]]
+file = "config/almostunified/startup.json"
+hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
+
+[[files]]
+file = "config/almostunified/unify.json"
+hash = "9dd105eb404830a866f936672179caba237f174c21bdc31c7756442339241131"
+
+[[files]]
 file = "config/ambientsounds-client.json"
 hash = "dbcaec173cd8f5a1c81e1e1e6919e4d1bc49a092a30e541196eb7935e86f6eec"
 
@@ -1055,111 +1071,131 @@ file = "kubejs/assets/diefalpha/textures/item/volatile_dust.png"
 hash = "b2ce26485efdc92440003d41f66fb6096f2fef4131f1bf541d43e881082002ba"
 
 [[files]]
-file = "kubejs/client_scripts/hide_components.js"
+file = "kubejs/client_scripts/jsconfig.json"
+hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
+
+[[files]]
+file = "kubejs/client_scripts/src/ironjetpacks/hide_components.js"
 hash = "6fdc4383f6ad3ba7b84f08d12e217f25a4b32117567ea0325ea97e077f18d6f9"
 
 [[files]]
 file = "kubejs/config/client.properties"
-hash = "d42fe43c003fb4d55d69305ca849514a96fc7a53232e03d5421de9dc3c2e7912"
+hash = "c4966c885b5b151213255653ad3ec1d4db0d961db9e4cbb4b4c5080fcb5d35bd"
 
 [[files]]
 file = "kubejs/config/common.properties"
-hash = "e35dad57cd7d4194861b6399755cefda8473b6c3ee672bac87481e5055433690"
+hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 
 [[files]]
-file = "kubejs/server_scripts/diefalpha/phantom_plate.js"
+file = "kubejs/config/probe-settings.json"
+hash = "530f96256d8b87bf017428b16963584202ec62df829dff8035a1bbd73d4c4fdd"
+
+[[files]]
+file = "kubejs/server_scripts/jsconfig.json"
+hash = "859b6113943be5159f47d22dacc6278c02a11f3383a60c342f8b481eca99acf6"
+
+[[files]]
+file = "kubejs/server_scripts/src/diefalpha/chest_loot.js"
+hash = "dc39eb86d08ad21f34cab4965d4ad505fd9f08b890198c49d33f227b27d9fb05"
+
+[[files]]
+file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
 hash = "2ee09bcaf7ab6361eb64a9853cfd4221e7741e844141cb8e9ad57e2e620bc44e"
 
 [[files]]
-file = "kubejs/server_scripts/diefalpha/volatile_dust.js"
-hash = "3cd08ba9ae5b48557fe72dfbfaa22ad7ba918932ce035024dd69bfb65d88de0a"
+file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
+hash = "64f0481c62f56141d1fa60696806859c5c0d0a237de6793dc7776c225aa63445"
 
 [[files]]
-file = "kubejs/server_scripts/ironjetpacks/recipes.js"
+file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
 hash = "c69001223568faa0011dbb12789df8b745f61809dfe2a776c8eb2da8e66f932b"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/common.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/common.js"
 hash = "db933cd85559ef5729d236077b9f9d8e8344e8fb498ff03f2fdaaa80643410c4"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/craftable_heads.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/craftable_heads.js"
 hash = "a574eeb4ce9501d9db6621a5df8b9f93cf2d63d1fe63fd01bc892c49e273518a"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/essence_scaling.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/essence_scaling.js"
 hash = "237cf0a5b2df41c5fbac0235cedc1fcf591bb3e1c18a6a68f3b52fff85301fca"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/seed_and_crops_tags.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/seed_and_crops_tags.js"
 hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_creepers.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_creepers.js"
 hash = "60b21437cfed96498b9de60bb6a925b8cf4107aacf9a1379a3fcd2f501fe112f"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_endermen.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_endermen.js"
 hash = "412834131e4263bc346781c37c9a11724aca1eef150da3225d114415d4d69080"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_skeletons.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_skeletons.js"
 hash = "9c975a8c084cdfd96c01a042af2b0296751b1ed5fee5001ec3a3b132461372cb"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_thermal.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_thermal.js"
 hash = "f4b3e5d2340adca2a5d0473391ecd65486351bbc597b7e43c4762cacd3a41cbe"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_villagers.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_villagers.js"
 hash = "c0d76c64525b320887bf920e52ab2e8578a5ae8708b966e705f19d2f8af0801a"
 
 [[files]]
-file = "kubejs/server_scripts/mysticalagriculture/spawner_zombies.js"
+file = "kubejs/server_scripts/src/mysticalagriculture/spawner_zombies.js"
 hash = "47ce90d05164cda6c08e6e2b5202927860fbb8b91c82811ad3361044fbbacb98"
 
 [[files]]
-file = "kubejs/server_scripts/regions_unexplored/recipes.js"
+file = "kubejs/server_scripts/src/regions_unexplored/recipes.js"
 hash = "43f2b21c2c0cf68b348e195d2273607dd1e7eb63a831293ec0467f5fa1f7b838"
 
 [[files]]
-file = "kubejs/server_scripts/regions_unexplored/tags.js"
+file = "kubejs/server_scripts/src/regions_unexplored/tags.js"
 hash = "93af636e1b4d663ac70b777038310bdc11813fc661a1c0088832fd4a2e812e8c"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/common.js"
+file = "kubejs/server_scripts/src/thermal/common.js"
 hash = "0b898e73b4e47fefd498af4b7c88d4ec0bcfa1b83cc08598024585f41dc18e60"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/mysticalagriculture.js"
+file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/rftools.js"
+file = "kubejs/server_scripts/src/thermal/rftools.js"
 hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/silentgear.js"
+file = "kubejs/server_scripts/src/thermal/silentgear.js"
 hash = "10773e1c3cc020b5a0a09e565283a503de1d705247352b9596e076093ef9bc15"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/smarterfarmers.js"
+file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
 hash = "a78773b73a880b489a5b00e9f1299660da9dbf78ba0b834ab822f155093abbed"
 
 [[files]]
-file = "kubejs/server_scripts/thermal/supplementaries.js"
+file = "kubejs/server_scripts/src/thermal/supplementaries.js"
 hash = "31b1afbd5ec58db2e02bbfed4bc2ad88b1c42cf3e82b95a74f27a8a82f210932"
 
 [[files]]
-file = "kubejs/server_scripts/variantsandventures/heads_tags.js"
+file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
 hash = "94046d91d1d398d49bd1264103fde245e01e9edf88628093a5c1647f10ff386b"
 
 [[files]]
-file = "kubejs/startup_scripts/diefalpha/phantom_plate.js"
+file = "kubejs/startup_scripts/jsconfig.json"
+hash = "a9e6912b8515be242dd76c6c9a536a8d7c73f6b8b949787f538436ebeafbb7ee"
+
+[[files]]
+file = "kubejs/startup_scripts/src/diefalpha/phantom_plate.js"
 hash = "07f964654020aef8b7d9edcb5ea650eaef9e9bf293915bc593903862232473ec"
 
 [[files]]
-file = "kubejs/startup_scripts/diefalpha/volatile_dust.js"
+file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
@@ -1998,6 +2034,11 @@ hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
 metafile = true
 
 [[files]]
+file = "mods/lootjs.pw.toml"
+hash = "2e252ae669d1064f1be162272547fac464803846b1073fd3825886d3a59f4140"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "33ac8df50343a510256bb78c4dca99014fd4f88fdb548edd8aed6a3013f8947e"
 metafile = true
@@ -2290,6 +2331,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "b02089168839516f5916113c75e83d2603bd0e150442ea87c98b78082f89e5eb"
+metafile = true
+
+[[files]]
+file = "mods/probejs.pw.toml"
+hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
 metafile = true
 
 [[files]]
