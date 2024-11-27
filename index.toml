@@ -257,6 +257,10 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/map_atlases.json5"
+hash = "0875f81fdc2ecd5499e6c670e1c7997cf9ce4bb06bf9509e5cc507645be41a54"
+
+[[files]]
 file = "config/measurements-client.toml"
 hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
 
@@ -404,7 +408,7 @@ hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "75599519d774180e407bde10a8781ee6b26561781bbbe1a528884f5e13248833"
+hash = "739d0979e5f3c6dd530a902e1fd8a3547b5f3fb9eccc782d5fe9ac17cc1d331e"
 
 [[files]]
 file = "config/switchy/config.toml"
@@ -2075,6 +2079,11 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
+file = "mods/map-atlases.pw.toml"
+hash = "c0b2c1fc1e7f76d01a4db6ea10cbf76b63533e0d7fcabf702e1e09f0a026aa68"
+metafile = true
+
+[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "878e22c186eea5703c64d0da20a73d2a169986d05da802e2d4ca439c025d0ef3"
 metafile = true
@@ -2257,11 +2266,6 @@ metafile = true
 [[files]]
 file = "mods/oh-the-trees-youll-grow.pw.toml"
 hash = "e72b207751da2fe6c7a52c741d603740f68d343fa58536b3fc8d8f5841129f75"
-metafile = true
-
-[[files]]
-file = "mods/open-parties-and-claims.pw.toml"
-hash = "ed9e1ee67ee9cd38c9fe753b92cfebee0e36ab828b281b6e98efe312c230b40f"
 metafile = true
 
 [[files]]
@@ -2777,21 +2781,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
-metafile = true
-
-[[files]]
-file = "mods/xaeroplus.pw.toml"
-hash = "810b21ef36d06aee4633fbf8664d5430a09d25a41c00da6ebb3f24a9c436384a"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-minimap.pw.toml"
-hash = "d7796a2299ba30838876268c157a8940935ad92043726509a2ef14dfa1407983"
-metafile = true
-
-[[files]]
-file = "mods/xaeros-world-map.pw.toml"
-hash = "8e3026324227122e65ef891db279aa84191611f26d29e5dbd92e0bd2ce048b6d"
 metafile = true
 
 [[files]]
