@@ -1,13 +1,13 @@
 name = "Explosive Enhancement: Reforged"
-filename = "explosiveenhancement-1.0.1.jar"
+filename = "explosiveenhancement-1.0.0.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/r0camchr/versions/i6lzOZ7z/explosiveenhancement-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/r0camchr/versions/7rq1rEoz/explosiveenhancement-1.0.0.jar"
 hash-format = "sha512"
-hash = "e40a7a246a64e98abafc005dd73df5481a7260b13eb2c23c473d0327468729730c353ca4c019ffcdc836db13ba290d86920b53c7c7aec06eb3bb14443cfe3566"
+hash = "b7ff3a87d9348d3ce7766264bc63387685515bf05cc723ba73afaeebf84be11138902146d6321ccbb28e2c7a8496bf5b5059b1076d63877eb013086ab52eb893"
 
 [update]
 [update.modrinth]
 mod-id = "r0camchr"
-version = "i6lzOZ7z"
+version = "7rq1rEoz"

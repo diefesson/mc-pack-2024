@@ -1,13 +1,13 @@
 name = "In Control!"
-filename = "incontrol-1.20-9.2.8.jar"
+filename = "incontrol-1.20-9.2.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/KpICtuVx/versions/ZgYekLFJ/incontrol-1.20-9.2.8.jar"
+url = "https://cdn.modrinth.com/data/KpICtuVx/versions/6ISY0APo/incontrol-1.20-9.2.11.jar"
 hash-format = "sha512"
-hash = "687377a4e2177e284c30bf282e0822a2e6f814343d69ded280f8615f052b32df3d62c1a548d8f25aa6c9996e495db5243fd3548d9311de0e5c5fba3315a61f83"
+hash = "62f02c9b914ba2eeccfeae162ae2392b658a4a41c80ebdf20a6e4e39597a72f47f9989dc97ed8f392b85e326e8e9add13cd2b35a0ab8b362b262d1944af9ac32"
 
 [update]
 [update.modrinth]
 mod-id = "KpICtuVx"
-version = "ZgYekLFJ"
+version = "6ISY0APo"

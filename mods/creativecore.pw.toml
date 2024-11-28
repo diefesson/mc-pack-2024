@@ -1,13 +1,13 @@
 name = "CreativeCore"
-filename = "CreativeCore_FORGE_v2.12.17_mc1.20.1.jar"
+filename = "CreativeCore_FORGE_v2.12.22_mc1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/Sxi0GJEU/CreativeCore_FORGE_v2.12.17_mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/a7Yy3lNf/CreativeCore_FORGE_v2.12.22_mc1.20.1.jar"
 hash-format = "sha512"
-hash = "86cfc62d29a2f512c1a589ca28fa67eb05c520ee77bae7c102b3fc3c6ea6e76b277bbb344d06b34118c2c36caefe1abbf2853f757e68172fcb98196e5e41062d"
+hash = "933e0f979a7e683027d154caff47e5188ad8c504292ee238af4299f79eb35d428a4bbbf7e4ef03c3cb42cb8f917e0f1fee598074bef762de093b9b61c7996652"
 
 [update]
 [update.modrinth]
 mod-id = "OsZiaDHq"
-version = "Sxi0GJEU"
+version = "a7Yy3lNf"

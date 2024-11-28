@@ -1,13 +1,13 @@
 name = "Villages & Pillages"
-filename = "villagesandpillages-forge-mc1.20.1-1.0.1.jar"
+filename = "villagesandpillages-forge-mc1.20.1-1.0.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/klXONLDA/versions/SqrgJPv7/villagesandpillages-forge-mc1.20.1-1.0.1.jar"
+url = "https://cdn.modrinth.com/data/klXONLDA/versions/6vHMXtim/villagesandpillages-forge-mc1.20.1-1.0.2.jar"
 hash-format = "sha512"
-hash = "79fa640af9009dd9cf7a6249cf5ff1563a0592dea49026d8352d4bd355ebac81bd7222a73916b085527cf2c5e1bae9d4ebbb6c1e1ee3d11c59d2166d0392bb51"
+hash = "d2aa572dde135610c9d1288f9e76604a447a935a2c2b88ea67585dd2922fe9d8401c6812f33b45107debe46c026ffd8acb866eaadab8ceddecf37e3cf4651a20"
 
 [update]
 [update.modrinth]
 mod-id = "klXONLDA"
-version = "SqrgJPv7"
+version = "6vHMXtim"

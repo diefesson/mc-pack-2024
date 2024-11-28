@@ -1,13 +1,13 @@
 name = "Switchy Teleport"
-filename = "switchy-teleport-1.2.5+1.20.jar"
+filename = "switchy-teleport-1.2.7+1.20.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/W1foSJDS/versions/HOzLg1EP/switchy-teleport-1.2.5%2B1.20.jar"
+url = "https://cdn.modrinth.com/data/W1foSJDS/versions/z11cHkVt/switchy-teleport-1.2.7%2B1.20.jar"
 hash-format = "sha512"
-hash = "4f59de72e60e336c10a44dc88e82e3c1ca83ded859011c2507a9b3c28503877749e11df2a45a5b5189c7dbe52dc6ec0f0a4c72a15d79b8692ca3b9d9bd8a7d29"
+hash = "92090234c639f868046cb4a34197d2ed3be641983eb3e980aaf426711a42f6d02cff4d1bed48750273d504f0ab691533ee66564ed8cfc88dede44526610627c4"
 
 [update]
 [update.modrinth]
 mod-id = "W1foSJDS"
-version = "HOzLg1EP"
+version = "z11cHkVt"
