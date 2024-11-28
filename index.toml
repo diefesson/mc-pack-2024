@@ -1079,10 +1079,6 @@ file = "kubejs/client_scripts/jsconfig.json"
 hash = "dee1340c5e7927f5675987957c6b198f9ca2e1e731291d72396278dddc066a04"
 
 [[files]]
-file = "kubejs/client_scripts/src/hide_components.js"
-hash = "6fdc4383f6ad3ba7b84f08d12e217f25a4b32117567ea0325ea97e077f18d6f9"
-
-[[files]]
 file = "kubejs/config/client.properties"
 hash = "c4966c885b5b151213255653ad3ec1d4db0d961db9e4cbb4b4c5080fcb5d35bd"
 
@@ -1185,10 +1181,6 @@ hash = "0b898e73b4e47fefd498af4b7c88d4ec0bcfa1b83cc08598024585f41dc18e60"
 [[files]]
 file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "282ff39cb45cbd4246073a5074b1bb23556ff9dc82ba4c5fba89c8e0fedc1f6d"
-
-[[files]]
-file = "kubejs/server_scripts/src/thermal/rftools.js"
-hash = "ada892ca2c209b0e40e9246ea7b903da39f8751b684199cef1a6bcddf7411057"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/silentgear.js"
