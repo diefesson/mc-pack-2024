@@ -257,8 +257,12 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
-file = "config/map_atlases.json5"
-hash = "0875f81fdc2ecd5499e6c670e1c7997cf9ce4bb06bf9509e5cc507645be41a54"
+file = "config/map_atlases-client.toml"
+hash = "1fedb7bbb27c4856873c8f634fd0fe54aff536897636cb9d649b20e6bc6b47bb"
+
+[[files]]
+file = "config/map_atlases-common.toml"
+hash = "6761274b4008d3d96bd3238ed9b265aa862e034bdf2b2ec4da6d0c3b8e41cc50"
 
 [[files]]
 file = "config/measurements-client.toml"
@@ -2071,8 +2075,8 @@ hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases.pw.toml"
-hash = "c0b2c1fc1e7f76d01a4db6ea10cbf76b63533e0d7fcabf702e1e09f0a026aa68"
+file = "mods/map-atlases-forge.pw.toml"
+hash = "d298ebe7356f5a8250f57d998547e7908e0af9eebf0b6dd5049b3f2342db2ac7"
 metafile = true
 
 [[files]]
@@ -2128,11 +2132,6 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "6645dab73d9fd1261013c58d0171db73c60bc730bd66c9f6f36da7b341818cbc"
 metafile = true
 
 [[files]]
@@ -2423,6 +2422,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/selene.pw.toml"
+hash = "3d3796518a8fdb5f0dfae008714d8a32a6c46e8aed12880b4e63b900b5f667dd"
 metafile = true
 
 [[files]]
@@ -2822,4 +2826,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "832db54f563e7797beb6ce9310881929e8847cfd1bff6e2dbccf6760869cdb21"
+hash = "f96e9c81e4293ada75eb319abe23e27dbe422629b48b07e87edbb7f718e831af"
