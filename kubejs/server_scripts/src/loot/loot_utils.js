@@ -1,4 +1,4 @@
-const DiefAlpha = {
+const LootUtils = {
     weightedChoice(entries) {
         const sum = entries.reduce((acc, e) => acc + e[1], 0)
         const target = Math.random() * sum

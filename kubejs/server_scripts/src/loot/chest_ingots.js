@@ -21,7 +21,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('overworld')
-        .modifyLoot(copperFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(copperFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:copper_ingot'), 100],
             [Item.of('thermal:tin_ingot'), 80],
             [Item.of('thermal:bronze_ingot'), 40],
@@ -29,7 +29,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('overworld')
-        .modifyLoot(ironFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(ironFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:iron_ingot'), 100],
             [Item.of('pneumaticcraft:ingot_iron_compressed'), 80],
             [Item.of('thermal:nickel_ingot'), 80],
@@ -40,7 +40,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('overworld')
-        .modifyLoot(goldFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(goldFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:gold_ingot'), 100],
             [Item.of('thermal:silver_ingot'), 80],
             [Item.of('silentgear:blaze_gold_ingot'), 40],
@@ -50,7 +50,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('overworld')
-        .modifyLoot(diamondFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(diamondFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:diamond'), 100],
             [Item.of('thermal:enderium_ingot'), 80],
         ]))
@@ -59,7 +59,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('the_nether')
-        .modifyLoot(ironFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(ironFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:iron_ingot'), 100],
             [Item.of('pneumaticcraft:ingot_iron_compressed'), 80],
             [Item.of('thermal_extra:soul_infused_ingot'), 40],
@@ -67,7 +67,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('the_nether')
-        .modifyLoot(goldFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(goldFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:gold_ingot'), 100],
             [Item.of('silentgear:blaze_gold_ingot'), 40],
             [Item.of('thermal:lumium_ingot'), 40],
@@ -76,7 +76,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('the_nether')
-        .modifyLoot(netheriteFilter, DiefAlpha.itemReplacer([
+        .modifyLoot(netheriteFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:netherite_ingot'), 100],
             [Item.of('thermal_extra:abyssal_ingot'), 40],
         ]))

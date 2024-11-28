@@ -1092,31 +1092,11 @@ hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 
 [[files]]
 file = "kubejs/config/probe-settings.json"
-hash = "530f96256d8b87bf017428b16963584202ec62df829dff8035a1bbd73d4c4fdd"
+hash = "8717ab883c5b6b28f999adceed86b6bb0e30495198d2961c5a4da7f3ee7d5a87"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
-hash = "e0f481a8f320f1f042282e10c713fcb8773d8906c0ebe73c4140626f36f6ffec"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/chest_elemental_powders.js"
-hash = "cf4f6929a27530921ad31d5182b4eb23754a7af90414f48203d618863ff897d0"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/chest_elemental_rods.js"
-hash = "b7cbc6218b4e8cb462212b300d1067f2f4b3700e9579a595416db406c6d3cc9f"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/chest_grenades.js"
-hash = "1c7b60965b6930c980e436725fb5b8fee624e0bf5e64a889e07a93f000dd7feb"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/chest_ingots.js"
-hash = "a9f283988ec888d91c059cfb7d886f7100f5480496045e2b30e01ee0638c5f56"
-
-[[files]]
-file = "kubejs/server_scripts/src/diefalpha/diefalpha.js"
-hash = "92dbfdff5e94870123222b1e2b050407fbd1eaadcf1fd2d5f347f2641b6918a2"
+hash = "125ef5be891a35cd8b397fd678f6c0969f41d1e2171be2d4fd3546b697241908"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
@@ -1129,6 +1109,30 @@ hash = "64f0481c62f56141d1fa60696806859c5c0d0a237de6793dc7776c225aa63445"
 [[files]]
 file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
 hash = "c69001223568faa0011dbb12789df8b745f61809dfe2a776c8eb2da8e66f932b"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/chest_elemental_powders.js"
+hash = "261d5ffda1180ff10dc7413ef7f04582219f61da86e646f3e4b00313b4bad7cc"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/chest_elemental_rods.js"
+hash = "bac05ed612e908fa9f78a7f9897d7503d2e9ae57d750538b44f9f258943ea65b"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/chest_grenades.js"
+hash = "1c7b60965b6930c980e436725fb5b8fee624e0bf5e64a889e07a93f000dd7feb"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/chest_ingots.js"
+hash = "65ebf167c95f835027e9cf922b8db4473a51a7d1ee2874c4269c79be7434a954"
+
+[[files]]
+file = "kubejs/server_scripts/src/loot/loot_utils.js"
+hash = "78567cf1accf28438956e4a389c80955723f0cda8152b9346bb8e9a6612b5494"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/recipes.js"
+hash = "ec27b7c9e48f8522c4438930e9e372691f4bb79ea5e2b6c365be32493a7c67b9"
 
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/common.js"

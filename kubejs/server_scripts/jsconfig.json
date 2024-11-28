@@ -9,9 +9,10 @@
         "rootDir": "./src",
         "typeRoots": [
             "../../.probe/server/probe-types",
+            null
         ],
         "baseUrl": "../../.probe/server/probe-types",
-        "skipLibCheck": false
+        "skipLibCheck": true
     },
     "include": [
         "./src/**/*",
