@@ -1,21 +1,13 @@
 {
+    "extends": "../jsconfig.json",
     "compilerOptions": {
-        "module": "commonjs",
-        "target": "ES2015",
-        "lib": [
-            "ES5",
-            "ES2015"
-        ],
         "rootDir": "./src",
         "typeRoots": [
-            "../../.probe/server/probe-types",
-            null
+            "../../.probe/server/probe-types"
         ],
         "baseUrl": "../../.probe/server/probe-types",
-        "skipLibCheck": true
     },
     "include": [
         "./src/**/*",
-        null
     ]
 }

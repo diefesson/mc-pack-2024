@@ -1,8 +1,9 @@
-ServerEvents.recipes(event => {
-    const spawnerRecipe = global.mysticalagriculture.spawnerRecipe
 
-    event.remove({ type: 'mysticalagriculture:soulium_spawner', input: { item: 'mysticalagriculture:creeper_essence' } })
-    spawnerRecipe(
+
+ServerEvents.recipes(event => {
+    MAUtils.setup(event)
+
+    MAUtils.spawnerRecipe(
         event,
         Item.of('mysticalagriculture:creeper_essence', 24),
         [

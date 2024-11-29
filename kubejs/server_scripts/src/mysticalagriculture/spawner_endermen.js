@@ -1,8 +1,7 @@
 ServerEvents.recipes(event => {
-    const spawnerRecipe = global.mysticalagriculture.spawnerRecipe
+    MAUtils.setup(event)
 
-    event.remove({ type: 'mysticalagriculture:soulium_spawner', input: { item: 'mysticalagriculture:enderman_essence' } })
-    spawnerRecipe(
+    MAUtils.spawnerRecipe(
         event,
         Item.of('mysticalagriculture:enderman_essence', 16),
         [

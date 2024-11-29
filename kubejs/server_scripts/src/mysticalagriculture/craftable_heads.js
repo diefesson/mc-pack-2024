@@ -1,28 +1,24 @@
 ServerEvents.recipes(event => {
-    const headRecipe = global.mysticalagriculture.headRecipe
-
-    headRecipe(
-        event,
-        'variantsandventures:gelid_head',
-        'mysticalagriculture:zombie_essence',
-        'mysticalagriculture:ice_essence'
+    MAUtils.setup(event)
+    
+    MAUtils.headRecipe(
+        Item.of('variantsandventures:gelid_head'),
+        Item.of('mysticalagriculture:zombie_essence'),
+        Item.of('mysticalagriculture:ice_essence'),
     )
-    headRecipe(
-        event,
-        'variantsandventures:thicket_head',
-        'mysticalagriculture:zombie_essence',
-        'mysticalagriculture:nature_essence'
+    MAUtils.headRecipe(
+        Item.of('variantsandventures:thicket_head'),
+        Item.of('mysticalagriculture:zombie_essence'),
+        Item.of('mysticalagriculture:nature_essence'),
     )
-    headRecipe(
-        event,
-        'variantsandventures:murk_skull',
-        'mysticalagriculture:skeleton_essence',
-        'mysticalagriculture:water_essence'
+    MAUtils.headRecipe(
+        Item.of('variantsandventures:murk_skull'),
+        Item.of('mysticalagriculture:skeleton_essence'),
+        Item.of('mysticalagriculture:water_essence'),
     )
-    headRecipe(
-        event,
-        'variantsandventures:verdant_skull',
-        'mysticalagriculture:skeleton_essence',
-        'mysticalagriculture:nature_essence'
+    MAUtils.headRecipe(
+        Item.of('variantsandventures:verdant_skull'),
+        Item.of('mysticalagriculture:skeleton_essence'),
+        Item.of('mysticalagriculture:nature_essence'),
     )
 })

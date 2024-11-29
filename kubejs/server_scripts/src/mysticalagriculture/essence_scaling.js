@@ -1,5 +1,5 @@
 ServerEvents.recipes(event => {
-    const essences = [
+    const essenceIds = [
         'mysticalagriculture:inferium_essence',
         'mysticalagriculture:prudentium_essence',
         'mysticalagriculture:tertium_essence',
@@ -7,9 +7,10 @@ ServerEvents.recipes(event => {
         'mysticalagriculture:supremium_essence',
         'mysticalagradditions:insanium_essence',
     ]
-    for (let i = 0; i < essences.length - 1; i++) {
-        let from = essences[i]
-        let to = essences[i + 1]
+
+    for (let i = 0; i < essenceIds.length - 1; i++) {
+        let from = essenceIds[i]
+        let to = essenceIds[i + 1]
         event.remove({ id: `${to}` })
         event.remove({ id: `${to}_uncraft` })
         event.shaped(
@@ -21,7 +22,7 @@ ServerEvents.recipes(event => {
             ],
             {
                 E: from,
-                C: '#mysticalagriculture:infusion_crystals'
+                C: Ingredient.of('#mysticalagriculture:infusion_crystals')
             }
         )
         event.shapeless(

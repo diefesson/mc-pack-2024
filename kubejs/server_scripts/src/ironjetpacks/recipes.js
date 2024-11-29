@@ -1,20 +1,21 @@
-const ELYTRA = 'minecraft:elytra'
-
-const ENDERIUM_INGOT = 'thermal:enderium_ingot'
-const CRIMSON_STEEL_INGOT = 'silentgear:crimson_steel_ingot'
-const DRAGONSTEEL_INGOT = 'thermal_extra:dragonsteel_ingot'
-
-const REDSTONE_FLUX_COIL = 'thermal:rf_coil'
-
-const JETPACK = 'ironjetpacks:jetpack'
-
-const BASIC_JETPACK = Item.of(JETPACK, { Id: "ironjetpacks:basic"})
-const ADVANCED_JETPACK = Item.of(JETPACK, { Id: "ironjetpacks:advanced"})
-const ULTIMATE_JETPACK = Item.of(JETPACK, { Id: "ironjetpacks:ultimate"})
-
 ServerEvents.recipes(event => {
+
+    const elytra = 'minecraft:elytra'
+
+    const enderiumIngot = Item.of('thermal:enderium_ingot')
+    const crimsonSteelIngot = Item.of('silentgear:crimson_steel_ingot')
+    const dragonsteelIngot = Item.of('thermal_extra:dragonsteel_ingot')
+
+    const redstoneFluxCoil = Item.of('thermal:rf_coil')
+
+    const jetpackId = Item.of('ironjetpacks:jetpack')
+
+    const basicJetpack = Item.of(jetpackId, { Id: "ironjetpacks:basic" })
+    const advancedJetpack = Item.of(jetpackId, { Id: "ironjetpacks:advanced" })
+    const ultimateJetpack = Item.of(jetpackId, { Id: "ironjetpacks:ultimate" })
+
     const transferNBT = (inputs, output) => {
-        let original = inputs.find(JETPACK);
+        let original = inputs.find(jetpackId);
         let result = output
         if (original.hasNBT()) {
             let nbt = original.nbt
@@ -25,42 +26,42 @@ ServerEvents.recipes(event => {
     }
 
     event.shaped(
-        BASIC_JETPACK,
+        basicJetpack,
         [
             'ICI',
             'IEI',
             'I I'
         ],
         {
-            I: ENDERIUM_INGOT,
-            C: REDSTONE_FLUX_COIL,
-            E: ELYTRA
+            I: enderiumIngot,
+            C: redstoneFluxCoil,
+            E: elytra
         }
     )
     event.shaped(
-        ADVANCED_JETPACK,
+        advancedJetpack,
         [
             'ICI',
             'IJI',
             'I I'
         ],
         {
-            I: CRIMSON_STEEL_INGOT,
-            C: REDSTONE_FLUX_COIL,
-            J: BASIC_JETPACK.weakNBT()
+            I: crimsonSteelIngot,
+            C: redstoneFluxCoil,
+            J: basicJetpack.weakNBT()
         }
     ).modifyResult(transferNBT)
     event.shaped(
-        ULTIMATE_JETPACK,
+        ultimateJetpack,
         [
             'ICI',
             'IJI',
             'I I'
         ],
         {
-            I: DRAGONSTEEL_INGOT,
-            C: REDSTONE_FLUX_COIL,
-            J: ADVANCED_JETPACK.weakNBT()
+            I: dragonsteelIngot,
+            C: redstoneFluxCoil,
+            J: advancedJetpack.weakNBT()
         }
     ).modifyResult(transferNBT)
 })

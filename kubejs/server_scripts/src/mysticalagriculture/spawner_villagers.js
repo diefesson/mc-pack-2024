@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
-    const spawnerRecipe = global.mysticalagriculture.spawnerRecipe
+    MAUtils.setup(event)
 
-    spawnerRecipe(
+    MAUtils.spawnerRecipe(
         event,
         Item.of('mysticalagriculture:emerald_essence', 64),
         [

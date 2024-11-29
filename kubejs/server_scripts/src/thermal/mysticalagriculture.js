@@ -1,5 +1,6 @@
 ServerEvents.recipes(event => {
-    const press3x3RecipePair = global['press3x3RecipePair']
+    ThermalUtils.setup(event)
+
     const levels = [
         'prosperity',
         'soulium',
@@ -23,9 +24,9 @@ ServerEvents.recipes(event => {
         let gemstone_block = Item.of(`mysticalagriculture:${level}_gemstone_block`)
         let gemstone = Item.of(`mysticalagriculture:${level}_gemstone`)
 
-        press3x3RecipePair(event, block, item)
-        press3x3RecipePair(event, ingot_block, ingot)
-        press3x3RecipePair(event, ingot, nugget)
-        press3x3RecipePair(event, gemstone_block, gemstone)
+        ThermalUtils.press3(block, item)
+        ThermalUtils.press3(ingot_block, ingot)
+        ThermalUtils.press3(ingot, nugget)
+        ThermalUtils.press3(gemstone_block, gemstone)
     }
 })

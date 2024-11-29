@@ -1,6 +1,3 @@
-const SAWDUST = 'thermal:sawdust'
-const ASH = 'supplementaries:ash'
-
 ServerEvents.recipes(event => {
-    event.smelting(ASH, SAWDUST, 0.1, 20)
+    event.smelting(Item.of("supplementaries:ash"), Item.of('thermal:sawdust'), 0.1, 200)
 })
