@@ -282,7 +282,7 @@ hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "ddc4f5380baadfb0bd15c492f96dfb65055a177a5d9c75523392a8519664b62f"
+hash = "baf41dd3d283f3819cc473130bfe369c505ba90a623b7e5dedccba05dcc2f6c3"
 
 [[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
