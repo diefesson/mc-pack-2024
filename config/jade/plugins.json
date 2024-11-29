@@ -1,4 +1,7 @@
 {
+  "framedblocks": {
+    "framed_item_frame": true
+  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
@@ -36,11 +39,11 @@
     "player_head": true,
     "block_states": false,
     "lectern": true,
-    "entity_armor": true,
+    "entity_armor": false,
     "harvest_tool.creative": false,
     "horse_stats": true,
     "item_tooltip": true,
-    "entity_health": true,
+    "entity_health": false,
     "enchantment_power": true,
     "zombie_villager": true,
     "villager_profession": true,
@@ -51,15 +54,19 @@
     "painting": true,
     "chiseled_bookshelf": true
   },
-  "deepresonance": {
-    "crystal": true,
-    "generator_part": true
-  },
   "jadeaddons": {
     "equipment_requirement": ""
   },
   "mysticalagradditions": {
     "infused_farmland": true
+  },
+  "pneumaticcraft": {
+    "pneumatic": true,
+    "tube_module": true,
+    "entity": true,
+    "redstone": true,
+    "camo": true,
+    "semiblock": true
   },
   "pipez": {
     "pipe": true
@@ -74,9 +81,6 @@
     "coordinates": false,
     "registry_name": "OFF",
     "mod_name": true
-  },
-  "mcjtylib": {
-    "jadeaddons": true
   },
   "waystones": {
     "waystone": true

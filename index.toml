@@ -242,15 +242,15 @@ hash = "6e1cb5065144018f529332ba1bf25c4c74429218da676984ae7892dcac3136e6"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "df999597fcd6e6a74f4091301d245f2022c3fe4dcc3b74216ffcabbc348c083c"
+hash = "13e506b060b152e8c52e63edb652c37f109dfe53760c0e3a43935d69e98c1001"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "a13b9d5b309c848573eb3189086889e88a6e1c537b44b21df781f94baaa6fa1c"
+hash = "bdf3f91af49c1071f80a08a25538ae2bd25f7867ff9da5b23b3bc57ac0fb9c4b"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "c128d5c74ff644a7b0d81d270b10deb4915c4dc9bc887f781891de891aa409e7"
+hash = "43e650344bca911bfa42e9fcdd4a59156d28dd0c3231d2c0262bffe8b1834b02"
 
 [[files]]
 file = "config/lmft.json"
