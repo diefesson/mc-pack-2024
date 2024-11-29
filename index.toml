@@ -1067,6 +1067,10 @@ file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
 hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
 
 [[files]]
+file = "defaultconfigs/systeams-server.toml"
+hash = "a01b8800cded53ca9e551a830baef7dd933b367b1e7fb30b474465fd39874de0"
+
+[[files]]
 file = "kubejs/README.txt"
 hash = "989f3737ae4621b8ff6730bce4cbeeee756921e7e510e0c281c8a350501d98af"
 
@@ -2605,6 +2609,11 @@ metafile = true
 [[files]]
 file = "mods/switchy.pw.toml"
 hash = "d9ca5fba7d60bf003484db60c553e1382098528c9dff9f2bd4cd3bc69ec9ba38"
+metafile = true
+
+[[files]]
+file = "mods/systeams.pw.toml"
+hash = "21b7ffbb84fc3cb2d73d7a77b7dced377cbd7603eb334e1f7b313b4e6ebbfd70"
 metafile = true
 
 [[files]]
