@@ -2,7 +2,7 @@ LootJS.modifiers(l => {
 
     const copperFilter = ItemFilter.or(Item.of('minecraft:copper_ingot'))
     const ironFilter = ItemFilter.or(Item.of('minecraft:iron_ingot'), Item.of('minecraft:bone'))
-    const goldFilter = ItemFilter.or(Item.of('minecraft:gold_ingot'), Item.of('silentgear:blaze_gold_ingot'))
+    const goldFilter = ItemFilter.or(Item.of('minecraft:gold_ingot'))
     const diamondFilter = ItemFilter.or(Item.of('minecraft:diamond'))
     const netheriteFilter = ItemFilter.or(Item.of('minecraft:netherite_ingot'))
 
@@ -43,7 +43,6 @@ LootJS.modifiers(l => {
         .modifyLoot(goldFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:gold_ingot'), 100],
             [Item.of('thermal:silver_ingot'), 80],
-            [Item.of('silentgear:blaze_gold_ingot'), 40],
             [Item.of('thermal:electrum_ingot'), 40],
             [Item.of('thermal:signalum_ingot'), 40],
         ]))
@@ -69,7 +68,6 @@ LootJS.modifiers(l => {
         .anyDimension('the_nether')
         .modifyLoot(goldFilter, LootUtils.itemReplacer([
             [Item.of('minecraft:gold_ingot'), 100],
-            [Item.of('silentgear:blaze_gold_ingot'), 40],
             [Item.of('thermal:lumium_ingot'), 40],
             [Item.of('thermal_extra:twinite_ingot'), 40],
         ]))

@@ -351,18 +351,6 @@ file = "config/seamless_loading_screen.json"
 hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 
 [[files]]
-file = "config/silentgear-client.toml"
-hash = "8ee773dd1d72dfa674663d4e8179ac3c2bae2d4bf2d97a2a403235b1a857a402"
-
-[[files]]
-file = "config/silentgear-common.toml"
-hash = "8c6a3f7d28e1db299730566f7002c4869fa657754c99f15ec99e0ddd7a6a34b6"
-
-[[files]]
-file = "config/silentgems-common.toml"
-hash = "f0a914fb446298828ab01457eb64f4b1fe36ab58d27abade4b593000683d6588"
-
-[[files]]
 file = "config/skeletonhorsespawn.json5"
 hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 
@@ -1047,26 +1035,6 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
-file = "defaultconfigs/openpartiesandclaims-default-player-config.toml"
-hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
-
-[[files]]
-file = "defaultconfigs/openpartiesandclaims-expired-claim-config.toml"
-hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
-
-[[files]]
-file = "defaultconfigs/openpartiesandclaims-server-claim-config.toml"
-hash = "da381700fcb28e3c0f7338aef08355cdf7d2d6e217ee65d3830cbd5614fc8fca"
-
-[[files]]
-file = "defaultconfigs/openpartiesandclaims-server.toml"
-hash = "3ead48ae4d148dde74fc3b5abe707d0e0f0033393d7a728f55e48f9b88420d46"
-
-[[files]]
-file = "defaultconfigs/openpartiesandclaims-wilderness-config.toml"
-hash = "e68215f92eeeab1ac7741dcbed1dd12929c1cc1a34d65b27665e2adb98b19d82"
-
-[[files]]
 file = "defaultconfigs/systeams-server.toml"
 hash = "a01b8800cded53ca9e551a830baef7dd933b367b1e7fb30b474465fd39874de0"
 
@@ -1140,7 +1108,7 @@ hash = "1c7b60965b6930c980e436725fb5b8fee624e0bf5e64a889e07a93f000dd7feb"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_ingots.js"
-hash = "65ebf167c95f835027e9cf922b8db4473a51a7d1ee2874c4269c79be7434a954"
+hash = "5fbbac589ef36f3c6c8cf3c964bebaf295aebfa4c4b9beb5e14bb76b619a22f3"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/loot_utils.js"
@@ -1201,10 +1169,6 @@ hash = "93af636e1b4d663ac70b777038310bdc11813fc661a1c0088832fd4a2e812e8c"
 [[files]]
 file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
-
-[[files]]
-file = "kubejs/server_scripts/src/thermal/silentgear.js"
-hash = "1ba74f2688d53b78d6f62459959334bd2209726441772b553a8029514236c90e"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
@@ -2290,11 +2254,6 @@ hash = "57cd2d86dc85f4b5c4d08b9e314e1736c1d773a1db0488fabb7cdef154802a97"
 metafile = true
 
 [[files]]
-file = "mods/owo-lib.pw.toml"
-hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
-metafile = true
-
-[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "a50cf466fa2262f8a9cef3d7dfe60dae300b95dfc5cc052f909f86c5ba7698f7"
 metafile = true
@@ -2457,21 +2416,6 @@ metafile = true
 [[files]]
 file = "mods/shield-banner-fix.pw.toml"
 hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
-metafile = true
-
-[[files]]
-file = "mods/silent-gear.pw.toml"
-hash = "ccd0eaace91d511375a1eeb58bd045dfe3c951d6f3d748284eced2b6614168bd"
-metafile = true
-
-[[files]]
-file = "mods/silent-lib.pw.toml"
-hash = "d8534ac5dab1f2bef206331abd2d2a0bb504b68c10fcd71aefd49239eab5f7e0"
-metafile = true
-
-[[files]]
-file = "mods/silents-gems.pw.toml"
-hash = "4dced04b2f1db898ad8760c568e341cbfee88a12d04b3a6cde323fe5bb59584c"
 metafile = true
 
 [[files]]
