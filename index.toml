@@ -1076,7 +1076,7 @@ hash = "35a8d6ceed6c50ce6c8f2f522cc8bc91ca97d691b83ac11e73050a21281a2864"
 
 [[files]]
 file = "kubejs/powah/recipes.js"
-hash = "22c890b2c9f849971499f8f7dd08e388b35253131f33e4e5eda5bda6efbb47d9"
+hash = "813acf312830af04e2a8d24b3e13d5cc5b2571de3dbf0cda49d5cee4d09d9126"
 
 [[files]]
 file = "kubejs/server_scripts/jsconfig.json"
