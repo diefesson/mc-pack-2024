@@ -1,9 +1,0 @@
-[
-  {
-    "mob": "minecraft:wither_skeleton",
-    "when": "finalize",
-    "random": 0.25,
-    "helditem": "minecraft:bow",
-    "result": "allow"
-  }
-]

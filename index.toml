@@ -157,58 +157,6 @@ file = "config/huskspawn.json5"
 hash = "9755f88ed91ed652367969085616f28a0e7b118a2390e05fc942cf58206e4d62"
 
 [[files]]
-file = "config/incontrol/areas.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/breakevents.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/effects.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/events.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/experience.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/leftclicks.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/loot.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/phases.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/placeevents.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/rightclicks.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/spawn.json"
-hash = "35bf76769d8fccbdcab347339eed02de3be31cf70dae44b54092a55a51aaa796"
-
-[[files]]
-file = "config/incontrol/spawner.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
-file = "config/incontrol/summonaid.json"
-hash = "4f53cda18c2baa0c0354bb5f9a3ecbe5ed12ab4d8e11ba873c2f11161202b945"
-
-[[files]]
 file = "config/ironjetpacks-client.toml"
 hash = "0cd96194b7acae3d3538d869ac35c879a16887b3bd30fc191b5be7b7bca6b0ff"
 
@@ -1065,6 +1013,10 @@ hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton.json"
+hash = "2cada3a5f22c3d8fe29fa325d346a142ec53d077321bfd0e12be26e7548448f9"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -1924,11 +1876,6 @@ hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
 
 [[files]]
-file = "mods/in-control.pw.toml"
-hash = "e913d6edc9873a36882bf25d6c25be13f4b2b9402d1992b5b5cb44c571104be2"
-metafile = true
-
-[[files]]
 file = "mods/industrial-foregoing-souls.pw.toml"
 hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
 metafile = true
@@ -1941,6 +1888,11 @@ metafile = true
 [[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "1d946f8d1242c153b7015a139360eaa7e0601a562a77bd1b50ecb70acbf1a456"
+metafile = true
+
+[[files]]
+file = "mods/insanelib.pw.toml"
+hash = "cc296c009d4d27118ea8c3071fb2fca2736ded605b7ed51da3833227439a7365"
 metafile = true
 
 [[files]]
@@ -2101,6 +2053,11 @@ metafile = true
 [[files]]
 file = "mods/mns-moogs-nether-structures.pw.toml"
 hash = "d5ad42fed396a52a7f12d27f35352381ab2b0a2ab2e0b02c0f4635c9ed0196bc"
+metafile = true
+
+[[files]]
+file = "mods/mobs-properties-randomness.pw.toml"
+hash = "8c60246cbed9590c4675467a51f20f5ac018039b6500a188196abfabc0174568"
 metafile = true
 
 [[files]]

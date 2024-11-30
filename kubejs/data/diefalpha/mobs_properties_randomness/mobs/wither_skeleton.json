@@ -1,0 +1,22 @@
+{
+  "target": "minecraft:wither_skeleton",
+  "custom_name": {
+    "overrides": ["Blacky", "Withered", "Decaying"]
+  },
+  "equipment": {
+    "main_hand": {
+      "enchantments": [
+        {
+          "with_levels": {
+            "min": 10,
+            "max": 40
+          }
+        }
+      ],
+      "items": [
+        {"id": "minecraft:bow", "weight": 1},
+        {"id": "minecraft:iron_sword", "weight": 3}
+      ]
+    }
+  }
+}
