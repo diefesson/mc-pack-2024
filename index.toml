@@ -1554,11 +1554,6 @@ hash = "2fcea0bdf1c046a408cf5b2fb163a0cfbb826ba221a0fa1bec74e4df25b040ff"
 metafile = true
 
 [[files]]
-file = "mods/disenchanter.pw.toml"
-hash = "03113de39d3e5192ab75d18a1c049ab1c636809205891439623367a89fd85d75"
-metafile = true
-
-[[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "ac0dd0f58d624e654619433093cbff12d8d7b9839184a816accf8061fc3757cc"
 metafile = true
