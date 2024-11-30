@@ -3,9 +3,9 @@
 	#Text color in hex code format
 	text_color = "FFFFFF"
 	#Show entity name
-	show_entity_name = true
+	show_entity_name = false
 	#Disables the rendering of the vanilla name tag
-	disable_name_tag = true
+	disable_name_tag = false
 	#Maximum distance in blocks at which health bars should render
 	max_distance = 24
 	#Maximum distance in blocks at which health bars should render without line of sight
