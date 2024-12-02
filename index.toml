@@ -129,6 +129,14 @@ file = "config/enchantinginfuser-server.toml"
 hash = "f8a8fbc9f6824f2e45ab9a89d56b378cef21bbde65bb3498f2a4f234e4ea5dc1"
 
 [[files]]
+file = "config/explorerscompass-client.toml"
+hash = "59e128ed3dd7b64224ce9116a26e0f8ec15f774e5591d2261498b5f8a9e91098"
+
+[[files]]
+file = "config/explorerscompass-common.toml"
+hash = "1646a67e28d5353d25354d7242ab099d147897e8e0a6f7f99a4bf4c7ae224462"
+
+[[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
@@ -139,6 +147,10 @@ hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 [[files]]
 file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
+
+[[files]]
+file = "config/guifollowers.json5"
+hash = "09fabcb740a37e5f501d60a422a124cb5fe4a6da06432c018490f627afae6385"
 
 [[files]]
 file = "config/healingcampfire.json5"
@@ -227,6 +239,14 @@ hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
 [[files]]
 file = "config/morezombievillagers.json5"
 hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
+
+[[files]]
+file = "config/naturescompass-client.toml"
+hash = "f8666a691705e3a16363680504954d2bc5bcaa8bfed874fcd34f616a2a59905b"
+
+[[files]]
+file = "config/naturescompass-common.toml"
+hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
 
 [[files]]
 file = "config/neat-client.toml"
