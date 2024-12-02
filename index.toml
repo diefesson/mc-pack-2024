@@ -1314,6 +1314,11 @@ hash = "7f26f031977424d44a7ac10162ed71932ea1495d9a259caa4f0bb0274de58e29"
 metafile = true
 
 [[files]]
+file = "mods/biolith.pw.toml"
+hash = "c974335a418baf785d99b096e55a6b4c252f3ae604699f76d1513fca4959ddbe"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "70ee5b8c58a4618fa0d94034c0b1422ef519af47e6f8d1f469e952d483d8f800"
 metafile = true
@@ -2316,11 +2321,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
-metafile = true
-
-[[files]]
-file = "mods/regions-unexplored.pw.toml"
-hash = "cc64ca541c4710726dc3fa4b283b1260cfb2d3ff8d1784f80e0180d248c35688"
 metafile = true
 
 [[files]]
