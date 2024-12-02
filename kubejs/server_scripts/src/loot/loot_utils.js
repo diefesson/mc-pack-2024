@@ -27,5 +27,25 @@ const LootUtils = {
             const item = this.weightedChoice(entries)
             return item.withCount(i.getCount())
         }
+    },
+
+    /**
+     * 
+     * @param {number} min 
+     * @param {number} max 
+     * @returns {number}
+     */
+    randomRange(min, max) {
+        return Math.random() * (max - min) + min
+    },
+
+    /**
+     * 
+     * @param {integer} min 
+     * @param {integer} max 
+     * @returns {integer}
+     */
+    randomCount(min, max) {
+        return Math.round(this.randomCount(min, max))
     }
 }

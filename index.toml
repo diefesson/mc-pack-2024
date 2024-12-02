@@ -1060,11 +1060,11 @@ hash = "1c7b60965b6930c980e436725fb5b8fee624e0bf5e64a889e07a93f000dd7feb"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_ingots.js"
-hash = "5fbbac589ef36f3c6c8cf3c964bebaf295aebfa4c4b9beb5e14bb76b619a22f3"
+hash = "d07dd6b053d38e2367bc783a33e010bfe02962c339497366dfa335594d10c187"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/loot_utils.js"
-hash = "938a6b13c41ef6bedb15f0e9b3ea840bcaea1c82a5ca75fc1a33c4cfe1a03221"
+hash = "bb076ba93f2c14798e7b88bba325a200f640595793233e266d0e04bce0e57fba"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
@@ -1109,6 +1109,14 @@ hash = "15ad16e2f437b3b7e5ad6fe3e81c2da1e573497592a1c8b72eb552aa7e4b5a26"
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/spawner_zombies.js"
 hash = "fb90f43f2a3670fb4b2942c0900984548f3b364b1b87d7bccf374ecabbd967c2"
+
+[[files]]
+file = "kubejs/server_scripts/src/powah/powah_utils.js"
+hash = "35a8d6ceed6c50ce6c8f2f522cc8bc91ca97d691b83ac11e73050a21281a2864"
+
+[[files]]
+file = "kubejs/server_scripts/src/powah/recipes.js"
+hash = "813acf312830af04e2a8d24b3e13d5cc5b2571de3dbf0cda49d5cee4d09d9126"
 
 [[files]]
 file = "kubejs/server_scripts/src/regions_unexplored/recipes.js"
