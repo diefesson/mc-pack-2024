@@ -50,7 +50,7 @@
     "mob_breeding": true,
     "entity_health.icons_per_line": 10,
     "total_enchantment_power": true,
-    "potion_effects": true,
+    "potion_effects": false,
     "painting": true,
     "chiseled_bookshelf": true
   },

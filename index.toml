@@ -202,11 +202,11 @@ hash = "6e1cb5065144018f529332ba1bf25c4c74429218da676984ae7892dcac3136e6"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "13e506b060b152e8c52e63edb652c37f109dfe53760c0e3a43935d69e98c1001"
+hash = "0c9304a8cc23e19e62e76a89a15521fe886bf862b0d00a569578b7059392b0a8"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "bdf3f91af49c1071f80a08a25538ae2bd25f7867ff9da5b23b3bc57ac0fb9c4b"
+hash = "e79012a28cd92aae09216d6c518e8dcbd2f9ed61a6b8ea0b959c3c90e0f30d5c"
 
 [[files]]
 file = "config/jade/sort-order.json"
