@@ -3,7 +3,7 @@ ServerEvents.recipes(event => {
     const elytra = 'minecraft:elytra'
 
     const enderiumIngot = Item.of('thermal:enderium_ingot')
-    const crimsonSteelIngot = Item.of('silentgear:crimson_steel_ingot')
+    const crimsonSteelIngot = Item.of('thermal:lumium_ingot')
     const dragonsteelIngot = Item.of('thermal_extra:dragonsteel_ingot')
 
     const redstoneFluxCoil = Item.of('thermal:rf_coil')

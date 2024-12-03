@@ -182,7 +182,7 @@ hash = "eab47028c2c120b2bdb20c05acf43194da421b169d97f08c05436cd971b27320"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/advanced.json"
-hash = "185dd3406add48e2ba253d3f138c391e3e21ede8bfb13765ca5eefb354aab24d"
+hash = "e3aa91c773159d7930f28efcbea56ed108d280d2952d2bd3c75dad53b9305cd8"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/basic.json"
@@ -1068,7 +1068,7 @@ hash = "64f0481c62f56141d1fa60696806859c5c0d0a237de6793dc7776c225aa63445"
 
 [[files]]
 file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
-hash = "1e3ecf732154744952914054873b061e60e116a34f233c645b9acd1599cf5bd2"
+hash = "92ae46733e543408b9a89e0a9af31dd8882843f73a271eaaaaf27ec4ab3768cb"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_elemental_powders.js"
