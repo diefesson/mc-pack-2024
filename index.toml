@@ -1468,11 +1468,6 @@ hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
 
 [[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "c3d83841e9c92acc635801cfb66c36fed15d670dcc866e56721a0451eaa22ef2"
-metafile = true
-
-[[files]]
 file = "mods/creativecore.pw.toml"
 hash = "d22e2f9e149dc3a02dec2e7bed5bc3a389afed3e27335e5611b58a873baa4455"
 metafile = true
