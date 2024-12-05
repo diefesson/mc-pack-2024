@@ -33,7 +33,7 @@
 	#Group 5 iron icons into 1 diamond icon
 	group_armor = true
 	#Color health bar by mob type instead of health percentage
-	color_health_bar_by_type = true
+	color_health_bar_by_type = false
 	#Height of the text on the health bar
 	hp_text_height = 14
 	#Whether the maximum health of the mob should be shown

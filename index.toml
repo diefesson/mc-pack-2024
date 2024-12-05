@@ -89,6 +89,10 @@ file = "config/combatnouveau-server.toml"
 hash = "919d980b56758ed2275c954d4787bfa2df3eea46ed49b1b403d7543c73438ef9"
 
 [[files]]
+file = "config/crunchy_crunchy_advancements.toml"
+hash = "6fa3f3d5b757ad9cd2b5089215ccbb6a38b39bdc56ab3c3c6b36ac8fd04ce8a7"
+
+[[files]]
 file = "config/cucumber-client.toml"
 hash = "ad495bd424ddbc7994e64fba5d36121864771fc6b3213bf67b5695848acb427b"
 
@@ -254,7 +258,7 @@ hash = "eebe4b4c01047b3d8cbf1106fcfe8af8e912ca62dfbb5258f46b36623b535fa2"
 
 [[files]]
 file = "config/neat-client.toml"
-hash = "2292a9dc087310c6a55c29279daef8c7537fc886fd4e1ad58000dba297dae52c"
+hash = "0ce846e6837319493aac6930404cdd76112036758225daf0d8da1a9087153326"
 
 [[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
@@ -1039,8 +1043,48 @@ file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton.json"
-hash = "2cada3a5f22c3d8fe29fa325d346a142ec53d077321bfd0e12be26e7548448f9"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/mob_speed_variation.json"
+hash = "3f0d807f6fa2e27ebf2da0dc7413600811baeca2263d2a56b17f5ac65a2efb66"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/mob_weapon_enchant.json"
+hash = "bfa4a8e091ba5a71cd515f3bb8dfc0e0e9d6dda3a313362dcbd3d85da47840a1"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/skeleton_miniboss.json"
+hash = "126db70a6a6d9041e844305ff198cea18fbe008471a8d1e19d465180b9cad4a6"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton_bow.json"
+hash = "3dd90f4e2ddf5a20f8e7e4b3b07c61e0981be3cd83c5a6d4661e894785883e41"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/zombie_miniboss.json"
+hash = "074b07c3152dabbb921a9f9ed2b64b35f836590ec1443464dec095d1bb4cc26e"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/bronze_zombie_miniboss.json"
+hash = "15722273b3b22226384d0e064583f7a2ae5ee4d4352158a5a6d9174929674f35"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/green_skeleton_miniboss.json"
+hash = "a916fb1a9437be09a15fe0f18f6faa3cc23a11fbec2de56859bdeac936b97922"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/invar_zombie_miniboss.json"
+hash = "c883b59f7768e1253d09b7fa9e4b86ee499a814539604d927ab84d32e020831e"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/white_skeleton_miniboss.json"
+hash = "a568e00993e35fc02f2370f35c3fc06f2d24438eb1259201715ec450ef4d0df4"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/speed_variation_mobs.json"
+hash = "abd834344492715c8e7bbaf0a58d61a3d5a6cc50474d057863230048d6bf9b4d"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/weapon_enchant_mobs.json"
+hash = "576c21f80f607ba796e6e637cf4a8fe528883ab4a31f5168ef42c2806c7a38fb"
 
 [[files]]
 file = "kubejs/jsconfig.json"

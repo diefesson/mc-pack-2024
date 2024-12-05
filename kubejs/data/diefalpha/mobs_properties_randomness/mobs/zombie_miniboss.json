@@ -1,0 +1,18 @@
+{
+  "target": "minecraft:zombie",
+  "presets": {
+    "chance": 0.05,
+    "list": [
+      {
+        "id": "diefalpha:bronze_zombie_miniboss"
+      },
+      {
+        "id": "diefalpha:invar_zombie_miniboss"
+      }
+    ]
+  },
+  "conditions": {
+    "is_baby": false,
+    "spawner_behaviour": "natural_only"
+  }
+}

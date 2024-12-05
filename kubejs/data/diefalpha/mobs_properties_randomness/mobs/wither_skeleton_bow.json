@@ -1,0 +1,19 @@
+{
+  "target": "minecraft:wither_skeleton",
+  "equipment": {
+    "main_hand": {
+      "enchantments": [
+        {
+          "with_levels": {
+            "min": 20,
+            "max": 60
+          }
+        }
+      ],
+      "items": [
+        { "id": "minecraft:bow", "weight": 1 },
+        { "id": "minecraft:iron_sword", "weight": 3 }
+      ]
+    }
+  }
+}
