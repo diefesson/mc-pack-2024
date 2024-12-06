@@ -19,7 +19,7 @@ chatScale:1.0
 chatVisibility:0
 chatWidth:1.0
 damageTiltStrength:1.0
-darkMojangStudiosBackground:false
+darkMojangStudiosBackground:true
 darknessEffectScale:1.0
 directionalAudio:false
 discrete_mouse_scroll:false
@@ -57,7 +57,6 @@ key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
-key_key.armor_visibility.armor_visibility_toggle:key.keyboard.h
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
 key_key.chat:key.keyboard.t
@@ -176,7 +175,6 @@ key_key.socialInteractions:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f
-key_key.switchy.open:key.keyboard.y
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown

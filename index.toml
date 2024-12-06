@@ -1187,6 +1187,10 @@ file = "kubejs/server_scripts/src/regions_unexplored/tags.js"
 hash = "93af636e1b4d663ac70b777038310bdc11813fc661a1c0088832fd4a2e812e8c"
 
 [[files]]
+file = "kubejs/server_scripts/src/thermal/arrows.js"
+hash = "7ac920dc44d7e34ee4ac9bdb1abe6a795a04da199c740bf7f04cce2a6b671e72"
+
+[[files]]
 file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
 
@@ -2800,4 +2804,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f96e9c81e4293ada75eb319abe23e27dbe422629b48b07e87edbb7f718e831af"
+hash = "bc91fbd17fef719f22d5e7b36eeb0f4f44b95af211a3f30fd6598cdb2d18605f"
