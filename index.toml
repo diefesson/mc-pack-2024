@@ -1294,16 +1294,6 @@ hash = "05dda113751f1aa8b057368d70820be2b53ca7a8a968f9a12fd43a208f84658c"
 metafile = true
 
 [[files]]
-file = "mods/armor-visibility.pw.toml"
-hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
-metafile = true
-
-[[files]]
-file = "mods/ash-api.pw.toml"
-hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
