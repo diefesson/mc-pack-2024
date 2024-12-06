@@ -173,10 +173,6 @@ file = "config/hotbarswapper.toml"
 hash = "0eb9ff2607d2945b6563dc54f6c91250f10cfacd9e6cd0a475931e34c84eaea3"
 
 [[files]]
-file = "config/huskspawn.json5"
-hash = "9755f88ed91ed652367969085616f28a0e7b118a2390e05fc942cf58206e4d62"
-
-[[files]]
 file = "config/ironjetpacks-client.toml"
 hash = "0cd96194b7acae3d3538d869ac35c879a16887b3bd30fc191b5be7b7bca6b0ff"
 
@@ -246,7 +242,7 @@ hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
 
 [[files]]
 file = "config/morezombievillagers.json5"
-hash = "0cce44d301c72184333deb318ac23a62234ff9e39f10cae45fa9d5f14d86acfd"
+hash = "b117fb93cd66a4858004c418383bf6b57197878b22c014d3aa0f64e05f0a92db"
 
 [[files]]
 file = "config/naturescompass-client.toml"
@@ -369,10 +365,6 @@ hash = "2f481c3b16599f5563ae0ad9f932a5ce5929d2ffce51cd6c67adc3b93694541c"
 [[files]]
 file = "config/starterkit/kits/inactive/Witch.txt"
 hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
-
-[[files]]
-file = "config/strayspawn.json5"
-hash = "36680c7374ee309f05a0d1a022c10e3f73a32fc120a08e2d102cdda3bb056f85"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
@@ -1927,11 +1919,6 @@ hash = "6caa7aab50c3b37fdefe6d2cc8c6b6157c9882bd67cd0711e4f583ecf50d0d9f"
 metafile = true
 
 [[files]]
-file = "mods/husk-spawn.pw.toml"
-hash = "aa9a749337380b9f9cc6ef93b259cdd6a38dc25dc70a2612fd2ecef0ed358d4a"
-metafile = true
-
-[[files]]
 file = "mods/ice-prevents-crop-growth.pw.toml"
 hash = "6335d9f1cef25af3e329412f116501096bb8457e923d40ba4e9757bfaddb4f1f"
 metafile = true
@@ -2524,11 +2511,6 @@ metafile = true
 [[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
-metafile = true
-
-[[files]]
-file = "mods/stray-spawn.pw.toml"
-hash = "7b6fb05dee6b2e62f3609ca8741baed8b88b42aba25844c03a70ef9ca1008c53"
 metafile = true
 
 [[files]]
