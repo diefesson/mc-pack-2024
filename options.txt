@@ -45,6 +45,7 @@ incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:false
 key_chunkloaders.keys.open_screen:key.keyboard.p
+key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
 key_guifollowers.key.clearlist:key.keyboard.unknown
@@ -175,6 +176,7 @@ key_key.socialInteractions:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f
+key_key.switchy.open:key.keyboard.y
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown

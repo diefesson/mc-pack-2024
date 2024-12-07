@@ -2,9 +2,6 @@
   "custom_name": {
     "overrides": ["Forest Spreader"]
   },
-  "boss_bar":{
-    "color": "red"
-  },
   "attributes": [
     {
       "id": "minecraft:generic.max_health",

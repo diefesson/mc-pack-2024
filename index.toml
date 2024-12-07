@@ -1056,19 +1056,19 @@ hash = "074b07c3152dabbb921a9f9ed2b64b35f836590ec1443464dec095d1bb4cc26e"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/bronze_zombie_miniboss.json"
-hash = "15722273b3b22226384d0e064583f7a2ae5ee4d4352158a5a6d9174929674f35"
+hash = "1226c0096bfb98189bd468e29d613ee4ea14b6766941eb94068cc9dc6195b436"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/green_skeleton_miniboss.json"
-hash = "a916fb1a9437be09a15fe0f18f6faa3cc23a11fbec2de56859bdeac936b97922"
+hash = "292cb6be4085daec55add831a2321f5bc36a35de44a984d57c3b0b985e9c1338"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/invar_zombie_miniboss.json"
-hash = "c883b59f7768e1253d09b7fa9e4b86ee499a814539604d927ab84d32e020831e"
+hash = "bef62cfdd46f52a83e39d43f385f7004da81a6dafccb09e90d32b194f33417da"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/white_skeleton_miniboss.json"
-hash = "a568e00993e35fc02f2370f35c3fc06f2d24438eb1259201715ec450ef4d0df4"
+hash = "5bc67061a38453eda305b84776e6ed157f05e382858a717e09f267c4e858ef06"
 
 [[files]]
 file = "kubejs/data/diefalpha/tags/entity_types/speed_variation_mobs.json"
@@ -2829,4 +2829,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bc91fbd17fef719f22d5e7b36eeb0f4f44b95af211a3f30fd6598cdb2d18605f"
+hash = "6404619dc4cc7f651996144db416f9d460667312ae4403baf2782dfc61f629a3"

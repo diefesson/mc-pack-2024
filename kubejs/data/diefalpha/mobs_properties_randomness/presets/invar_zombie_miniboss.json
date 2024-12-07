@@ -2,9 +2,6 @@
   "custom_name": {
     "overrides": ["The Invariant"]
   },
-  "boss_bar":{
-    "color": "red"
-  },
   "attributes": [
     {
       "id": "minecraft:generic.max_health",
@@ -32,18 +29,6 @@
             {
               "id": "minecraft:sharpness",
               "level": 3
-            }
-          ]
-        }
-      ]
-    },
-    "off_hand": {
-      "items": [
-        {
-          "id": "minecraft:shield",
-          "enchantments": [
-            {
-              "id": "ensorcellation:bulwark"
             }
           ]
         }
