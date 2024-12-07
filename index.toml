@@ -1223,6 +1223,11 @@ file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
+file = "mods/additional-banners.pw.toml"
+hash = "927f0d7c6a15284bc98b72c462f501abdeafce4487af46b07022931d3e7e71df"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "411c7f45960d3e5e5321ad7c4365a623bf881de361ed69359df2b01c5d8df76f"
 metafile = true
@@ -1635,6 +1640,16 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
+metafile = true
+
+[[files]]
+file = "mods/elytra-slot.pw.toml"
+hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
+metafile = true
+
+[[files]]
+file = "mods/elytra-trims.pw.toml"
+hash = "b75d2609607589050360f6a47c501be4bcb51d835f8f91793e395f3316cd9256"
 metafile = true
 
 [[files]]
@@ -2273,6 +2288,11 @@ hash = "57cd2d86dc85f4b5c4d08b9e314e1736c1d773a1db0488fabb7cdef154802a97"
 metafile = true
 
 [[files]]
+file = "mods/owo-lib.pw.toml"
+hash = "df4c4fe3aff1792aa7d19d097d5d1bc0c6e958e6e4ee32dbf148ecac62e1274d"
+metafile = true
+
+[[files]]
 file = "mods/packet-fixer.pw.toml"
 hash = "a50cf466fa2262f8a9cef3d7dfe60dae300b95dfc5cc052f909f86c5ba7698f7"
 metafile = true
@@ -2759,7 +2779,7 @@ metafile = true
 
 [[files]]
 file = "mods/yacl.pw.toml"
-hash = "5dc42006a59b72158fbe99b79c943dbc5fa5e81b9dc08619b314d08e76863427"
+hash = "87499102d601119a450d1766a8e3af72a8bc0cd8a8757b227a0a6aac5232151c"
 metafile = true
 
 [[files]]
