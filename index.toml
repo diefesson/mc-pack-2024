@@ -1,22 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/Advancedperipherals/general.toml"
-hash = "e6f512892001847d044902a87845611bfd24f716dc5b5f2d737ee93c6bbd7a81"
-
-[[files]]
-file = "config/Advancedperipherals/metaphysics.toml"
-hash = "708933b1de278e96e67050d8c589297e7cf6c7051c7c69e866068d6f150c026a"
-
-[[files]]
-file = "config/Advancedperipherals/peripherals.toml"
-hash = "044d48f0876884a4004e4822c8a143c98fc99c8470ab2f02caa834bc6cf18089"
-
-[[files]]
-file = "config/Advancedperipherals/world.toml"
-hash = "bdc53953e8bf37d8b715be9d3d188adaecc95d71b6c605987da91999da41d5f9"
-
-[[files]]
 file = "config/DistantHorizons.toml"
 hash = "6ffe7d4c52f01549fda59bcf4388bee0e369f1412350f7328b90e0c676e67197"
 
