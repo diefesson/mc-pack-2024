@@ -110,7 +110,7 @@ hash = "da63bcc34336efd3b8800bfe50470a8da28e46d5eca363c43d6996197cd2151d"
 
 [[files]]
 file = "config/emi.css"
-hash = "0de8d7ae7196e32513e10b279df547587791d2aed2209fed49ca7689c761c94a"
+hash = "42a299d4ab717e46689c1e290344709b5bb2c7ea43ac1ac858ee053bdbe40acb"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
