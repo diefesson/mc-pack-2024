@@ -43,7 +43,7 @@ hideServerAddress:false
 highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
-joinedFirstServer:false
+joinedFirstServer:true
 key_chunkloaders.keys.open_screen:key.keyboard.p
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
@@ -172,7 +172,7 @@ key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
-key_key.socialInteractions:key.keyboard.unknown
+key_key.socialInteractions:key.keyboard.tab:CONTROL
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.swapOffhand:key.keyboard.f
