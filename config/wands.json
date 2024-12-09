@@ -1,13 +1,13 @@
 {
   "max_limit___increment_this_if_your_machine_can_handle_it": 8192,
   "blocks_per_xp": 0.0,
-  "stone_wand_limit": 64,
-  "iron_wand_limit": 128,
-  "diamond_wand_limit": 256,
-  "netherite_wand_limit": 512,
+  "stone_wand_limit": 8,
+  "iron_wand_limit": 16,
+  "diamond_wand_limit": 32,
+  "netherite_wand_limit": 64,
   "creative_wand_limit": 512,
-  "stone_wand_durability": 512,
-  "iron_wand_durability": 1024,
+  "stone_wand_durability": 256,
+  "iron_wand_durability": 512,
   "diamond_wand_durability": 2048,
   "netherite_wand_durability": 4096,
   "destroy_in_survival_drop": true,
@@ -24,7 +24,7 @@
   "wand_mode_display_y_pos": 100.0,
   "wand_tools_display_x_pos": 0.0,
   "wand_tools_display_y_pos": 100.0,
-  "preview_opacity": 0.8,
+  "preview_opacity": 0.7,
   "wand_screen_x_offset": 0,
   "wand_screen_y_offset": 0,
   "fancy_preview": true,
@@ -51,16 +51,10 @@
   "line_color": "200,0,200,200",
   "paste_bb_color": "80,40,0,255",
   "block_color": "255,255,255,255",
-  "str_pickaxe_allowed": [
-    "minecraft:sea_lantern"
-  ],
+  "str_pickaxe_allowed": ["minecraft:sea_lantern"],
   "str_axe_allowed": [],
   "str_shovel_allowed": [],
-  "str_hoe_allowed": [
-    "minecraft:moss_block"
-  ],
-  "str_shears_allowed": [
-    "minecraft:moss_block"
-  ],
+  "str_hoe_allowed": ["minecraft:moss_block"],
+  "str_shears_allowed": ["minecraft:moss_block"],
   "str_denied": []
 }
