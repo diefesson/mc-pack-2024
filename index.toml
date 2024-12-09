@@ -137,6 +137,14 @@ file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
+file = "config/functionalstorage/functionalstorage-client.toml"
+hash = "5730b1cf5d43be2df813913a59d0fa3f78704fefe749123347c50e0b0ec4b171"
+
+[[files]]
+file = "config/functionalstorage/functionalstorage-common.toml"
+hash = "e646ca8ec332583e1de2c8d18d4c66a4e2f8aa55c2919d5a65063e3ec88aeb0c"
+
+[[files]]
 file = "config/gamestages/known_stages.json"
 hash = "1cca011aa8f6d4bf78136c19723685f11b847c8c56221989876526675d809551"
 
