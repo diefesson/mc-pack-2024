@@ -237,6 +237,18 @@ file = "config/morezombievillagers.json5"
 hash = "b117fb93cd66a4858004c418383bf6b57197878b22c014d3aa0f64e05f0a92db"
 
 [[files]]
+file = "config/mysticalagradditions-common.toml"
+hash = "ffd6696dbcf307f581b7e9c4f25247a80d2db22ba46f08f740c3aa010348b587"
+
+[[files]]
+file = "config/mysticalagriculture-client.toml"
+hash = "8fad5e2206758eceae2ee8618886715ef1de63eecf60f4f20d237be8f75d157c"
+
+[[files]]
+file = "config/mysticalagriculture-common.toml"
+hash = "58a7839a65846e26e36359ac7e299907c6654e635c57686db316ce804f520ff3"
+
+[[files]]
 file = "config/naturescompass-client.toml"
 hash = "f8666a691705e3a16363680504954d2bc5bcaa8bfed874fcd34f616a2a59905b"
 
