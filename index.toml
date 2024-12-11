@@ -276,11 +276,6 @@ hash = "da6cacd85d1b3dd1b058aac6934094901fe802b16370f5da8bab73da8ea20c78"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/clearer-water.pw.toml"
-hash = "b74f21c14c3fa6c252cb4a2efb7cb2f7b3b6b8c2b22299ab3726c4f8b5fd5847"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
 hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
