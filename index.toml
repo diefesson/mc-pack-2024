@@ -1318,6 +1318,11 @@ hash = "54728d260dd32fba42550ef0e287af0bf00c239771f9a093bc6db2486fcdcaa7"
 metafile = true
 
 [[files]]
+file = "mods/banilla-claws-neoforge.pw.toml"
+hash = "daece4b55ee2de59a9b807e72217276952d96f40a9835e60302babba8c360194"
+metafile = true
+
+[[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "67c62e4c44abab8dbed72009900731830e689c80a1d4cd9f706f56a327d1a087"
 metafile = true
