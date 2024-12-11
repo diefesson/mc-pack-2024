@@ -261,6 +261,10 @@ file = "config/neat-client.toml"
 hash = "0ce846e6837319493aac6930404cdd76112036758225daf0d8da1a9087153326"
 
 [[files]]
+file = "config/patchouli-client.toml"
+hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -410,146 +414,6 @@ hash = "eae249f4e0b49b03a6a4fb8a6fe16552a5d37c5f7608d14bb8a552e31bf54a46"
 [[files]]
 file = "config/universalenchants/cofh_core/holding.json"
 hash = "d1fb3644ac72c37dd30399cea371837adab8e5036a13216a3c657193c066894b"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/amphibious.json"
-hash = "f6276f8a329c8d77b99475ef0dbf92264111271be760f56cdebaf444f1a20016"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/blazing_protection.json"
-hash = "10077936066cbf57f9a02e382b3d3923b6b38f3eeecdc0c9b1ac4c8e9fbbb99b"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/blight_curse.json"
-hash = "6cb8ed019e02424da1b1a3e3e43f88c9ecad4463157b3291bc62027abe9e8666"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/bubbling.json"
-hash = "7662856feac84cfb3e8b72eb6c4f79044b420e48be629d1c3fce81dff526c430"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/chain_lightning.json"
-hash = "e69a5e7703835141daf6749e3580da9abdbcc9a0a11e62e188e24e1c3f4d6007"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/charisma.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/deflection.json"
-hash = "1fdf90960bb96142042d7ca80578e6d163afd63b15a2c616a6c4838fed68b7b9"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/defusal.json"
-hash = "92fb0229d0e3d8adf99ba9a5e9cae89a84246f834c9acc1992432cc918db6c3b"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/disc_jockey.json"
-hash = "5d9a8fe69bf816241b1cfd0247f4c32b052ea2763b9f24f97790869c6ffca60a"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/fireproof.json"
-hash = "5002b9923877c197e0da9506cfa876913f2b610a3984ea33fefeefc6c8e8a22b"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/frost_fang.json"
-hash = "777ef006999064dc2229ee633601161b62f314c013b014dd3fb2d61cee5524f3"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/gluttonous.json"
-hash = "2ec109744e7452fc3837166f3cc1ed526e26b2a4bda013653377938f8bed53ff"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/healing_aura.json"
-hash = "ab7a400c366ec44af0a0672215ab67aeaad68c2f9c36770fc52614c4d1c374eb"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/health_boost.json"
-hash = "d13987aa15d3acdcc4cae8097d774cd4e8412a987b265ef1fe83d08f761e2a5f"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/health_siphon.json"
-hash = "3a6375acd03e95f02a01217c091ae66b13806c131fa2b5d4260f0e16e860f9a5"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/herding.json"
-hash = "32bc0c12edb7611e0b8e55e0604f51f446c4082a396c011b2780e4205f2a1cee"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/immaturity_curse.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/immunity_frame.json"
-hash = "a3e8f24459407a493ac05809637d538c00f5967e029248bd9c5fc0f60fde834c"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/infamy_curse.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/intimidation.json"
-hash = "397df6a516eaa7cd22410e2f4a60cbb2484b1170699a10c4c0e94bd51f14ef53"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/linked_inventory.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/magnetic.json"
-hash = "9f2c813d2a7432281b765ddb1e15276fb7bc4c303802cd6a95a3eea19c73b622"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/muffled.json"
-hash = "42fba1625546de7918588da111c7248bd93feb23fd7b126080aae70cdc41c655"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/ore_scenting.json"
-hash = "6cb8ed019e02424da1b1a3e3e43f88c9ecad4463157b3291bc62027abe9e8666"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/poison_resistance.json"
-hash = "86de7caf2de8bcfd7dbfbf8a0494c0b138a044626dac7652af57953ad7afd126"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/psychic_wall.json"
-hash = "ddac81ba3f48b7e7b9d56783684fabf8a7fa254f470fc50acd1a7ffe3aeb8087"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/rejuvenation.json"
-hash = "2097d7de38a89ccd262401d382e593e371b98fa226072d4219812bb8edacd080"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/shadow_hands.json"
-hash = "6fce4805b36465a4189a72ab74b9c724e85bedbac55537f6a6d5f54bb10f4943"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/speedster.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/tethered_teleport.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/total_recall.json"
-hash = "923c65e1fdd392f13edb062bb1e7016d3365a0ed2caca8100ee274cbe15f1394"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/undead_curse.json"
-hash = "cfc47686eba3dfc55c67094d8765b0379fda55e913017eba8a970a38686e56b6"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/vampire.json"
-hash = "7b785cf7329694691d69a0459790303649e8611f2762a4ab72aa518c8625c045"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/void_cloud.json"
-hash = "89eecbf2c79146d51090ef830750961c2cda1227cb6516a9a6cd92d035055bfa"
-
-[[files]]
-file = "config/universalenchants/domesticationinnovation/warping_bite.json"
-hash = "486de0ff4f5c51f834685e15eb008626610b496d405073e393756f4ac28aedfe"
 
 [[files]]
 file = "config/universalenchants/enderzoology/decay.json"
