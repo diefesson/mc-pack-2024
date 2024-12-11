@@ -1,6 +1,39 @@
 ServerEvents.recipes(event => {
     PowahUtils.setup(event)
 
+    // Crafting
+
+    event.remove('powah:crafting/dielectric_rod')
+    event.remove('powah:crafting/dielectric_rod_h')
+
+    event.shaped(
+        { item: 'powah:dielectric_rod', count: 4 },
+        [
+            'PIP',
+            'PIP',
+            'PIP',
+        ],
+        {
+            P: 'powah:dielectric_paste',
+            I: 'minecraft:copper_ingot',
+        }
+    )
+
+    event.shaped(
+        { item: 'powah:dielectric_rod_horizontal', count: 4 },
+        [
+            'PPP',
+            'III',
+            'PPP',
+        ],
+        {
+            P: 'powah:dielectric_paste',
+            I: 'minecraft:copper_ingot',
+        }
+    )
+
+    // Energizing
+
     event.remove({ id: 'powah:energizing/energized_steel' })
     event.remove({ id: 'powah:energizing/blazing_crystal' })
     event.remove({ id: 'powah:energizing/blazing_crystal_2' })

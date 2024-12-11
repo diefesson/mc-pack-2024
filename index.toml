@@ -1068,14 +1068,6 @@ file = "kubejs/jsconfig.json"
 hash = "79d3616c28f486ea55eb8f8dac927b758a44047552f167afeeeb645671d2835b"
 
 [[files]]
-file = "kubejs/powah/powah_utils.js"
-hash = "35a8d6ceed6c50ce6c8f2f522cc8bc91ca97d691b83ac11e73050a21281a2864"
-
-[[files]]
-file = "kubejs/powah/recipes.js"
-hash = "813acf312830af04e2a8d24b3e13d5cc5b2571de3dbf0cda49d5cee4d09d9126"
-
-[[files]]
 file = "kubejs/server_scripts/jsconfig.json"
 hash = "0c230a664ec610481a7bab2d5e76ec7eaa20a3341cc960a1a14c44b0b4500afd"
 
@@ -1161,7 +1153,7 @@ hash = "35a8d6ceed6c50ce6c8f2f522cc8bc91ca97d691b83ac11e73050a21281a2864"
 
 [[files]]
 file = "kubejs/server_scripts/src/powah/recipes.js"
-hash = "813acf312830af04e2a8d24b3e13d5cc5b2571de3dbf0cda49d5cee4d09d9126"
+hash = "f70c39308c993ad44c0710820e2f1ff60d973388257183c927040f8d4d48cbfb"
 
 [[files]]
 file = "kubejs/server_scripts/src/regions_unexplored/recipes.js"
