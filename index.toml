@@ -2650,6 +2650,11 @@ hash = "351aef144aa70ab4f41b3dcf044e0929631227f1ad118f22e611e13ff91fdfe4"
 metafile = true
 
 [[files]]
+file = "mods/tool-stats.pw.toml"
+hash = "a8ac59bbcb665b5d76a03a4d5f9847c931fb773dc3181957ce0c242a6132d88b"
+metafile = true
+
+[[files]]
 file = "mods/tools-complement.pw.toml"
 hash = "b1f5cbdf71d181ada156dcaa33cd8b7c5cf8271812c9f7bbb6d6791eb66903a5"
 metafile = true
