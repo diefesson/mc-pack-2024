@@ -35,7 +35,7 @@ glDebugVerbosity:1
 glintSpeed:0.5
 glintStrength:0.75
 graphicsMode:2
-guiScale:3
+guiScale:2
 hideBundleTutorial:false
 hideLightningFlashes:false
 hideMatchedNames:true

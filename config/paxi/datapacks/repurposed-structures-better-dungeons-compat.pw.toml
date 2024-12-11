@@ -1,0 +1,13 @@
+name = "Repurposed Structures - Better Dungeons Compat"
+filename = "Repurposed_Structures-Better_Dungeons_v5.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qUbxpIPN/versions/LruTbLS4/Repurposed_Structures-Better_Dungeons_v5.zip"
+hash-format = "sha512"
+hash = "d3879356bac15cde5b156fbd2e6b437702d03733ddc14590bd92e9cb878afee48fc5f1d88765a4266e99199956dbe9ce75f36bf84bddcc8ddacaa0218766d3c6"
+
+[update]
+[update.modrinth]
+mod-id = "qUbxpIPN"
+version = "LruTbLS4"

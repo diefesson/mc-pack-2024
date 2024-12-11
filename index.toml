@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "config/DistantHorizons.toml"
-hash = "6ffe7d4c52f01549fda59bcf4388bee0e369f1412350f7328b90e0c676e67197"
+hash = "293e87cb73468683376c5be4f6e6fdbc9a0d6fc292970eb4b69b084ec45a288b"
 
 [[files]]
 file = "config/almostunified/debug.json"
@@ -106,7 +106,7 @@ hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "da63bcc34336efd3b8800bfe50470a8da28e46d5eca363c43d6996197cd2151d"
+hash = "97015f21eabe3334d4c8b6f648cffe1ce551af4a8b0b6ca5090f4272d12685c2"
 
 [[files]]
 file = "config/emi.css"
@@ -261,6 +261,16 @@ file = "config/neat-client.toml"
 hash = "0ce846e6837319493aac6930404cdd76112036758225daf0d8da1a9087153326"
 
 [[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
+hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/repurposed-structures-better-strongholds-compat.pw.toml"
+hash = "e54c281bce8bb8cffddb726cc28b19e04f1a7f643328c282a357c54be4cd8085"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/better-leaves.pw.toml"
 hash = "da6cacd85d1b3dd1b058aac6934094901fe802b16370f5da8bab73da8ea20c78"
 metafile = true
@@ -320,7 +330,7 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/realisticbees.json5"
-hash = "7c086633a5d7c36ab701af615235b609a28a95f6a929f8227da3f647936a1718"
+hash = "7b03d2ee78b4df30300c75b25f1b71ae68b441db1033d6e71146e5cc580a60a8"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
@@ -969,34 +979,6 @@ hash = "d7d6ae34c63b5f10d045c16fffb6753832e81983ba52d04fd9ed40c147b8ad9d"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "8c5a795c06ccb56c1efacce44e467aee76f951e58570c567f3af6efdc1d4959c"
-
-[[files]]
-file = "config/xaerominimap-common.txt"
-hash = "438ddff39d00a3f7d9bca71687acde37eb4e86b00b21e52a75aecb9c3567201f"
-
-[[files]]
-file = "config/xaerominimap.txt"
-hash = "0086a79442c7ea91feb81e8169dadaae08de30daa101aa2ea2f00e21c52f7671"
-
-[[files]]
-file = "config/xaerominimap_entities.json"
-hash = "94fc0e69a1754ef80c54e1f3c9193526c620b0ac646f94a4a0f560bcc58826a8"
-
-[[files]]
-file = "config/xaeropatreon.txt"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "config/xaeroplus.txt"
-hash = "9ef51096c1ff3288aefad9cb0792e1a941283c9707b18d4b835177eeffbf747e"
-
-[[files]]
-file = "config/xaeroworldmap-common.txt"
-hash = "9ae099ab6f21038a68d5582995b25808fcb6fbd77efeafbb1cfd5d1f5373ef3b"
-
-[[files]]
-file = "config/xaeroworldmap.txt"
-hash = "9509a39c5bf7f7eb53deaab7699bf8f77449af2322168d5d0bfd3db6861a6a88"
 
 [[files]]
 file = "config/zombiehorsespawn.json5"
@@ -2406,6 +2388,11 @@ hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
 metafile = true
 
 [[files]]
+file = "mods/repurposed-structures-forge.pw.toml"
+hash = "8eb888dcb9a92907e44a836676b2dcfa23b1b541de37259f9115ebdde3cbedee"
+metafile = true
+
+[[files]]
 file = "mods/resourceful-config.pw.toml"
 hash = "26ee02ad42278b3050bbd31e66d3d8ad774ed4e46f27dbb34a30f54a5a9617fe"
 metafile = true
@@ -2538,6 +2525,11 @@ metafile = true
 [[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
+metafile = true
+
+[[files]]
+file = "mods/structure-layout-optimizer.pw.toml"
+hash = "9de2a5e8c0bc77c743503b3c417be726cf7a4a528cb9c254e5de4e3456552ce2"
 metafile = true
 
 [[files]]
@@ -2832,4 +2824,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "527e5d3b64a648a121bfc1185b7ad2fb3502296f16a62552b2fefcc91ebc5eb8"
+hash = "96bd5c9b07b6e8d5bd6f13fc0d21137ef5e5802d23a24568aa95fcbeeeffe15b"
