@@ -388,6 +388,10 @@ file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
 [[files]]
+file = "config/toolstats.json"
+hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
+
+[[files]]
 file = "config/tradingpost-server.toml"
 hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
