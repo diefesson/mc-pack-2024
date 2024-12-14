@@ -285,11 +285,6 @@ hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/environmental-water.pw.toml"
-hash = "5cb298d5e4c1d0961a06d18ca716adef1af6a4214875737df436abcde3bc3533"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
