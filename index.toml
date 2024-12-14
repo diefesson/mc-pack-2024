@@ -1322,6 +1322,11 @@ hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
 metafile = true
 
 [[files]]
+file = "mods/connected-glass.pw.toml"
+hash = "f4406fece3f81c30faabfe3faffa872655c5eff78c1cb467e32853be805d3570"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -1684,6 +1689,11 @@ metafile = true
 [[files]]
 file = "mods/functional-storage.pw.toml"
 hash = "6f36277fa2c310a56a47bc95007cbf9ea591959add14c1a19308eec339da3d2a"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "21e3dd574b6f66202b2c36b23fabbb985d76f582254b66ee21771556cc34db11"
 metafile = true
 
 [[files]]
