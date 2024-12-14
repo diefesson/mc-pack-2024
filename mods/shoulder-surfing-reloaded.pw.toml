@@ -1,0 +1,13 @@
+name = "Shoulder Surfing Reloaded"
+filename = "ShoulderSurfing-Forge-1.20.1-4.6.3.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/kepjj2sy/versions/9Z2W7cNO/ShoulderSurfing-Forge-1.20.1-4.6.3.jar"
+hash-format = "sha512"
+hash = "b406805a72d3da0681cfedc25dc448d67958b3e3e908a0d58a09b958db6482e5f2d9e494bac1c6ba544951e86d0c7c054f598d375fd1e651ffcf7f3fc982d3c5"
+
+[update]
+[update.modrinth]
+mod-id = "kepjj2sy"
+version = "9Z2W7cNO"

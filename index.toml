@@ -1202,11 +1202,6 @@ hash = "a9baabd7b6fe243c0943ca191221fc8091657b5b0a44deedc3cbe99c5bf088b4"
 metafile = true
 
 [[files]]
-file = "mods/better-third-person.pw.toml"
-hash = "58396d4cd2dee0f75cf56def0ab301021b6e09a83bd2564212152f0a73433568"
-metafile = true
-
-[[files]]
 file = "mods/better-tridents.pw.toml"
 hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
 metafile = true
@@ -2312,6 +2307,11 @@ hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
 metafile = true
 
 [[files]]
+file = "mods/shoulder-surfing-reloaded.pw.toml"
+hash = "0f279343e544ff2024406aa5ca15304e5d1fb90dc67cf1eac7912803e8713f31"
+metafile = true
+
+[[files]]
 file = "mods/simple-voice-chat.pw.toml"
 hash = "e3bdb65c2ce034e26c9277751a370baac6df6853d55e92327170df8778a837fb"
 metafile = true
@@ -2693,4 +2693,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "96bd5c9b07b6e8d5bd6f13fc0d21137ef5e5802d23a24568aa95fcbeeeffe15b"
+hash = "b1831b7e92a0660d913a3ab0995538d415127e2217bb04e5db45b80bd44e3a6a"
