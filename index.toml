@@ -331,6 +331,10 @@ file = "config/seamless_loading_screen.json"
 hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 
 [[files]]
+file = "config/shouldersurfing-client.toml"
+hash = "c1f831b4dd2c6ba5930a866ca1b31d038531ecfc2dbcbe70c155de0715b6824c"
+
+[[files]]
 file = "config/skeletonhorsespawn.json5"
 hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 
