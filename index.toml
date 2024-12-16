@@ -214,7 +214,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "1fedb7bbb27c4856873c8f634fd0fe54aff536897636cb9d649b20e6bc6b47bb"
+hash = "bce2140fa32d992193c02a025bc1e13fe5b5d078b00676647c3f97519d3f6b8c"
 
 [[files]]
 file = "config/map_atlases-common.toml"
