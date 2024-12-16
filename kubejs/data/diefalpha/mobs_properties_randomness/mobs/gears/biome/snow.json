@@ -1,0 +1,13 @@
+{
+  "target": "#diefalpha:gearable",
+  "presets": {
+    "chance": 0.1,
+    "list": [{ "id": "diefalpha:gears/biome/snow" }]
+  },
+  "conditions": {
+    "spawner_behaviour": "natural_only",
+    "world": {
+      "biomes": ["#forge:is_snowy"]
+    }
+  }
+}

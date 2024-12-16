@@ -1,0 +1,41 @@
+{
+  "equipment": {
+    "main_hand": {
+      "items": [
+        { "id": "tools_complement:lead_sword" },
+        { "id": "tools_complement:lead_axe" },
+        { "id": "tools_complement:lead_pickaxe" },
+        { "id": "tools_complement:lead_shovel" },
+        { "id": "minecraft:bow" }
+      ]
+    },
+    "head": {
+      "items": [
+        {
+          "id": "tools_complement:lead_helmet"
+        }
+      ]
+    },
+    "chest": {
+      "items": [
+        {
+          "id": "tools_complement:lead_chestplate"
+        }
+      ]
+    },
+    "legs": {
+      "items": [
+        {
+          "id": "tools_complement:lead_leggings"
+        }
+      ]
+    },
+    "feet": {
+      "items": [
+        {
+          "id": "tools_complement:lead_boots"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,29 @@
+{
+  "target": "#diefalpha:enchantable",
+  "equipment": {
+    "head": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    },
+    "chest": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    },
+    "legs": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    },
+    "feet": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    },
+    "main_hand": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    },
+    "off_hand": {
+      "chance": 0.4,
+      "enchantments": [{ "with_levels": { "min": 10, "max": 20 } }]
+    }
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "equipment": {
+    "main_hand": {
+      "items": [
+        { "id": "minecraft:iron_sword" },
+        { "id": "minecraft:iron_axe" },
+        { "id": "minecraft:iron_pickaxe" },
+        { "id": "minecraft:iron_shovel" },
+        { "id": "minecraft:bow" }
+      ]
+    },
+    "head": {
+      "items": [
+        {
+          "id": "minecraft:iron_helmet"
+        }
+      ]
+    },
+    "chest": {
+      "items": [
+        {
+          "id": "minecraft:iron_chestplate"
+        }
+      ]
+    },
+    "legs": {
+      "items": [
+        {
+          "id": "minecraft:iron_leggings"
+        }
+      ]
+    },
+    "feet": {
+      "items": [
+        {
+          "id": "minecraft:iron_boots"
+        }
+      ]
+    }
+  }
+}

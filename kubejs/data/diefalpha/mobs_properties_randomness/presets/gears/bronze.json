@@ -1,0 +1,41 @@
+{
+  "equipment": {
+    "main_hand": {
+      "items": [
+        { "id": "tools_complement:bronze_sword" },
+        { "id": "tools_complement:bronze_axe" },
+        { "id": "tools_complement:bronze_pickaxe" },
+        { "id": "tools_complement:bronze_shovel" },
+        { "id": "minecraft:bow" }
+      ]
+    },
+    "head": {
+      "items": [
+        {
+          "id": "tools_complement:bronze_helmet"
+        }
+      ]
+    },
+    "chest": {
+      "items": [
+        {
+          "id": "tools_complement:bronze_chestplate"
+        }
+      ]
+    },
+    "legs": {
+      "items": [
+        {
+          "id": "tools_complement:bronze_leggings"
+        }
+      ]
+    },
+    "feet": {
+      "items": [
+        {
+          "id": "tools_complement:bronze_boots"
+        }
+      ]
+    }
+  }
+}

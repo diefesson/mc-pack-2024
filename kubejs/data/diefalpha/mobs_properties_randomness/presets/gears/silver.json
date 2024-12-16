@@ -1,0 +1,41 @@
+{
+  "equipment": {
+    "main_hand": {
+      "items": [
+        { "id": "tools_complement:silver_sword" },
+        { "id": "tools_complement:silver_axe" },
+        { "id": "tools_complement:silver_pickaxe" },
+        { "id": "tools_complement:silver_shovel" },
+        { "id": "minecraft:bow" }
+      ]
+    },
+    "head": {
+      "items": [
+        {
+          "id": "tools_complement:silver_helmet"
+        }
+      ]
+    },
+    "chest": {
+      "items": [
+        {
+          "id": "tools_complement:silver_chestplate"
+        }
+      ]
+    },
+    "legs": {
+      "items": [
+        {
+          "id": "tools_complement:silver_leggings"
+        }
+      ]
+    },
+    "feet": {
+      "items": [
+        {
+          "id": "tools_complement:silver_boots"
+        }
+      ]
+    }
+  }
+}

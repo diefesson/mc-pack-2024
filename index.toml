@@ -887,48 +887,96 @@ file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/mob_speed_variation.json"
-hash = "3f0d807f6fa2e27ebf2da0dc7413600811baeca2263d2a56b17f5ac65a2efb66"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/enchants.json"
+hash = "1e847da3c046a6962afe6397ecf7dd16a45346dcfe0662d922a459944fdff91b"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/mob_weapon_enchant.json"
-hash = "bfa4a8e091ba5a71cd515f3bb8dfc0e0e9d6dda3a313362dcbd3d85da47840a1"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/gears/biome/jungle.json"
+hash = "78e519342ab1bf83cf59e92d0bf2f4a00792a3e63727e2e4256d05d398e9b3e8"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/skeleton_miniboss.json"
-hash = "126db70a6a6d9041e844305ff198cea18fbe008471a8d1e19d465180b9cad4a6"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/gears/biome/snow.json"
+hash = "e7d128276450481042154e2acda4d607d5e2a23068f19ca5a93466673ece9882"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/gears/generic.json"
+hash = "9c9cf3e7f2c869e600a62b7db9b8ce0045a7634a3aec99eb7cf071b8a978cb63"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton_bow.json"
-hash = "3dd90f4e2ddf5a20f8e7e4b3b07c61e0981be3cd83c5a6d4661e894785883e41"
+hash = "00d48d001043fcffd9fa9001b14961f95d50734c6d01fd2c9eb6a30943b8bb6a"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/zombie_miniboss.json"
-hash = "074b07c3152dabbb921a9f9ed2b64b35f836590ec1443464dec095d1bb4cc26e"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/biome/jungle.json"
+hash = "4f56899eebfa43c35b9838d96176de2e1104cbd5d12525181bf8b3b6d1572c98"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/bronze_zombie_miniboss.json"
-hash = "1226c0096bfb98189bd468e29d613ee4ea14b6766941eb94068cc9dc6195b436"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/biome/snow.json"
+hash = "ccd4cb8bad36e02871fc46f5d37c9aed18f2395d1623c9aeed3952a306b463b2"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/green_skeleton_miniboss.json"
-hash = "292cb6be4085daec55add831a2321f5bc36a35de44a984d57c3b0b985e9c1338"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/bronze.json"
+hash = "4375f90e379addaa4ad04301208d5b076a6e26f37931dd2ec9f6737ebfbdb0e3"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/invar_zombie_miniboss.json"
-hash = "bef62cfdd46f52a83e39d43f385f7004da81a6dafccb09e90d32b194f33417da"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/constantan.json"
+hash = "7c3711227e3c7be3944864dd0f15b06a8e02cd64f9f6a78e1684ab27af33b3d9"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/white_skeleton_miniboss.json"
-hash = "5bc67061a38453eda305b84776e6ed157f05e382858a717e09f267c4e858ef06"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/copper.json"
+hash = "e89efde536525a008cea587e00fa2acff1bd5b750fddce8d4ce73da0c62d39a9"
 
 [[files]]
-file = "kubejs/data/diefalpha/tags/entity_types/speed_variation_mobs.json"
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/electrum.json"
+hash = "2982bf2a557ea21a88df0d28ac2ceb43a5ac531778bd6ead698b3a350c546d36"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/gold.json"
+hash = "e0c5ff55b15b71c1654c1154a99601405a46fbd3a1deadd64db4907862dba045"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/invar.json"
+hash = "a061fa7c6bca90aaac2606e1dfab7a77c37f197e75aeb8d96789f1947f56014c"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/iron.json"
+hash = "e454ad817679b5df574b83fcce97fd5441a5f1f60caebc1b62daaeef32c0710c"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/lead.json"
+hash = "91e37e27fe0d28f0aaafc1f6af41f0c7cfe16299b185f08feb3bbe9da9b8ef1d"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/leather.json"
+hash = "d719e423df4ac1b22d9346a30eca8afa530ac58a5b08c1893a2e6282cd36e38e"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/nickel.json"
+hash = "0bbbbf18cc2909ff070ecdef8e18e4af63da0a80c86860ab504dd9e60df85917"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/silver.json"
+hash = "3055b21bb1d1d71b722462e814775f7834520283b540e309fcd218ed61076841"
+
+[[files]]
+file = "kubejs/data/diefalpha/mobs_properties_randomness/presets/gears/tin.json"
+hash = "665da718c057359f5542b5c970cba58f3472e3ac81fc547202d0ee02bd7755c9"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/enchantable.json"
+hash = "b4a6ecba44a205c60717b239670950dcd68d6703dcdeb2ee89561b7ad7a139f0"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/gearable.json"
+hash = "b4a6ecba44a205c60717b239670950dcd68d6703dcdeb2ee89561b7ad7a139f0"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/skeletons.json"
+hash = "173cb979c7fb5bfb9a908038403beff5590edabbd0307a9f37b35fb0d710fa06"
+
+[[files]]
+file = "kubejs/data/diefalpha/tags/entity_types/zombies.json"
 hash = "abd834344492715c8e7bbaf0a58d61a3d5a6cc50474d057863230048d6bf9b4d"
-
-[[files]]
-file = "kubejs/data/diefalpha/tags/entity_types/weapon_enchant_mobs.json"
-hash = "576c21f80f607ba796e6e637cf4a8fe528883ab4a31f5168ef42c2806c7a38fb"
 
 [[files]]
 file = "kubejs/jsconfig.json"

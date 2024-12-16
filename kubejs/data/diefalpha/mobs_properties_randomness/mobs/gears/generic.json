@@ -1,0 +1,23 @@
+{
+  "target": "#diefalpha:gearable",
+  "presets": {
+    "chance": 0.1,
+    "list": [
+      { "id": "diefalpha:gears/bronze" },
+      { "id": "diefalpha:gears/constantan" },
+      { "id": "diefalpha:gears/copper" },
+      { "id": "diefalpha:gears/electrum" },
+      { "id": "diefalpha:gears/gold" },
+      { "id": "diefalpha:gears/invar" },
+      { "id": "diefalpha:gears/iron" },
+      { "id": "diefalpha:gears/lead" },
+      { "id": "diefalpha:gears/leather" },
+      { "id": "diefalpha:gears/nickel" },
+      { "id": "diefalpha:gears/silver" },
+      { "id": "diefalpha:gears/tin" }
+    ]
+  },
+  "conditions": {
+    "spawner_behaviour": "natural_only"
+  }
+}
