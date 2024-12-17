@@ -202,11 +202,11 @@ hash = "0c9304a8cc23e19e62e76a89a15521fe886bf862b0d00a569578b7059392b0a8"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "e79012a28cd92aae09216d6c518e8dcbd2f9ed61a6b8ea0b959c3c90e0f30d5c"
+hash = "7f6e446476179df6bd6809efe7d5929e3f5da60f4000eb973d7b2714f769f4da"
 
 [[files]]
 file = "config/jade/sort-order.json"
-hash = "43e650344bca911bfa42e9fcdd4a59156d28dd0c3231d2c0262bffe8b1834b02"
+hash = "54922c84b352b22a19c9d2c1f2f236851778bc9903aa21a858c84e221bff8987"
 
 [[files]]
 file = "config/lmft.json"
@@ -397,6 +397,14 @@ hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 [[files]]
 file = "config/travelerstitles-forge-1_20.toml"
 hash = "093f2329e672ccd7373a8825a3ae8aa8ff381d2182cabb378b00115ad399f9d3"
+
+[[files]]
+file = "config/treechop-client.toml"
+hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
+
+[[files]]
+file = "config/treechop-common.toml"
+hash = "9a0a9c055e73f6c0db8207964c78c76d4b1fd1403795cc6ad58f9a4099397379"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
@@ -2616,6 +2624,11 @@ metafile = true
 [[files]]
 file = "mods/travelers-titles.pw.toml"
 hash = "16e2c84951ba32efac8703ccb7b36631b70cb514d402fa8fb4f89031f2a63a58"
+metafile = true
+
+[[files]]
+file = "mods/treechop.pw.toml"
+hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
 metafile = true
 
 [[files]]
