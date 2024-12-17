@@ -1,9 +1,0 @@
-{
-  "schemaVersion": 2,
-  "items": [
-    "$minecraft:armor_legs"
-  ],
-  "incompatible": [
-    "majruszsenchantments:incompatibility_curse"
-  ]
-}
