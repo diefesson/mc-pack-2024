@@ -16,11 +16,11 @@
 #World generation options.
 [World]
 	#Should Nether Prosperity Ore generate in the world?
-	generateNetherProsperityOre = true
+	generateNetherProsperityOre = false
 	#Should Nether Inferium Ore generate in the world?
-	generateNetherInferiumOre = true
+	generateNetherInferiumOre = false
 	#Should End Prosperity Ore generate in the world?
-	generateEndProsperityOre = true
+	generateEndProsperityOre = false
 	#Should End Inferium Ore generate in the world?
-	generateEndInferiumOre = true
+	generateEndInferiumOre = false
 

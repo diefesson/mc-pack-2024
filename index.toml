@@ -238,7 +238,7 @@ hash = "b117fb93cd66a4858004c418383bf6b57197878b22c014d3aa0f64e05f0a92db"
 
 [[files]]
 file = "config/mysticalagradditions-common.toml"
-hash = "ffd6696dbcf307f581b7e9c4f25247a80d2db22ba46f08f740c3aa010348b587"
+hash = "8b447e2966e00e5ecbc30733edf36af6754ad49b372c73997f3a56f782555db1"
 
 [[files]]
 file = "config/mysticalagriculture-client.toml"
@@ -569,6 +569,18 @@ hash = "173cb979c7fb5bfb9a908038403beff5590edabbd0307a9f37b35fb0d710fa06"
 [[files]]
 file = "kubejs/data/diefalpha/tags/entity_types/zombies.json"
 hash = "abd834344492715c8e7bbaf0a58d61a3d5a6cc50474d057863230048d6bf9b4d"
+
+[[files]]
+file = "kubejs/data/mysticalagriculture/loot_tables/blocks/deepslate_prosperity_ore.json"
+hash = "a9a6c8d681ad934904f5a7b24e01055169abda1c032f28014973bfc23a64f715"
+
+[[files]]
+file = "kubejs/data/mysticalagriculture/loot_tables/blocks/prosperity_ore.json"
+hash = "3cde1a82ffaf228c0ae5acf1fbcf889e268b81cf46225640dc7440c9447d3e30"
+
+[[files]]
+file = "kubejs/data/mysticalagriculture/worldgen/placed_feature/prosperity_ore.json"
+hash = "f3cc8178efdebc7183d54c4a547305312794689d476dee2fe757dab2b6803a5a"
 
 [[files]]
 file = "kubejs/jsconfig.json"
