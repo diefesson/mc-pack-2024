@@ -1250,6 +1250,11 @@ hash = "7ed0d626f961594121082d204ca2c1915731bf9b4d3f050dccd18b7a66e07930"
 metafile = true
 
 [[files]]
+file = "mods/every-compat.pw.toml"
+hash = "cab3888ab979c0611d39cfc24f2f69b29f26cfbb5f660ce7bca4f80d269acc3c"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
@@ -1677,6 +1682,11 @@ metafile = true
 [[files]]
 file = "mods/moogs-voyager-structures.pw.toml"
 hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
+metafile = true
+
+[[files]]
+file = "mods/moonlight.pw.toml"
+hash = "faf6837bec854ebcd21d97d81d9f19e3b8c2c7cd80eac6b4614705252fb3930f"
 metafile = true
 
 [[files]]
@@ -2242,6 +2252,11 @@ metafile = true
 [[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "388e7cabca90d61def6526c021ff1c222996378dad4a24a24518fccd2a8bdbcd"
+metafile = true
+
+[[files]]
+file = "mods/universal-sawmill.pw.toml"
+hash = "e519df962ebc41830fa7dac0e2f8a34c5640049671f92201e8756acb8af64b58"
 metafile = true
 
 [[files]]
