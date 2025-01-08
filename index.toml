@@ -1680,16 +1680,6 @@ hash = "faf6837bec854ebcd21d97d81d9f19e3b8c2c7cd80eac6b4614705252fb3930f"
 metafile = true
 
 [[files]]
-file = "mods/mooshroom-spawn.pw.toml"
-hash = "68d1f76aa754045cd6ba219daf4cba4ca034509ec2a3df7fe12922b1fd1f3623"
-metafile = true
-
-[[files]]
-file = "mods/mooshroom-tweaks.pw.toml"
-hash = "c32d94df0cd64ed2463608a4dc4b119165419f6120fc30693b4332c189b40d00"
-metafile = true
-
-[[files]]
 file = "mods/more-zombie-villagers.pw.toml"
 hash = "0d4ca51758d8a012861e1001efe4ae64d7714507bc072c5b0c821f508a6e2c4b"
 metafile = true
