@@ -1485,16 +1485,6 @@ hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
 
 [[files]]
-file = "mods/industrial-foregoing-souls.pw.toml"
-hash = "81c4020c4f7a58fd3c3042c1c6dc47250e947059cf4feadc2ca1de1dd0a6c594"
-metafile = true
-
-[[files]]
-file = "mods/industrial-foregoing.pw.toml"
-hash = "fb01bfe36262e48cb1e11eedcd5421f67c58dce3f5bc9d69ef32a1aa2156449e"
-metafile = true
-
-[[files]]
 file = "mods/infinite-trading.pw.toml"
 hash = "1d946f8d1242c153b7015a139360eaa7e0601a562a77bd1b50ecb70acbf1a456"
 metafile = true
