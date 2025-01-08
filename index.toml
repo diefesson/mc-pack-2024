@@ -603,14 +603,6 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "64f0481c62f56141d1fa60696806859c5c0d0a237de6793dc7776c225aa63445"
 
 [[files]]
-file = "kubejs/server_scripts/src/industrialforegoing/industrialforegoing_utils.js"
-hash = "b8739fc2204409b1edd175b7667b3c2a360369e4030290c41e3b0477d8fdc65d"
-
-[[files]]
-file = "kubejs/server_scripts/src/industrialforegoing/recipes.js"
-hash = "f427d8cec1f67cc00fb2207ab9b2628c63efcb33cdebe72aae84810baf8e7d59"
-
-[[files]]
 file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
 hash = "92ae46733e543408b9a89e0a9af31dd8882843f73a271eaaaaf27ec4ab3768cb"
 
