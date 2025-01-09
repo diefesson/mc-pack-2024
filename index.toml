@@ -902,11 +902,6 @@ hash = "7725b2104e4d7d0c6d7cda540bc690a168157a99f3e3cb9b547f43839d77683a"
 metafile = true
 
 [[files]]
-file = "mods/botany-trees.pw.toml"
-hash = "f509dbf723ba7f4a12eb8f1d4d446bfcaa6cc412227c3ccba94e39b120cfe3d1"
-metafile = true
-
-[[files]]
 file = "mods/breedable-killer-rabbit.pw.toml"
 hash = "ddee3e3991d6c832f7886ce49f35afe051a3061c946f4100500065feb44e2ab6"
 metafile = true
