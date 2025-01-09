@@ -1107,6 +1107,11 @@ hash = "6e9c23ecadf0465c97f14a001689a82948ca0ff185c5e47e40472fc7b91ba937"
 metafile = true
 
 [[files]]
+file = "mods/distraction-free-recipes.pw.toml"
+hash = "f104a3b8fd0f04ff6f8a63b748e9cb116ac58d427f17933577aed271e98d32d9"
+metafile = true
+
+[[files]]
 file = "mods/double-doors.pw.toml"
 hash = "1ee629d0bdb7351a28503d5592e7540836765bdb6b332cc798e8b9bd23bb6ed8"
 metafile = true
@@ -2224,6 +2229,11 @@ metafile = true
 [[files]]
 file = "mods/treechop.pw.toml"
 hash = "f156304cd261a234aee02630dc33e8ad6b3a10898d5b0a7069d1a88f9b607813"
+metafile = true
+
+[[files]]
+file = "mods/txnilib.pw.toml"
+hash = "4e78a81521a0f467967a133c9ad37e858f848869b8a40afa6af23a1613d7f19b"
 metafile = true
 
 [[files]]

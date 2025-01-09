@@ -1,0 +1,13 @@
+name = "TxniLib"
+filename = "txnilib-forge-1.0.21-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vBbPDuOs/versions/DL4CfvOF/txnilib-forge-1.0.21-1.20.1.jar"
+hash-format = "sha512"
+hash = "a640b2eee464108023ad7a15b6ea685dd95b8472b068117f9a8a9373b3afe31eddd8ae485a41de30a18509e0de8ac7e4130380bde6a2acee5f4b4b3c56692b13"
+
+[update]
+[update.modrinth]
+mod-id = "vBbPDuOs"
+version = "DL4CfvOF"
