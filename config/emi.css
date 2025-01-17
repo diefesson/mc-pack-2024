@@ -77,13 +77,13 @@
 	 * Whether to use the batched render system. Batching is faster, but may have
 	 * incompatibilities with shaders or other mods.
 	 */
-	use-batched-renderer: true;
+	use-batched-renderer: false;
 
 	/**
 	 * Whether to have the search bar in the center of the screen, instead of to the
 	 * side.
 	 */
-	center-search-bar: true;
+	center-search-bar: false;
 
 	/**
 	 * Which sidebar type to switch to when searching.
@@ -94,6 +94,16 @@
 	 * Which sidebar type to focus when the search is empty.
 	 */
 	empty-search-sidebar-focus: none;
+
+	/**
+	 * Whether the EMI config button should be visible.
+	 */
+	emi-config-button-visibility: shown;
+
+	/**
+	 * Whether the recipe tree button should be visible.
+	 */
+	recipe-tree-button-visibility: auto;
 
 	/**
 	 * The maximum height the recipe screen will grow to be if space is available in
@@ -116,7 +126,7 @@
 	/**
 	 * Where to show workstations in the recipe screen
 	 */
-	workstation-location: bottom;
+	workstation-location: left;
 
 	/**
 	 * Display cost per batch when hovering a recipe output
@@ -177,7 +187,7 @@
 	/**
 	 * Whether to render the header buttons and page count for the left sidebar
 	 */
-	left-sidebar-header: visible;
+	left-sidebar-header: invisible;
 
 	/**
 	 * Which theme to use for the left sidebar

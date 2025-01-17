@@ -97,6 +97,10 @@ file = "config/darkmodeeverywhereshaders.json"
 hash = "2b00452f5043e33ccc023d017324e80ef333f861da68a6e989576c46a970f487"
 
 [[files]]
+file = "config/distraction_free_recipes-client.toml"
+hash = "cac1af8c3743486fab4cd555862942e471cb3f1781c6e0681d74aa4be7259ed1"
+
+[[files]]
 file = "config/double-hotbar-configs.toml"
 hash = "bef7fd3b507081800c7858a8ff783227ad357c3c53a431beae4a15678b0cbf13"
 
@@ -110,7 +114,7 @@ hash = "97015f21eabe3334d4c8b6f648cffe1ce551af4a8b0b6ca5090f4272d12685c2"
 
 [[files]]
 file = "config/emi.css"
-hash = "42a299d4ab717e46689c1e290344709b5bb2c7ea43ac1ac858ee053bdbe40acb"
+hash = "c76103ddeb263aab5a1aa1776cecc869296a0fe96250575fd5dad7a382c561d5"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
