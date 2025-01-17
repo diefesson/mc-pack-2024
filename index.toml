@@ -42,7 +42,7 @@ hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "2215b02e4db72bf9922faf8df6a2e1504557175433ee581fed0110f761b68e91"
+hash = "d7fb9d478164d9b874e2e121220e92fd99956403f71ba411b8ac3ee8c83ff9b2"
 
 [[files]]
 file = "config/betteroceanmonuments-forge-1_20.toml"
@@ -2256,6 +2256,11 @@ hash = "88a0946269b2d233d5888e566e2040d27d5f258f7fc905b5a5776c615b38ab32"
 metafile = true
 
 [[files]]
+file = "mods/verdant-mod.pw.toml"
+hash = "402eb5f9ca23c4ffbd3b4144f71b8fd14ceacaa44f89e0b1b7653ee66b182a46"
+metafile = true
+
+[[files]]
 file = "mods/village-bell-recipe.pw.toml"
 hash = "ef349d9ec37be5d9ac9846de4696b3f920fe9e2bdd02b826eb6e3aefd7f1c0ed"
 metafile = true
@@ -2318,6 +2323,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
+metafile = true
+
+[[files]]
+file = "mods/would.pw.toml"
+hash = "dc9239b9d02fcd1a9b77fe7112a61f1ce1d354e6d4662135f3560d1e1c780a15"
 metafile = true
 
 [[files]]

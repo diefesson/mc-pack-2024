@@ -1,0 +1,13 @@
+name = "Would"
+filename = "would-1.20.1-0.1.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/D2IDbjeu/versions/pdOWFdKe/would-1.20.1-0.1.1-forge.jar"
+hash-format = "sha512"
+hash = "a7a16b017a8cc276db1a344502dfc1d58f920d7ea32e4f376839e19b19704287740e1c9092d30a5785985b8eaceb356a37fd3367f8d6f55232903cd9dc659c9e"
+
+[update]
+[update.modrinth]
+mod-id = "D2IDbjeu"
+version = "pdOWFdKe"

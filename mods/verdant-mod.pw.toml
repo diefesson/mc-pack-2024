@@ -1,0 +1,13 @@
+name = "Verdant"
+filename = "verdant-1.20.1-0.1.1-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/MGgL5dVc/versions/W8IIYDPN/verdant-1.20.1-0.1.1-forge.jar"
+hash-format = "sha512"
+hash = "bfd6d901587c51182c0bff933cfdb2edcc850654516e5bddfd3cc3736885ea50181a27b7f118d1579d6440417017fe684b6b8cec28e2c07762e92b703075236e"
+
+[update]
+[update.modrinth]
+mod-id = "MGgL5dVc"
+version = "W8IIYDPN"
