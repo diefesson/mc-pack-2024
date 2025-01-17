@@ -1,0 +1,13 @@
+name = "Caxton"
+filename = "caxton-0.6.0-alpha.5+1.20.1-FORGE.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/k8iIgzXE/versions/im3uE2WM/caxton-0.6.0-alpha.5%2B1.20.1-FORGE.jar"
+hash-format = "sha512"
+hash = "3819d25a1a7b549f9e77c4b6508279f93888840e3c06751720682e87688fa250b76e70e748385af381ea0a0b7dc2234ed31212c7592bdd043d4e138f4983a94c"
+
+[update]
+[update.modrinth]
+mod-id = "k8iIgzXE"
+version = "im3uE2WM"

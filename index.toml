@@ -289,13 +289,13 @@ hash = "a6067de910898e6b132045cea193f30bba6224a0400f5a4c099f82e3b39c9a69"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
-hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
+file = "config/paxi/resourcepacks/geometric-font-2.pw.toml"
+hash = "bd5aff8c69ec12b3292ec4430bf2724cc8c27b34dc96d65129aa7fb0ad1c13fb"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepacks/serified-font.pw.toml"
-hash = "0c0d2c88c860220fd9d551b3ce7f1e3ca54ab07bbf47fa6ace89657eb3a1716e"
+file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
+hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
@@ -926,6 +926,11 @@ hash = "1b2e273ad3782f85a9249313621fe503cbb6236ef34c284081982d8f9fd87076"
 metafile = true
 
 [[files]]
+file = "mods/caxton.pw.toml"
+hash = "9a951aad56e5ae89941d94e3b079905940b77a8e807d723419406a15d34ae395"
+metafile = true
+
+[[files]]
 file = "mods/charged-charms.pw.toml"
 hash = "86cda6d0a6e2f7a32d6b888f04791674b9b3a53cd181f9a5e1e9b2e9865adc3c"
 metafile = true
@@ -1203,11 +1208,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
-file = "mods/emojiful.pw.toml"
-hash = "df875bdbabfd623724c54a4eccc023dbaec5027e19b9c68e34a70538f510e16e"
 metafile = true
 
 [[files]]
