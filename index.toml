@@ -42,7 +42,7 @@ hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
 [[files]]
 file = "config/bettergrass.json5"
-hash = "d7fb9d478164d9b874e2e121220e92fd99956403f71ba411b8ac3ee8c83ff9b2"
+hash = "da1a2e4771c1367ba985432ec7c9ac8d5e824497c7882dca0d44de2ef25e34be"
 
 [[files]]
 file = "config/betteroceanmonuments-forge-1_20.toml"
@@ -1237,7 +1237,7 @@ metafile = true
 
 [[files]]
 file = "mods/enhanced-celestials.pw.toml"
-hash = "a7a719603d51f35baee5d74d61f8c250c0765376784c390d9d6721e4b98723e0"
+hash = "d205605493bf83a641f3d865c650f0ee8962295ecc3fb674d3f294f8a05505e5"
 metafile = true
 
 [[files]]
@@ -1876,6 +1876,11 @@ hash = "4145ea27a5d578ff8e3786bd3cf6533688eda6b9df129cf80308e81bea63163b"
 metafile = true
 
 [[files]]
+file = "mods/pretty-rain.pw.toml"
+hash = "04914dcc89100ccf1bd4f5f4f6de7559732ff5c2fbecd0fc47d0549a6b61f8aa"
+metafile = true
+
+[[files]]
 file = "mods/probejs.pw.toml"
 hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
 metafile = true
@@ -2038,6 +2043,11 @@ metafile = true
 [[files]]
 file = "mods/starter-kit.pw.toml"
 hash = "caa2884f648520af6510587788326c4e19771fdf975e84b0f575372319325716"
+metafile = true
+
+[[files]]
+file = "mods/stellarview.pw.toml"
+hash = "c591b8e9dc7a4925f6b61f30f871dc2c0294467b09de78069e0ac70ee611d75a"
 metafile = true
 
 [[files]]

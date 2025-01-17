@@ -1,0 +1,13 @@
+name = "Pretty Rain"
+filename = "particlerain-1.20.1-Forge-1.0.7.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/IhZuHxkl/versions/7oEZrNKb/particlerain-1.20.1-Forge-1.0.7.jar"
+hash-format = "sha512"
+hash = "73de7cdf4a002ef22ed83d7f8dfac03f51fe66b2142c33a79dc28f7f3266bed43349bf51490def97c2581677c44c81371baf82cca556522ed2c0a0a56c295c6f"
+
+[update]
+[update.modrinth]
+mod-id = "IhZuHxkl"
+version = "7oEZrNKb"
