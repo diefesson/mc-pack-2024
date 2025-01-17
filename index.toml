@@ -1846,11 +1846,6 @@ hash = "c898e50990d2b3a428d0cea0570eefe2ae7499ca5b6a5be8b28e089183e6d5bf"
 metafile = true
 
 [[files]]
-file = "mods/pipez.pw.toml"
-hash = "4eadf64420cd4db093db67201bfbf36165515f3466a4b849794516c72914ce51"
-metafile = true
-
-[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "2747684f5f951be800969f122b5aca9936e8bf2bdf8e2fb45602fb2c720d11fa"
 metafile = true
@@ -1873,6 +1868,11 @@ metafile = true
 [[files]]
 file = "mods/powah.pw.toml"
 hash = "b02089168839516f5916113c75e83d2603bd0e150442ea87c98b78082f89e5eb"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "4145ea27a5d578ff8e3786bd3cf6533688eda6b9df129cf80308e81bea63163b"
 metafile = true
 
 [[files]]
