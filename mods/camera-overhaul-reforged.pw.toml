@@ -1,0 +1,13 @@
+name = "Camera Overhaul Reforged"
+filename = "cameraoverhaul-1.1-1.20.4.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LwcpSm6L/versions/jdWdZZDc/cameraoverhaul-1.1-1.20.4.jar"
+hash-format = "sha512"
+hash = "f3b651aa9e7d82b6bb2b9e55c4aa127ac885b5c6d4b763930fe700c0eeea58de5856c4ef9cbc19442ecad99a609085d47639a9b2e6b5e30b03a6ba4086c6a08f"
+
+[update]
+[update.modrinth]
+mod-id = "LwcpSm6L"
+version = "jdWdZZDc"

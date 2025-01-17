@@ -97,6 +97,10 @@ file = "config/darkmodeeverywhereshaders.json"
 hash = "2b00452f5043e33ccc023d017324e80ef333f861da68a6e989576c46a970f487"
 
 [[files]]
+file = "config/ding.toml"
+hash = "e24af93a4c41c69c9b2a3811774cfa881753ea6ae6a708f6ff2f040fda748992"
+
+[[files]]
 file = "config/distraction_free_recipes-client.toml"
 hash = "cac1af8c3743486fab4cd555862942e471cb3f1781c6e0681d74aa4be7259ed1"
 
@@ -918,6 +922,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
+metafile = true
+
+[[files]]
+file = "mods/camera-overhaul-reforged.pw.toml"
+hash = "8381957fa2d1a7802ff081197bac6c90bd1c5794e51fd906b66f65e8aef2498b"
 metafile = true
 
 [[files]]
