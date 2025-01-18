@@ -2140,11 +2140,6 @@ hash = "d9ca5fba7d60bf003484db60c553e1382098528c9dff9f2bd4cd3bc69ec9ba38"
 metafile = true
 
 [[files]]
-file = "mods/systeams.pw.toml"
-hash = "21b7ffbb84fc3cb2d73d7a77b7dced377cbd7603eb334e1f7b313b4e6ebbfd70"
-metafile = true
-
-[[files]]
 file = "mods/terrablender.pw.toml"
 hash = "dd53b366bee44660eb2523d18c3639281e56a3a756b3f4e8ec4d402f41d5b19d"
 metafile = true
