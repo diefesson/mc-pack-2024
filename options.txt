@@ -44,6 +44,9 @@ highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:true
+key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
+key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
+key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.p
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
@@ -111,7 +114,6 @@ key_key.hotbarswapper.swapRowPrev:key.keyboard.unknown
 key_key.hotbarswapper.swapSlot:key.keyboard.unknown
 key_key.hotbarswapper.swapSlotNext:key.keyboard.unknown
 key_key.hotbarswapper.swapSlotPrev:key.keyboard.unknown
-key_key.industrialforegoing.backpack.desc:key.keyboard.unknown
 key_key.inventory:key.keyboard.e
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
@@ -185,6 +187,7 @@ key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.tab:CONTROL
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
+key_key.stellarview.open_config_screen:key.keyboard.unknown
 key_key.swapOffhand:key.keyboard.f
 key_key.switchy.open:key.keyboard.y
 key_key.toggleCarriedItemTooltips:key.keyboard.unknown
@@ -275,6 +278,10 @@ key_pneumaticcraft.chestplate.launcher:key.keyboard.unknown
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
 key_supplementaries.keybind.quiver:key.keyboard.unknown
+key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
+key_treechop.key.open_settings_overlay:key.keyboard.n
+key_treechop.key.toggle_chopping:key.keyboard.unknown
+key_treechop.key.toggle_felling:key.keyboard.unknown
 lang:en_us
 lastServer:
 mainHand:"right"
