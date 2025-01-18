@@ -1580,11 +1580,6 @@ hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "ec24f6ad16db4a5e81a62eb79177c1cc6b074d10a0a84bf39c502b79648ee32a"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "fb2a0617f36e83438646fbf177574ba25578a29d2d02dd1c35a11f1197642969"
 metafile = true
