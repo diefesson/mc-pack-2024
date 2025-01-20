@@ -161,10 +161,6 @@ file = "config/guifollowers.json5"
 hash = "09fabcb740a37e5f501d60a422a124cb5fe4a6da06432c018490f627afae6385"
 
 [[files]]
-file = "config/healingcampfire.json5"
-hash = "c5cc3c071a9722b7909e147798906410cf16630aa4c110a467370506221b982b"
-
-[[files]]
 file = "config/hiddenrecipebook.json5"
 hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
 
@@ -391,6 +387,14 @@ file = "config/stylisheffects-client.toml"
 hash = "4bea321c24677737b54320b188e7e011f9fb09c3a7f0259f0b84be2189aae23a"
 
 [[files]]
+file = "config/supplementaries-client.toml"
+hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
+
+[[files]]
+file = "config/supplementaries-common.toml"
+hash = "5c7b0753dba62546a5c191b84f68e4bcb8310d5b9833057db6c978647c93789d"
+
+[[files]]
 file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
@@ -449,10 +453,6 @@ hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
-
-[[files]]
-file = "defaultconfigs/systeams-server.toml"
-hash = "a01b8800cded53ca9e551a830baef7dd933b367b1e7fb30b474465fd39874de0"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
@@ -1422,11 +1422,6 @@ metafile = true
 [[files]]
 file = "mods/gui-followers.pw.toml"
 hash = "aeef8e970096a6f44b5321aebd9f04dd58d470d198880d5dfec54a07f88c9fb6"
-metafile = true
-
-[[files]]
-file = "mods/healing-campfire.pw.toml"
-hash = "53d3c4d3b08e8a43d7b7514193a3fc3eee543e0bbb88e6fbc4959fe467a2fa12"
 metafile = true
 
 [[files]]
