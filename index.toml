@@ -70,7 +70,7 @@ hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "919d980b56758ed2275c954d4787bfa2df3eea46ed49b1b403d7543c73438ef9"
+hash = "298e8f7668f4d3ceb737afe3940639cfad125c93d2a1dff51bdc7522045edfc4"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
@@ -345,6 +345,14 @@ hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 [[files]]
 file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
+
+[[files]]
+file = "config/sol_valheim/client.json5"
+hash = "c43eb0470adb0ebe6dbc2e2ea8231a9ee06822ca1741d6a25fa9a6aa983b408e"
+
+[[files]]
+file = "config/sol_valheim/common.json5"
+hash = "b1bba4474b4f14dc3f5f4585afeca510d8400c35588d63f10a539676fceed236"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -2027,6 +2035,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
+metafile = true
+
+[[files]]
+file = "mods/spice-of-life-valheim-edition.pw.toml"
+hash = "9f3cbbcefac8103e51c156076d80644e30c12011d9621ae1042b62be7a387f26"
 metafile = true
 
 [[files]]
