@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/HorseBuff.toml"
+hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -175,6 +179,10 @@ hash = "09fabcb740a37e5f501d60a422a124cb5fe4a6da06432c018490f627afae6385"
 [[files]]
 file = "config/hiddenrecipebook.json5"
 hash = "1accf87f44c0d5f612b8d2208a59eba1b2c4a2a6935b03ef3471cf9e6ade2ed7"
+
+[[files]]
+file = "config/horseexpert-client.toml"
+hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
 file = "config/hotbarswapper.toml"
@@ -1477,6 +1485,16 @@ hash = "43c6e0dfce9e2a1584537a1a9c8a5716b34cfecbe8fb92c8fdc12ccfb9b24bb2"
 metafile = true
 
 [[files]]
+file = "mods/horse-expert.pw.toml"
+hash = "e8901fd36b57cc736dae93d6b0c991c847372bf47813b896a3675c990d7eb761"
+metafile = true
+
+[[files]]
+file = "mods/horsebuff.pw.toml"
+hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
+metafile = true
+
+[[files]]
 file = "mods/hotbar-swapper.pw.toml"
 hash = "6caa7aab50c3b37fdefe6d2cc8c6b6157c9882bd67cd0711e4f583ecf50d0d9f"
 metafile = true
@@ -2064,6 +2082,11 @@ metafile = true
 [[files]]
 file = "mods/stellarview.pw.toml"
 hash = "c591b8e9dc7a4925f6b61f30f871dc2c0294467b09de78069e0ac70ee611d75a"
+metafile = true
+
+[[files]]
+file = "mods/stoneworks.pw.toml"
+hash = "d98b14844c68f17c93bab6cf20ddd99bad9cb19e424c0c6ba36afd558a117e18"
 metafile = true
 
 [[files]]
