@@ -53,6 +53,14 @@ file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
 [[files]]
+file = "config/chalk-client.toml"
+hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
+
+[[files]]
+file = "config/chalk-common.toml"
+hash = "a9375d04e87421fade85fce88483fd5c21690113f948995990e2a67be9534d99"
+
+[[files]]
 file = "config/chargedcharms-client.toml"
 hash = "e44d54a638526b7b8451e0cd2bf79f1a979f325817ee4774cccd6b48b36a8248"
 
@@ -131,6 +139,14 @@ hash = "59e128ed3dd7b64224ce9116a26e0f8ec15f774e5591d2261498b5f8a9e91098"
 [[files]]
 file = "config/explorerscompass-common.toml"
 hash = "1646a67e28d5353d25354d7242ab099d147897e8e0a6f7f99a4bf4c7ae224462"
+
+[[files]]
+file = "config/exposure-client.toml"
+hash = "ae20e5fe9cdbf85c33921a92e7e386fda1d683a9edc7b266e3baa4983cbfe1df"
+
+[[files]]
+file = "config/exposure-common.toml"
+hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
 file = "config/fabrictailor.json"
@@ -948,6 +964,11 @@ hash = "9a951aad56e5ae89941d94e3b079905940b77a8e807d723419406a15d34ae395"
 metafile = true
 
 [[files]]
+file = "mods/chalk-mod.pw.toml"
+hash = "8bcc00f3a6326cd48aa772428b5df25a5f8851626870900c7cd43498b797b5d5"
+metafile = true
+
+[[files]]
 file = "mods/charged-charms.pw.toml"
 hash = "86cda6d0a6e2f7a32d6b888f04791674b9b3a53cd181f9a5e1e9b2e9865adc3c"
 metafile = true
@@ -1285,6 +1306,11 @@ metafile = true
 [[files]]
 file = "mods/explosive-enhancement-forge.pw.toml"
 hash = "2411a9840d54aea6f0dfbf4a76f5d3879c5c8df55bd895f55617552f3c0204c3"
+metafile = true
+
+[[files]]
+file = "mods/exposure.pw.toml"
+hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
 metafile = true
 
 [[files]]

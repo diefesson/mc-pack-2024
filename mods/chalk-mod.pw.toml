@@ -1,0 +1,13 @@
+name = "Chalk"
+filename = "chalk-1.20.1-1.6.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YWGP4Y1d/versions/HA8yrJaB/chalk-1.20.1-1.6.5.jar"
+hash-format = "sha512"
+hash = "49220d73636378eae9f55d3dbeedaddcc2afa8949dc656d1ea2c64625aeda210bee3d28e7f704d0ec652020173025235a1d6fd0ef94797409c08defac622fe57"
+
+[update]
+[update.modrinth]
+mod-id = "YWGP4Y1d"
+version = "HA8yrJaB"
