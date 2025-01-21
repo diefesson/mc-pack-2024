@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "293e87cb73468683376c5be4f6e6fdbc9a0d6fc292970eb4b69b084ec45a288b"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -361,14 +357,6 @@ hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 [[files]]
 file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
-
-[[files]]
-file = "config/sol_valheim/client.json5"
-hash = "c43eb0470adb0ebe6dbc2e2ea8231a9ee06822ca1741d6a25fa9a6aa983b408e"
-
-[[files]]
-file = "config/sol_valheim/common.json5"
-hash = "b1bba4474b4f14dc3f5f4585afeca510d8400c35588d63f10a539676fceed236"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -1136,11 +1124,6 @@ metafile = true
 [[files]]
 file = "mods/dismount-entity.pw.toml"
 hash = "ac0dd0f58d624e654619433093cbff12d8d7b9839184a816accf8061fc3757cc"
-metafile = true
-
-[[files]]
-file = "mods/distanthorizons.pw.toml"
-hash = "5f6c35eca0fde396c1ece31de3c4f360bfbac90a3654f4cd1bf88d275c136908"
 metafile = true
 
 [[files]]
@@ -2061,11 +2044,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-life-valheim-edition.pw.toml"
-hash = "9f3cbbcefac8103e51c156076d80644e30c12011d9621ae1042b62be7a387f26"
 metafile = true
 
 [[files]]
