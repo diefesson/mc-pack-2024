@@ -623,6 +623,14 @@ file = "kubejs/server_scripts/src/chargedcharms/recipes.js"
 hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
 [[files]]
+file = "kubejs/server_scripts/src/compass/explorers_compass.js"
+hash = "e3574a4223b98ab94077fbfc74aa45bbc8e37578456ff581ed02347f0e5df96c"
+
+[[files]]
+file = "kubejs/server_scripts/src/compass/natures_compass.js"
+hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
+
+[[files]]
 file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
 hash = "2ee09bcaf7ab6361eb64a9853cfd4221e7741e844141cb8e9ad57e2e620bc44e"
 
