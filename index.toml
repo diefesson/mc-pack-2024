@@ -78,7 +78,7 @@ hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "298e8f7668f4d3ceb737afe3940639cfad125c93d2a1dff51bdc7522045edfc4"
+hash = "919d980b56758ed2275c954d4787bfa2df3eea46ed49b1b403d7543c73438ef9"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
