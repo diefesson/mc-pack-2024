@@ -644,19 +644,19 @@ hash = "92ae46733e543408b9a89e0a9af31dd8882843f73a271eaaaaf27ec4ab3768cb"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_elemental_powders.js"
-hash = "261d5ffda1180ff10dc7413ef7f04582219f61da86e646f3e4b00313b4bad7cc"
+hash = "57caa2080d1c7f848d7713c79eec9cfecdc2c14c479b7622837db55b56fcb293"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_elemental_rods.js"
-hash = "bac05ed612e908fa9f78a7f9897d7503d2e9ae57d750538b44f9f258943ea65b"
+hash = "deacf82af0299529e00b12f6882a9cc2559e8551adc6163f21481988b1a3b665"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_grenades.js"
-hash = "1c7b60965b6930c980e436725fb5b8fee624e0bf5e64a889e07a93f000dd7feb"
+hash = "15d7884939d51d013c1b4d061e0e846e7d85ba6bce258ad2779e14d30f8573da"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_ingots.js"
-hash = "d07dd6b053d38e2367bc783a33e010bfe02962c339497366dfa335594d10c187"
+hash = "bbef8ad67d2fd5187ce7bd1471cd1f7acdf82a397251cf62e666f4576d864596"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/loot_utils.js"

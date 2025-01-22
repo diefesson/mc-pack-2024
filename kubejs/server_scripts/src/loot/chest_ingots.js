@@ -7,8 +7,8 @@ LootJS.modifiers(loot => {
         Item.of('minecraft:netherite_scrap')
     )
 
-    const pureWeight = 10
-    const alloyWeight = 8
+    const pureWeight = 3
+    const alloyWeight = 1
 
     const netheriteWeight = 1
     const diamondWeight = 2
@@ -17,16 +17,16 @@ LootJS.modifiers(loot => {
     const copperWeight = 8
 
     const overworldRolls = [0, 4]
-    const overworldChance = 0.25
-    const overworldCount = [1, 4]
+    const overworldChance = 0.20
+    const overworldCount = [1, 2]
 
-    const netherRolls = [1, 4]
-    const netherChance = 0.5
-    const netherCount = [2, 5]
+    const netherRolls = [0, 4]
+    const netherChance = 0.30
+    const netherCount = [2, 3]
 
-    const endRolls = [1, 4]
-    const endChance = 0.75
-    const endCount = [3, 6]
+    const endRolls = [0, 4]
+    const endChance = 0.40
+    const endCount = [3, 4]
 
     const overworldLoot = [
         LootEntry.of('thermal:tin_ingot').withWeight(copperWeight * pureWeight),

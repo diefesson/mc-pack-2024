@@ -5,6 +5,7 @@ LootJS.modifiers(l => {
             [Item.of('minecraft:blaze_rod'), 100],
             [Item.of('thermal:blitz_rod'), 80],
             [Item.of('thermal:blizz_rod'), 80],
+            [Item.of('thermal:basalz_rod'), 80],
         ]))
 
     l.addLootTypeModifier(LootType.CHEST)

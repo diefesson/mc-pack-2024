@@ -1,7 +1,7 @@
 LootJS.modifiers(l => {
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('overworld')
-        .randomChance(0.3)
+        .randomChance(0.15)
         .addWeightedLoot([
             LootEntry.of('thermal:explosive_grenade').withChance(100),
             LootEntry.of('thermal:explosive_grenade', 2).withChance(40),
@@ -11,7 +11,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('the_nether')
-        .randomChance(0.5)
+        .randomChance(0.30)
         .addWeightedLoot([
             LootEntry.of('thermal:fire_grenade').withChance(100),
             LootEntry.of('thermal:fire_grenade', 2).withChance(40),
@@ -20,7 +20,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyBiome('minecraft:warped_forest')
-        .randomChance(0.5)
+        .randomChance(0.30)
         .addWeightedLoot([
             LootEntry.of('thermal:ender_grenade').withChance(100),
             LootEntry.of('thermal:ender_grenade', 2).withChance(40),
@@ -28,7 +28,7 @@ LootJS.modifiers(l => {
 
     l.addLootTypeModifier(LootType.CHEST)
         .anyDimension('the_end')
-        .randomChance(0.5)
+        .randomChance(0.45)
         .addWeightedLoot([
             LootEntry.of('thermal:ender_grenade').withChance(100),
             LootEntry.of('thermal:ender_grenade', 2).withChance(40),
