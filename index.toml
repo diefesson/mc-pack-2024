@@ -1593,6 +1593,11 @@ hash = "854fee4f67f647fe73d95363dbbae8ec7f31e6e410e7f219958bc994d94e97b9"
 metafile = true
 
 [[files]]
+file = "mods/kobolds.pw.toml"
+hash = "0283bc8ad6747509b92906a0900b019a8bbe6d332a6b3ebca48dce4bc16ca9a1"
+metafile = true
+
+[[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "7ea985404ee4cc9082472c6869ec146309f526e395361b39f2f4c1a43506c41d"
 metafile = true
