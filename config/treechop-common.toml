@@ -42,7 +42,7 @@
 	#Range: 1 ~ 8096
 	maxLeavesBlocks = 1024
 	#Destroy leaves when a tree is felled
-	breakLeaves = true
+	breakLeaves = false
 	#Non-decayable leaves are ignored when detecting leaves
 	ignorePersistentLeaves = true
 	#Maximum distance from log blocks to destroy leaves blocks when felling

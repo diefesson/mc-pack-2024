@@ -431,7 +431,7 @@ hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
 
 [[files]]
 file = "config/treechop-common.toml"
-hash = "9a0a9c055e73f6c0db8207964c78c76d4b1fd1403795cc6ad58f9a4099397379"
+hash = "b1c8946da870a6ba04c30b3148cb0c88efd9a60a450254239a13d351424c7bc2"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
