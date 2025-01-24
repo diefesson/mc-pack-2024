@@ -238,7 +238,7 @@
 
 [Crops]
 	#If TRUE, some Thermal Cultivation seeds will be able to drop from grass. Disabling this will ignore any datapack setting using Thermal's 'seeds_from_grass' Global Loot Modifier.
-	"Drop Seeds From Grass" = true
+	"Drop Seeds From Grass" = false
 	#If TRUE, Glimmercap Mushrooms produce light when fully grown. Disabling this may improve performance.
 	"Glowstone Mushroom Light" = true
 	#If TRUE, Fluxtooth Mushrooms produce light when fully grown. Disabling this may improve performance.
