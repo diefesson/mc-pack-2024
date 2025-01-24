@@ -346,6 +346,10 @@ file = "config/realisticbees.json5"
 hash = "7b03d2ee78b4df30300c75b25f1b71ae68b441db1033d6e71146e5cc580a60a8"
 
 [[files]]
+file = "config/ryoamiclights.toml"
+hash = "e9fb85fc053e662392259e2be4cfbeecfde150ec40922d6a32590aab5cc75274"
+
+[[files]]
 file = "config/seamless_loading_screen.json"
 hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 

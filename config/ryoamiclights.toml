@@ -1,0 +1,990 @@
+mode = "fast"
+
+[light_sources]
+	entities = true
+	self = true
+	block_entities = true
+	water_sensitive_check = true
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				player = true
+				chest_minecart = true
+				minecart = true
+				cow = true
+				sheep = true
+				chicken = true
+				rabbit = true
+				item = true
+				zombie = true
+				zombie_villager = true
+				skeleton = true
+				squid = true
+				glow_squid = true
+				bat = true
+				creeper = true
+				cave_spider = true
+				spider = true
+				bee = true
+				enderman = true
+				furnace_minecart = true
+				axolotl = true
+				witch = true
+				drowned = true
+				experience_orb = true
+				allay = true
+				area_effect_cloud = true
+				armor_stand = true
+				arrow = true
+				blaze = true
+				block_display = true
+				boat = true
+				camel = true
+				cat = true
+				chest_boat = true
+				cod = true
+				command_block_minecart = true
+				dolphin = true
+				donkey = true
+				dragon_fireball = true
+				egg = true
+				elder_guardian = true
+				end_crystal = true
+				ender_dragon = true
+				ender_pearl = true
+				endermite = true
+				evoker = true
+				evoker_fangs = true
+				experience_bottle = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+				fox = true
+				frog = true
+				ghast = true
+				giant = true
+				glow_item_frame = true
+				goat = true
+				guardian = true
+				hoglin = true
+				hopper_minecart = true
+				horse = true
+				husk = true
+				illusioner = true
+				interaction = true
+				iron_golem = true
+				item_display = true
+				item_frame = true
+				fireball = true
+				leash_knot = true
+				lightning_bolt = true
+				llama = true
+				llama_spit = true
+				magma_cube = true
+				marker = true
+				mooshroom = true
+				mule = true
+				ocelot = true
+				painting = true
+				panda = true
+				parrot = true
+				phantom = true
+				pig = true
+				piglin = true
+				piglin_brute = true
+				pillager = true
+				polar_bear = true
+				potion = true
+				pufferfish = true
+				ravager = true
+				salmon = true
+				shulker = true
+				shulker_bullet = true
+				silverfish = true
+				skeleton_horse = true
+				slime = true
+				small_fireball = true
+				sniffer = true
+				snow_golem = true
+				snowball = true
+				spawner_minecart = true
+				spectral_arrow = true
+				stray = true
+				strider = true
+				tadpole = true
+				text_display = true
+				tnt = true
+				tnt_minecart = true
+				trader_llama = true
+				trident = true
+				tropical_fish = true
+				turtle = true
+				vex = true
+				villager = true
+				vindicator = true
+				wandering_trader = true
+				warden = true
+				wither = true
+				wither_skeleton = true
+				wither_skull = true
+				wolf = true
+				zoglin = true
+				zombie_horse = true
+				zombified_piglin = true
+				fishing_bobber = true
+
+			[light_sources.settings.entities.naturalist]
+				snail = true
+				bear = true
+				lizard = true
+				deer = true
+				butterfly = true
+				finch = true
+				duck_egg = true
+				firefly = true
+				snake = true
+				coral_snake = true
+				rattlesnake = true
+				bluejay = true
+				canary = true
+				cardinal = true
+				robin = true
+				sparrow = true
+				caterpillar = true
+				rhino = true
+				lion = true
+				elephant = true
+				zebra = true
+				giraffe = true
+				hippo = true
+				vulture = true
+				boar = true
+				dragonfly = true
+				catfish = true
+				alligator = true
+				bass = true
+				lizard_tail = true
+				tortoise = true
+				duck = true
+
+			[light_sources.settings.entities.artifacts]
+				mimic = true
+
+			[light_sources.settings.entities.creeperoverhaul]
+				cave_creeper = true
+				jungle_creeper = true
+				bamboo_creeper = true
+				desert_creeper = true
+				badlands_creeper = true
+				hills_creeper = true
+				savannah_creeper = true
+				mushroom_creeper = true
+				swamp_creeper = true
+				dripstone_creeper = true
+				dark_oak_creeper = true
+				spruce_creeper = true
+				beach_creeper = true
+				snowy_creeper = true
+				ocean_creeper = true
+
+			[light_sources.settings.entities.friendsandfoes]
+				rascal = true
+				copper_golem = true
+				crab = true
+				glare = true
+				iceologer = true
+				ice_chunk = true
+				mauler = true
+				moobloom = true
+				tuff_golem = true
+				wildfire = true
+				player_illusion = true
+
+			[light_sources.settings.entities.tinyskeletons]
+				baby_skeleton = true
+				baby_wither_skeleton = true
+				baby_stray = true
+
+			[light_sources.settings.entities.endermanoverhaul]
+				dark_oak_enderman = true
+				badlands_enderman = true
+				cave_enderman = true
+				crimson_forest_enderman = true
+				desert_enderman = true
+				end_enderman = true
+				end_islands_enderman = true
+				flower_fields_enderman = true
+				ice_spikes_enderman = true
+				mushroom_fields_enderman = true
+				nether_wastes_enderman = true
+				coral_enderman = true
+				savanna_enderman = true
+				snowy_enderman = true
+				soulsand_valley_enderman = true
+				swamp_enderman = true
+				warped_forest_enderman = true
+				windswept_hills_enderman = true
+				pet_enderman = true
+				hammerhead_pet_enderman = true
+				axolotl_pet_enderman = true
+				scarab = true
+				spirit = true
+				ender_bullet = true
+				corrupted_pearl = true
+				soul_pearl = true
+				ancient_pearl = true
+				bubble_pearl = true
+				summoner_pearl = true
+				icy_pearl = true
+				crimson_pearl = true
+				warped_pearl = true
+
+			[light_sources.settings.entities.ae2]
+				tiny_tnt_primed = true
+
+			[light_sources.settings.entities.would]
+				falling_coconut = true
+				mod_boat = true
+				mod_chest_boat = true
+				thrown_walnut = true
+
+			[light_sources.settings.entities.exposure]
+				photograph = true
+				photograph_frame = true
+
+			[light_sources.settings.entities.supplementaries]
+				pearl_marker = true
+				dispenser_minecart = true
+				hat_stand = true
+				red_merchant = true
+				falling_urn = true
+				falling_ash = true
+				falling_sack = true
+				brick_projectile = true
+				slimeball_projectile = true
+				bomb = true
+				cannonball = true
+				rope_arrow = true
+				slingshot_projectile = true
+
+			[light_sources.settings.entities.kobolds]
+				kobold = true
+				kobold_warrior = true
+				kobold_enchanter = true
+				kobold_rascal = true
+				kobold_engineer = true
+				kobold_pirate = true
+				kobold_captain = true
+				kobold_child = true
+				kobold_zombie = true
+				kobold_skeleton = true
+
+			[light_sources.settings.entities.illagerinvasion]
+				provoker = true
+				invoker = true
+				necromancer = true
+				basher = true
+				sorcerer = true
+				archivist = true
+				inquisitor = true
+				marauder = true
+				alchemist = true
+				firecaller = true
+				surrendered = true
+				invoker_fangs = true
+				flying_magma = true
+				skull_bolt = true
+				hatchet = true
+
+			[light_sources.settings.entities.insanelib]
+				area_effect_cloud_3d = true
+
+			[light_sources.settings.entities.sophisticatedbackpacks]
+				everlasting_backpack_item = true
+
+			[light_sources.settings.entities.enderzoology]
+				owl_egg = true
+				primed_charge = true
+				concussion_creeper = true
+				infested_zombie = true
+				enderminy = true
+				dire_wolf = true
+				fallen_mount = true
+				wither_cat = true
+				wither_witch = true
+				owl = true
+				fallen_knight = true
+
+			[light_sources.settings.entities.variantsandventures]
+				gelid = true
+				murk = true
+				thicket = true
+				verdant = true
+
+			[light_sources.settings.entities.powah]
+				charged_snowball = true
+
+			[light_sources.settings.entities.guardvillagers]
+				guard = true
+
+			[light_sources.settings.entities.strawstatues]
+				straw_statue = true
+
+			[light_sources.settings.entities.biomesoplenty]
+				boat = true
+				chest_boat = true
+
+			[light_sources.settings.entities.pneumaticcraft]
+				drone = true
+				logistics_drone = true
+				harvesting_drone = true
+				guard_drone = true
+				collector_drone = true
+				amadrone = true
+				programmable_controller = true
+				vortex = true
+				micromissile = true
+				tumbling_block = true
+				ring = true
+				crop_support = true
+				spawner_agitator = true
+				heat_frame = true
+				transfer_gadget = true
+				logistics_frame_active_provider = true
+				logistics_frame_passive_provider = true
+				logistics_frame_storage = true
+				logistics_frame_default_storage = true
+				logistics_frame_requester = true
+
+			[light_sources.settings.entities.cofh_core]
+				knife = true
+				electric_field = true
+				frost_field = true
+
+			[light_sources.settings.entities.thermal]
+				underwater_minecart = true
+				rubberwood_boat = true
+				energy_minecart = true
+				rubberwood_chest_boat = true
+				fluid_minecart = true
+				ender_tnt_minecart = true
+				glowstone_tnt_minecart = true
+				redstone_tnt_minecart = true
+				slime_tnt_minecart = true
+				fire_tnt_minecart = true
+				ice_tnt_minecart = true
+				lightning_tnt_minecart = true
+				earth_tnt_minecart = true
+				phyto_tnt_minecart = true
+				nuke_tnt_minecart = true
+				basalz = true
+				blizz = true
+				blitz = true
+				basalz_projectile = true
+				blizz_projectile = true
+				blitz_projectile = true
+				florb = true
+				explosive_grenade = true
+				ender_grenade = true
+				glowstone_grenade = true
+				redstone_grenade = true
+				slime_grenade = true
+				fire_grenade = true
+				ice_grenade = true
+				lightning_grenade = true
+				earth_grenade = true
+				phyto_grenade = true
+				nuke_grenade = true
+				ender_tnt = true
+				glowstone_tnt = true
+				redstone_tnt = true
+				slime_tnt = true
+				fire_tnt = true
+				ice_tnt = true
+				lightning_tnt = true
+				earth_tnt = true
+				phyto_tnt = true
+				nuke_tnt = true
+
+			[light_sources.settings.entities.redstone_arsenal]
+				flux_slash = true
+				flux_arrow = true
+				flux_trident = true
+				flux_wrench = true
+				shockwave = true
+
+			[light_sources.settings.entities.archers_paradox]
+				explosive_arrow = true
+				quartz_arrow = true
+				diamond_arrow = true
+				prismarine_arrow = true
+				slime_arrow = true
+				ender_arrow = true
+				training_arrow = true
+				challenge_arrow = true
+				phantasmal_arrow = true
+				shulker_arrow = true
+				blaze_arrow = true
+				frost_arrow = true
+				lightning_arrow = true
+				verdant_arrow = true
+				spore_arrow = true
+
+			[light_sources.settings.entities.biomeswevegone]
+				man_o_war = true
+				pumpkin_warden = true
+				oddion = true
+				boat = true
+				chest_boat = true
+
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+
+			[light_sources.settings.entities.prettypipes]
+				pipe_frame = true
+
+			[light_sources.settings.entities.amendments]
+				falling_lantern = true
+
+			[light_sources.settings.entities.bettertridents]
+				loyal_item = true
+				loyal_experience_orb = true
+
+		[light_sources.settings.block_entities]
+
+			[light_sources.settings.block_entities.minecraft]
+				furnace = true
+				chest = true
+				trapped_chest = true
+				ender_chest = true
+				jukebox = true
+				dispenser = true
+				dropper = true
+				sign = true
+				hanging_sign = true
+				mob_spawner = true
+				piston = true
+				brewing_stand = true
+				enchanting_table = true
+				end_portal = true
+				beacon = true
+				skull = true
+				daylight_detector = true
+				hopper = true
+				comparator = true
+				banner = true
+				structure_block = true
+				end_gateway = true
+				command_block = true
+				shulker_box = true
+				bed = true
+				conduit = true
+				barrel = true
+				smoker = true
+				blast_furnace = true
+				lectern = true
+				bell = true
+				jigsaw = true
+				campfire = true
+				beehive = true
+				sculk_sensor = true
+				calibrated_sculk_sensor = true
+				sculk_catalyst = true
+				sculk_shrieker = true
+				chiseled_bookshelf = true
+				brushable_block = true
+				decorated_pot = true
+
+			[light_sources.settings.block_entities.ae2]
+				sky_tank = true
+				inscriber = true
+				debug_energy_gen = true
+				light_detector = true
+				interface = true
+				creative_energy_cell = true
+				charger = true
+				quantum_ring = true
+				crafting_unit = true
+				sky_chest = true
+				cable_bus = true
+				spatial_anchor = true
+				crank = true
+				paint = true
+				growth_accelerator = true
+				drive = true
+				io_port = true
+				debug_cube_gen = true
+				debug_chunk_loader = true
+				crafting_storage = true
+				debug_phantom_node = true
+				cell_workbench = true
+				chest = true
+				crafting_monitor = true
+				molecular_assembler = true
+				controller = true
+				energy_cell = true
+				spatial_pylon = true
+				debug_item_gen = true
+				energy_acceptor = true
+				spatial_io_port = true
+				pattern_provider = true
+				crystal_resonance_generator = true
+				condenser = true
+				dense_energy_cell = true
+				wireless_access_point = true
+				vibration_chamber = true
+
+			[light_sources.settings.block_entities.merequester]
+				requester = true
+
+			[light_sources.settings.block_entities.exposure]
+				lightroom = true
+				flash = true
+
+			[light_sources.settings.block_entities.supplementaries]
+				lunch_basket = true
+				sign_post = true
+				flag = true
+				present = true
+				trapped_present = true
+				pedestal = true
+				notice_board = true
+				safe = true
+				cage = true
+				jar = true
+				sack = true
+				blackboard = true
+				globe = true
+				rope_knot = true
+				rope_buntings = true
+				bamboo_spikes = true
+				goblet = true
+				hourglass = true
+				item_shelf = true
+				doormat = true
+				spring_launcher_arm = true
+				speaker_block = true
+				turn_table = true
+				pulley_block = true
+				bellows = true
+				clock_block = true
+				wind_vane = true
+				faucet = true
+				key_lockable_tile = true
+				jar_boat = true
+				structure_temp = true
+				block_generator = true
+				timber_frame = true
+				suspicious_gravel_bricks = true
+				moving_slidy_block = true
+				flower_box = true
+				statue = true
+				book_pile = true
+				cannon = true
+				urn = true
+				bubble_block = true
+				enderman_head = true
+
+			[light_sources.settings.block_entities.enchantinginfuser]
+				enchanting_infuser = true
+
+			[light_sources.settings.block_entities.visualworkbench]
+				crafting_table = true
+
+			[light_sources.settings.block_entities.kobolds]
+				kobold_skull = true
+
+			[light_sources.settings.block_entities.botanypots]
+				botany_pot = true
+
+			[light_sources.settings.block_entities.fastpaintings]
+				painting = true
+
+			[light_sources.settings.block_entities.sophisticatedbackpacks]
+				backpack = true
+
+			[light_sources.settings.block_entities.easymagic]
+				enchanting_table = true
+
+			[light_sources.settings.block_entities.thermal_extra]
+				dynamo_frost = true
+				advanced_refinery = true
+				nitratic_igniter = true
+				fluid_mixer = true
+				component_assembly = true
+				endothermic_dehydrator = true
+				lava_gen = true
+
+			[light_sources.settings.block_entities.mysticalagriculture]
+				inferium_furnace = true
+				prudentium_furnace = true
+				tertium_furnace = true
+				imperium_furnace = true
+				supremium_furnace = true
+				awakened_supremium_furnace = true
+				infusion_pedestal = true
+				infusion_altar = true
+				awakening_pedestal = true
+				awakening_altar = true
+				essence_vessel = true
+				tinkering_table = true
+				enchanter = true
+				seed_reprocessor = true
+				soul_extractor = true
+				harvester = true
+				soulium_spawner = true
+
+			[light_sources.settings.block_entities.waterframes]
+				frame = true
+				projector = true
+				tv = true
+				big_tv = true
+				tv_box = true
+
+			[light_sources.settings.block_entities.functionalstorage]
+				oak_1 = true
+				spruce_1 = true
+				birch_1 = true
+				jungle_1 = true
+				acacia_1 = true
+				dark_oak_1 = true
+				crimson_1 = true
+				warped_1 = true
+				mangrove_1 = true
+				cherry_1 = true
+				framed_1 = true
+				oak_2 = true
+				spruce_2 = true
+				birch_2 = true
+				jungle_2 = true
+				acacia_2 = true
+				dark_oak_2 = true
+				crimson_2 = true
+				warped_2 = true
+				mangrove_2 = true
+				cherry_2 = true
+				framed_2 = true
+				oak_4 = true
+				spruce_4 = true
+				birch_4 = true
+				jungle_4 = true
+				acacia_4 = true
+				dark_oak_4 = true
+				crimson_4 = true
+				warped_4 = true
+				mangrove_4 = true
+				cherry_4 = true
+				framed_4 = true
+				fluid_1 = true
+				fluid_2 = true
+				fluid_4 = true
+				compacting_drawer = true
+				compacting_framed_drawer = true
+				storage_controller = true
+				framed_storage_controller = true
+				controller_extension = true
+				framed_controller_extension = true
+				simple_compacting_drawer = true
+				framed_simple_compacting_drawer = true
+				armory_cabinet = true
+				ender_drawer = true
+
+			[light_sources.settings.block_entities.easyanvils]
+				anvil = true
+
+			[light_sources.settings.block_entities.powah]
+				energy_cell = true
+				ender_cell = true
+				ender_gate = true
+				energy_cable = true
+				energizing_orb = true
+				energizing_rod = true
+				solar_panel = true
+				furnator = true
+				magmator = true
+				thermo_gen = true
+				reactor = true
+				reactor_part = true
+				player_transmitter = true
+				energy_hopper = true
+				energy_discharger = true
+
+			[light_sources.settings.block_entities.energymeter]
+				meter = true
+
+			[light_sources.settings.block_entities.framedblocks]
+				framed_tile = true
+				framed_elevated_double_slope_edge = true
+				framed_stacked_slope_edge = true
+				framed_divided_slab = true
+				framed_divided_panel_horizontal = true
+				framed_masonry_corner = true
+				framed_sign = true
+				framed_hanging_sign = true
+				framed_double_slab = true
+				framed_double_panel = true
+				framed_adj_double_slab = true
+				framed_adj_double_copycat_slab = true
+				framed_double_slope = true
+				framed_double_corner = true
+				framed_double_threeway_corner = true
+				framed_chest = true
+				framed_flower_pot = true
+				framed_collapsible_block = true
+				framed_collapsible_copycat_block = true
+				framed_divided_stairs = true
+				framed_double_half_stairs = true
+				framed_sliced_stairs_slab = true
+				framed_secret_storage = true
+				framed_double_prism = true
+				framed_double_sloped_prism = true
+				framed_double_slope_slab = true
+				framed_inv_double_slope_slab = true
+				framed_elevated_double_slope_slab = true
+				framed_stacked_slope_slab = true
+				framed_vertical_divided_stairs = true
+				framed_vertical_double_half_stairs = true
+				framed_vertical_sliced_stairs = true
+				framed_double_threeway_corner_pillar = true
+				framed_flat_double_slope_slab_corner = true
+				framed_flat_inv_double_slope_slab_corner = true
+				framed_flat_elev_double_slope_slab_corner = true
+				framed_double_slope_panel = true
+				framed_inv_double_slope_panel = true
+				framed_extended_double_slope_panel = true
+				framed_stacked_slope_panel = true
+				framed_flat_double_slope_panel_corner = true
+				framed_flat_inv_double_slope_panel_corner = true
+				framed_flat_ext_double_slope_panel_corner = true
+				framed_small_double_corner_slope_panel = true
+				framed_small_double_corner_slope_panel_w = true
+				framed_large_double_corner_slope_panel = true
+				framed_large_double_corner_slope_panel_w = true
+				framed_inv_double_corner_slope_panel = true
+				framed_inv_double_corner_slope_panel_w = true
+				framed_ext_double_corner_slope_panel = true
+				framed_ext_double_corner_slope_panel_w = true
+				framed_ext_inner_double_corner_slope_panel = true
+				framed_ext_inner_double_corner_slope_panel_w = true
+				framed_stacked_corner_slope_panel = true
+				framed_stacked_corner_slope_panel_w = true
+				framed_stacked_inner_corner_slope_panel = true
+				framed_stacked_inner_corner_slope_panel_w = true
+				framed_double_stairs = true
+				framed_vertical_double_stairs = true
+				framed_target = true
+				framed_item_frame = true
+				framed_fancy_rail_slope = true
+				framed_divided_slope = true
+				framed_double_half_slope = true
+				framed_vertical_double_half_slope = true
+				framed_one_way_window = true
+				framed_chiseled_bookshelf = true
+				framed_checkered_cube = true
+				framed_checkered_slab = true
+				framed_checkered_panel = true
+				powered_framing_saw = true
+
+			[light_sources.settings.block_entities.biomesoplenty]
+				sign = true
+				hanging_sign = true
+				anomaly = true
+
+			[light_sources.settings.block_entities.pneumaticcraft]
+				pressure_tube = true
+				advanced_pressure_tube = true
+				air_compressor = true
+				advanced_air_compressor = true
+				air_cannon = true
+				manual_compressor = true
+				pressure_chamber_wall = true
+				pressure_chamber_valve = true
+				charging_station = true
+				elevator_base = true
+				elevator_frame = true
+				pressure_chamber_interface = true
+				vacuum_pump = true
+				pneumatic_door_base = true
+				pneumatic_door = true
+				assembly_io_unit = true
+				assembly_platform = true
+				assembly_drill = true
+				assembly_laser = true
+				assembly_controller = true
+				uv_light_box = true
+				security_station = true
+				universal_sensor = true
+				aerial_interface = true
+				electrostatic_compressor = true
+				aphorism_tile = true
+				omnidirectional_hopper = true
+				liquid_hopper = true
+				elevator_caller = true
+				programmer = true
+				creative_compressor = true
+				liquid_compressor = true
+				advanced_liquid_compressor = true
+				drone_redstone_emitter = true
+				compressed_iron_block = true
+				heat_sink = true
+				vortex_tube = true
+				programmable_controller = true
+				gas_lift = true
+				refinery = true
+				refinery_output = true
+				thermopneumatic_processing_plant = true
+				kerosene_lamp = true
+				sentry_turret = true
+				flux_compressor = true
+				pneumatic_dynamo = true
+				thermal_compressor = true
+				heat_pipe = true
+				etching_tank = true
+				small_tank = true
+				medium_tank = true
+				large_tank = true
+				huge_tank = true
+				reinforced_chest = true
+				smart_chest = true
+				tag_workbench = true
+				display_table = true
+				drone_interface = true
+				fluid_mixer = true
+				vacuum_trap = true
+				spawner_extractor = true
+				pressurized_spawner = true
+				creative_compressed_iron_block = true
+				reinforced_pressure_tube = true
+				tube_junction = true
+				solar_compressor = true
+
+			[light_sources.settings.block_entities.cofh_core]
+				signal_air = true
+				glow_air = true
+				ender_air = true
+				lightning_air = true
+
+			[light_sources.settings.block_entities.thermal]
+				potion_cake = true
+				energy_duct = true
+				fluid_duct = true
+				fluid_duct_windowed = true
+				item_buffer = true
+				device_hive_extractor = true
+				device_tree_extractor = true
+				device_fisher = true
+				device_composter = true
+				device_soil_infuser = true
+				device_water_gen = true
+				device_rock_gen = true
+				device_collector = true
+				device_xp_condenser = true
+				device_nullifier = true
+				device_potion_diffuser = true
+				tinker_bench = true
+				charge_bench = true
+				energy_cell = true
+				fluid_cell = true
+				machine_furnace = true
+				machine_sawmill = true
+				machine_pulverizer = true
+				machine_smelter = true
+				machine_insolator = true
+				machine_centrifuge = true
+				machine_press = true
+				machine_crucible = true
+				machine_chiller = true
+				machine_refinery = true
+				machine_pyrolyzer = true
+				machine_bottler = true
+				machine_brewer = true
+				machine_crystallizer = true
+				machine_crafter = true
+				dynamo_stirling = true
+				dynamo_compression = true
+				dynamo_magmatic = true
+				dynamo_numismatic = true
+				dynamo_lapidary = true
+				dynamo_disenchantment = true
+				dynamo_gourmand = true
+
+			[light_sources.settings.block_entities.dramaticdoors]
+				tall_netherite_door = true
+
+			[light_sources.settings.block_entities.treechop]
+				chopped_log = true
+
+			[light_sources.settings.block_entities.biomeswevegone]
+				sign = true
+				hanging_sign = true
+
+			[light_sources.settings.block_entities.prettypipes]
+				pipe = true
+				item_terminal = true
+				crafting_terminal = true
+				pressurizer = true
+
+			[light_sources.settings.block_entities.wirelesschargers]
+				basic_wireless_block_charger_block_entity = true
+				advanced_wireless_block_charger_block_entity = true
+				basic_wireless_player_charger_block_entity = true
+				advanced_wireless_player_charger_block_entity = true
+
+			[light_sources.settings.block_entities.animal_feeding_trough]
+				feeding_trough = true
+
+			[light_sources.settings.block_entities.chunkloaders]
+				single_chunk_loader_tile = true
+				basic_chunk_loader_tile = true
+				advanced_chunk_loader_tile = true
+				ultimate_chunk_loader_tile = true
+
+			[light_sources.settings.block_entities.tradingpost]
+				trading_post = true
+
+			[light_sources.settings.block_entities.amendments]
+				water_lily_pad = true
+				liquid_cauldron = true
+				hanging_flower_pot = true
+				ceiling_banner = true
+				carpeted_block = true
+				wall_lantern = true
+				tool_hook = true
+				skull_pile = true
+				skull_candle = true
+
+			[light_sources.settings.block_entities.sophisticatedstorage]
+				barrel = true
+				limited_barrel = true
+				chest = true
+				shulker_box = true
+				controller = true
+				storage_link = true
+				storage_io = true
+				storage_input = true
+				storage_output = true
+
+			[light_sources.settings.block_entities.waystones]
+				waystone = true
+				sharestone = true
+				warp_plate = true
+				portstone = true
+
+			[light_sources.settings.block_entities.comforts]
+				hammock = true
+				sleeping_bag = true
+
+			[light_sources.settings.block_entities.megacells]
+				mega_pattern_provider = true
+				mega_crafting_unit = true
+				mega_energy_cell = true
+				mega_crafting_monitor = true
+				mega_interface = true
+				mega_crafting_storage = true
+
+			[light_sources.settings.block_entities.barteringstation]
+				bartering_station = true
+
