@@ -399,7 +399,7 @@ hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "4bea321c24677737b54320b188e7e011f9fb09c3a7f0259f0b84be2189aae23a"
+hash = "693a811a7879b02b213e28a4866b69f7c1d7be935d552ed3ae4d1aa7426ebf81"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -2424,4 +2424,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "bef0feb737e27ed6cd0cdc18af51f910c6bc4086bdc0cef5536df7ba1cedb440"
+hash = "fafde95848a57dbbc76aa81ddd40bea74e529ae7d416e5889423212f48f3f456"

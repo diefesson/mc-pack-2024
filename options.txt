@@ -35,7 +35,7 @@ glDebugVerbosity:1
 glintSpeed:0.5
 glintStrength:0.75
 graphicsMode:2
-guiScale:2
+guiScale:3
 hideBundleTutorial:false
 hideLightningFlashes:false
 hideMatchedNames:true
@@ -89,11 +89,12 @@ key_key.curios.open.desc:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
 key_key.disable_voice_chat:key.keyboard.unknown
-key_key.double_hotbar.swap:key.keyboard.r
+key_key.double_hotbar.swap:key.keyboard.r:ALT
 key_key.drop:key.keyboard.q
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.u
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
