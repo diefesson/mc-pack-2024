@@ -122,7 +122,7 @@ hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
 [[files]]
 file = "config/embeddium-options.json"
-hash = "97015f21eabe3334d4c8b6f648cffe1ce551af4a8b0b6ca5090f4272d12685c2"
+hash = "ccaaa5402e653fa3052088aaf5771328305f07ff726bb1424b783143506943df"
 
 [[files]]
 file = "config/emi.css"
