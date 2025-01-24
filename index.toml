@@ -2308,11 +2308,6 @@ hash = "88a0946269b2d233d5888e566e2040d27d5f258f7fc905b5a5776c615b38ab32"
 metafile = true
 
 [[files]]
-file = "mods/verdant-mod.pw.toml"
-hash = "402eb5f9ca23c4ffbd3b4144f71b8fd14ceacaa44f89e0b1b7653ee66b182a46"
-metafile = true
-
-[[files]]
 file = "mods/village-bell-recipe.pw.toml"
 hash = "ef349d9ec37be5d9ac9846de4696b3f920fe9e2bdd02b826eb6e3aefd7f1c0ed"
 metafile = true
