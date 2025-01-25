@@ -418,6 +418,10 @@ file = "config/switchy/config.toml"
 hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 
 [[files]]
+file = "config/thermal-client.toml"
+hash = "4980635620df2ccd85383db81dc78b3d8244c53fa1407af8a87d07c2893d15e7"
+
+[[files]]
 file = "config/toolstats.json"
 hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
