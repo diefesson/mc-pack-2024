@@ -1,13 +1,13 @@
 name = "Mobs Properties Randomness"
-filename = "MobsPropertiesRandomness-4.10.11-mc1.20.1.jar"
+filename = "MobsPropertiesRandomness-4.10.13-mc1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/iLdm4nHd/versions/bWR3LyUi/MobsPropertiesRandomness-4.10.11-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/iLdm4nHd/versions/dRcjLRi4/MobsPropertiesRandomness-4.10.13-mc1.20.1.jar"
 hash-format = "sha512"
-hash = "4477083016bf0c2374e929bce0491c9120b711748abd2a0838c3d36dbd7ec070caee46203116841f886048b505a632ea5b6807b92b7515f880f5eef02c02393f"
+hash = "11ed9391b0efd79c20e94ecb2d0970fe7763d5cb21469d214b47a1757eab0934e22358a9ecde8cbf73c2c9b3b32e65546e162eb8f07b838b000bb6ad09733e31"
 
 [update]
 [update.modrinth]
 mod-id = "iLdm4nHd"
-version = "bWR3LyUi"
+version = "dRcjLRi4"

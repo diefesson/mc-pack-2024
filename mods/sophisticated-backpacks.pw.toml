@@ -1,13 +1,13 @@
 name = "Sophisticated Backpacks"
-filename = "sophisticatedbackpacks-1.20.1-3.20.17.1150.jar"
+filename = "sophisticatedbackpacks-1.20.1-3.23.2.1186.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/zkb0vOdU/sophisticatedbackpacks-1.20.1-3.20.17.1150.jar"
+url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/zWW5aCCd/sophisticatedbackpacks-1.20.1-3.23.2.1186.jar"
 hash-format = "sha512"
-hash = "07c3ee65e92caf75ad80e74067f8f0d09c47717f1f27e43e13b6744d41dbc56abcb12434f20d99426052aeb3d15e4d0c5660462933360cad1e293685165d7fe8"
+hash = "6911c955f38093e042a9b01975040451a04f1ad4c9259804dffb4fe9dd9dcd7019adef893647cc6455d00f87bc43caabc6946c0140d8f6348a9e291a27030616"
 
 [update]
 [update.modrinth]
 mod-id = "TyCTlI4b"
-version = "zkb0vOdU"
+version = "zWW5aCCd"

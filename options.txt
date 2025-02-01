@@ -95,7 +95,6 @@ key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
-key_key.fabrictailor.toggle_skin_gui:key.keyboard.u
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
 key_key.hide_icons:key.keyboard.unknown
@@ -182,7 +181,9 @@ key_key.shouldersurfing.adjust_camera_up:key.keyboard.keypad.8
 key_key.shouldersurfing.free_look:key.keyboard.unknown
 key_key.shouldersurfing.swap_shoulder:key.keyboard.keypad.5
 key_key.shouldersurfing.toggle_camera_coupling:key.keyboard.keypad.1
-key_key.shouldersurfing.toggle_perspective:key.keyboard.keypad.3
+key_key.shouldersurfing.toggle_first_person:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_back:key.keyboard.unknown
+key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.tab:CONTROL

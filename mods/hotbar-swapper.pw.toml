@@ -1,13 +1,13 @@
 name = "Hotbar Swapper"
-filename = "HotbarSwapper-1.20.1-Forge-1.0.0.jar"
+filename = "HotbarSwapper-1.20.1-Forge-1.0.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/ArF8Kr0T/versions/FKbiOHDH/HotbarSwapper-1.20.1-Forge-1.0.0.jar"
+url = "https://cdn.modrinth.com/data/ArF8Kr0T/versions/brlAXhrs/HotbarSwapper-1.20.1-Forge-1.0.1.jar"
 hash-format = "sha512"
-hash = "9d2a0d5730e61ae0a421fabf91c448b4e6e7217f4e9ddb61774e9e51de09ef721cf165ddb4316b55aaa0ca43bd89b6bd797e62539e4a50f46f2298800197f480"
+hash = "49476f6b3da9e11bad9c71dbce0f74f422fe6e4f94defa186ddbbffb334a5bda4b79d82b1ef4fd82463834c57d8ec43a65a5c66aeefa64df0914d1726a1ab027"
 
 [update]
 [update.modrinth]
 mod-id = "ArF8Kr0T"
-version = "FKbiOHDH"
+version = "brlAXhrs"

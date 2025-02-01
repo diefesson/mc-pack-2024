@@ -1,13 +1,13 @@
 name = "Hearths"
-filename = "Hearths v1.0.1 f12-48.jar"
+filename = "Hearths v1.0.2 f12-61.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/pASfBwdH/Hearths%20v1.0.1%20f12-48.jar"
+url = "https://cdn.modrinth.com/data/XCIMrYn0/versions/5k2kJNGP/Hearths%20v1.0.2%20f12-61.jar"
 hash-format = "sha512"
-hash = "2ddbeb0c7c838d173044c72062d34028fb2f4e52b03c3949e920a3ee62452bbe29d55a6d5d2b9e881a185c262552d92a745389e8883f7fdab5ff811ce562e2b9"
+hash = "ad21e2f3fae69b150f955c0592721f564043d54aef533922c7443df0816bc84d6d1242c5444fe7d4536553029f045733ab252b9f47ac4d0c1974dbcdc6950f8a"
 
 [update]
 [update.modrinth]
 mod-id = "XCIMrYn0"
-version = "pASfBwdH"
+version = "5k2kJNGP"

@@ -1,13 +1,13 @@
 name = "Distraction Free Recipes (EMI / REI / JEI)"
-filename = "distraction_free_recipes-forge-1.1.0-1.20.1.jar"
+filename = "distraction_free_recipes-forge-1.2.1-1.20.1.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/gbJLUhZP/versions/Zw9knYYB/distraction_free_recipes-forge-1.1.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/gbJLUhZP/versions/tmdAnJOP/distraction_free_recipes-forge-1.2.1-1.20.1.jar"
 hash-format = "sha512"
-hash = "34acb1b170a0bab6225ef3ce7d4eb8078ca417ea91bcb1021ced0648a004289883a23aceac8ebb339928882ebe7b07fa1b3b6653e308708afc842a1f84a0ca40"
+hash = "5d5a10b33b597a0eb2d4204f3b5db3aff17fbec9d4480845446f168ce01a4be856890e96c82c8d762bd9d58b5d7b7ffae7db1fd5890f44ec95aca4bd279606c7"
 
 [update]
 [update.modrinth]
 mod-id = "gbJLUhZP"
-version = "Zw9knYYB"
+version = "tmdAnJOP"

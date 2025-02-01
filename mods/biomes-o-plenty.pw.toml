@@ -1,13 +1,13 @@
 name = "Biomes O' Plenty"
-filename = "BiomesOPlenty-forge-1.20.1-19.0.0.91.jar"
+filename = "BiomesOPlenty-forge-1.20.1-19.0.0.94.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/HXF82T3G/versions/qlLkvQuH/BiomesOPlenty-forge-1.20.1-19.0.0.91.jar"
+url = "https://cdn.modrinth.com/data/HXF82T3G/versions/BoqlF2eH/BiomesOPlenty-forge-1.20.1-19.0.0.94.jar"
 hash-format = "sha512"
-hash = "3e15ae99776987a22e4f670a21b557fbdcd9ac202fb3129e2cd516a5ac0abd1db4fbfae01129c7f7098a6359eb7cfdb1f85abd54ab446d54567f73524b111d1b"
+hash = "7f70cb4a753056212f95fdd4b49d19af9be8e7fce942239c3fda12f9cb2682ae748fb66638c7daef8ed34eddbcdd06989645824d6631fbdc8d69af863198f17f"
 
 [update]
 [update.modrinth]
 mod-id = "HXF82T3G"
-version = "qlLkvQuH"
+version = "BoqlF2eH"
