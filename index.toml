@@ -431,7 +431,7 @@ hash = "44cf709d6ca034c052df290406a4a077b8cdd49d2c35032f7baf29827fe1f9bf"
 
 [[files]]
 file = "config/travelerstitles-forge-1_20.toml"
-hash = "093f2329e672ccd7373a8825a3ae8aa8ff381d2182cabb378b00115ad399f9d3"
+hash = "cea93c636f5598c5702f07190b0422af6151111bd52d4d5b98611d04e9ab4586"
 
 [[files]]
 file = "config/treechop-client.toml"
