@@ -742,10 +742,6 @@ file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
 hash = "5d427da92cd70f4d69e79b28665f07352d622a518e12f0463896ba629691ed63"
 
 [[files]]
-file = "kubejs/server_scripts/src/thermal/supplementaries.js"
-hash = "f94093a2de0fb71f7990b3db3745c71d38254cd89cebab0608d13f848c0f9435"
-
-[[files]]
 file = "kubejs/server_scripts/src/thermal/thermal_utils.js"
 hash = "f14a7ace1881cc51c5e83abb7342e0dd3aa46a9215056f265d94260f49c09a35"
 
@@ -1591,11 +1587,6 @@ hash = "e861a100ed5b1ea5c68af5d24cb9ef5e658e3559225ef6cfa046cff5647aca78"
 metafile = true
 
 [[files]]
-file = "mods/kelp-fertilizer.pw.toml"
-hash = "217257e68194a122e08f44bbcfaa00e469a26be30da4c39cc675420f05119ee7"
-metafile = true
-
-[[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "16521f1a0d846d774da9cf4b393d4fc62520130c866d365f3675fd6a4d56fa82"
 metafile = true
@@ -2153,11 +2144,6 @@ metafile = true
 [[files]]
 file = "mods/supermartijn642s-core-lib.pw.toml"
 hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
-metafile = true
-
-[[files]]
-file = "mods/supplementaries.pw.toml"
-hash = "f9dc6cdf65679be1743c899ef1099b67c495770119caa153c914e0c078850438"
 metafile = true
 
 [[files]]
