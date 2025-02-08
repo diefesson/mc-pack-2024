@@ -313,12 +313,12 @@ rawMouseInput:true
 realmsNotifications:true
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:8
+renderDistance:12
 resourcePacks:[]
 screenEffectScale:1.0
 showAutosaveIndicator:true
 showSubtitles:false
-simulationDistance:8
+simulationDistance:6
 skipMultiplayerWarning:false
 skipRealms32bitWarning:false
 soundCategory_ambient:1.0
