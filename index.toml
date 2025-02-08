@@ -2287,6 +2287,11 @@ hash = "9ef27cfb0042b2187d677c3db6d605427887228e151a3c644704db50b35fe2ac"
 metafile = true
 
 [[files]]
+file = "mods/underground-bunkers.pw.toml"
+hash = "4c7921c99849a4d171d8db23b7f567faa4ccdceb9ba7ab18b642e90ab0da4019"
+metafile = true
+
+[[files]]
 file = "mods/universal-bone-meal.pw.toml"
 hash = "388e7cabca90d61def6526c021ff1c222996378dad4a24a24518fccd2a8bdbcd"
 metafile = true
