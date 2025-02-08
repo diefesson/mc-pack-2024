@@ -25,6 +25,14 @@ file = "config/ambientsounds-client.json"
 hash = "dbcaec173cd8f5a1c81e1e1e6919e4d1bc49a092a30e541196eb7935e86f6eec"
 
 [[files]]
+file = "config/amendments-client.toml"
+hash = "e3450d90ac51dadc8bf9c4f4f35505351114d3c88ed25e00197c081abc142f88"
+
+[[files]]
+file = "config/amendments-common.toml"
+hash = "783aed4199fdd7fd7eca085fe8a33dc5ac3f790895c172e8ab85f3cff40eeb9c"
+
+[[files]]
 file = "config/automaticdoors.json5"
 hash = "41d2f298349c9c34173fbd9aa48639a9c428de03de2c55f0f7978f6e13181426"
 
@@ -35,6 +43,10 @@ hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 [[files]]
 file = "config/barteringstation-server.toml"
 hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
+
+[[files]]
+file = "config/betterburning-common.toml"
+hash = "8d9d096d0f35bd651ca2aa9fc657531a1bb7794fcef6b66f0b2ea1a734ba9645"
 
 [[files]]
 file = "config/betterfortresses-forge-1_20.toml"
@@ -1039,6 +1051,11 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
+metafile = true
+
+[[files]]
+file = "mods/consecration.pw.toml"
+hash = "3c5896db50599e57b3c091b35d404ed9dba0d911d9c6bbbcf2704a5f86b97c7f"
 metafile = true
 
 [[files]]
