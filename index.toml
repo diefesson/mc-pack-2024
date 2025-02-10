@@ -2089,6 +2089,11 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/spice-of-life-onion.pw.toml"
+hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
+metafile = true
+
+[[files]]
 file = "mods/spiders-produce-webs.pw.toml"
 hash = "2f534d4d6703ae2879c5d9e5ae15f3b27f5e53eedb466d1847c4b09ea4a56d3c"
 metafile = true
