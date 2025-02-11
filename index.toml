@@ -888,6 +888,11 @@ hash = "3c1204a7f78bc67e690692166095acf4d101d5da1a8bb338173da07c981c6830"
 metafile = true
 
 [[files]]
+file = "mods/autumnity.pw.toml"
+hash = "318e1c63105062eb80bf04a944b7f924222ad41267699b1058d1e6181cb579c1"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
@@ -1133,6 +1138,11 @@ hash = "1ad27ac63d9c939149112a6cfdddd9ef00fb9be26b1d824ba3540dbdd62e1f48"
 metafile = true
 
 [[files]]
+file = "mods/cristel-lib.pw.toml"
+hash = "88325807c01b522a76d686f39c442da99b73a90ae3ec9b5434fea5f79baa4d49"
+metafile = true
+
+[[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "d956483e48f170625e4dec20f42c8e009c408591d618c8426b805f3a24076022"
 metafile = true
@@ -1350,6 +1360,11 @@ metafile = true
 [[files]]
 file = "mods/entityculling.pw.toml"
 hash = "738bca478ab07a0273e2f9ba8ca292dc1381d8e5860f15fbd3d25a7d26a3a949"
+metafile = true
+
+[[files]]
+file = "mods/environmental.pw.toml"
+hash = "275e088a76a5bb3daf16fb32713979a0453d8737a0a79cb4a3d900ee0f1809f5"
 metafile = true
 
 [[files]]
@@ -1838,11 +1853,6 @@ hash = "a53146c3b6ebc6887589d71d5272c646f68e4755f0454505c7b49999ba84c1e0"
 metafile = true
 
 [[files]]
-file = "mods/naturalist.pw.toml"
-hash = "fe1c8024d788448e46f6d7bd19c61a5dc1f8f5eda5a6b37bf68d3cf688de1935"
-metafile = true
-
-[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
@@ -1900,11 +1910,6 @@ metafile = true
 [[files]]
 file = "mods/oh-my-sherd.pw.toml"
 hash = "2a7c575e1f4470cfab6863734a7f7c72afe909b7527ef39e65db066907ad7c61"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-biomes-weve-gone.pw.toml"
-hash = "251abccc93ade9c6401da15636551060ec4d6fddf5c47fe843d4aed9b1697220"
 metafile = true
 
 [[files]]
@@ -2348,6 +2353,11 @@ hash = "e47935f71c9e6ceb21ec1be3b1db0ed512d463ed3b9cc555b8d5788d2550fe1f"
 metafile = true
 
 [[files]]
+file = "mods/towns-and-towers.pw.toml"
+hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
+metafile = true
+
+[[files]]
 file = "mods/trade-cycling.pw.toml"
 hash = "ad1e2e4cc4502e515c21f3ba5116ffa8aa5a32f736dad61c0b6b2829d03e966b"
 metafile = true
@@ -2375,11 +2385,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "9ef27cfb0042b2187d677c3db6d605427887228e151a3c644704db50b35fe2ac"
-metafile = true
-
-[[files]]
-file = "mods/underground-bunkers.pw.toml"
-hash = "4c7921c99849a4d171d8db23b7f567faa4ccdceb9ba7ab18b642e90ab0da4019"
 metafile = true
 
 [[files]]
@@ -2500,6 +2505,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
+metafile = true
+
+[[files]]
+file = "mods/yungs-bridges.pw.toml"
+hash = "2c40cfe9099281acc57efa8d168dc685fd739cc067afce92c8d4a0697a00b67a"
 metafile = true
 
 [[files]]
