@@ -141,6 +141,10 @@ file = "config/emi.css"
 hash = "c76103ddeb263aab5a1aa1776cecc869296a0fe96250575fd5dad7a382c561d5"
 
 [[files]]
+file = "config/emitrades.json5"
+hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
+
+[[files]]
 file = "config/enchantinginfuser-server.toml"
 hash = "f8a8fbc9f6824f2e45ab9a89d56b378cef21bbde65bb3498f2a4f234e4ea5dc1"
 
@@ -163,6 +167,14 @@ hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 [[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
+
+[[files]]
+file = "config/farmersdelight-client.toml"
+hash = "11a3d38bbf4a50092b32e0bc2dc750f64a92e7fc0e1a05b1a504da6682ad2aa7"
+
+[[files]]
+file = "config/farmersdelight-common.toml"
+hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
 
 [[files]]
 file = "config/framedblocks-client.toml"
@@ -614,6 +626,14 @@ file = "kubejs/data/diefalpha/tags/entity_types/zombies.json"
 hash = "abd834344492715c8e7bbaf0a58d61a3d5a6cc50474d057863230048d6bf9b4d"
 
 [[files]]
+file = "kubejs/data/diefalpha/worldgen/configured_feature/apatite_ore.json"
+hash = "ed248362b942cec47fbbc887ea0dbad20efa446264f5cf1a83b0970f73ed587c"
+
+[[files]]
+file = "kubejs/data/diefalpha/worldgen/placed_feature/apatite_ore.json"
+hash = "b01fe5d59f62bdf9381ea2154a3b70139f5f9ff64d2c20ff59bf68ec4eb89433"
+
+[[files]]
 file = "kubejs/data/mysticalagriculture/loot_tables/blocks/deepslate_prosperity_ore.json"
 hash = "a9a6c8d681ad934904f5a7b24e01055169abda1c032f28014973bfc23a64f715"
 
@@ -1038,6 +1058,11 @@ hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
 
 [[files]]
+file = "mods/chefs-delight.pw.toml"
+hash = "afee4c79e32d738de6da7f232bcc2b4bf10c05c33c014b923fff96f8c43450a5"
+metafile = true
+
+[[files]]
 file = "mods/cherished-worlds.pw.toml"
 hash = "c73999733f2f3949efae4c146bd2a63dd409c40f17cfbb4899a13f511076c815"
 metafile = true
@@ -1433,6 +1458,11 @@ hash = "da0ac82c8455e578151e4b0c16684fa4731228a6e76e83e551e9ab6fc677d174"
 metafile = true
 
 [[files]]
+file = "mods/food-effect-tooltips-forge.pw.toml"
+hash = "8a31f4f21638e830c1b99831f6b3b992e35790bc841f70ed4017a2cf45b2a5e8"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "971b9cd18c18725fae1d44fd4b8f135701fc6e6c0cb2267d996068f3d4872139"
 metafile = true
@@ -1728,6 +1758,11 @@ hash = "2e252ae669d1064f1be162272547fac464803846b1073fd3825886d3a59f4140"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
+metafile = true
+
+[[files]]
 file = "mods/magnum-torch.pw.toml"
 hash = "33ac8df50343a510256bb78c4dca99014fd4f88fdb548edd8aed6a3013f8947e"
 metafile = true
@@ -1858,6 +1893,11 @@ hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
+file = "mods/nbt-autocomplete.pw.toml"
+hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
+metafile = true
+
+[[files]]
 file = "mods/neapolitan.pw.toml"
 hash = "5bdccb1cb9a1d964a0dcec4f5fa8c4948cb53ace2cb6db430ed51cb3daa130b4"
 metafile = true
@@ -1920,6 +1960,11 @@ metafile = true
 [[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
+metafile = true
+
+[[files]]
+file = "mods/overweight-farming.pw.toml"
+hash = "ca54ccd33453cf0b9a2572f54017119aa95e62d55dce68d610899afd213419fb"
 metafile = true
 
 [[files]]
@@ -2065,11 +2110,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "323adfd6ebf5b53181c02f425ea70a0138ab1bde1da58da8874d93d37cd44ec2"
-metafile = true
-
-[[files]]
-file = "mods/right-click-get-crops.pw.toml"
-hash = "3f1909d3559a8780f635b80cc249a2613a77758cd8307dc90e8f9dabab184bf9"
 metafile = true
 
 [[files]]
@@ -2275,11 +2315,6 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "110413feb1f6da20eb70bce0f88f51e2d7241bf2fc810cd30cbdd024e51df587"
-metafile = true
-
-[[files]]
-file = "mods/thermal-cultivation.pw.toml"
-hash = "6e3b20b2d1af0d1681580879ab0af9d74854d095b273fb3f01d3746118134094"
 metafile = true
 
 [[files]]
