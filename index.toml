@@ -654,6 +654,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "0c230a664ec610481a7bab2d5e76ec7eaa20a3341cc960a1a14c44b0b4500afd"
 
 [[files]]
+file = "kubejs/server_scripts/src/amendments/torch_fire_fix.js"
+hash = "2cf222714cd28ba35eceab0637428d4710143ec1bcfe6986674ea012b3037fad"
+
+[[files]]
 file = "kubejs/server_scripts/src/chargedcharms/recipes.js"
 hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
