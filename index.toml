@@ -49,6 +49,10 @@ file = "config/betterburning-common.toml"
 hash = "8d9d096d0f35bd651ca2aa9fc657531a1bb7794fcef6b66f0b2ea1a734ba9645"
 
 [[files]]
+file = "config/betterclouds-v1.json"
+hash = "e3fbf686e0950e734b25446f405c6328a10163a9f2b27189a33c0d87a506b42e"
+
+[[files]]
 file = "config/betterfortresses-forge-1_20.toml"
 hash = "255a86c89669a3d0e2e44bf29935aa696e13573c3bee1ab376f7529142d34ac2"
 
@@ -91,6 +95,14 @@ hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 [[files]]
 file = "config/combatnouveau-server.toml"
 hash = "919d980b56758ed2275c954d4787bfa2df3eea46ed49b1b403d7543c73438ef9"
+
+[[files]]
+file = "config/cosmeticarmorreworked-client.toml"
+hash = "1f09257bc11babe19b5e78bce02ed7dcade4efab2a9353008bacb96ddd6bd75f"
+
+[[files]]
+file = "config/cosmeticarmorreworked-common.toml"
+hash = "ab12163ffd8c388f1287b942ddf846f0d02d343cb73534f40debd3ec7d0e9b27"
 
 [[files]]
 file = "config/crunchy_crunchy_advancements.toml"
