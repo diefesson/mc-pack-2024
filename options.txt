@@ -47,7 +47,7 @@ joinedFirstServer:true
 key_artifacts.key.helium_flamingo.activate:key.keyboard.unknown
 key_artifacts.key.night_vision_goggles.toggle:key.keyboard.unknown
 key_artifacts.key.universal_attractor.toggle:key.keyboard.unknown
-key_chunkloaders.keys.open_screen:key.keyboard.p
+key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
@@ -93,8 +93,10 @@ key_key.double_hotbar.swap:key.keyboard.r:ALT
 key_key.drop:key.keyboard.q
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
+key_key.endergetic.booflo_slam:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
+key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
 key_key.hide_icons:key.keyboard.unknown
@@ -156,8 +158,6 @@ key_key.jei.transferRecipeBookmark:key.keyboard.unknown
 key_key.jump:key.keyboard.space
 key_key.left:key.keyboard.a
 key_key.loadToolbarActivator:key.keyboard.unknown
-key_key.map_atlases.decrease_slice:key.keyboard.unknown
-key_key.map_atlases.increase_slice:key.keyboard.unknown
 key_key.map_atlases.open_minimap:key.keyboard.m
 key_key.map_atlases.place_pin:key.keyboard.unknown
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
@@ -187,6 +187,7 @@ key_key.shouldersurfing.toggle_third_person_front:key.keyboard.unknown
 key_key.smoothCamera:key.keyboard.unknown
 key_key.sneak:key.keyboard.left.alt
 key_key.socialInteractions:key.keyboard.tab:CONTROL
+key_key.solonion.open_food_book:key.keyboard.unknown
 key_key.spectatorOutlines:key.keyboard.unknown
 key_key.sprint:key.keyboard.left.shift
 key_key.stellarview.open_config_screen:key.keyboard.unknown
@@ -196,17 +197,18 @@ key_key.toggleCarriedItemTooltips:key.keyboard.unknown
 key_key.togglePerspective:key.keyboard.f5
 key_key.toggleSelectedItemTooltips:key.keyboard.unknown
 key_key.toggleVisualItemContents:key.keyboard.unknown
-key_key.trade_cycling.cycle_trades:key.keyboard.c
+key_key.trade_cycling.cycle_trades:key.keyboard.unknown
 key_key.trashslot.delete:key.keyboard.delete
 key_key.trashslot.deleteAll:key.keyboard.delete:ALT
 key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.use:key.mouse.right
+key_key.veinmining.activate.desc:key.keyboard.unknown
 key_key.voice_chat_adjust_volumes:key.keyboard.unknown
 key_key.voice_chat_group:key.keyboard.unknown
 key_key.voice_chat_settings:key.keyboard.unknown
 key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.o
+key_key.voice_chat:key.keyboard.unknown
 key_key.wands.area_diagonal_spread:key.keyboard.unknown
 key_key.wands.clear_wand:key.keyboard.unknown
 key_key.wands.inc_sel_block:key.keyboard.unknown
@@ -243,7 +245,7 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.keyboard.unknown
 key_neat.keybind.toggle:key.keyboard.unknown
-key_pneumaticcraft.armor.options:key.keyboard.g
+key_pneumaticcraft.armor.options:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.air_conditioning:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker.module.end_portal:key.keyboard.unknown
@@ -279,7 +281,6 @@ key_pneumaticcraft.boots.kick:key.keyboard.unknown
 key_pneumaticcraft.chestplate.launcher:key.keyboard.unknown
 key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
-key_supplementaries.keybind.quiver:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.n
 key_treechop.key.toggle_chopping:key.keyboard.unknown
