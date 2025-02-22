@@ -486,6 +486,18 @@ file = "config/variantsandventures.json"
 hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
 
 [[files]]
+file = "config/veinmining-client.toml"
+hash = "751e218122c98263d9de3965fde756ef502d46f582e955f290873923ace2a3d5"
+
+[[files]]
+file = "config/veinmining-common.toml"
+hash = "1366b4494e812985c94bb248e57305f1bc039057ab11dafa68bc7c1db6502975"
+
+[[files]]
+file = "config/veinmining-server.toml"
+hash = "eb71c7c90140b3d9f300d8967e91f73752f53f2d758ce81ad1ebf8857a6d16c9"
+
+[[files]]
 file = "config/visual_workbench.json"
 hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
 
@@ -2456,6 +2468,11 @@ metafile = true
 [[files]]
 file = "mods/variants-and-ventures.pw.toml"
 hash = "88a0946269b2d233d5888e566e2040d27d5f258f7fc905b5a5776c615b38ab32"
+metafile = true
+
+[[files]]
+file = "mods/vein-mining.pw.toml"
+hash = "9995c722c5e91bfa41786168d0079ffd7dd885547995feca54e8790807886603"
 metafile = true
 
 [[files]]
