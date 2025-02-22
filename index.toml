@@ -438,6 +438,10 @@ file = "config/starterkit/kits/inactive/Witch.txt"
 hash = "61484d5a235b04746cbdeca240501354f6ac39badce199ec7ed90865640e6471"
 
 [[files]]
+file = "config/stellarview-client.toml"
+hash = "e093cefd36fe0f80d0a5f9a2ed252dce03ef02cdbab492250e0a544b80e63cd9"
+
+[[files]]
 file = "config/stylisheffects-client.toml"
 hash = "693a811a7879b02b213e28a4866b69f7c1d7be935d552ed3ae4d1aa7426ebf81"
 
