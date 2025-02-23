@@ -531,7 +531,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
-hash = "5ba270a612fedc3e12a31af326563dea65bcdc58ba80e4b4ce38b7d9ccc8cbed"
+hash = "545d138df544e508b79e3b592fedb0b714d3da30f606b49c30f56ebc2537c589"
 
 [[files]]
 file = "kubejs/README.txt"

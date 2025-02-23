@@ -68,7 +68,7 @@
 	[Tools.Magnet]
 		#This sets the maximum base RF capacity for the FluxoMagnet.
 		#Range: 1000 ~ 10000000
-		"Base Capacity" = 12800
+		"Base Capacity" = 6400
 		#This sets the base RF/t transfer for the FluxoMagnet.
 		#Range: 1 ~ 10000000
 		"Base Transfer" = 1000
