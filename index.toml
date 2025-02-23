@@ -50,7 +50,7 @@ hash = "8d9d096d0f35bd651ca2aa9fc657531a1bb7794fcef6b66f0b2ea1a734ba9645"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "e3fbf686e0950e734b25446f405c6328a10163a9f2b27189a33c0d87a506b42e"
+hash = "e466816a3f9bfb7d203b00e249cfad1791a4ad189ed382b3e801a82cd2be2091"
 
 [[files]]
 file = "config/betterfortresses-forge-1_20.toml"
@@ -531,7 +531,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
-hash = "fd2fa0e53dc4743d1ca783f9317478f2e3235dc31405349b6c892837bceaf5ec"
+hash = "5ba270a612fedc3e12a31af326563dea65bcdc58ba80e4b4ce38b7d9ccc8cbed"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -2596,4 +2596,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "051689b59da9b44d3b6a41fdef16ad82eee0a8d18a2608d5d39ab1d77e963626"
+hash = "02ce205c36a7719bd2fc9cb0d5dc0e0f18a31b70f9cafa6c458339383059a962"
