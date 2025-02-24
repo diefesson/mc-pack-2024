@@ -65,6 +65,10 @@ file = "config/betteroceanmonuments-forge-1_20.toml"
 hash = "0bb334f5c52d073a53c179c6a9433ef2db99abb32394453e72206e3fbbec76ef"
 
 [[files]]
+file = "config/buildinggadgets2-common.toml"
+hash = "069c794385b6ddcaa7c1753abea1eabf7b75b4151978d1baaafe19298c2f6c36"
+
+[[files]]
 file = "config/cavespiderspawn.json5"
 hash = "8f13a4c53f9778ccda06b73b5ca124706b0963466de384c9e9cecc13ac2bce52"
 
@@ -1001,8 +1005,8 @@ hash = "a1aeb61c72d3a60486d5cf796bfd8f469633394a9cbf69cbffacfa9997776296"
 metafile = true
 
 [[files]]
-file = "mods/building-wands.pw.toml"
-hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
+file = "mods/building-gadgets.pw.toml"
+hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
 metafile = true
 
 [[files]]
@@ -1133,6 +1137,11 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
+metafile = true
+
+[[files]]
+file = "mods/crawl.pw.toml"
+hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
@@ -2457,4 +2466,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "86e17a3951364eb63fd94c6f2007c1e49505e12f8adf3329a8cc69f7c96d0385"
+hash = "159341ce7cef0d71d9f94fab1211e19f9ad79352bdefdac6275b49c8ac2366c8"
