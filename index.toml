@@ -1081,6 +1081,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/coastal-waves.pw.toml"
+hash = "f8d60b21ae032eb665522aa68cc6eae816063469aa302ce2b116fb50aaa5251a"
+metafile = true
+
+[[files]]
 file = "mods/cofh-core.pw.toml"
 hash = "2851d6afaaef7a6295ad252746fd4d200e96f7e85c24f11dca9be06ad221b41b"
 metafile = true
@@ -1223,6 +1228,11 @@ metafile = true
 [[files]]
 file = "mods/distraction-free-recipes.pw.toml"
 hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
+metafile = true
+
+[[files]]
+file = "mods/do-a-barrel-roll.pw.toml"
+hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
 metafile = true
 
 [[files]]
