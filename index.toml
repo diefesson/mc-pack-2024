@@ -137,10 +137,6 @@ file = "config/distraction_free_recipes-client.toml"
 hash = "cac1af8c3743486fab4cd555862942e471cb3f1781c6e0681d74aa4be7259ed1"
 
 [[files]]
-file = "config/double-hotbar-configs.toml"
-hash = "bef7fd3b507081800c7858a8ff783227ad357c3c53a431beae4a15678b0cbf13"
-
-[[files]]
 file = "config/embeddium++.toml"
 hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
 
@@ -221,10 +217,6 @@ file = "config/horseexpert-client.toml"
 hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
-file = "config/hotbarswapper.toml"
-hash = "0eb9ff2607d2945b6563dc54f6c91250f10cfacd9e6cd0a475931e34c84eaea3"
-
-[[files]]
 file = "config/ironjetpacks-client.toml"
 hash = "0cd96194b7acae3d3538d869ac35c879a16887b3bd30fc191b5be7b7bca6b0ff"
 
@@ -291,10 +283,6 @@ hash = "6fc72213e69f8816da5416d3bf0b88cbd037468234c484d20d1e979e98cd1cbc"
 [[files]]
 file = "config/mooshroomtweaks.json5"
 hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
-
-[[files]]
-file = "config/morezombievillagers.json5"
-hash = "b117fb93cd66a4858004c418383bf6b57197878b22c014d3aa0f64e05f0a92db"
 
 [[files]]
 file = "config/mysticalagradditions-common.toml"
@@ -373,10 +361,6 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
-file = "config/realisticbees.json5"
-hash = "7b03d2ee78b4df30300c75b25f1b71ae68b441db1033d6e71146e5cc580a60a8"
-
-[[files]]
 file = "config/ryoamiclights.toml"
 hash = "e9fb85fc053e662392259e2be4cfbeecfde150ec40922d6a32590aab5cc75274"
 
@@ -387,10 +371,6 @@ hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 [[files]]
 file = "config/shouldersurfing-client.toml"
 hash = "c1f831b4dd2c6ba5930a866ca1b31d038531ecfc2dbcbe70c155de0715b6824c"
-
-[[files]]
-file = "config/skeletonhorsespawn.json5"
-hash = "60efffeb27fafb363f5776d2b791c309d47abb6292094b9d7ac112f20e67f03a"
 
 [[files]]
 file = "config/smarterfarmers-common.toml"
@@ -515,10 +495,6 @@ hash = "d7d6ae34c63b5f10d045c16fffb6753832e81983ba52d04fd9ed40c147b8ad9d"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "8c5a795c06ccb56c1efacce44e467aee76f951e58570c567f3af6efdc1d4959c"
-
-[[files]]
-file = "config/zombiehorsespawn.json5"
-hash = "f2ae2047e8264c7b33a1f841c26713ffe3822a2d671b92169ce6fe955a7af739"
 
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
@@ -850,11 +826,6 @@ hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
-file = "mods/allurement!.pw.toml"
-hash = "a4dba57fcce3f41ba52e3ab28343b3165f021d9d363c693bed73a476769b5a85"
-metafile = true
-
-[[files]]
 file = "mods/almanac.pw.toml"
 hash = "f3c12f6320ce830c9f8f846e82c461239c14bc57a8d41940caf7bead656295f0"
 metafile = true
@@ -1035,11 +1006,6 @@ hash = "a1aeb61c72d3a60486d5cf796bfd8f469633394a9cbf69cbffacfa9997776296"
 metafile = true
 
 [[files]]
-file = "mods/breedable-killer-rabbit.pw.toml"
-hash = "ddee3e3991d6c832f7886ce49f35afe051a3061c946f4100500065feb44e2ab6"
-metafile = true
-
-[[files]]
 file = "mods/building-wands.pw.toml"
 hash = "e5ebcdd6314ddad2309c7db52a0b70f4472bf8b118c2cefe64f64193ef57af83"
 metafile = true
@@ -1160,11 +1126,6 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
-file = "mods/corgilib.pw.toml"
-hash = "5e7295ea704f3f3b001d30e67b736ba8da2221ffbf27cab3e9bb9dc413435774"
-metafile = true
-
-[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -1192,11 +1153,6 @@ metafile = true
 [[files]]
 file = "mods/crunchy-crunchy-advancements.pw.toml"
 hash = "d956483e48f170625e4dec20f42c8e009c408591d618c8426b805f3a24076022"
-metafile = true
-
-[[files]]
-file = "mods/crying-portals.pw.toml"
-hash = "e7d8c3a4b91192e6cfd7cc78207f51d35af5d9bc90e0ee223cc4b2380daf5c4b"
 metafile = true
 
 [[files]]
@@ -1272,11 +1228,6 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "1ee629d0bdb7351a28503d5592e7540836765bdb6b332cc798e8b9bd23bb6ed8"
-metafile = true
-
-[[files]]
-file = "mods/double-hotbar.pw.toml"
-hash = "38697ee4478e5dc675009630bd56562f8f06a06d621e828c0d5cb6879ba22ef3"
 metafile = true
 
 [[files]]
@@ -1395,11 +1346,6 @@ hash = "4f815d15a2c3918b1ae49851e4d743b85bbdb5bc5b32cd0c9fde14daed000cda"
 metafile = true
 
 [[files]]
-file = "mods/enhanced-celestials.pw.toml"
-hash = "d205605493bf83a641f3d865c650f0ee8962295ecc3fb674d3f294f8a05505e5"
-metafile = true
-
-[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "6047057f4da3267df6cfb7fcf09ac599b66862282eeab24915fe49aa80ec0ec9"
 metafile = true
@@ -1470,11 +1416,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/fish-on-the-line.pw.toml"
-hash = "da0ac82c8455e578151e4b0c16684fa4731228a6e76e83e551e9ab6fc677d174"
-metafile = true
-
-[[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "8a31f4f21638e830c1b99831f6b3b992e35790bc841f70ed4017a2cf45b2a5e8"
 metafile = true
@@ -1542,11 +1483,6 @@ metafile = true
 [[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "e74501466c0646d2993ef69f0aa567fb6179ba9a9f740813e14b5a04dada02f8"
-metafile = true
-
-[[files]]
-file = "mods/game-stages.pw.toml"
-hash = "b92fa7fc7fa497f034ba2a33d031101b554ddbf9db645a60a0f0fc4a9127c4e7"
 metafile = true
 
 [[files]]
@@ -1635,11 +1571,6 @@ hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
-file = "mods/hotbar-swapper.pw.toml"
-hash = "baa42341cd9a6e26cb8ac3b414dfbbc7ec1ecca7dfefbb1b8c7ae8f1da372495"
-metafile = true
-
-[[files]]
 file = "mods/ice-prevents-crop-growth.pw.toml"
 hash = "6335d9f1cef25af3e329412f116501096bb8457e923d40ba4e9757bfaddb4f1f"
 metafile = true
@@ -1672,11 +1603,6 @@ metafile = true
 [[files]]
 file = "mods/incubation.pw.toml"
 hash = "5c190b1a62a132464e35a534ec9e214d3c1ee94ea4169e93237ff5492b7fad03"
-metafile = true
-
-[[files]]
-file = "mods/infinite-trading.pw.toml"
-hash = "1d946f8d1242c153b7015a139360eaa7e0601a562a77bd1b50ecb70acbf1a456"
 metafile = true
 
 [[files]]
@@ -1875,11 +1801,6 @@ hash = "0c3cfbe3bbc72fc8edb5ecef0d1567f6dc05778648b471062894baa87410e1f7"
 metafile = true
 
 [[files]]
-file = "mods/more-zombie-villagers.pw.toml"
-hash = "0d4ca51758d8a012861e1001efe4ae64d7714507bc072c5b0c821f508a6e2c4b"
-metafile = true
-
-[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
 metafile = true
@@ -1887,16 +1808,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
-metafile = true
-
-[[files]]
-file = "mods/move-boats.pw.toml"
-hash = "e5be1d94c55ac127627b5e52362e8d52d085adf6af94edd2c1ba1d7ad997e1ce"
-metafile = true
-
-[[files]]
-file = "mods/move-minecarts.pw.toml"
-hash = "a48098cb088a91fc900ba29a0193d0a7d5e40a4e674e1eb70c46345bf80efacb"
 metafile = true
 
 [[files]]
@@ -2100,16 +2011,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/realistic-bees.pw.toml"
-hash = "caf126387f7df00f36a22f09b3d36b21b9adb6a0b292a06d2ac94c1d5b734ce9"
-metafile = true
-
-[[files]]
-file = "mods/recast.pw.toml"
-hash = "bfd59d6b69f6ed4c316643ee30325da4c7b601489489fff3564364b882a56d07"
-metafile = true
-
-[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
 metafile = true
@@ -2180,18 +2081,8 @@ hash = "a9eba3b71e598b8192e9098bd47b182559cf5fa9ca0ecdcac6e84275763387ac"
 metafile = true
 
 [[files]]
-file = "mods/skeleton-horse-spawn.pw.toml"
-hash = "5896c416f9f4479b5cad4a9c2965e1777dd9cb88e4ec223284ccb694ea366273"
-metafile = true
-
-[[files]]
 file = "mods/sleep-sooner.pw.toml"
 hash = "afdaa0ac6979135afff43ebb305e7c9f2139c0825e54777473c8ec353f901098"
-metafile = true
-
-[[files]]
-file = "mods/smaller-nether-portals.pw.toml"
-hash = "1f88e5035699ea85017fb8216613e97b555b50d11761c0139bfbaa41a4cb6121"
 metafile = true
 
 [[files]]
@@ -2202,11 +2093,6 @@ metafile = true
 [[files]]
 file = "mods/smooth-boot-reloaded.pw.toml"
 hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
-metafile = true
-
-[[files]]
-file = "mods/sophisticated-backpacks.pw.toml"
-hash = "e3cd0d863cf704e2c84f099278694729b52c2bb2e77839618b528df3705bf6bf"
 metafile = true
 
 [[files]]
@@ -2227,11 +2113,6 @@ metafile = true
 [[files]]
 file = "mods/spice-of-life-onion.pw.toml"
 hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
-metafile = true
-
-[[files]]
-file = "mods/spiders-produce-webs.pw.toml"
-hash = "2f534d4d6703ae2879c5d9e5ae15f3b27f5e53eedb466d1847c4b09ea4a56d3c"
 metafile = true
 
 [[files]]
@@ -2415,11 +2296,6 @@ hash = "7b7108d879e1e1c141b24d0d8fa268a6bbcd5c227875d156fcc62c3beec55f63"
 metafile = true
 
 [[files]]
-file = "mods/trade-cycling.pw.toml"
-hash = "ad1e2e4cc4502e515c21f3ba5116ffa8aa5a32f736dad61c0b6b2829d03e966b"
-metafile = true
-
-[[files]]
 file = "mods/trading-post.pw.toml"
 hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
 metafile = true
@@ -2510,11 +2386,6 @@ hash = "334db1bba9e1e6af615dc36bde4b4503cea7fad4e3a80028e716cee399c2be4c"
 metafile = true
 
 [[files]]
-file = "mods/weaker-spiderwebs.pw.toml"
-hash = "e2da3ddac7972690720ee00f7dbbf5f4d31ebbb67b4afac449ef93e96fdb2770"
-metafile = true
-
-[[files]]
 file = "mods/when-dungeons-arise-seven-seas.pw.toml"
 hash = "e1bec15f8a15bd6bed347f3c48aa74d0114bdc98a6bc37a501b85e5f2656c613"
 metafile = true
@@ -2580,10 +2451,5 @@ hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
 metafile = true
 
 [[files]]
-file = "mods/zombie-horse-spawn.pw.toml"
-hash = "3d2eee2161087c0f23cedda6920d282bf741302e5f3428293231ebd78f2ceb13"
-metafile = true
-
-[[files]]
 file = "options.txt"
-hash = "02ce205c36a7719bd2fc9cb0d5dc0e0f18a31b70f9cafa6c458339383059a962"
+hash = "86e17a3951364eb63fd94c6f2007c1e49505e12f8adf3329a8cc69f7c96d0385"
