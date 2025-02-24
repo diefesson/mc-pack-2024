@@ -1721,8 +1721,18 @@ hash = "bc6a2458b8337e76c0636142242ef36f75ff13e65f977fdd81bb5cc823e5b360"
 metafile = true
 
 [[files]]
+file = "mods/majruszs-accessories.pw.toml"
+hash = "f545b1b6ed0b49e284c55310f4fe8a74e663d46cf1a1ffcec733e0cdc5ce7399"
+metafile = true
+
+[[files]]
 file = "mods/majruszs-enchantments.pw.toml"
 hash = "e15076021a888aa4c0d5320c3c1bb97d5ff882b7596453b07b78cce462036178"
+metafile = true
+
+[[files]]
+file = "mods/majruszs-progressive-difficulty.pw.toml"
+hash = "dfd3ca238414939a4a9054bc933d4b5d9dfd5a306b86b898e1706cd6d66602f1"
 metafile = true
 
 [[files]]
