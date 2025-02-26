@@ -3,6 +3,8 @@ ServerEvents.recipes(event => {
 
     // Crafting
 
+    event.remove('powah:crafting/dielectric_paste')
+
     event.remove('powah:crafting/dielectric_rod')
     event.remove('powah:crafting/dielectric_rod_h')
 
