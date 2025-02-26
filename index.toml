@@ -365,6 +365,14 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
+file = "config/quarryplus-client.toml"
+hash = "128616a7b9f92dd41fd8a08f1bad4352a5ba0cfdb5f8fd22e2f2389dbbd87d11"
+
+[[files]]
+file = "config/quarryplus-common.toml"
+hash = "daa07fe588cc64d92ee3034a28f6870860eb865ad13dded0944fb8ac377e03c1"
+
+[[files]]
 file = "config/ryoamiclights.toml"
 hash = "e9fb85fc053e662392259e2be4cfbeecfde150ec40922d6a32590aab5cc75274"
 
@@ -458,7 +466,7 @@ hash = "ae1995c3bac2a03f767a2c8da6af75364f8a0fc8de6bd82334d05191d97bdc79"
 
 [[files]]
 file = "config/treechop-common.toml"
-hash = "b1c8946da870a6ba04c30b3148cb0c88efd9a60a450254239a13d351424c7bc2"
+hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
@@ -506,7 +514,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
-hash = "545d138df544e508b79e3b592fedb0b714d3da30f606b49c30f56ebc2537c589"
+hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -812,6 +820,11 @@ metafile = true
 [[files]]
 file = "mods/additional-banners.pw.toml"
 hash = "927f0d7c6a15284bc98b72c462f501abdeafce4487af46b07022931d3e7e71df"
+metafile = true
+
+[[files]]
+file = "mods/additional-enchanted-miner.pw.toml"
+hash = "21a10bdd98b9562907921b68d0a66989ae5b63b3c98cceadee7e73fff6ad166a"
 metafile = true
 
 [[files]]
@@ -2052,6 +2065,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
+metafile = true
+
+[[files]]
+file = "mods/scalable-cats-force.pw.toml"
+hash = "10438fc3a2005f321ce674bb55876b29f071ad705b3088f11b279140cb6c6cfe"
 metafile = true
 
 [[files]]
