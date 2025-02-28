@@ -202,7 +202,7 @@ hash = "5730b1cf5d43be2df813913a59d0fa3f78704fefe749123347c50e0b0ec4b171"
 
 [[files]]
 file = "config/functionalstorage/functionalstorage-common.toml"
-hash = "e646ca8ec332583e1de2c8d18d4c66a4e2f8aa55c2919d5a65063e3ec88aeb0c"
+hash = "4dedb9c7d1d93659029820e70299dfe0a74ee783674841608f5c4ab3f829aa9b"
 
 [[files]]
 file = "config/gamestages/known_stages.json"
