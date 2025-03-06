@@ -465,6 +465,14 @@ file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
 [[files]]
+file = "config/upgrade_aquatic-client.toml"
+hash = "815f751451060fcf358b949699d9fb4a171d7f85a75fffa8390fb693002d6aca"
+
+[[files]]
+file = "config/upgrade_aquatic-common.toml"
+hash = "47f9b0a90bc5b304150397b185d50efbb76c4ad47d07cdf9e63a122b5cc51238"
+
+[[files]]
 file = "config/variantsandventures.json"
 hash = "488075f69dc9f2e1853336785992293b6061b1d36c4971273b84bab97336650d"
 
@@ -507,6 +515,10 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
 hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
+
+[[files]]
+file = "emi.json"
+hash = "bf4371a5c7b2cccbe61a812e5f7ae059d9e7166706801045bd8d4455345830fb"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -578,7 +590,7 @@ hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
 [[files]]
 file = "kubejs/server_scripts/src/compass/explorers_compass.js"
-hash = "e3574a4223b98ab94077fbfc74aa45bbc8e37578456ff581ed02347f0e5df96c"
+hash = "835058dbd80594835624009d7b0aa5d896046e6b7abbf38617d36e9764ddd0dd"
 
 [[files]]
 file = "kubejs/server_scripts/src/compass/natures_compass.js"
@@ -699,6 +711,10 @@ hash = "5d427da92cd70f4d69e79b28665f07352d622a518e12f0463896ba629691ed63"
 [[files]]
 file = "kubejs/server_scripts/src/thermal/thermal_utils.js"
 hash = "f14a7ace1881cc51c5e83abb7342e0dd3aa46a9215056f265d94260f49c09a35"
+
+[[files]]
+file = "kubejs/server_scripts/src/upgrade_aquatic/recipes.js"
+hash = "3b0b419215c12bb5581692b5aa5a78129cced640568f92b09e39e07b1b158777"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"

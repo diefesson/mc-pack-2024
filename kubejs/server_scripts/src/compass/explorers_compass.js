@@ -10,7 +10,7 @@ ServerEvents.recipes(event => {
         {
 
             'a': '#minecraft:decorated_pot_sherds',
-            'b': '#minecraft:skull',
+            'b': '#forge:heads',
             'c': 'minecraft:heart_of_the_sea',
             'd': '#minecraft:trim_templates',
             'A': 'minecraft:amethyst_shard',
