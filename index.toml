@@ -1967,11 +1967,6 @@ hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
 metafile = true
 
 [[files]]
-file = "mods/scalable-cats-force.pw.toml"
-hash = "10438fc3a2005f321ce674bb55876b29f071ad705b3088f11b279140cb6c6cfe"
-metafile = true
-
-[[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
 metafile = true
