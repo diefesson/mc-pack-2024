@@ -369,6 +369,10 @@ file = "config/pneumaticcraft/thirdparty.cfg"
 hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
+file = "config/powah.json5"
+hash = "87c34de08e7631862b94f1a49cacf45d38da159772daf9aece602b7d02213fde"
+
+[[files]]
 file = "config/prettyrain.json5"
 hash = "296e458f6d249eb09e69685077d38f6c67251c51f22cf14822793098364b462c"
 
@@ -2270,11 +2274,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "334db1bba9e1e6af615dc36bde4b4503cea7fad4e3a80028e716cee399c2be4c"
-metafile = true
-
-[[files]]
-file = "mods/wireless-chargers.pw.toml"
-hash = "2e7aa64dac7ab7bb6c5a4f4bc5477b6904002032257cfafb06dbfd64f540fd39"
 metafile = true
 
 [[files]]
