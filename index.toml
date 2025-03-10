@@ -650,7 +650,11 @@ hash = "bb076ba93f2c14798e7b88bba325a200f640595793233e266d0e04bce0e57fba"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
-hash = "14335af1c89055c0cb59248daac93a9bc51509612f92369c031faacd10e52509"
+hash = "ec27b7c9e48f8522c4438930e9e372691f4bb79ea5e2b6c365be32493a7c67b9"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
+hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
 
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/craftable_heads.js"
@@ -1419,11 +1423,6 @@ hash = "5f4e3fdc30e27bdb602e202d054a4984663fbd23cb264ac64651baf440b9e58a"
 metafile = true
 
 [[files]]
-file = "mods/gilded-sherds.pw.toml"
-hash = "bbfeea88d6b33d3ec14f03ad31e83021876550f6968d6e75d6c020efd06e91b6"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
@@ -1971,11 +1970,6 @@ metafile = true
 [[files]]
 file = "mods/selene.pw.toml"
 hash = "834f90fa134d284524222d08e209d88b469f1c39899572e84613ead42060ff1a"
-metafile = true
-
-[[files]]
-file = "mods/sherd-duplication.pw.toml"
-hash = "5f38189eeb1db82a8e23ae70e82137d71bf86279222ebe9451021b9cd6999041"
 metafile = true
 
 [[files]]

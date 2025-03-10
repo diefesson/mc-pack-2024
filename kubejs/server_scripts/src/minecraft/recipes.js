@@ -4,5 +4,4 @@ ServerEvents.recipes(event => {
         Item.of('minecraft:compass'),
         Item.of('minecraft:black_dye')
     )
-    event.remove({id: "minecraft:bread"})
 })
