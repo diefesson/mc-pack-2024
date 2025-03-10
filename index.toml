@@ -654,7 +654,7 @@ hash = "bb076ba93f2c14798e7b88bba325a200f640595793233e266d0e04bce0e57fba"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
-hash = "ec27b7c9e48f8522c4438930e9e372691f4bb79ea5e2b6c365be32493a7c67b9"
+hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
@@ -706,7 +706,7 @@ hash = "35a8d6ceed6c50ce6c8f2f522cc8bc91ca97d691b83ac11e73050a21281a2864"
 
 [[files]]
 file = "kubejs/server_scripts/src/powah/recipes.js"
-hash = "620c2c733238b689069a2245fe262fd2a4e9e32962c325301ff4afbfcf5efe64"
+hash = "f70c39308c993ad44c0710820e2f1ff60d973388257183c927040f8d4d48cbfb"
 
 [[files]]
 file = "kubejs/server_scripts/src/regions_unexplored/recipes.js"
@@ -729,12 +729,16 @@ file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
 
 [[files]]
+file = "kubejs/server_scripts/src/thermal/powah.js"
+hash = "cb7ed98397ba10574cfbb22b00fdb9ea6e4fc40432bc782ed9e74895efde89b3"
+
+[[files]]
 file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
 hash = "5d427da92cd70f4d69e79b28665f07352d622a518e12f0463896ba629691ed63"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/thermal_utils.js"
-hash = "f14a7ace1881cc51c5e83abb7342e0dd3aa46a9215056f265d94260f49c09a35"
+hash = "ed9edc8489b43c02ab95bf4a23f513ea20f1ee54c49dc2c7553dbb204b3207b7"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/recipes.js"

@@ -30,6 +30,20 @@ const ThermalUtils = {
     /**
      * 
      * @param {$OutputItem_} result 
+     * @param {$InputItem_[]} ingredients 
+     */
+    smelter_alloy(result, ingredients) {
+        this.event.custom({
+            type: 'thermal:smelter',
+            ingredients: ingredients,
+            result: result,
+            experience: 0.5
+        })
+    },
+
+    /**
+     * 
+     * @param {$OutputItem_} result 
      * @param {$InputItem_} input 
      * @param {$InputItem_} die 
      */
