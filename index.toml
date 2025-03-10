@@ -529,6 +529,10 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
+file = "defaultconfigs/magnumtorch-server.toml"
+hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
+
+[[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "357d15460036ba45c417f74fedee6ba5397292453d074325c76ebc3307f86296"
 
@@ -903,11 +907,6 @@ metafile = true
 [[files]]
 file = "mods/better-clouds.pw.toml"
 hash = "39ac47983e2ab30d032bd76128ed8811615833de6ad81ba762124c36b1de180c"
-metafile = true
-
-[[files]]
-file = "mods/better-spawner-control.pw.toml"
-hash = "a9baabd7b6fe243c0943ca191221fc8091657b5b0a44deedc3cbe99c5bf088b4"
 metafile = true
 
 [[files]]
