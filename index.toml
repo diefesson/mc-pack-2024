@@ -734,7 +734,7 @@ hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/powah.js"
-hash = "cb7ed98397ba10574cfbb22b00fdb9ea6e4fc40432bc782ed9e74895efde89b3"
+hash = "9ebb736611b11771af63ecc1839f87d05fd9d253f2e72003af7c102472f071a9"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"

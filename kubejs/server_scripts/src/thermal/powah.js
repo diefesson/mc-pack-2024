@@ -10,9 +10,9 @@ ServerEvents.recipes(event => {
     ThermalUtils.smelter_alloy(
         Item.of('powah:dielectric_paste', 4),
         [
-            Item.of('#minecraft:coals', 2),
-            Item.of('minecraft:clay_ball', 1),
-            Item.of('minecraft:quartz', 4)
+            { tag: 'minecraft:coals', count: 2 },
+            { item: 'minecraft:clay_ball', count: 1 },
+            { item: 'minecraft:quartz', count: 2 }
         ]
     )
 })
