@@ -741,6 +741,10 @@ file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
 hash = "5d427da92cd70f4d69e79b28665f07352d622a518e12f0463896ba629691ed63"
 
 [[files]]
+file = "kubejs/server_scripts/src/thermal/tags.js"
+hash = "bdbe1a52644012069de20bda8bbed2f16ac366ccd8e383c444de43dc39eb2608"
+
+[[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/recipes.js"
 hash = "3b0b419215c12bb5581692b5aa5a78129cced640568f92b09e39e07b1b158777"
 
