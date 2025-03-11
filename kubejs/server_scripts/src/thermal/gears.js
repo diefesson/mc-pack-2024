@@ -22,9 +22,4 @@ ServerEvents.recipes(event => {
         Ingredient.of('#forge:ingots/iron'),
         Ingredient.of('#forge:gears/copper')
     )
-
-    // Remove IF gear recipes
-    event.remove({ id: 'industrialforegoing:gold_gear' })
-    event.remove({ id: 'industrialforegoing:iron_gear' })
-    event.remove({ id: 'industrialforegoing:diamond_gear' })
 })
