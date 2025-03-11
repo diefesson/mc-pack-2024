@@ -525,6 +525,10 @@ file = "defaultconfigs/archers_paradox-server.toml"
 hash = "a2e298d4792680a6598b2527dc8d8e03a7b7ce71218a4ed6fc77337be2460c49"
 
 [[files]]
+file = "defaultconfigs/consecration-server.toml"
+hash = "29237109f2e1289b2ea27f003f8f822061f0df460be87c8a57d3caed2f526274"
+
+[[files]]
 file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
