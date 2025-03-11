@@ -538,7 +538,7 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "357d15460036ba45c417f74fedee6ba5397292453d074325c76ebc3307f86296"
+hash = "5ba8e7f72244372294fbff1558f7e1c0ee85f851c6d297d729cdc440b2252c6f"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
