@@ -346,7 +346,7 @@ hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "874270f2c5d1983bcb347d66d666d0fafb8e23ba4695042556a9d03c4eb13966"
+hash = "742a5ddd08e3a1484322086d5ffc8ca937fb2bff70f90f4ca5b09e8f2092f28c"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
@@ -719,6 +719,10 @@ hash = "15ad16e2f437b3b7e5ad6fe3e81c2da1e573497592a1c8b72eb552aa7e4b5a26"
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/spawner_zombies.js"
 hash = "fb90f43f2a3670fb4b2942c0900984548f3b364b1b87d7bccf374ecabbd967c2"
+
+[[files]]
+file = "kubejs/server_scripts/src/powah/ammo.js"
+hash = "33b86d72c76ca4023d9c5021fff1f9f2c3cfd6c1ac045f0d7b67a4e74f38d88a"
 
 [[files]]
 file = "kubejs/server_scripts/src/powah/recipes.js"

@@ -217,7 +217,7 @@
 	incendiary_ammo_fire_duration = 8
 	#Percentage chance per shot of potion-tipped ammo proc'ing the potion effect, before Dispenser Upgrades are considered
 	#Range: 1 ~ 100
-	potion_proc_chance = 7
+	potion_proc_chance = 70
 	#Standard Ammo cartridge size
 	#Range: 1 ~ 30000
 	standard_ammo_cartridge_size = 1000
