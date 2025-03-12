@@ -77,10 +77,6 @@ file = "config/betterstrongholds-forge-1_20.toml"
 hash = "2e9c9d71e1f2ebcc7065fa6bb09f9b3b97e4cf0bb78067182faf56d1fc14886d"
 
 [[files]]
-file = "config/buildinggadgets2-common.toml"
-hash = "069c794385b6ddcaa7c1753abea1eabf7b75b4151978d1baaafe19298c2f6c36"
-
-[[files]]
 file = "config/chalk-client.toml"
 hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 
@@ -958,11 +954,6 @@ hash = "a1aeb61c72d3a60486d5cf796bfd8f469633394a9cbf69cbffacfa9997776296"
 metafile = true
 
 [[files]]
-file = "mods/building-gadgets.pw.toml"
-hash = "8461b7344559646b5051a6d812e2cd4d43e62c8c817d17f0b2552f65306f43d4"
-metafile = true
-
-[[files]]
 file = "mods/buzzier-bees.pw.toml"
 hash = "86aec83567cb69fb2eabc1d0b1e03b97ed3c290bb3b119144b7ea1857b7bd734"
 metafile = true
@@ -1660,11 +1651,6 @@ metafile = true
 [[files]]
 file = "mods/majruszs-enchantments.pw.toml"
 hash = "e15076021a888aa4c0d5320c3c1bb97d5ff882b7596453b07b78cce462036178"
-metafile = true
-
-[[files]]
-file = "mods/majruszs-progressive-difficulty.pw.toml"
-hash = "dfd3ca238414939a4a9054bc933d4b5d9dfd5a306b86b898e1706cd6d66602f1"
 metafile = true
 
 [[files]]
