@@ -63,10 +63,7 @@ key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
-key_key.buildinggadgets2.anchor:key.keyboard.unknown
-key_key.buildinggadgets2.range:key.keyboard.unknown
-key_key.buildinggadgets2.settings_menu:key.keyboard.z
-key_key.buildinggadgets2.undo:key.keyboard.unknown
+key_key.biomancy.item_default:key.keyboard.x
 key_key.chat:key.keyboard.t
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -93,7 +90,6 @@ key_key.crawl:key.keyboard.c
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
-key_key.disable_voice_chat:key.keyboard.unknown
 key_key.do_a_barrel_roll.open_config:key.keyboard.unknown
 key_key.do_a_barrel_roll.pitch_down:key.keyboard.unknown
 key_key.do_a_barrel_roll.pitch_up:key.keyboard.unknown
@@ -114,7 +110,6 @@ key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
-key_key.hide_icons:key.keyboard.unknown
 key_key.hotbar.1:key.keyboard.1
 key_key.hotbar.2:key.keyboard.2
 key_key.hotbar.3:key.keyboard.3
@@ -171,11 +166,9 @@ key_key.map_atlases.place_pin:key.keyboard.unknown
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
 key_key.modernfix.config:key.keyboard.unknown
-key_key.mute_microphone:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
-key_key.push_to_talk:key.keyboard.unknown
 key_key.right:key.keyboard.d
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
@@ -211,12 +204,6 @@ key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.use:key.mouse.right
 key_key.veinmining.activate.desc:key.keyboard.unknown
-key_key.voice_chat_adjust_volumes:key.keyboard.unknown
-key_key.voice_chat_group:key.keyboard.unknown
-key_key.voice_chat_settings:key.keyboard.unknown
-key_key.voice_chat_toggle_recording:key.keyboard.unknown
-key_key.voice_chat:key.keyboard.unknown
-key_key.whisper:key.keyboard.unknown
 key_keybind.ironjetpacks.ascend:key.keyboard.unknown
 key_keybind.ironjetpacks.decrement_throttle:key.keyboard.comma
 key_keybind.ironjetpacks.descend:key.keyboard.unknown

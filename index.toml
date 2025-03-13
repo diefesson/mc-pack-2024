@@ -725,8 +725,24 @@ file = "kubejs/server_scripts/src/powah/recipes.js"
 hash = "f70c39308c993ad44c0710820e2f1ff60d973388257183c927040f8d4d48cbfb"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/progression.js"
-hash = "5d548d932df8a4a97b7c74e94dca0c89e37b2df600ec71712eba15284f2ace5d"
+file = "kubejs/server_scripts/src/progression/ae2.js"
+hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/computerccraft.js"
+hash = "67e843c6471c18b76c3f4b36f2e631a9a9e6916196bd6cbf1fe99bd87234c864"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
+hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/powah.js"
+hash = "54ba57395deec13484aec8fccdc21ea829ce1fd34e4e60386e2e83168d667484"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/thermal.js"
+hash = "75075f17c8b4e8641a77996d7c5b23f35d896b0a080f5e75d274fb0140b7633f"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/arrows.js"
@@ -926,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/biolith.pw.toml"
 hash = "c974335a418baf785d99b096e55a6b4c252f3ae604699f76d1513fca4959ddbe"
+metafile = true
+
+[[files]]
+file = "mods/biomancy.pw.toml"
+hash = "9645745c65db24bd944b638a3672c20b6af3564e80b32110968ade12134f1119"
 metafile = true
 
 [[files]]
@@ -2340,4 +2361,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "159341ce7cef0d71d9f94fab1211e19f9ad79352bdefdac6275b49c8ac2366c8"
+hash = "5932325500ca8b7a7826a41222cc12a10fc666aa7f3e852844ba0f0c012c445a"
