@@ -266,7 +266,7 @@ hash = "54922c84b352b22a19c9d2c1f2f236851778bc9903aa21a858c84e221bff8987"
 
 [[files]]
 file = "config/lmft.json"
-hash = "4846032c4ea16277b5ba5622f77017472c15b6b23a60fc144c3e2959f91f6ee9"
+hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -966,6 +966,11 @@ metafile = true
 [[files]]
 file = "mods/camera-overhaul-reforged.pw.toml"
 hash = "8381957fa2d1a7802ff081197bac6c90bd1c5794e51fd906b66f65e8aef2498b"
+metafile = true
+
+[[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
 
 [[files]]
@@ -1694,6 +1699,11 @@ hash = "29041e78527889177a50e81a316729770a4d954b90abdcd52ab170f7d7d8e59d"
 metafile = true
 
 [[files]]
+file = "mods/miners-delight.pw.toml"
+hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
+metafile = true
+
+[[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
 metafile = true
@@ -1926,6 +1936,11 @@ metafile = true
 [[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
+metafile = true
+
+[[files]]
+file = "mods/redstonepen.pw.toml"
+hash = "19fcc41d4a5c2e4efbe9827317443ce3f6484b8d27cdf9686443e0774b990ec1"
 metafile = true
 
 [[files]]
