@@ -542,7 +542,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "bf4371a5c7b2cccbe61a812e5f7ae059d9e7166706801045bd8d4455345830fb"
+hash = "725cd56039edceb5cd9887dfc8458eef72fd81c6ceac66abfbf33632bec1bd44"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -673,6 +673,10 @@ file = "kubejs/server_scripts/src/loot/chest_ingots.js"
 hash = "bbef8ad67d2fd5187ce7bd1471cd1f7acdf82a397251cf62e666f4576d864596"
 
 [[files]]
+file = "kubejs/server_scripts/src/mffs/recipes.js"
+hash = "b56f84f99eca7715661b9d59ad00c00cb504e59bfee59dd8cb248f8887373a44"
+
+[[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
 hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
 
@@ -743,6 +747,10 @@ hash = "54ba57395deec13484aec8fccdc21ea829ce1fd34e4e60386e2e83168d667484"
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
 hash = "75075f17c8b4e8641a77996d7c5b23f35d896b0a080f5e75d274fb0140b7633f"
+
+[[files]]
+file = "kubejs/server_scripts/src/projectred/recipes.js"
+hash = "f7f4c8a0f6b089e1610307ebdcbebc886725842dea48587e4fe683eb23084b38"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/arrows.js"
@@ -990,6 +998,11 @@ hash = "8381957fa2d1a7802ff081197bac6c90bd1c5794e51fd906b66f65e8aef2498b"
 metafile = true
 
 [[files]]
+file = "mods/cb-multipart.pw.toml"
+hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
+metafile = true
+
+[[files]]
 file = "mods/cc-tweaked.pw.toml"
 hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
 metafile = true
@@ -1047,6 +1060,11 @@ metafile = true
 [[files]]
 file = "mods/coastal-waves.pw.toml"
 hash = "f8d60b21ae032eb665522aa68cc6eae816063469aa302ce2b116fb50aaa5251a"
+metafile = true
+
+[[files]]
+file = "mods/codechicken-lib.pw.toml"
+hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -1720,6 +1738,11 @@ hash = "29041e78527889177a50e81a316729770a4d954b90abdcd52ab170f7d7d8e59d"
 metafile = true
 
 [[files]]
+file = "mods/mffs.pw.toml"
+hash = "0180795ee0b19a9e9135f17e24e5a1f5536e634d72ebddbdd98a91a8fa1cb79b"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
@@ -1937,6 +1960,31 @@ metafile = true
 [[files]]
 file = "mods/probejs.pw.toml"
 hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
+metafile = true
+
+[[files]]
+file = "mods/project-red-core.pw.toml"
+hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
+metafile = true
+
+[[files]]
+file = "mods/project-red-fabrication.pw.toml"
+hash = "1d01d7d104933f1d0ad40f9d724878ba03298997cc59d6f9a663a7d5ec525d92"
+metafile = true
+
+[[files]]
+file = "mods/project-red-illumination.pw.toml"
+hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
+metafile = true
+
+[[files]]
+file = "mods/project-red-integration.pw.toml"
+hash = "b0a4ca3cdbe9ab4053ef54ce4f5d7e469f5a497a604cc77058fbf696cd046eab"
+metafile = true
+
+[[files]]
+file = "mods/project-red-transmission.pw.toml"
+hash = "e6c5f38520d769480f93166813079420a497c36f3130524cc48e3280d3d81d65"
 metafile = true
 
 [[files]]
@@ -2361,4 +2409,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "5932325500ca8b7a7826a41222cc12a10fc666aa7f3e852844ba0f0c012c445a"
+hash = "afb2d84963d5654a8da8a6f512f1c460a2abe23fa16e0b1a3ea21c4367e7589e"

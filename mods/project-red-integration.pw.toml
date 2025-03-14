@@ -1,0 +1,13 @@
+name = "Project Red Integration"
+filename = "ProjectRed-1.20.1-4.20.1-beta+4-integration.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3JruZJb0/versions/E84TtcVp/ProjectRed-1.20.1-4.20.1-beta%2B4-integration.jar"
+hash-format = "sha512"
+hash = "7998a630b4468c6e182443eebc81e07a708ac2afd15d9facf95d4ed14f093d8a25994d63c59ebc0ded479c3374d10f90d01b95bc2d80ad60f7fee58c4675059f"
+
+[update]
+[update.modrinth]
+mod-id = "3JruZJb0"
+version = "E84TtcVp"

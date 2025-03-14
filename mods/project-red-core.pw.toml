@@ -1,0 +1,13 @@
+name = "Project Red Core"
+filename = "ProjectRed-1.20.1-4.20.1-beta+4-core.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/zIlxygxr/versions/HGlkHORe/ProjectRed-1.20.1-4.20.1-beta%2B4-core.jar"
+hash-format = "sha512"
+hash = "e667183174550f7a1e3b2160a3719a3659d065ff32f3bfdfbffce88a0bd6f7e9a8d90044d583bf3d5cf7c67adb6c92a3828b245375a0dc9f1be34513b60bd50f"
+
+[update]
+[update.modrinth]
+mod-id = "zIlxygxr"
+version = "HGlkHORe"

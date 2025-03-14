@@ -1,0 +1,13 @@
+name = "Project Red Transmission"
+filename = "ProjectRed-1.20.1-4.20.1-beta+4-transmission.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/wpqfuilx/ProjectRed-1.20.1-4.20.1-beta%2B4-transmission.jar"
+hash-format = "sha512"
+hash = "f46fad1dda605b66ecbe5225c290a2693f751d57eae839f0d2f058a6969d68c272adb23e72ff0ae3c53b62ce0e388df79714bb3e197fd30dfc2fa6ffb3a703bd"
+
+[update]
+[update.modrinth]
+mod-id = "dXmH4rEw"
+version = "wpqfuilx"

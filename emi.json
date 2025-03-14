@@ -25,6 +25,17 @@
     "item:upgrade_aquatic:blue_bedroll",
     "item:upgrade_aquatic:purple_bedroll",
     "item:upgrade_aquatic:magenta_bedroll",
-    "item:upgrade_aquatic:pink_bedroll"
+    "item:upgrade_aquatic:pink_bedroll",
+    "item:projectred_core:peridot",
+    "item:projectred_core:electrotine_silicon_comp",
+    "item:projectred_core:electrotine_silicon",
+    "item:projectred_core:copper_coil",
+    "item:projectred_core:iron_coil",
+    "item:projectred_core:gold_coil",
+    "item:projectred_core:motor",
+    "item:projectred_core:woven_cloth",
+    "item:projectred_core:sail",
+    "item:projectred_core:draw_plate{Damage:0}",
+    "item:mffs:steel_compound"
   ]
 }

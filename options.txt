@@ -71,6 +71,7 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.cofh.mode_change_decrement:key.keyboard.b
 key_key.cofh.mode_change_increment:key.keyboard.v
 key_key.command:key.keyboard.unknown
+key_key.control:key.keyboard.left.control
 key_key.craftingtweaks.balance:key.keyboard.unknown
 key_key.craftingtweaks.clear:key.keyboard.unknown
 key_key.craftingtweaks.compress_all:key.keyboard.unknown
