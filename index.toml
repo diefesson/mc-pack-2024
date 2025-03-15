@@ -5,6 +5,10 @@ file = "config/HorseBuff.toml"
 hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
 
 [[files]]
+file = "config/ProjectRed.cfg"
+hash = "ea0f22d36c956cf48282be0dd3175760ee9282f23b224e3bbce45e1d390ac01d"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -279,6 +283,14 @@ hash = "6761274b4008d3d96bd3238ed9b265aa862e034bdf2b2ec4da6d0c3b8e41cc50"
 [[files]]
 file = "config/measurements-client.toml"
 hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
+
+[[files]]
+file = "config/mffs-client.toml"
+hash = "f30c46224e22f58c8d4684e03c4ed31f5081b66cd934480a48f31081c67f806a"
+
+[[files]]
+file = "config/mffs-common.toml"
+hash = "d32adf28e54afe932ed8f51d80299eed94d6cfedab8264638f684589ba946300"
 
 [[files]]
 file = "config/mooshroomspawn.json5"
