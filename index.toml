@@ -378,7 +378,7 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/powah.json5"
-hash = "87c34de08e7631862b94f1a49cacf45d38da159772daf9aece602b7d02213fde"
+hash = "ff1e15064472030be6068a365ed15e0e408f63f2f42f5acdc5f81acdd3493385"
 
 [[files]]
 file = "config/prettyrain.json5"
@@ -554,7 +554,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "725cd56039edceb5cd9887dfc8458eef72fd81c6ceac66abfbf33632bec1bd44"
+hash = "6473dbf8240670c5f586be25f6c5bd9a2563604772911810fdda867e9591ccb0"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -733,7 +733,7 @@ file = "kubejs/server_scripts/src/mysticalagriculture/spawner_zombies.js"
 hash = "fb90f43f2a3670fb4b2942c0900984548f3b364b1b87d7bccf374ecabbd967c2"
 
 [[files]]
-file = "kubejs/server_scripts/src/powah/ammo.js"
+file = "kubejs/server_scripts/src/pneumaticraft/ammo.js"
 hash = "33b86d72c76ca4023d9c5021fff1f9f2c3cfd6c1ac045f0d7b67a4e74f38d88a"
 
 [[files]]
@@ -754,15 +754,19 @@ hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/powah.js"
-hash = "54ba57395deec13484aec8fccdc21ea829ce1fd34e4e60386e2e83168d667484"
+hash = "28a7a886cf93871cd974551898c8e1ceda9c806193972a149b7919e5bd04ab72"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "75075f17c8b4e8641a77996d7c5b23f35d896b0a080f5e75d274fb0140b7633f"
+hash = "47b02e7970622ed9fe98feb6cfeaa262bb03512deeb34f46d8e5e7b2791233cd"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/recipes.js"
 hash = "f7f4c8a0f6b089e1610307ebdcbebc886725842dea48587e4fe683eb23084b38"
+
+[[files]]
+file = "kubejs/server_scripts/src/sophisticatedstorage/recipes.js"
+hash = "35e0f3b9370299911eafd8b8efb8a94d85356ccf252b576991b167c5ef0377c6"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/arrows.js"

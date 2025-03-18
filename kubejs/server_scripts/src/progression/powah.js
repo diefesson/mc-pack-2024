@@ -2,17 +2,17 @@ ServerEvents.recipes(event => {
     ThermalUtils.setup(event)
 
     // Thermal (Machine Stage) => Powah
-    // Dielectric Paste is produced on Induction Smelter
+    // Dielectric Paste is produced using dusts
 
     event.remove('powah:crafting/dielectric_paste')
     event.remove('powah:crafting/dielectric_paste_2')
 
-    ThermalUtils.smelter_alloy(
-        Item.of('powah:dielectric_paste', 4),
+    event.shapeless(
+        '8x powah:dielectric_paste',
         [
-            { item: 'minecraft:amethyst', count: 2 },
-            { item: 'minecraft:clay_ball', count: 1 },
-            { item: 'minecraft:quartz', count: 2 }
+            '#forge:dusts/obsidian',
+            '#forge:dusts/lead',
+            'minecraft:clay_ball'
         ]
     )
 
