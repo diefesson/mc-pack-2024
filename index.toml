@@ -285,14 +285,6 @@ file = "config/measurements-client.toml"
 hash = "225740e9e6c866240629cdd0b584a4278462eea1e8bdf1ec88ec42651248270b"
 
 [[files]]
-file = "config/mffs-client.toml"
-hash = "f30c46224e22f58c8d4684e03c4ed31f5081b66cd934480a48f31081c67f806a"
-
-[[files]]
-file = "config/mffs-common.toml"
-hash = "d32adf28e54afe932ed8f51d80299eed94d6cfedab8264638f684589ba946300"
-
-[[files]]
 file = "config/mooshroomspawn.json5"
 hash = "6fc72213e69f8816da5416d3bf0b88cbd037468234c484d20d1e979e98cd1cbc"
 
@@ -554,7 +546,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "6473dbf8240670c5f586be25f6c5bd9a2563604772911810fdda867e9591ccb0"
+hash = "c3343a8b369c44ab183fb894e58ca810ffccc311c28338908051dabb8ed7612c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -683,10 +675,6 @@ hash = "15d7884939d51d013c1b4d061e0e846e7d85ba6bce258ad2779e14d30f8573da"
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_ingots.js"
 hash = "bbef8ad67d2fd5187ce7bd1471cd1f7acdf82a397251cf62e666f4576d864596"
-
-[[files]]
-file = "kubejs/server_scripts/src/mffs/recipes.js"
-hash = "b56f84f99eca7715661b9d59ad00c00cb504e59bfee59dd8cb248f8887373a44"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
@@ -1751,11 +1739,6 @@ metafile = true
 [[files]]
 file = "mods/mes-moogs-end-structures.pw.toml"
 hash = "29041e78527889177a50e81a316729770a4d954b90abdcd52ab170f7d7d8e59d"
-metafile = true
-
-[[files]]
-file = "mods/mffs.pw.toml"
-hash = "0180795ee0b19a9e9135f17e24e5a1f5536e634d72ebddbdd98a91a8fa1cb79b"
 metafile = true
 
 [[files]]
