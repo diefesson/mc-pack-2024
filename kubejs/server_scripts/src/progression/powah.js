@@ -1,5 +1,6 @@
 ServerEvents.recipes(event => {
     ThermalUtils.setup(event)
+    PowahUtils.setup(event)
 
     // Thermal (Machine Stage) => Powah
     // Dielectric Paste is produced using dusts
@@ -37,4 +38,16 @@ ServerEvents.recipes(event => {
             'pneumaticcraft:plastic'
         )
     }
+
+    // Powah Ender Core requires Applied Energistics 2 Singularity
+    event.remove('powah:energizing/ender_core')
+
+    PowahUtils.energizing(
+        Item.of('powah:ender_core'),
+        [
+            Item.of('minecraft:ender_eye'),
+            Item.of('ae2:singularity'),
+        ],
+        50000
+    )
 })
