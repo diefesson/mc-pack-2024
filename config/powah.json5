@@ -31,7 +31,7 @@
 			"minecraft:lava": 500
 		},
 		// Energy produced per fuel tick in the Furnator.
-		"energy_per_fuel_tick": 30,
+		"energy_per_fuel_tick": 15,
 		"energizing_range": 4,
 		/* Multiplier to the required energy applied after an energizing recipe is read.
 		   Use this to adjust the cost of ALL energizing recipes.

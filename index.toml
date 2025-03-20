@@ -370,7 +370,7 @@ hash = "8a456f5bdac4e667bea52c6b0027aa43aa13401b8783b4a95d2ae28bdbee7ced"
 
 [[files]]
 file = "config/powah.json5"
-hash = "ff1e15064472030be6068a365ed15e0e408f63f2f42f5acdc5f81acdd3493385"
+hash = "4c0f27cfd1f7a1dcfed5a95a02e1e04c7977de283c8a45d33ff1e44e33fea53d"
 
 [[files]]
 file = "config/prettyrain.json5"
