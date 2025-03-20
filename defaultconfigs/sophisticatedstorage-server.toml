@@ -14,7 +14,7 @@
 		inventorySlotCount = 27
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Copper Barrel Settings
 	[server.CopperBarrel]
@@ -41,7 +41,7 @@
 		inventorySlotCount = 81
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Diamond Barrel Settings
 	[server.DiamondBarrel]
@@ -50,7 +50,7 @@
 		inventorySlotCount = 99
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Netherite Barrel Settings
 	[server.NetheriteBarrel]
@@ -59,7 +59,7 @@
 		inventorySlotCount = 117
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Limited Barrel I Settings
 	[server.LimitedBarrelI]
@@ -68,7 +68,7 @@
 		baseSlotLimitMultiplier = 24
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Limited Copper Barrel I Settings
 	[server.LimitedCopperBarrelI]
@@ -95,7 +95,7 @@
 		baseSlotLimitMultiplier = 60
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Diamond Barrel I Settings
 	[server.LimitedDiamondBarrelI]
@@ -104,7 +104,7 @@
 		baseSlotLimitMultiplier = 72
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Netherite Barrel I Settings
 	[server.LimitedNetheriteBarrelI]
@@ -113,7 +113,7 @@
 		baseSlotLimitMultiplier = 84
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Limited Barrel II Settings
 	[server.LimitedBarrelII]
@@ -122,7 +122,7 @@
 		baseSlotLimitMultiplier = 12
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Limited Copper Barrel II Settings
 	[server.LimitedCopperBarrelII]
@@ -149,7 +149,7 @@
 		baseSlotLimitMultiplier = 30
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Diamond Barrel II Settings
 	[server.LimitedDiamondBarrelII]
@@ -158,7 +158,7 @@
 		baseSlotLimitMultiplier = 36
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Netherite Barrel II Settings
 	[server.LimitedNetheriteBarrelII]
@@ -167,7 +167,7 @@
 		baseSlotLimitMultiplier = 42
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Limited Barrel III Settings
 	[server.LimitedBarrelIII]
@@ -176,7 +176,7 @@
 		baseSlotLimitMultiplier = 8
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Limited Copper Barrel III Settings
 	[server.LimitedCopperBarrelIII]
@@ -203,7 +203,7 @@
 		baseSlotLimitMultiplier = 20
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Diamond Barrel III Settings
 	[server.LimitedDiamondBarrelIII]
@@ -212,7 +212,7 @@
 		baseSlotLimitMultiplier = 24
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Netherite Barrel III Settings
 	[server.LimitedNetheriteBarrelIII]
@@ -221,7 +221,7 @@
 		baseSlotLimitMultiplier = 28
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Limited Barrel IV Settings
 	[server.LimitedBarrelIV]
@@ -230,7 +230,7 @@
 		baseSlotLimitMultiplier = 6
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Limited Copper Barrel IV Settings
 	[server.LimitedCopperBarrelIV]
@@ -257,7 +257,7 @@
 		baseSlotLimitMultiplier = 15
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Diamond Barrel IV Settings
 	[server.LimitedDiamondBarrelIV]
@@ -266,7 +266,7 @@
 		baseSlotLimitMultiplier = 18
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Limited Netherite Barrel IV Settings
 	[server.LimitedNetheriteBarrelIV]
@@ -275,7 +275,7 @@
 		baseSlotLimitMultiplier = 21
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Wood Chest Settings
 	[server.WoodChest]
@@ -284,7 +284,7 @@
 		inventorySlotCount = 27
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 0
+		upgradeSlotCount = 1
 
 	#Copper Chest Settings
 	[server.CopperChest]
@@ -311,7 +311,7 @@
 		inventorySlotCount = 81
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Diamond Chest Settings
 	[server.DiamondChest]
@@ -320,7 +320,7 @@
 		inventorySlotCount = 99
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Netherite Chest Settings
 	[server.NetheriteChest]
@@ -329,7 +329,7 @@
 		inventorySlotCount = 117
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Shulker Box Settings
 	[server.ShulkerBox]
@@ -356,7 +356,7 @@
 		inventorySlotCount = 45
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 2
+		upgradeSlotCount = 1
 
 	#Gold Shulker Box Settings
 	[server.GoldShulkerBox]
@@ -365,7 +365,7 @@
 		inventorySlotCount = 54
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 3
+		upgradeSlotCount = 1
 
 	#Diamond Shulker Box Settings
 	[server.DiamondShulkerBox]
@@ -374,7 +374,7 @@
 		inventorySlotCount = 63
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 4
+		upgradeSlotCount = 1
 
 	#Netherite Shulker Box Settings
 	[server.NetheriteShulkerBox]
@@ -383,7 +383,7 @@
 		inventorySlotCount = 72
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
-		upgradeSlotCount = 5
+		upgradeSlotCount = 1
 
 	[server.shulkerBoxDisallowedItems]
 		#List of items that are not allowed to be put in shulkerboxes - e.g. "minecraft:bundle"

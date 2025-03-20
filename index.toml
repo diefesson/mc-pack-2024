@@ -538,7 +538,7 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "5ba8e7f72244372294fbff1558f7e1c0ee85f851c6d297d729cdc440b2252c6f"
+hash = "cd1e8e3273a1ab625c899296a97832998466e4e6f70dfd43822b91acefd45af3"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
@@ -754,7 +754,7 @@ hash = "f7f4c8a0f6b089e1610307ebdcbebc886725842dea48587e4fe683eb23084b38"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/recipes.js"
-hash = "35e0f3b9370299911eafd8b8efb8a94d85356ccf252b576991b167c5ef0377c6"
+hash = "6cc04ee7ba1603232f8750e3969244f57dd07c6f56b76f7889bd4f14a4dfdb99"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/arrows.js"

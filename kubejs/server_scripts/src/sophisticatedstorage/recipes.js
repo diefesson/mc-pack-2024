@@ -31,8 +31,8 @@ ServerEvents.recipes(event => {
         'sophisticatedstorage:advanced_hopper_upgrade',
     ]
 
-    for (let upgrade of upgrades){
-        event.remove({output: upgrade})
+    for (let upgrade of upgrades) {
+        event.remove({ output: upgrade })
     }
 
     event.replaceInput(
@@ -43,6 +43,12 @@ ServerEvents.recipes(event => {
 
     event.replaceInput(
         'sophisticatedstorage:stack_upgrade_tier_2',
+        '#forge:ingots/iron',
+        '#forge:storage_blocks/iron',
+    )
+
+    event.replaceInput(
+        'sophisticatedstorage:stack_upgrade_tier_2_from_tier_1_plus',
         '#forge:ingots/iron',
         '#forge:storage_blocks/iron',
     )
@@ -60,7 +66,7 @@ ServerEvents.recipes(event => {
     )
 
     event.replaceInput(
-        'sophisticatedstorage:stack_upgrade_tier_4',
+        'sophisticatedstorage:stack_upgrade_tier_5',
         '#forge:ingots/netherite',
         '#forge:storage_blocks/netherite',
     )
