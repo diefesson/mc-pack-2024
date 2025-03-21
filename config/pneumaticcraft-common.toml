@@ -159,7 +159,7 @@
 	max_lifetime = 600
 	#Number of micromissiles per pod
 	#Range: > 0
-	missile_pod_size = 100
+	missile_pod_size = 32
 
 ["Minigun Properties"]
 	#Armor Piercing Ammo damage multiplier (relative to standard ammo)
@@ -188,7 +188,7 @@
 	explosive_ammo_explosion_chance = 50
 	#Minigun Explosive Ammo explosion power (ref: 2 = creeper, 4 = TNT
 	#Range: 0.0 ~ 1.7976931348623157E308
-	explosive_ammo_explosion_power = 1.5
+	explosive_ammo_explosion_power = 0.5
 	#Does Minigun Explosive Ammo damage terrain?
 	explosive_ammo_terrain_damage = false
 	#Freezing Ammo base percentage chance to form ice or snow on blocks which have been hit
@@ -217,7 +217,7 @@
 	incendiary_ammo_fire_duration = 8
 	#Percentage chance per shot of potion-tipped ammo proc'ing the potion effect, before Dispenser Upgrades are considered
 	#Range: 1 ~ 100
-	potion_proc_chance = 70
+	potion_proc_chance = 7
 	#Standard Ammo cartridge size
 	#Range: 1 ~ 30000
 	standard_ammo_cartridge_size = 1000
@@ -279,7 +279,7 @@
 	#Broadcast a notification when a custom Amadron trade is made
 	notify_of_deal_made = true
 	#Amadrone spawn location, relative to the delivery/pickup position. This is a X/Y/Z triple. See also 'amadrone_spawn_location_relative_to_ground_level' for how the drone's Y position is calculated.
-	amadrone_spawn_location = [30, 30, 0]
+	amadrone_spawn_location = [0, 30, 0]
 	#Affects Amadrone Y spawning position: when true, the Y position is relative to ground level at the calculated X/Z position. When false, it is relative to the delivery/pickup position.
 	amadrone_spawn_location_relative_to_ground_level = true
 
@@ -357,7 +357,7 @@
 	#Range: > 0
 	stuck_drone_teleport_ticks = 20
 	#When true, drones can query the location of any player on the server with the '$player=<name>' variable syntax. Set this to false if you don't want to allow this, e.g. on a PvP server, where this can turn drones into lethal assassins.
-	allowAnyPlayerVarQuery = true
+	allowAnyPlayerVarQuery = false
 	#When true, drones can teleport into areas protected by Security Stations of other player. You may wish to set this to false on PvP servers.
-	allowTeleportToProtectedArea = true
+	allowTeleportToProtectedArea = false
 

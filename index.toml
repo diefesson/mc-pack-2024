@@ -346,7 +346,7 @@ hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "742a5ddd08e3a1484322086d5ffc8ca937fb2bff70f90f4ca5b09e8f2092f28c"
+hash = "a13cdc9657843f334b83810f7e21b808da027852e24e4573a5763b4d091088fa"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
@@ -1922,6 +1922,11 @@ hash = "c898e50990d2b3a428d0cea0570eefe2ae7499ca5b6a5be8b28e089183e6d5bf"
 metafile = true
 
 [[files]]
+file = "mods/piglin-proliferation.pw.toml"
+hash = "8fa9868c9ddbd822f72082547ccff8641d81900e2be41891b371332196e7dfb8"
+metafile = true
+
+[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
 metafile = true
@@ -2034,6 +2039,11 @@ metafile = true
 [[files]]
 file = "mods/ryoamiclights.pw.toml"
 hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
+metafile = true
+
+[[files]]
+file = "mods/savage-and-ravage.pw.toml"
+hash = "2baa9ef40b8cea6397998245f451d8d5c65c97633562bae8d3db7c442d3b02c7"
 metafile = true
 
 [[files]]
