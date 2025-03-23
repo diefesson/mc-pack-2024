@@ -22,7 +22,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "9dd105eb404830a866f936672179caba237f174c21bdc31c7756442339241131"
+hash = "e0a39ffae88b46e6f95022b9a0a5e4ae56592f0f7bfce8faf4815626e640cb2b"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -377,6 +377,14 @@ file = "config/prettyrain.json5"
 hash = "296e458f6d249eb09e69685077d38f6c67251c51f22cf14822793098364b462c"
 
 [[files]]
+file = "config/railcraft-client.toml"
+hash = "6617227512b39ee3771cf71b37c96137221743947c691f68b0fa283779725ba5"
+
+[[files]]
+file = "config/railcraft-common.toml"
+hash = "191db87a309dc70c9cbc985acb613d68a36c2ed0be9c31d625739b61c9f707a8"
+
+[[files]]
 file = "config/ryoamiclights.toml"
 hash = "e9fb85fc053e662392259e2be4cfbeecfde150ec40922d6a32590aab5cc75274"
 
@@ -537,6 +545,10 @@ file = "defaultconfigs/magnumtorch-server.toml"
 hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
+file = "defaultconfigs/railcraft-server.toml"
+hash = "80e233e87045e8ee75e57645b4f109d285527789fcda2912811d306dce352830"
+
+[[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "cd1e8e3273a1ab625c899296a97832998466e4e6f70dfd43822b91acefd45af3"
 
@@ -546,7 +558,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "c3343a8b369c44ab183fb894e58ca810ffccc311c28338908051dabb8ed7612c"
+hash = "367c9fe5ed14d592a938b6a6ef4e5c7ebc5ede77612bc189b7aadd56cab6a95c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -599,6 +611,42 @@ hash = "3cde1a82ffaf228c0ae5acf1fbcf889e268b81cf46225640dc7440c9447d3e30"
 [[files]]
 file = "kubejs/data/mysticalagriculture/worldgen/placed_feature/prosperity_ore.json"
 hash = "f3cc8178efdebc7183d54c4a547305312794689d476dee2fe757dab2b6803a5a"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/lead_ore.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/nickel_ore.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/nickel_ore_small.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/silver_ore.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/silver_ore_buried.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/sulfur_ore.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/sulfur_ore_buried.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/tin_ore_large.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/tin_ore_small.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/jsconfig.json"
@@ -657,6 +705,10 @@ file = "kubejs/server_scripts/src/farmersdelight/knives_recipes.js"
 hash = "595f1efd4fee2e4b71a98070ac8d63aff7b7fcc14d3c11c804819bf7242d5c22"
 
 [[files]]
+file = "kubejs/server_scripts/src/friendsandfoes/recipes.js"
+hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
+
+[[files]]
 file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
 hash = "92ae46733e543408b9a89e0a9af31dd8882843f73a271eaaaaf27ec4ab3768cb"
 
@@ -691,6 +743,10 @@ hash = "c81dd54627926fcbd5c933464377ecab847208c4a92e05ca1dfedfdd8ed97766"
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/essence_scaling.js"
 hash = "a4b8f2aa42a0894bc92390c60f2503166f863b84cf29cf8b9afda958b75386e3"
+
+[[files]]
+file = "kubejs/server_scripts/src/mysticalagriculture/recipes.js"
+hash = "d13dd40b561a78b918c285b4c6ded229f565002d35e2b37382d43ab6479b696f"
 
 [[files]]
 file = "kubejs/server_scripts/src/mysticalagriculture/seed_and_crops_tags.js"
@@ -737,12 +793,20 @@ file = "kubejs/server_scripts/src/progression/computerccraft.js"
 hash = "67e843c6471c18b76c3f4b36f2e631a9a9e6916196bd6cbf1fe99bd87234c864"
 
 [[files]]
+file = "kubejs/server_scripts/src/progression/conflicts.js"
+hash = "e1afeb0d0eb5e3d3779cd9ecae02a35c6dc2d71e9ac9126483f48fbb0f2ce29c"
+
+[[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
 hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/powah.js"
 hash = "c89e803c05020c5ffdaaa8784b29b860009866daec8afbba64f59c079520d2a5"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/railcraft.js"
+hash = "43bbb30c8b16cdec7539a974f684a7199b9336b5ef5d3c9c9cd4a91eb4d6ca66"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
@@ -761,10 +825,6 @@ file = "kubejs/server_scripts/src/thermal/arrows.js"
 hash = "7ac920dc44d7e34ee4ac9bdb1abe6a795a04da199c740bf7f04cce2a6b671e72"
 
 [[files]]
-file = "kubejs/server_scripts/src/thermal/gears.js"
-hash = "54e3a9368fef66b0e1bfc0ed984cdf8d6c1e2ced932d6396b176854c1f64805f"
-
-[[files]]
 file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
 hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
 
@@ -778,7 +838,7 @@ hash = "bdbe1a52644012069de20bda8bbed2f16ac366ccd8e383c444de43dc39eb2608"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/recipes.js"
-hash = "3b0b419215c12bb5581692b5aa5a78129cced640568f92b09e39e07b1b158777"
+hash = "8f50a66f23e4ac069431e1eb79e17796b82f4e9d9bdcf4e1a8c5e1510a730241"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
@@ -2004,6 +2064,11 @@ metafile = true
 [[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
+metafile = true
+
+[[files]]
+file = "mods/railcraft-reborn.pw.toml"
+hash = "d77c84cf2ffe027efc80558485cca2da3ad51aaa9e964a5e9e7203c6c647d75e"
 metafile = true
 
 [[files]]
