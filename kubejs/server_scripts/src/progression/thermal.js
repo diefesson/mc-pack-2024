@@ -33,19 +33,4 @@ ServerEvents.recipes(event => {
             'pneumaticcraft:plastic'
         )
     }
-
-    // Let's use Powah cables
-    event.remove('thermal:energy_duct_4')
-    event.shaped(
-        '8x thermal:energy_duct',
-        [
-            'CCC',
-            'CDC',
-            'CCC',
-        ],
-        {
-            C: 'powah:energy_cable_nitro',
-            D: 'thermal_extra:dragonsteel_ingot',
-        }
-    )
 })

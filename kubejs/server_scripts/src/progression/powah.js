@@ -50,4 +50,58 @@ ServerEvents.recipes(event => {
         ],
         50000
     )
+
+    // Remove Powah cables and update ender gate/cell recipes
+    let levels = [
+        'starter',
+        'basic',
+        'hardened',
+        'blazing',
+        'niotic',
+        'spirited',
+        'nitro',
+    ]
+    let materials = [
+        '#forge:nuggets/iron',
+        '#forge:ingots/iron',
+        'powah:steel_energized',
+        'powah:crystal_blazing',
+        'powah:crystal_niotic',
+        'powah:crystal_spirited',
+        'powah:crystal_nitro',
+    ]
+    for (let level of levels) {
+        event.remove({ output: `powah:energy_cable_${level}` })
+        event.remove({ output: `powah:ender_gate_${level}` })
+        event.remove({ output: `powah:ender_cell_${level}` })
+    }
+    for (let i = 0; i < levels.length; i++) {
+        let level = levels[i]
+        let material = materials[i]
+        event.shaped(
+            `powah:ender_gate_${level}`,
+            [
+                'DMD',
+                'MCM',
+                'DMD',
+            ],
+            {
+                D: 'thermal:energy_duct',
+                M: material,
+                C: 'powah:ender_core'
+            }
+        )
+        event.shaped(
+            `powah:ender_cell_${level}`,
+            [
+                'OOO',
+                'OGO',
+                'OOO',
+            ],
+            {
+                O: 'minecraft:obsidian',
+                G: `powah:ender_gate_${level}`
+            }
+        )
+    }
 })

@@ -558,7 +558,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "2e9dc82d1186f1e8ca094f2b6387fa82c1da792168699f08c0ba2e72a1a095c6"
+hash = "52b00cb8a4891484991091da2d6e01bfcdce7b766976137b880017be1102fab2"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -802,7 +802,7 @@ hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/powah.js"
-hash = "c89e803c05020c5ffdaaa8784b29b860009866daec8afbba64f59c079520d2a5"
+hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
@@ -810,7 +810,7 @@ hash = "ec446ba78fb2ce814d9243e5d6ee801debd5736a4b9fab95c8199224d964274a"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "47b02e7970622ed9fe98feb6cfeaa262bb03512deeb34f46d8e5e7b2791233cd"
+hash = "6852d43ac51ae48b2b04af41f8a1d6fb95eca378eb2d57e1b571683894bd673a"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/recipes.js"
