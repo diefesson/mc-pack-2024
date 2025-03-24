@@ -80,6 +80,19 @@ ServerEvents.recipes(event => {
         Ingredient.of('#forge:gears/iron'),
     )
 
+    // Output thermal ender dust from crusher
+    event.remove('railcraft:crusher/crushing_ender_pearl')
+    event.custom({
+        type: 'railcraft:crusher',
+        ingredient: {
+            tag: 'forge:ender_pearls'
+        },
+        outputs: [{
+            probability: 1.0,
+            result: { item: 'thermal:ender_pearl_dust' }
+        }]
+    })
+
     // Remove buggy/irrelevant content
     event.remove('railcraft:solid_fueled_firebox')
     event.remove('railcraft:fluid_fueled_firebox')
@@ -104,4 +117,8 @@ ServerEvents.recipes(event => {
         '#railcraft:iron_tank_wall',
         '#forge:plates/iron'
     )
+})
+
+ServerEvents.tags('item', event => {
+    event.add('forge:dusts/ender_pearl', 'railcraft:ender_dust')
 })

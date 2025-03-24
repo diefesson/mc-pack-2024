@@ -22,7 +22,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "e0a39ffae88b46e6f95022b9a0a5e4ae56592f0f7bfce8faf4815626e640cb2b"
+hash = "03d5ad6d50093b6780a6bdddebb8f3547b138dbc5847cf6839e8e928f9ce3c77"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -806,7 +806,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "ec446ba78fb2ce814d9243e5d6ee801debd5736a4b9fab95c8199224d964274a"
+hash = "cb14b7dcf293d1d699c50ba797ec3de613879bd45841b3377305ef52a4585d03"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
