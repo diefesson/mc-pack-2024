@@ -526,7 +526,7 @@ hash = "d7d6ae34c63b5f10d045c16fffb6753832e81983ba52d04fd9ed40c147b8ad9d"
 
 [[files]]
 file = "config/waystones-common.toml"
-hash = "8c5a795c06ccb56c1efacce44e467aee76f951e58570c567f3af6efdc1d4959c"
+hash = "b0fcf3a77e6fa5bcad6ed9c479462ba31deb6d78b987d180e7cda616101c8ab9"
 
 [[files]]
 file = "defaultconfigs/archers_paradox-server.toml"
@@ -811,6 +811,10 @@ hash = "ec446ba78fb2ce814d9243e5d6ee801debd5736a4b9fab95c8199224d964274a"
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
 hash = "6852d43ac51ae48b2b04af41f8a1d6fb95eca378eb2d57e1b571683894bd673a"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/waystones.js"
+hash = "c753ba0b07366bfa59fd1f9734956d52a84cec9744672d72cd12cb88b62f5912"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/recipes.js"
