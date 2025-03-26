@@ -209,10 +209,6 @@ file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
-file = "config/gamestages/known_stages.json"
-hash = "1cca011aa8f6d4bf78136c19723685f11b847c8c56221989876526675d809551"
-
-[[files]]
 file = "config/guifollowers.json5"
 hash = "09fabcb740a37e5f501d60a422a124cb5fe4a6da06432c018490f627afae6385"
 
