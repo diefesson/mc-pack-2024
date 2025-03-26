@@ -24,7 +24,7 @@ boreMiningSpeedMultiplier = 1.0
 #Change to true to cause the Bore to destroy the blocks it mines instead of dropping them
 boreDestroysBlocks = false
 #Change to false to enable mining checks, use true setting with caution, especially on servers
-boreMinesAllBlocks = true
+boreMinesAllBlocks = false
 #Change to "true" to restore vanilla behavior
 cartsBreakOnDrop = false
 #Adjust the multiplier used when calculating fuel use.
@@ -54,7 +54,7 @@ maxLauncherTrackForce = 30
 #Range: > 0
 cartDispenserDelay = 0
 #change the vanilla dungeon loot
-changeDungeonLoot = true
+changeDungeonLoot = false
 #An ordered list of mod ids from which the items will be chosen, which Railcraft does not add, and which are necessary for recipes based on tags to work.
 preferredOres = ["thermal", "railcraft", "minecraft"]
 
@@ -70,7 +70,7 @@ preferredOres = ["thermal", "railcraft", "minecraft"]
 [charge]
 	#adjust the losses for the Charge network
 	#Range: 0.2 ~ 10.0
-	lossMultiplier = 1.0
+	lossMultiplier = 0.0
 
 [steam]
 	#adjust the heat value of Fuel in a Boiler

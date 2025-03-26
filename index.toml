@@ -554,7 +554,7 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"
-hash = "80e233e87045e8ee75e57645b4f109d285527789fcda2912811d306dce352830"
+hash = "a3454581fe4ea4ca69c5027d91919f7473b7aa4e522d1f095747527dc819c5d6"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
