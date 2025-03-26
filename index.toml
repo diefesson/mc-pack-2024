@@ -81,6 +81,10 @@ file = "config/betterstrongholds-forge-1_20.toml"
 hash = "2e9c9d71e1f2ebcc7065fa6bb09f9b3b97e4cf0bb78067182faf56d1fc14886d"
 
 [[files]]
+file = "config/blockrunner.json"
+hash = "b6185df071789f49b243749595e9293f382aca6470d4bea6f5911801024f1286"
+
+[[files]]
 file = "config/chalk-client.toml"
 hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 
@@ -681,6 +685,10 @@ file = "kubejs/server_scripts/src/base/thermal.js"
 hash = "ed9edc8489b43c02ab95bf4a23f513ea20f1ee54c49dc2c7553dbb204b3207b7"
 
 [[files]]
+file = "kubejs/server_scripts/src/blockrunner/tags.js"
+hash = "964d136afaf87f44776a802a2c26e65db512d6d8f994349b61ccf93bb554e05f"
+
+[[files]]
 file = "kubejs/server_scripts/src/chargedcharms/recipes.js"
 hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
@@ -1028,6 +1036,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "15421ecee42367e05f83c1a43fce482f1bf0b5a1d33ada47a82c4182e7958af3"
+metafile = true
+
+[[files]]
+file = "mods/block-runner.pw.toml"
+hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
 metafile = true
 
 [[files]]
