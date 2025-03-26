@@ -193,6 +193,11 @@
     "item:powah:energy_cable_niotic",
     "item:powah:energy_cable_blazing",
     "item:powah:energy_cable_spirited",
-    "item:powah:energy_cable_nitro"
+    "item:powah:energy_cable_nitro",
+    "item:railcraft:turbine_rotor{Damage:0}",
+    "item:railcraft:turbine_disk",
+    "item:railcraft:turbine_blade",
+    "item:railcraft:crusher",
+    "item:railcraft:obsidian_dust"
   ]
 }

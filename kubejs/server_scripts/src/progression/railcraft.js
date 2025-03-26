@@ -98,13 +98,15 @@ ServerEvents.recipes(event => {
     event.remove('railcraft:fluid_fueled_firebox')
     event.remove('railcraft:low_pressure_steam_boiler_tank')
     event.remove('railcraft:high_pressure_steam_boiler_tank')
+    event.remove('railcraft:nickel_turbine_blade')
+    event.remove('railcraft:steel_turbine_blade')
+    event.remove('railcraft:turbine_disk')
+    event.remove('railcraft:turbine_rotor')
     event.remove('railcraft:steam_turbine')
     event.remove('railcraft:steam_oven')
     event.remove('railcraft:feed_station')
     event.remove('railcraft:zinc_carbon_battery')
     event.remove('railcraft:zinc_silver_battery')
-    event.remove('railcraft:crusher/crushing_zinc_carbon_battery_empty')
-    event.remove('railcraft:crusher/crushing_zinc_silver_battery_empty')
     event.remove('railcraft:water_tank_siding')
     event.remove({ output: '#railcraft:iron_tank_valve' })
     event.remove({ output: '#railcraft:iron_tank_gauge' })
@@ -112,11 +114,15 @@ ServerEvents.recipes(event => {
     event.remove({ output: '#railcraft:steel_tank_valve' })
     event.remove({ output: '#railcraft:steel_tank_gauge' })
     event.remove({ output: '#railcraft:steel_tank_wall' })
+    event.remove('railcraft:crusher')
+
+    // Alternative recipes
     event.replaceInput(
         'railcraft:steam_locomotive',
         '#railcraft:iron_tank_wall',
         '#forge:plates/iron'
     )
+    event.smelting('railcraft:raw_firestone', 'railcraft:firestone_ore')
 })
 
 ServerEvents.tags('item', event => {

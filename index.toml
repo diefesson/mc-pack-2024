@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "52b00cb8a4891484991091da2d6e01bfcdce7b766976137b880017be1102fab2"
+hash = "4dc48666bee6fe391baa6a13ea0c2956a842162d0d7b0bc1a93e38195d7851b6"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -818,7 +818,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "cb14b7dcf293d1d699c50ba797ec3de613879bd45841b3377305ef52a4585d03"
+hash = "f1226a94c6b61d5bc15367aa42fb2bf77d74e0567ea795de3d17a161ca952540"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
