@@ -405,6 +405,14 @@ file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
 [[files]]
+file = "config/solonion-client.json"
+hash = "49d3f49f2e20a5ffcd61a834e77cec538789af782b6fe2a741642aaa43fccdf6"
+
+[[files]]
+file = "config/solonion.json"
+hash = "5de755a17acf44e0720b9d7fd9d9fa0e25da5d5f4d8192773b65ca933f8d9312"
+
+[[files]]
 file = "config/starterkit.json5"
 hash = "18c81c65c991801a3335ee10b63fb9db04b70decc17960263eed54e198f0a35c"
 
