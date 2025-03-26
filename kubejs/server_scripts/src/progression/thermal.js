@@ -33,4 +33,10 @@ ServerEvents.recipes(event => {
             'pneumaticcraft:plastic'
         )
     }
+
+    event.replaceInput(
+        'thermal_extra:crafting/device_harvester',
+        'thermal:redstone_servo',
+        'thermal:rf_coil',
+    )
 })

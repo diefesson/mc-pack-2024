@@ -822,7 +822,7 @@ hash = "f1226a94c6b61d5bc15367aa42fb2bf77d74e0567ea795de3d17a161ca952540"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "6852d43ac51ae48b2b04af41f8a1d6fb95eca378eb2d57e1b571683894bd673a"
+hash = "2731453f4534df94fbe6b0529278aa0cbe9f8ad46b77d30938eea7bf42e052e1"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/waystones.js"
