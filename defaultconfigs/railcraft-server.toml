@@ -24,7 +24,7 @@ boreMiningSpeedMultiplier = 1.0
 #Change to true to cause the Bore to destroy the blocks it mines instead of dropping them
 boreDestroysBlocks = false
 #Change to false to enable mining checks, use true setting with caution, especially on servers
-boreMinesAllBlocks = false
+boreMinesAllBlocks = true
 #Change to "true" to restore vanilla behavior
 cartsBreakOnDrop = false
 #Adjust the multiplier used when calculating fuel use.
