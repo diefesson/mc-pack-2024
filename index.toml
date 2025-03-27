@@ -430,7 +430,7 @@ hash = "290f6b832794b6876aba9da963b585ba4e99e5e6a972aebb52810e9a256e2f65"
 
 [[files]]
 file = "config/starterkit/kits/Default.txt"
-hash = "8573843a0e8242c8b5b155ac67d88d1539d70ef6d3a701cd0ccbcab297360ca7"
+hash = "4d9bc483e7b5997a76f75a081dc60604929399b372f4c27a4ad5386996a375fe"
 
 [[files]]
 file = "config/starterkit/kits/inactive/Archer.txt"

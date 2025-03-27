@@ -8,7 +8,7 @@
 2 : '{Count:1b,id:"minecraft:iron_axe",tag:{Damage:0}}',
 3 : '{Count:1b,id:"minecraft:iron_pickaxe",tag:{Damage:0}}',
 4 : '{Count:1b,id:"minecraft:iron_shovel",tag:{Damage:0}}',
-5 : '{Count:1b,id:"waystones:waystone"}',
+5 : '{Count:1b,id:"minecraft:white_bed"}',
 6 : '{Count:32b,id:"minecraft:arrow"}',
 7 : '{Count:16b,id:"minecraft:bread"}',
 8 : '{Count:32b,id:"minecraft:torch"}',
