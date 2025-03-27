@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "4dc48666bee6fe391baa6a13ea0c2956a842162d0d7b0bc1a93e38195d7851b6"
+hash = "f24bc2f4946ba61953aa7debe232e965b2a1e0d2d9a4ef7a57a54d85b91c8ede"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -630,6 +630,10 @@ hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/data/railcraft/worldgen/configured_feature/nickel_ore_small.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/railcraft/worldgen/configured_feature/saltpeter.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
@@ -818,7 +822,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "f1226a94c6b61d5bc15367aa42fb2bf77d74e0567ea795de3d17a161ca952540"
+hash = "a891df57c33ea77a3e065f2f94fd1536c3c90694bd569cd770a6bc45ed0b9022"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
