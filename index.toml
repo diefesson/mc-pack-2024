@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "f24bc2f4946ba61953aa7debe232e965b2a1e0d2d9a4ef7a57a54d85b91c8ede"
+hash = "8550ba3f6e45484d82fd26eeea8c543e426db3e6031a39a7b010fb5c2001aab1"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -805,6 +805,10 @@ file = "kubejs/server_scripts/src/progression/ae2.js"
 hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
 
 [[files]]
+file = "kubejs/server_scripts/src/progression/chunkloaders.js"
+hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
+
+[[files]]
 file = "kubejs/server_scripts/src/progression/computerccraft.js"
 hash = "67e843c6471c18b76c3f4b36f2e631a9a9e6916196bd6cbf1fe99bd87234c864"
 
@@ -822,7 +826,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "a891df57c33ea77a3e065f2f94fd1536c3c90694bd569cd770a6bc45ed0b9022"
+hash = "5045fbd099f860cc918d0fac6be9e7e7446107d2819de8507071e4ab2507b77e"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"

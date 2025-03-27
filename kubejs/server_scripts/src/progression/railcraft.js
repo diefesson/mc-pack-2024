@@ -148,10 +148,14 @@ ServerEvents.recipes(event => {
     event.remove('railcraft:tank_minecart')
     event.remove('railcraft:energy_minecart')
 
-    // Strengthened Glass
+    // - Strengthened Glass
     event.remove({ output: '#railcraft:strengthened_glass' })
 
-    // Saltpeter gunpowder recipe
+    // - Worldspikes
+    event.remove('railcraft:world_spike')
+    event.remove('railcraft:personal_world_spike')
+
+    // - Saltpeter gunpowder recipe
     event.remove('minecraft:gunpowder') // WHY IT USES MINECRAFT NAMESPACE!?
 
     // Alternative recipes
@@ -241,6 +245,13 @@ ServerEvents.recipes(event => {
         'railcraft:charge_terminal',
         '#forge:plates/brass',
         '#forge:ingots/brass',
+    )
+
+    // - Minecart with Worldspike
+    event.replaceInput(
+        'railcraft:world_spike_minecart',
+        'railcraft:world_spike',
+        'chunkloaders:basic_chunk_loader'
     )
 })
 
