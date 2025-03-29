@@ -1113,11 +1113,6 @@ hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "c1dc583e440716e24fd8478792f730538a576e8338fcbe31f5ac9ef835fc743d"
-metafile = true
-
-[[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "8bcc00f3a6326cd48aa772428b5df25a5f8851626870900c7cd43498b797b5d5"
 metafile = true
@@ -2120,11 +2115,6 @@ metafile = true
 [[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
-metafile = true
-
-[[files]]
-file = "mods/redstonepen.pw.toml"
-hash = "19fcc41d4a5c2e4efbe9827317443ce3f6484b8d27cdf9686443e0774b990ec1"
 metafile = true
 
 [[files]]
