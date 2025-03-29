@@ -13,6 +13,34 @@ ServerEvents.recipes(event => {
         ]
     )
 
+    // Use Thermal Resin and Creosote buckets to make Wooden Ties
+    event.remove('railcraft:wooden_tie_bottle')
+    event.remove('railcraft:wooden_tie')
+    event.shaped(
+        '3x railcraft:wooden_tie',
+        [
+            ' B ',
+            'SSS',
+            '   ',
+        ],
+        {
+            B: 'thermal:creosote_bucket',
+            S: '#minecraft:wooden_slabs'
+        }
+    )
+    event.shaped(
+        '3x railcraft:wooden_tie',
+        [
+            ' B ',
+            'SSS',
+            '   ',
+        ],
+        {
+            B: 'thermal:resin_bucket',
+            S: '#minecraft:wooden_slabs'
+        }
+    )
+
     // Use copper in Gear Bushing recipe
     event.remove('railcraft:bushing_gear_bronze')
     event.remove('railcraft:bushing_gear_brass')
@@ -140,9 +168,16 @@ ServerEvents.recipes(event => {
     // - Saltpeter gunpowder recipe
     event.remove('minecraft:gunpowder') // WHY IT USES MINECRAFT NAMESPACE!?
 
+    // - Coke Oven multiblock
+    event.remove('railcraft:coke_oven_bricks')
+    event.remove({ type: 'railcraft:coking' })
+
+    // Blast Furnace multiblock
+    event.remove('railcraft:blast_furnace_bricks')
+    event.remove({ type: 'railcraft:blasting' })
+
     // Alternative recipes
     // - Bag of Cement
-
     event.remove('railcraft:bag_of_cement')
     event.remove('railcraft:bag_of_cement_slag')
     event.shapeless(

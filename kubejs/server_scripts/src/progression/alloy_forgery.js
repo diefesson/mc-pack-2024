@@ -30,6 +30,14 @@ ServerEvents.recipes(event => {
         ],
     )
 
+    // Coal coke
+    alloy(
+        { id: 'thermal:coal_coke', count: 4 },
+        [
+            { item: 'minecraft:coal', count: 4 }
+        ]
+    )
+
     // Common alloys
     alloy(
         { id: 'thermal:steel_ingot', count: 1 },
@@ -73,4 +81,5 @@ ServerEvents.recipes(event => {
             { tag: 'forge:ingots/zinc', count: 1 },
         ],
     )
+
 })

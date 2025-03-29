@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "0d35da46d8ae7970345212889095a13f2fee1df801c6bf6db45eb6417dbc2f11"
+hash = "6797ede20ea55fa69b7051b2c22f7d377d297fb367d730d3a15e9535eff8d6e7"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -814,7 +814,7 @@ hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/alloy_forgery.js"
-hash = "e7d997ee3c8644a77b44fb7ede25a488a3736086179523be53a7481863351595"
+hash = "b8dae984d508ff83f77487523766d1793aa602bc3cafd604d9da284c5173c436"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
@@ -838,7 +838,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "1af87502273f265e1c5b53551da37dc940653ec5f754e47ba78f9b075b14554b"
+hash = "13a662d2a91e46a9e846275e3768e0bec18f1e9ed77dada81e9c710165e64ce2"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
