@@ -1,17 +1,6 @@
 ServerEvents.recipes(event => {
     ThermalUtils.setup(event)
 
-    // Remove armor recipes
-    event.remove('railcraft:steel_shovel')
-    event.remove('railcraft:steel_pickaxe')
-    event.remove('railcraft:steel_axe')
-    event.remove('railcraft:steel_hoe')
-    event.remove('railcraft:steel_shears')
-    event.remove('railcraft:steel_sword')
-    event.remove('railcraft:steel_chestplate')
-    event.remove('railcraft:steel_leggings')
-    event.remove('railcraft:steel_boots')
-
     // Remove crafting table allowing
     event.remove('railcraft:bronze_ingot_crafted_with_ingots')
     event.remove('railcraft:invar_ingot_crafted_with_ingots')
@@ -71,13 +60,6 @@ ServerEvents.recipes(event => {
         { id: 'pneumaticcraft:compressed_iron_gear' },
         Ingredient.of('#forge:ingots/iron'),
         Ingredient.of('railcraft:bushing_gear')
-    )
-
-    // Replace gear material for Manual Rolling Machine
-    event.replaceInput(
-        { id: 'railcraft:manual_rolling_machine' },
-        Ingredient.of('#forge:gears/bronze'),
-        Ingredient.of('#forge:gears/iron'),
     )
 
     // Remove buggy/irrelevant content

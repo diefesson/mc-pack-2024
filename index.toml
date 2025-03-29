@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "8550ba3f6e45484d82fd26eeea8c543e426db3e6031a39a7b010fb5c2001aab1"
+hash = "0d35da46d8ae7970345212889095a13f2fee1df801c6bf6db45eb6417dbc2f11"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -595,6 +595,14 @@ hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
+
+[[files]]
+file = "kubejs/data/alloy_forgery/tags/recipes/blacklisted_increased_blasting_outputs.json"
+hash = "a6a5cfd9a6546ec5202c477c62428e9d03e4d0705c8d03f3ee8835845186396c"
+
+[[files]]
+file = "kubejs/data/diefalpha/alloy_forge_fuels/coal_coke.json"
+hash = "d97528f2d5aadb2fed6186f23f79228a75ae533f5866b835d8b6d2708849a6c4"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton_bow.json"
@@ -805,6 +813,10 @@ file = "kubejs/server_scripts/src/progression/ae2.js"
 hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
 
 [[files]]
+file = "kubejs/server_scripts/src/progression/alloy_forgery.js"
+hash = "e7d997ee3c8644a77b44fb7ede25a488a3736086179523be53a7481863351595"
+
+[[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
 hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
@@ -826,7 +838,7 @@ hash = "0a2b894bf4ab4dc22ad62309ad976d538ad97dde1421d6ac0004ecd457ab9e12"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "5045fbd099f860cc918d0fac6be9e7e7446107d2819de8507071e4ab2507b77e"
+hash = "1af87502273f265e1c5b53551da37dc940653ec5f754e47ba78f9b075b14554b"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
@@ -903,6 +915,11 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
+metafile = true
+
+[[files]]
+file = "mods/alloy-forgery.pw.toml"
+hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
 
 [[files]]
