@@ -821,10 +821,6 @@ file = "kubejs/server_scripts/src/progression/chunkloaders.js"
 hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/computerccraft.js"
-hash = "67e843c6471c18b76c3f4b36f2e631a9a9e6916196bd6cbf1fe99bd87234c864"
-
-[[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
 hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
 
