@@ -858,7 +858,7 @@ hash = "7ac920dc44d7e34ee4ac9bdb1abe6a795a04da199c740bf7f04cce2a6b671e72"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/mysticalagriculture.js"
-hash = "029eac8bd295bcde7c5de996d8ddc683680316fb8ef8328baa2d607614f03c08"
+hash = "cd8aa8c37b19b719c648034684375f59a54f50ba044ce606851a2318d5490fae"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/smarterfarmers.js"
