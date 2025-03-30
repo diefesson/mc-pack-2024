@@ -6,7 +6,7 @@ ServerEvents.tags("block", event => {
     Registry.BLOCK.keySet().forEach(block => {
         /** @type {string}*/
         let id = block.toString()
-        
+
         if (
             (
                 id.includes('brick') ||
@@ -18,11 +18,14 @@ ServerEvents.tags("block", event => {
                 id.includes('plates') ||
                 id.includes('pillar') ||
                 id.includes('shingles') ||
+                id.includes('stair') ||
+                id.includes('planks') ||
+                id.includes('slab') ||
+                id.includes('wool') ||
+                id.includes('carpet') ||
                 false
             ) &&
             !(
-                id.includes('stair') ||
-                id.includes('slab') ||
                 id.includes('wall') ||
                 id.includes('plastic_brick') ||
                 id.includes('bookshelf') ||

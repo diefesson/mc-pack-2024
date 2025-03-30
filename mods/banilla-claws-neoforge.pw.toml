@@ -1,0 +1,13 @@
+name = "Banilla Claws [Neoforge]"
+filename = "vanilla_claws-1.20.1-1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ftp7zzS0/versions/5ynSVw6g/vanilla_claws-1.20.1-1.1.jar"
+hash-format = "sha512"
+hash = "227a548a4980dd8d471621f75747f0e30822cebd95a9d57995dbbead56093986fa620b5b460f8744407d72fe54c1516e63e7a3bfcc566e6c3ccb020ac3efd22f"
+
+[update]
+[update.modrinth]
+mod-id = "Ftp7zzS0"
+version = "5ynSVw6g"

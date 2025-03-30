@@ -231,6 +231,15 @@
     "item:railcraft:world_spike",
     "item:railcraft:personal_world_spike",
     "item:railcraft:coke_oven_bricks",
-    "item:railcraft:blast_furnace_bricks"
+    "item:railcraft:blast_furnace_bricks",
+    "item:vanilla_claws:zircon_claws{Damage:0}",
+    "item:vanilla_claws:tanzanite_claws{Damage:0}",
+    "item:vanilla_claws:emerald_claws{Damage:0}",
+    "item:vanilla_claws:citrine_claws{Damage:0}",
+    "item:vanilla_claws:black_opal_claws{Damage:0}",
+    "item:vanilla_claws:soapy_claws{Damage:0}",
+    "item:vanilla_claws:gobber2_claws{Damage:0}",
+    "item:vanilla_claws:gobber2_nether_claws{Damage:0}",
+    "item:vanilla_claws:gobber2_end_claws{Damage:0}"
   ]
 }

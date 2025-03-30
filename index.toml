@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "6797ede20ea55fa69b7051b2c22f7d377d297fb367d730d3a15e9535eff8d6e7"
+hash = "aafb2f5220f9c5ddc5344aeb51af417f762bab618666594ed8631eb6e9ba5d16"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -701,10 +701,6 @@ file = "kubejs/server_scripts/src/base/thermal.js"
 hash = "ed9edc8489b43c02ab95bf4a23f513ea20f1ee54c49dc2c7553dbb204b3207b7"
 
 [[files]]
-file = "kubejs/server_scripts/src/blockrunner/tags.js"
-hash = "964d136afaf87f44776a802a2c26e65db512d6d8f994349b61ccf93bb554e05f"
-
-[[files]]
 file = "kubejs/server_scripts/src/chargedcharms/recipes.js"
 hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
@@ -817,16 +813,16 @@ file = "kubejs/server_scripts/src/progression/alloy_forgery.js"
 hash = "b8dae984d508ff83f77487523766d1793aa602bc3cafd604d9da284c5173c436"
 
 [[files]]
+file = "kubejs/server_scripts/src/progression/blockrunner.js"
+hash = "ab7493ee720a8ec6040a662441afdd94308126c8dbcb52e0fea4cd6a9bf98475"
+
+[[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
 hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/computerccraft.js"
 hash = "67e843c6471c18b76c3f4b36f2e631a9a9e6916196bd6cbf1fe99bd87234c864"
-
-[[files]]
-file = "kubejs/server_scripts/src/progression/conflicts.js"
-hash = "e1afeb0d0eb5e3d3779cd9ecae02a35c6dc2d71e9ac9126483f48fbb0f2ce29c"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
@@ -842,15 +838,15 @@ hash = "b4fa18a4cb978239a5ba39cda1bec19c10624cd3736ae05bd28554a7d29d6bd9"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "13a662d2a91e46a9e846275e3768e0bec18f1e9ed77dada81e9c710165e64ce2"
+hash = "ca4935f62cebd4886e5cdda802231e6a293c9dd3c387738e0a6afeea360cc4f9"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
 hash = "2731453f4534df94fbe6b0529278aa0cbe9f8ad46b77d30938eea7bf42e052e1"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/waystones.js"
-hash = "c753ba0b07366bfa59fd1f9734956d52a84cec9744672d72cd12cb88b62f5912"
+file = "kubejs/server_scripts/src/progression/via_romana.js"
+hash = "a6a0d3c467e94518ba2f79ce56f9645fa439d66d7ad87609ee40585c15de6b0d"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/recipes.js"
@@ -1019,6 +1015,11 @@ metafile = true
 [[files]]
 file = "mods/balm.pw.toml"
 hash = "0da374c8d515130f459027cb737c27e59f18ffa4b57796b946893159987d0562"
+metafile = true
+
+[[files]]
+file = "mods/banilla-claws-neoforge.pw.toml"
+hash = "daece4b55ee2de59a9b807e72217276952d96f40a9835e60302babba8c360194"
 metafile = true
 
 [[files]]
@@ -2437,6 +2438,11 @@ hash = "9995c722c5e91bfa41786168d0079ffd7dd885547995feca54e8790807886603"
 metafile = true
 
 [[files]]
+file = "mods/via-romana.pw.toml"
+hash = "c56a0139f577ff615648c2164255de17654e5f8db95770d78deb8676d8cc6dd3"
+metafile = true
+
+[[files]]
 file = "mods/villager-names-serilum.pw.toml"
 hash = "f84d5f67e38eb03efa5ab668250df9b4213bcd1bceadd0eb4ec83d0ea83f2884"
 metafile = true
@@ -2464,11 +2470,6 @@ metafile = true
 [[files]]
 file = "mods/watermedia.pw.toml"
 hash = "e186456419c1c689760042ce6d48db155dd79603ffbf3d86684b2e86aa57e498"
-metafile = true
-
-[[files]]
-file = "mods/waystones.pw.toml"
-hash = "334db1bba9e1e6af615dc36bde4b4503cea7fad4e3a80028e716cee399c2be4c"
 metafile = true
 
 [[files]]
