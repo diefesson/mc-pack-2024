@@ -517,6 +517,10 @@ file = "config/veinmining-server.toml"
 hash = "eb71c7c90140b3d9f300d8967e91f73752f53f2d758ce81ad1ebf8857a6d16c9"
 
 [[files]]
+file = "config/via_romana-common.toml"
+hash = "c46bdcc1a9dcabfa79db103251d813cdb0e779d524c72a5da89004c7b976e3d4"
+
+[[files]]
 file = "config/visual_workbench.json"
 hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
 
