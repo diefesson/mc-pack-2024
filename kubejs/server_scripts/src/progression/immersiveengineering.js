@@ -6,6 +6,7 @@ ServerEvents.tags('item', event => {
 })
 
 ServerEvents.recipes(event => {
+    // Allow Immersive Engineering Crusher to process Thermal Niter gems
     event.custom({
         type: 'immersiveengineering:crusher',
         energy: 2400,
@@ -17,4 +18,17 @@ ServerEvents.recipes(event => {
         },
         secondaries: [],
     })
+
+    // Immersive Engineering compat for Powah blocks
+    event.custom({
+        type: 'immersiveengineering:thermoelectric_source',
+        singleBlock: 'powah:dry_ice',
+        tempKelvin: 0
+    })
+    event.custom({
+        type: 'immersiveengineering:thermoelectric_source',
+        singleBlock: 'powah:blazing_crystal_block',
+        tempKelvin: 2400
+    })
+
 })

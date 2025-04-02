@@ -826,7 +826,7 @@ hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/immersiveengineering.js"
-hash = "d8e07a0eea4889c02ed9c226fa53f9cb8643fe88cd6c666aa0a6139c7a3c6e00"
+hash = "ee568f690c345424fcc5010c66ca1c9df8d575408c8dae62aae15263f3bec335"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
