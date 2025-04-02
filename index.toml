@@ -22,7 +22,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "03d5ad6d50093b6780a6bdddebb8f3547b138dbc5847cf6839e8e928f9ce3c77"
+hash = "59f5de0cfe9f363a6dbaa7a3f11e0fba9744cda1e852dfc0a7df2d597e6745fc"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -223,6 +223,14 @@ hash = "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b"
 [[files]]
 file = "config/horseexpert-client.toml"
 hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
+
+[[files]]
+file = "config/immersiveengineering-client.toml"
+hash = "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118"
+
+[[files]]
+file = "config/immersiveengineering-common.toml"
+hash = "0c9d0e1f7c5ea9dda456ee9e69dda5747d6bb3ecb49e98204a823ceca098a18e"
 
 [[files]]
 file = "config/ironjetpacks-client.toml"
@@ -553,6 +561,10 @@ file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
+file = "defaultconfigs/immersiveengineering-server.toml"
+hash = "81978da5494bbfaa71a86079744d18724ed54a912c163ddb3d5c287f79437745"
+
+[[files]]
 file = "defaultconfigs/magnumtorch-server.toml"
 hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
@@ -570,7 +582,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "aafb2f5220f9c5ddc5344aeb51af417f762bab618666594ed8631eb6e9ba5d16"
+hash = "6e6bed5844b0d5ca3d1aeb170ad17bac6221703bd3219f087062ded32464828c"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -599,14 +611,6 @@ hash = "5a3c6ca69214a43c877629737abb17be2f5a1b913bb24d8a5d9df37048e0a2af"
 [[files]]
 file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
-
-[[files]]
-file = "kubejs/data/alloy_forgery/tags/recipes/blacklisted_increased_blasting_outputs.json"
-hash = "a6a5cfd9a6546ec5202c477c62428e9d03e4d0705c8d03f3ee8835845186396c"
-
-[[files]]
-file = "kubejs/data/diefalpha/alloy_forge_fuels/coal_coke.json"
-hash = "d97528f2d5aadb2fed6186f23f79228a75ae533f5866b835d8b6d2708849a6c4"
 
 [[files]]
 file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton_bow.json"
@@ -813,16 +817,16 @@ file = "kubejs/server_scripts/src/progression/ae2.js"
 hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/alloy_forgery.js"
-hash = "b8dae984d508ff83f77487523766d1793aa602bc3cafd604d9da284c5173c436"
-
-[[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
-hash = "ab7493ee720a8ec6040a662441afdd94308126c8dbcb52e0fea4cd6a9bf98475"
+hash = "9a829dd45e301b7888fa036f8a9997082cfb9b3492923a76460356bd46c7956e"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
 hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/immersiveengineering.js"
+hash = "d8e07a0eea4889c02ed9c226fa53f9cb8643fe88cd6c666aa0a6139c7a3c6e00"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
@@ -838,7 +842,7 @@ hash = "b4fa18a4cb978239a5ba39cda1bec19c10624cd3736ae05bd28554a7d29d6bd9"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
-hash = "ca4935f62cebd4886e5cdda802231e6a293c9dd3c387738e0a6afeea360cc4f9"
+hash = "bda07f6289f5dea0c532ef124ced85ec5ea8f3d27aed00bcd05f2668d9083a22"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
@@ -915,11 +919,6 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
-metafile = true
-
-[[files]]
-file = "mods/alloy-forgery.pw.toml"
-hash = "573bc2adfc72fb395c27c371568f0af20d0e83949637b6cf1b8a555a63814956"
 metafile = true
 
 [[files]]
@@ -1673,6 +1672,11 @@ hash = "38eb57e62638c18f4e63268aaf48f196108eed492649baea6be02bcdd6b5fa17"
 metafile = true
 
 [[files]]
+file = "mods/immersiveengineering.pw.toml"
+hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
+metafile = true
+
+[[files]]
 file = "mods/improved-sign-editing.pw.toml"
 hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
@@ -1705,6 +1709,11 @@ metafile = true
 [[files]]
 file = "mods/jade.pw.toml"
 hash = "e1b7575ede41282245f402976e29af128960d7dd4d34827c8068b06e3fdb30a6"
+metafile = true
+
+[[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
 metafile = true
 
 [[files]]

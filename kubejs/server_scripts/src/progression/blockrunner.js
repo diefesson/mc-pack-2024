@@ -23,6 +23,7 @@ ServerEvents.tags("block", event => {
                 id.includes('slab') ||
                 id.includes('wool') ||
                 id.includes('carpet') ||
+                id.includes('treated_wood') ||
                 false
             ) &&
             !(

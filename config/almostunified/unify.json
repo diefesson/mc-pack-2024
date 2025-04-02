@@ -3,9 +3,9 @@
     "minecraft",
     "kubejs",
     "crafttweaker",
-    "create",
     "thermal",
     "immersiveengineering",
+    "create",
     "mekanism"
   ],
   "stoneStrata": [
@@ -84,7 +84,9 @@
     "uranium",
     "zinc"
   ],
-  "priorityOverrides": {},
+  "priorityOverrides": {
+    "forge:storage_blocks/steel": "immersiveengineering"
+  },
   "customTags": {},
   "tagOwnerships": {},
   "itemTagInheritanceMode": "ALLOW",

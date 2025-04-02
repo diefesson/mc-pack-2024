@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
     ThermalUtils.setup(event)
 
-    // Remove crafting table allowing
+    // Remove crafting table alloying
     event.remove('railcraft:bronze_ingot_crafted_with_ingots')
     event.remove('railcraft:invar_ingot_crafted_with_ingots')
     event.remove('railcraft:brass_ingot_crafted_with_ingots')
@@ -13,31 +13,18 @@ ServerEvents.recipes(event => {
         ]
     )
 
-    // Use Thermal Resin and Creosote buckets to make Wooden Ties
+    // Use Immersive Engineering treated sticks to make ties
     event.remove('railcraft:wooden_tie_bottle')
     event.remove('railcraft:wooden_tie')
     event.shaped(
-        '3x railcraft:wooden_tie',
+        'railcraft:wooden_tie',
         [
-            ' B ',
+            '   ',
             'SSS',
             '   ',
         ],
         {
-            B: 'thermal:creosote_bucket',
-            S: '#minecraft:wooden_slabs'
-        }
-    )
-    event.shaped(
-        '3x railcraft:wooden_tie',
-        [
-            ' B ',
-            'SSS',
-            '   ',
-        ],
-        {
-            B: 'thermal:resin_bucket',
-            S: '#minecraft:wooden_slabs'
+            S: '#forge:rods/treated_wood'
         }
     )
 
@@ -91,6 +78,19 @@ ServerEvents.recipes(event => {
     )
 
     // Remove buggy/irrelevant content
+    // - Steel tools and armor
+    event.remove('railcraft:steel_shovel')
+    event.remove('railcraft:steel_pickaxe')
+    event.remove('railcraft:steel_axe')
+    event.remove('railcraft:steel_hoe')
+    event.remove('railcraft:steel_shears')
+    event.remove('railcraft:steel_sword')
+    event.remove('railcraft:steel_helmet')
+    event.remove('railcraft:steel_chestplate')
+    event.remove('railcraft:steel_leggings')
+    event.remove('railcraft:steel_boots')
+    event.remove('railcraft:steel_anvil')
+
     // - RailCraft gears
     event.remove('railcraft:nickel_gear')
     event.remove('railcraft:gold_gear')
