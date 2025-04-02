@@ -2,57 +2,7 @@ ServerEvents.recipes(event => {
     ThermalUtils.setup(event)
     PowahUtils.setup(event)
 
-    // Thermal (Machine Stage) => Powah
-    // Dielectric Paste is produced using dusts
-
-    event.remove('powah:crafting/dielectric_paste')
-    event.remove('powah:crafting/dielectric_paste_2')
-
-    event.shapeless(
-        '8x powah:dielectric_paste',
-        [
-            '#forge:dusts/obsidian',
-            '#forge:dusts/lead',
-            'minecraft:clay_ball'
-        ]
-    )
-
-    // Powah basic machines requires Pneumaticcraft Plastic
-
-    let powahRecipes = [
-        'powah:crafting/wrench',
-        'powah:crafting/dielectric_casing',
-        'powah:crafting/energy_cell_starter',
-        'powah:crafting/energy_cell_basic',
-        'powah:crafting/energy_cell_basic_2',
-        'powah:crafting/furnator_basic',
-        'powah:crafting/magmator_basic',
-        'powah:crafting/thermo_generator_basic',
-        'powah:crafting/solar_panel_basic',
-    ]
-
-    for (let id of powahRecipes) {
-        event.replaceInput(
-            { id: id },
-            '#forge:ingots/iron',
-            'pneumaticcraft:plastic'
-        )
-    }
-
-    // Powah Ender Core requires Applied Energistics 2 Singularity
-    event.remove('powah:energizing/ender_core')
-
-    PowahUtils.energizing(
-        Item.of('powah:ender_core'),
-        [
-            Item.of('minecraft:ender_eye'),
-            Item.of('ae2:singularity'),
-        ],
-        50000
-    )
-
-    // Remove Powah cables and update ender gate/cell recipes
-    let levels = [
+    let tiers = [
         'starter',
         'basic',
         'hardened',
@@ -70,16 +20,88 @@ ServerEvents.recipes(event => {
         'powah:crystal_spirited',
         'powah:crystal_nitro',
     ]
-    for (let level of levels) {
-        event.remove({ output: `powah:energy_cable_${level}` })
+
+    // Remove unwanted content
+    // - Furnators
+    for (let tier of tiers) {
+        event.remove({ output: `powah:furnator_${tier}` })
+    }
+
+    // - Magmators
+    for (let tier of tiers) {
+        event.remove({ output: `powah:magmator_${tier}` })
+    }
+
+    // - Thermo Generators
+    for (let tier of tiers) {
+        event.remove({ output: `powah:thermo_generator_${tier}` })
+    }
+    event.remove('powah:crafting/thermoelectric_plate')
+
+    // - Solar Panels
+    for (let tier of tiers) {
+        event.remove({ output: `powah:solar_panel_${tier}` })
+    }
+    event.remove('powah:crafting/photoelectric_pane')
+
+    // - Cables
+    for (let tier of tiers) {
+        event.remove({ output: `powah:energy_cable_${tier}` })
+    }
+
+    // - Extra Energy Cell (Basic) recipe
+    event.remove('powah:crafting/energy_cell_basic')
+
+
+    // Thermal (Machine Stage) => Powah
+    // Dielectric Paste is produced using dusts
+    event.remove('powah:crafting/dielectric_paste')
+    event.remove('powah:crafting/dielectric_paste_2')
+    event.shapeless(
+        '4x powah:dielectric_paste',
+        [
+            '1x #forge:dusts/obsidian',
+            '1x #forge:dusts/lead',
+            '2x minecraft:clay_ball'
+        ]
+    )
+
+    // Powah basic machines requires Pneumaticcraft Plastic
+    let powahRecipes = [
+        'powah:crafting/wrench',
+        'powah:crafting/dielectric_casing',
+        'powah:crafting/energy_cell_starter',
+    ]
+    for (let id of powahRecipes) {
+        event.replaceInput(
+            { id: id },
+            '#forge:ingots/iron',
+            'pneumaticcraft:plastic'
+        )
+    }
+
+    // Powah Ender Core requires Applied Energistics 2 Singularity
+    event.remove('powah:energizing/ender_core')
+    PowahUtils.energizing(
+        Item.of('powah:ender_core', 2),
+        [
+            Item.of('minecraft:ender_eye'),
+            Item.of('ae2:singularity'),
+        ],
+        50000
+    )
+
+    // Update Ender Gate/Cell recipes
+
+    for (let level of tiers) {
         event.remove({ output: `powah:ender_gate_${level}` })
         event.remove({ output: `powah:ender_cell_${level}` })
     }
-    for (let i = 0; i < levels.length; i++) {
-        let level = levels[i]
+    for (let i = 0; i < tiers.length; i++) {
+        let tier = tiers[i]
         let material = materials[i]
         event.shaped(
-            `powah:ender_gate_${level}`,
+            `powah:ender_gate_${tier}`,
             [
                 'DMD',
                 'MCM',
@@ -92,7 +114,7 @@ ServerEvents.recipes(event => {
             }
         )
         event.shaped(
-            `powah:ender_cell_${level}`,
+            `powah:ender_cell_${tier}`,
             [
                 'OOO',
                 'OGO',
@@ -100,7 +122,7 @@ ServerEvents.recipes(event => {
             ],
             {
                 O: 'minecraft:obsidian',
-                G: `powah:ender_gate_${level}`
+                G: `powah:ender_gate_${tier}`
             }
         )
     }
