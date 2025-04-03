@@ -154,7 +154,7 @@ hash = "cac1af8c3743486fab4cd555862942e471cb3f1781c6e0681d74aa4be7259ed1"
 
 [[files]]
 file = "config/embeddium++.toml"
-hash = "a4f5513c9f8183a00fdf019a03033d1ae383fe3b3937d4ba0c59cbc5f30e6000"
+hash = "aca835a76cebe68d9fd4206b9ec77ec7a4839200a9d42aba8c19d0e8ef9686b2"
 
 [[files]]
 file = "config/embeddium-options.json"
@@ -2466,4 +2466,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "afb2d84963d5654a8da8a6f512f1c460a2abe23fa16e0b1a3ea21c4367e7589e"
+hash = "ec0bfa7d8236ae1703d8e346adc18b756acb5345fff92af90fe50ee8ece423e8"

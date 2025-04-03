@@ -120,6 +120,9 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
+key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
+key_key.immersiveengineering.magnetEquip:key.keyboard.s
+key_key.immersiveengineering.railgunZoom:key.mouse.middle
 key_key.inventory:key.keyboard.e
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
@@ -170,6 +173,7 @@ key_key.modernfix.config:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
+key_key.railcraft.change_aura:key.keyboard.g
 key_key.right:key.keyboard.d
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
@@ -282,7 +286,7 @@ rawMouseInput:true
 realmsNotifications:true
 reducedDebugInfo:false
 renderClouds:"true"
-renderDistance:16
+renderDistance:8
 resourcePacks:[]
 screenEffectScale:1.0
 showAutosaveIndicator:true
