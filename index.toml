@@ -846,7 +846,7 @@ hash = "bda07f6289f5dea0c532ef124ced85ec5ea8f3d27aed00bcd05f2668d9083a22"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "2731453f4534df94fbe6b0529278aa0cbe9f8ad46b77d30938eea7bf42e052e1"
+hash = "c3f7bbc3926ce3121e427e02959386aaa80370e7d2fe413decac006418de85f0"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/via_romana.js"
