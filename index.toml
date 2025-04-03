@@ -301,18 +301,6 @@ file = "config/mooshroomtweaks.json5"
 hash = "ae4a210401b5df1af0278634643e97917ae8634e8fcafe6dc7b2fb0bc050d0cb"
 
 [[files]]
-file = "config/mysticalagradditions-common.toml"
-hash = "8b447e2966e00e5ecbc30733edf36af6754ad49b372c73997f3a56f782555db1"
-
-[[files]]
-file = "config/mysticalagriculture-client.toml"
-hash = "8fad5e2206758eceae2ee8618886715ef1de63eecf60f4f20d237be8f75d157c"
-
-[[files]]
-file = "config/mysticalagriculture-common.toml"
-hash = "58a7839a65846e26e36359ac7e299907c6654e635c57686db316ce804f520ff3"
-
-[[files]]
 file = "config/naturescompass-client.toml"
 hash = "f8666a691705e3a16363680504954d2bc5bcaa8bfed874fcd34f616a2a59905b"
 
@@ -693,10 +681,6 @@ file = "kubejs/server_scripts/src/base/loot.js"
 hash = "bb076ba93f2c14798e7b88bba325a200f640595793233e266d0e04bce0e57fba"
 
 [[files]]
-file = "kubejs/server_scripts/src/base/mystical_agriculture.js"
-hash = "90377abcf3004840470f3bb546457abefd88ff427d9b2ca4d9ee0d2ab3aebc5d"
-
-[[files]]
 file = "kubejs/server_scripts/src/base/pneumaticcraft.js"
 hash = "6531508e69a41820c2a34d0902dcd5464dd1fd4b480aff1d656e7b1fb8163f39"
 
@@ -763,46 +747,6 @@ hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
 hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/craftable_heads.js"
-hash = "c81dd54627926fcbd5c933464377ecab847208c4a92e05ca1dfedfdd8ed97766"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/essence_scaling.js"
-hash = "a4b8f2aa42a0894bc92390c60f2503166f863b84cf29cf8b9afda958b75386e3"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/recipes.js"
-hash = "d13dd40b561a78b918c285b4c6ded229f565002d35e2b37382d43ab6479b696f"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/seed_and_crops_tags.js"
-hash = "54e7724929665f24d111d8a7c72c7869c4e4a087cb6043ebdca869fa72563a86"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_creepers.js"
-hash = "74121b04bd5c7aca7c99e846d9889ad775388c62d7eb29d71579aff7835c288b"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_endermen.js"
-hash = "6f7e1e45837af82f5560ffbf5aab24c9a3401c0a1249a79fca221d8fafe97bdb"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_skeletons.js"
-hash = "a7cd181019470c4379c79ff71bc8b7e1130826708742f46e174a33f1f679c195"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_thermal.js"
-hash = "4c3ea5d1c5922987fa022fcb1335763786d4242a9cb7a8f0513aa815b905dbe2"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_villagers.js"
-hash = "15ad16e2f437b3b7e5ad6fe3e81c2da1e573497592a1c8b72eb552aa7e4b5a26"
-
-[[files]]
-file = "kubejs/server_scripts/src/mysticalagriculture/spawner_zombies.js"
-hash = "fb90f43f2a3670fb4b2942c0900984548f3b364b1b87d7bccf374ecabbd967c2"
 
 [[files]]
 file = "kubejs/server_scripts/src/pneumaticraft/ammo.js"
@@ -1273,11 +1217,6 @@ metafile = true
 [[files]]
 file = "mods/ctov-friends-and-foes-compat.pw.toml"
 hash = "afcd4470f08c342d9c09af255d113736906d2d2c739f5277951eb7ebde9446b9"
-metafile = true
-
-[[files]]
-file = "mods/cucumber.pw.toml"
-hash = "ab1b84d121c333006f03959abccb2f12d4dd0cb61c8fe753cea50318d814daca"
 metafile = true
 
 [[files]]
@@ -1908,16 +1847,6 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agradditions.pw.toml"
-hash = "a44dd736854d19eb85d354512c697fcda843146fb731e53b851aee814a8af12d"
-metafile = true
-
-[[files]]
-file = "mods/mystical-agriculture.pw.toml"
-hash = "a53146c3b6ebc6887589d71d5272c646f68e4755f0454505c7b49999ba84c1e0"
 metafile = true
 
 [[files]]
