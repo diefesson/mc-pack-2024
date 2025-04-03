@@ -226,7 +226,7 @@ hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
-hash = "10e2de8d987432c81724371ff27ccc2a452e88f22880c45777ca0cd35eda6118"
+hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 
 [[files]]
 file = "config/immersiveengineering-common.toml"
@@ -554,7 +554,7 @@ hash = "a2e298d4792680a6598b2527dc8d8e03a7b7ce71218a4ed6fc77337be2460c49"
 
 [[files]]
 file = "defaultconfigs/consecration-server.toml"
-hash = "29237109f2e1289b2ea27f003f8f822061f0df460be87c8a57d3caed2f526274"
+hash = "f293cc5bbc2a188df4b5a900f49839d89a51df1a6a3fc233d8acacedaf1f06c3"
 
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
@@ -562,7 +562,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "81978da5494bbfaa71a86079744d18724ed54a912c163ddb3d5c287f79437745"
+hash = "d35639f04281f3d812356c01ca8683455f1736edc8dfbbac87fd3674b86526a4"
 
 [[files]]
 file = "defaultconfigs/magnumtorch-server.toml"
@@ -582,7 +582,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "32f892d25d4d8fe33f211058bed5e41ff5fb72356004055403353a5648e62d66"
+hash = "64ff91843ace12273725e88286d6f4c6bbfef460a7c776c20772fd9d2622f754"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -818,7 +818,7 @@ hash = "f4d4395d16dac28a40955010f21d9931d0f7a122e147a993e981abc6549a1aff"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
-hash = "9a829dd45e301b7888fa036f8a9997082cfb9b3492923a76460356bd46c7956e"
+hash = "494a04f281481e36665dd4f4fb4ffa24ff0193f56957c4e29b019ef2839d2d0a"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
@@ -826,7 +826,7 @@ hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/immersiveengineering.js"
-hash = "ee568f690c345424fcc5010c66ca1c9df8d575408c8dae62aae15263f3bec335"
+hash = "9ed81fa4b9e40a0ddccb8bdbb3d2fc572fc3b9d55683b03936b9745948d5539c"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"

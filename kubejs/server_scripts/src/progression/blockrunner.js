@@ -24,12 +24,16 @@ ServerEvents.tags("block", event => {
                 id.includes('wool') ||
                 id.includes('carpet') ||
                 id.includes('treated_wood') ||
+                id.includes('concrete') ||
                 false
             ) &&
             !(
                 id.includes('wall') ||
                 id.includes('plastic_brick') ||
                 id.includes('bookshelf') ||
+                id.includes('powder') ||
+                id.includes('sprayed') ||
+                id.includes('pot') ||
                 id.includes('framedblocks:') ||
                 false
             )

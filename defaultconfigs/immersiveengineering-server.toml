@@ -205,7 +205,7 @@
 
 	[machines.lantern]
 		#Set this to false to disable the mob-spawn prevention of the Powered Lantern
-		spawnPrevent = true
+		spawnPrevent = false
 		#How much Flux the powered lantern draws per tick
 		#Range: > 1
 		energyDraw = 1

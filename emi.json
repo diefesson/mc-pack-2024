@@ -284,6 +284,10 @@
     "item:powah:solar_panel_niotic",
     "item:powah:solar_panel_spirited",
     "item:powah:solar_panel_nitro",
-    "item:powah:photoelectric_pane"
+    "item:powah:photoelectric_pane",
+    "item:immersiveengineering:minecart_reinforcedcrate",
+    "item:immersiveengineering:minecart_woodencrate",
+    "item:immersiveengineering:crate",
+    "item:immersiveengineering:reinforced_crate"
   ]
 }

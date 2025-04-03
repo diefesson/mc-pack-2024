@@ -9,7 +9,7 @@
 [vulnerability]
 	#The number of seconds that vulnerability from fire lasts.
 	#Range: 0 ~ 100
-	fireVulnerableDuration = 8
+	fireVulnerableDuration = 16
 	#The number of seconds that vulnerability from holy sources lasts.
 	#Range: 0 ~ 100
 	holyVulnerableDuration = 16
@@ -24,11 +24,11 @@
 	damageReduction = 80
 	#The undying natural health regeneration in half-hearts per second.
 	#Range: 0 ~ 1000
-	healthRegeneration = 1
+	healthRegeneration = 0
 	#The undying bonus speed modifier as a percent increase.
 	#Range: 0 ~ 1000
 	speedModifier = 0
 	#The percent damage reduction against non-vulnerable damage dealt by mobs.
 	#Range: 0 ~ 100
-	damageReductionVsMobs = 80
+	damageReductionVsMobs = 20
 
