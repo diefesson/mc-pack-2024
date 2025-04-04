@@ -1931,6 +1931,11 @@ hash = "be48890d990e03c639c5636c79bfa74bbd531c49a80487507984899c386a0bd9"
 metafile = true
 
 [[files]]
+file = "mods/pehkui.pw.toml"
+hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
+metafile = true
+
+[[files]]
 file = "mods/persistent-inventory-search.pw.toml"
 hash = "d8001c0ff1ccf9b0050c312a57a89a76090efeb8f5343b641d2c47200e00387d"
 metafile = true
