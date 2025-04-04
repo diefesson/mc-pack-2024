@@ -737,10 +737,6 @@ file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
 hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
 
 [[files]]
-file = "kubejs/server_scripts/src/pneumaticraft/ammo.js"
-hash = "33b86d72c76ca4023d9c5021fff1f9f2c3cfd6c1ac045f0d7b67a4e74f38d88a"
-
-[[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
 hash = "494a04f281481e36665dd4f4fb4ffa24ff0193f56957c4e29b019ef2839d2d0a"
 
@@ -754,7 +750,7 @@ hash = "882f3232aea3e22a2c29d8872be6404340d981412cc1e59cd160385268bf0d72"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
-hash = "34ef50482896df34e31641dde2e0c664d349ce8f92eb1b10960f415e1afb7807"
+hash = "664448c6c71ae00179b5929d485a23e33e3303b3920d08b203f08ee8f4a5b778"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/prettypipes.js"
