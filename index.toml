@@ -189,6 +189,14 @@ file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
+file = "config/extremereactors/client.toml"
+hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
+
+[[files]]
+file = "config/extremereactors/common.toml"
+hash = "b6731c61a6dd1d036f25d4b5c5f46c7fabd6d562c39197124b1739ff938faa30"
+
+[[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
@@ -735,6 +743,10 @@ hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
 hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/bigreactors.js"
+hash = "9c4120a65dee8e6de829848a6955d2b318222d270a328ecf129911bf1693773b"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
@@ -1390,6 +1402,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "56643304802508b362d2cee4acd59425e640ef9199a235839d7dafdd4f580c18"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "8528e7ab67d1d3121cd08ec609e251992f16edebd5b919321f877f551497f9cb"
 metafile = true
 
 [[files]]
@@ -2440,6 +2457,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-menu-tweaks.pw.toml"
 hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "b7a292c2f1505290e694c1083417984286d34cff09497cd00f78aadfbacff89f"
 metafile = true
 
 [[files]]
