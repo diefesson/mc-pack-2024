@@ -19,18 +19,6 @@ ServerEvents.recipes(event => {
         secondaries: [],
     })
 
-    // Immersive Engineering compat for Powah blocks
-    event.custom({
-        type: 'immersiveengineering:thermoelectric_source',
-        singleBlock: 'powah:dry_ice',
-        tempKelvin: 0
-    })
-    event.custom({
-        type: 'immersiveengineering:thermoelectric_source',
-        singleBlock: 'powah:blazing_crystal_block',
-        tempKelvin: 2400
-    })
-
     // Removed content
     // - Crates
     event.remove('immersiveengineering:crafting/crate')
