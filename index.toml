@@ -738,7 +738,7 @@ hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
-hash = "494a04f281481e36665dd4f4fb4ffa24ff0193f56957c4e29b019ef2839d2d0a"
+hash = "6f8e6e6321ef158934961e18539890e68964bd6e344e9e77eff3a1a990c9a036"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"
@@ -1820,6 +1820,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "679fa8f3b49b9ed3fbcb29d6ccdb99bce465faa01f9cec000464ac8d4fbe134f"
+metafile = true
+
+[[files]]
+file = "mods/my-nethers-delight.pw.toml"
+hash = "d213cbc0649da2672e2231b3f6741da76113ff61967a6287aa2e09f0c0807e53"
 metafile = true
 
 [[files]]

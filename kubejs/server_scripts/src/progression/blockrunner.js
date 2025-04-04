@@ -25,15 +25,23 @@ ServerEvents.tags("block", event => {
                 id.includes('carpet') ||
                 id.includes('treated_wood') ||
                 id.includes('concrete') ||
+                id.includes('powdery') ||
                 false
             ) &&
             !(
                 id.includes('wall') ||
+                id.includes('fence') ||
+                id.includes('gate') ||
+                id.includes('door') ||
+                id.includes('button') ||
+                id.includes('sign') ||
                 id.includes('plastic_brick') ||
                 id.includes('bookshelf') ||
-                id.includes('powder') ||
+                id.includes('concrete_powder') ||
                 id.includes('sprayed') ||
                 id.includes('pot') ||
+                id.includes('torch') ||
+                id.includes('cannon') ||
                 id.includes('framedblocks:') ||
                 false
             )
