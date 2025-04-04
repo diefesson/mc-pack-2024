@@ -705,12 +705,12 @@ file = "kubejs/server_scripts/src/compass/natures_compass.js"
 hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
 
 [[files]]
-file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
-hash = "2ee09bcaf7ab6361eb64a9853cfd4221e7741e844141cb8e9ad57e2e620bc44e"
+file = "kubejs/server_scripts/src/diefalpha/elytra.js"
+hash = "f107c9aebe2feb608e5ab1e3c1e97f10d5ea966074b0daf597e1f751c2723d87"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
-hash = "64f0481c62f56141d1fa60696806859c5c0d0a237de6793dc7776c225aa63445"
+hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
 file = "kubejs/server_scripts/src/farmersdelight/knives_recipes.js"
@@ -719,10 +719,6 @@ hash = "595f1efd4fee2e4b71a98070ac8d63aff7b7fcc14d3c11c804819bf7242d5c22"
 [[files]]
 file = "kubejs/server_scripts/src/friendsandfoes/recipes.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
-
-[[files]]
-file = "kubejs/server_scripts/src/ironjetpacks/recipes.js"
-hash = "92ae46733e543408b9a89e0a9af31dd8882843f73a271eaaaaf27ec4ab3768cb"
 
 [[files]]
 file = "kubejs/server_scripts/src/loot/chest_elemental_powders.js"

@@ -2,17 +2,16 @@ ServerEvents.recipes(event => {
     event.shapeless(
         'diefalpha:volatile_dust',
         [
+            '2x minecraft:redstone',
             'minecraft:amethyst_shard',
-            'minecraft:redstone',
-            'minecraft:redstone',
-            'minecraft:blaze_powder'
+            'minecraft:blaze_powder',
         ],
     )
     event.shapeless(
         'minecraft:dragon_breath',
         [
             'minecraft:glass_bottle',
-            'diefalpha:volatile_dust'
+            'diefalpha:volatile_dust',
         ]
     )
 })
