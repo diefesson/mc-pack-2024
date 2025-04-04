@@ -758,7 +758,7 @@ hash = "1039f5841ea3c4b3158d0c8686b795d480dfe78d69b530eea44bce0f9f9379f4"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/projectred.js"
-hash = "b4fa18a4cb978239a5ba39cda1bec19c10624cd3736ae05bd28554a7d29d6bd9"
+hash = "414e8bc639a6fc9db789b6d031e689d3b4da322f8cd8d566409cb38a39deec77"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/railcraft.js"
@@ -771,10 +771,6 @@ hash = "c3f7bbc3926ce3121e427e02959386aaa80370e7d2fe413decac006418de85f0"
 [[files]]
 file = "kubejs/server_scripts/src/progression/via_romana.js"
 hash = "a6a0d3c467e94518ba2f79ce56f9645fa439d66d7ad87609ee40585c15de6b0d"
-
-[[files]]
-file = "kubejs/server_scripts/src/projectred/recipes.js"
-hash = "f7f4c8a0f6b089e1610307ebdcbebc886725842dea48587e4fe683eb23084b38"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/recipes.js"
