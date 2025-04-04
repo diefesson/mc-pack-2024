@@ -566,7 +566,7 @@ hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
 
 [[files]]
 file = "emi.json"
-hash = "64ff91843ace12273725e88286d6f4c6bbfef460a7c776c20772fd9d2622f754"
+hash = "e3543cdedc0f736b5610ab5fce926fb2cb351ae2517a1d5fed069a6903e5a99b"
 
 [[files]]
 file = "kubejs/README.txt"
