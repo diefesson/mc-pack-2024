@@ -43,6 +43,7 @@ ServerEvents.tags("block", event => {
                 id.includes('torch') ||
                 id.includes('cannon') ||
                 id.includes('framedblocks:') ||
+                id.includes('biomancy:') ||
                 false
             )
         ) {

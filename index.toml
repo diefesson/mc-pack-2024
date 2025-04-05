@@ -746,11 +746,15 @@ hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/bigreactors.js"
-hash = "9c4120a65dee8e6de829848a6955d2b318222d270a328ecf129911bf1693773b"
+hash = "ffc5d6a5debf4f8ffa53a347de48aca7f73f7ab84ac7553c8009b730784a1349"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/biomancy.js"
+hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/blockrunner.js"
-hash = "6f8e6e6321ef158934961e18539890e68964bd6e344e9e77eff3a1a990c9a036"
+hash = "69c996ca0715a0c7a6e9cb5fd0c6ca58a85c317307ebfd4850f92893c4313ab8"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/chunkloaders.js"

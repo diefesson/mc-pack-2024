@@ -31,3 +31,11 @@ ServerEvents.tags('item', event => {
     // - Blutonium Ingot
     event.remove('forge:dusts/plutonium', 'bigreactors:blutonium_dust')
 })
+
+ServerEvents.recipes(event => {
+    event.remove('bigreactors:misc/book/erguide_alt')
+    event.remove('bigreactors:reactor/basic/controller_ingots_uranium')
+    event.remove('bigreactors:reactor/basic/fuelrod_ingots_uranium')
+    event.remove('bigreactors:reactor/reinforced/controller_ingots_uranium')
+    event.remove('bigreactors:reactor/reinforced/fuelrod_ingots_uranium')
+})
