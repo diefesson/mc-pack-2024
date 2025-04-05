@@ -554,7 +554,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "d35639f04281f3d812356c01ca8683455f1736edc8dfbbac87fd3674b86526a4"
+hash = "32f4fa463514e14d826e2e46c4ac1df4d09f0b87f0938f4870899ed325ae3a50"
 
 [[files]]
 file = "defaultconfigs/magnumtorch-server.toml"
@@ -570,7 +570,7 @@ hash = "cd1e8e3273a1ab625c899296a97832998466e4e6f70dfd43822b91acefd45af3"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
-hash = "3fe6f301bc0cfd825787c862c7f26f3aba0d94bd2c4a245158ad27c232819eb5"
+hash = "9d1a4ad9b37f5ab2a93330ca754b0e6817f0074eb8c73086a4f3b6147beaa6a0"
 
 [[files]]
 file = "emi.json"
