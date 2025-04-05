@@ -17,13 +17,15 @@
 	enable_empty_map_entry_and_fill = true
 	#Locations of where an atlas will be scanned for. By default only hotbar will be scanned
 	#Allowed Values: MAIN_HAND, HOTBAR, HANDS, HOTBAR_AND_HANDS, INVENTORY
-	activation_locations = "INVENTORY"
+	activation_locations = "HOTBAR_AND_HANDS"
 	#Allows players in creative to teleport using the atlas. Hold shift and press anywhere
 	creative_teleport = true
 	#Marker id associated with the red pin button on the atlas screen. Set to empty string to disable
 	pin_marked_id = "map_atlases:pin"
 	#Shows light color on maps. Needs Moonlight lib
 	light_map = false
+	#Adds a shear button to the atlas screen which allows you to cut maps
+	shear_button = true
 
 [update_logic]
 	#Update maps in simple round robin fashion instead of prioritizing the ones closer. Overrides configs below

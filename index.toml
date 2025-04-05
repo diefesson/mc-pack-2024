@@ -294,7 +294,7 @@ hash = "bce2140fa32d992193c02a025bc1e13fe5b5d078b00676647c3f97519d3f6b8c"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "6761274b4008d3d96bd3238ed9b265aa862e034bdf2b2ec4da6d0c3b8e41cc50"
+hash = "86e9303893dd2807e8547a031220b4299f6b9fef1a37c072608b8bbfee4bfcdf"
 
 [[files]]
 file = "config/measurements-client.toml"
@@ -1760,7 +1760,7 @@ metafile = true
 
 [[files]]
 file = "mods/map-atlases-forge.pw.toml"
-hash = "0b09ce9d7cb0de729afa7f0707ae34bb7e41b0676bd848faeff3a833210fbdf0"
+hash = "f5d0e428f6d61e5bd9d242d415845e7e6eaef440614b964e73073e4b5b084851"
 metafile = true
 
 [[files]]
@@ -1830,7 +1830,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "0c3cfbe3bbc72fc8edb5ecef0d1567f6dc05778648b471062894baa87410e1f7"
+hash = "f13e328561f1ee2eaf77fedcd5fcc253fb9b8b128facea35427e89bd5d95e357"
 metafile = true
 
 [[files]]
@@ -2106,11 +2106,6 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
-metafile = true
-
-[[files]]
-file = "mods/selene.pw.toml"
-hash = "834f90fa134d284524222d08e209d88b469f1c39899572e84613ead42060ff1a"
 metafile = true
 
 [[files]]
