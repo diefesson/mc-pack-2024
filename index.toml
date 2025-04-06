@@ -142,7 +142,7 @@ hash = "2a6a9f49deb84d0fbd260a36fa9fe83252fef12a4e53e99cbb88f3d25a61e671"
 
 [[files]]
 file = "config/darkmodeeverywhereshaders.json"
-hash = "2b00452f5043e33ccc023d017324e80ef333f861da68a6e989576c46a970f487"
+hash = "e3c521fc518bb4ce40925d55f7a2bdeb752409fc766cd4d6f4f46fae16b4f127"
 
 [[files]]
 file = "config/ding.toml"
@@ -159,6 +159,14 @@ hash = "aca835a76cebe68d9fd4206b9ec77ec7a4839200a9d42aba8c19d0e8ef9686b2"
 [[files]]
 file = "config/embeddium-options.json"
 hash = "ccaaa5402e653fa3052088aaf5771328305f07ff726bb1424b783143506943df"
+
+[[files]]
+file = "config/embers-client.toml"
+hash = "c033affd1975bbd9ddc01623835250ee76ed68a4f1a7266071b8651c352521de"
+
+[[files]]
+file = "config/embers-common.toml"
+hash = "0d486c00de22836ae7f3dd13133e6bbe1b26369e89684e5b1a1337e2b68f7fa7"
 
 [[files]]
 file = "config/emi.css"
@@ -238,7 +246,7 @@ hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 
 [[files]]
 file = "config/immersiveengineering-common.toml"
-hash = "0c9d0e1f7c5ea9dda456ee9e69dda5747d6bb3ecb49e98204a823ceca098a18e"
+hash = "5ffdd12253afa5b500857a8fdd2973fac7bf3a09d62df834b5c1a6093090bb94"
 
 [[files]]
 file = "config/ironjetpacks-client.toml"
@@ -541,6 +549,14 @@ file = "config/waystones-common.toml"
 hash = "b0fcf3a77e6fa5bcad6ed9c479462ba31deb6d78b987d180e7cda616101c8ab9"
 
 [[files]]
+file = "config/wizards_reborn-client.toml"
+hash = "ba561dd62cddd23694c8871055c47a5c3fb859887831cb84b7e57b3552145219"
+
+[[files]]
+file = "config/wizards_reborn-common.toml"
+hash = "aca261a06700a6454e7647c639fbbe20d91d1503bee8c8ebc859ac50118aab8a"
+
+[[files]]
 file = "defaultconfigs/archers_paradox-server.toml"
 hash = "a2e298d4792680a6598b2527dc8d8e03a7b7ce71218a4ed6fc77337be2460c49"
 
@@ -562,7 +578,7 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"
-hash = "052e17e211740de7ed008046c6c367b4e6facd736aec938b6f8432ceb35f67dc"
+hash = "71430bc9f89bb87d019bfa2f66f01d1745860a5f70abff39c546b48f0c931a20"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -615,6 +631,14 @@ hash = "ed248362b942cec47fbbc887ea0dbad20efa446264f5cf1a83b0970f73ed587c"
 [[files]]
 file = "kubejs/data/diefalpha/worldgen/placed_feature/apatite_ore.json"
 hash = "b01fe5d59f62bdf9381ea2154a3b70139f5f9ff64d2c20ff59bf68ec4eb89433"
+
+[[files]]
+file = "kubejs/data/embers/worldgen/configured_feature/ore_lead.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/data/mysticalagriculture/loot_tables/blocks/deepslate_prosperity_ore.json"
@@ -1319,6 +1343,11 @@ hash = "5cc23a02788b472e556a8769fd7e9d8249f5a2998df2505243e17875cfa3dc18"
 metafile = true
 
 [[files]]
+file = "mods/embers.pw.toml"
+hash = "bf96c8c4478bbc34df85a92f90978251f859f8b635855d00d5905aaf47118f89"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "3dbc9206585bb9a4fb3f6af39672f335e57b5e5f581524c429f014240e2b44b3"
 metafile = true
@@ -1441,6 +1470,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "5e952f5b67f61977e5922beb9ae514dacba9da94ab5f76464cbc600bf43504da"
 metafile = true
 
 [[files]]
@@ -2411,6 +2445,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
+metafile = true
+
+[[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "3f745efd31d26e0844fff345e3dda360d388b18aff4422b7a452a7757b0aca25"
 metafile = true
 
 [[files]]
