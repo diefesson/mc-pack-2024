@@ -1,0 +1,13 @@
+name = "Wizard's Gauntlet"
+filename = "Wizards_Gauntlet_v2.0.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7YOIbc77/versions/muQYO6mM/Wizards_Gauntlet_v2.0.zip"
+hash-format = "sha512"
+hash = "90e0c9c4cdcc84017da2659947917023eaac4c4169a334d4abbfe95c2b5a36fe0d115c8db354288cc68f58d55aad369482477ff2c3f781a726983e188f2ac50e"
+
+[update]
+[update.modrinth]
+mod-id = "7YOIbc77"
+version = "muQYO6mM"

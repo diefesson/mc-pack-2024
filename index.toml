@@ -345,6 +345,11 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/wizards-gauntlet.pw.toml"
+hash = "2fde1a04fb8e216160b762eb9c8eaa1bf73a35e6b679c2449aff36068cec2c82"
+metafile = true
+
+[[files]]
 file = "config/pneumaticcraft-client.toml"
 hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
@@ -615,6 +620,14 @@ hash = "ed248362b942cec47fbbc887ea0dbad20efa446264f5cf1a83b0970f73ed587c"
 [[files]]
 file = "kubejs/data/diefalpha/worldgen/placed_feature/apatite_ore.json"
 hash = "b01fe5d59f62bdf9381ea2154a3b70139f5f9ff64d2c20ff59bf68ec4eb89433"
+
+[[files]]
+file = "kubejs/data/embers/worldgen/configured_feature/ore_lead.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/data/mysticalagriculture/loot_tables/blocks/deepslate_prosperity_ore.json"
@@ -1319,6 +1332,11 @@ hash = "5cc23a02788b472e556a8769fd7e9d8249f5a2998df2505243e17875cfa3dc18"
 metafile = true
 
 [[files]]
+file = "mods/embers.pw.toml"
+hash = "bf96c8c4478bbc34df85a92f90978251f859f8b635855d00d5905aaf47118f89"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "3dbc9206585bb9a4fb3f6af39672f335e57b5e5f581524c429f014240e2b44b3"
 metafile = true
@@ -1441,6 +1459,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
+metafile = true
+
+[[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "5e952f5b67f61977e5922beb9ae514dacba9da94ab5f76464cbc600bf43504da"
 metafile = true
 
 [[files]]
@@ -2411,6 +2434,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
+metafile = true
+
+[[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "3f745efd31d26e0844fff345e3dda360d388b18aff4422b7a452a7757b0aca25"
 metafile = true
 
 [[files]]
