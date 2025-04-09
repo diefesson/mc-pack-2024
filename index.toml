@@ -705,10 +705,6 @@ file = "kubejs/server_scripts/src/amendments/torch_fire_fix.js"
 hash = "2cf222714cd28ba35eceab0637428d4710143ec1bcfe6986674ea012b3037fad"
 
 [[files]]
-file = "kubejs/server_scripts/src/base/loot.js"
-hash = "bb076ba93f2c14798e7b88bba325a200f640595793233e266d0e04bce0e57fba"
-
-[[files]]
 file = "kubejs/server_scripts/src/base/pneumaticcraft.js"
 hash = "6531508e69a41820c2a34d0902dcd5464dd1fd4b480aff1d656e7b1fb8163f39"
 
@@ -743,22 +739,6 @@ hash = "595f1efd4fee2e4b71a98070ac8d63aff7b7fcc14d3c11c804819bf7242d5c22"
 [[files]]
 file = "kubejs/server_scripts/src/friendsandfoes/recipes.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
-
-[[files]]
-file = "kubejs/server_scripts/src/loot/chest_elemental_powders.js"
-hash = "57caa2080d1c7f848d7713c79eec9cfecdc2c14c479b7622837db55b56fcb293"
-
-[[files]]
-file = "kubejs/server_scripts/src/loot/chest_elemental_rods.js"
-hash = "deacf82af0299529e00b12f6882a9cc2559e8551adc6163f21481988b1a3b665"
-
-[[files]]
-file = "kubejs/server_scripts/src/loot/chest_grenades.js"
-hash = "15d7884939d51d013c1b4d061e0e846e7d85ba6bce258ad2779e14d30f8573da"
-
-[[files]]
-file = "kubejs/server_scripts/src/loot/chest_ingots.js"
-hash = "bbef8ad67d2fd5187ce7bd1471cd1f7acdf82a397251cf62e666f4576d864596"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/recipes.js"
@@ -1755,11 +1735,6 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
-metafile = true
-
-[[files]]
-file = "mods/lootjs.pw.toml"
-hash = "2e252ae669d1064f1be162272547fac464803846b1073fd3825886d3a59f4140"
 metafile = true
 
 [[files]]
