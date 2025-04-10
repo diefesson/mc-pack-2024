@@ -2,11 +2,11 @@ let dynamos_tag = 'thermal:dynamos'
 let machines_tag = 'thermal:machines'
 let devices_tag = 'thermal:devices'
 
-let to_dynamos = [
+let dynamos = [
     'thermal_extra:frost_dynamo'
 ]
 
-let to_machines = [
+let machines = [
     'thermal_extra:advanced_refinery',
     'thermal_extra:nitratic_igniter',
     'thermal_extra:fluid_mixer',
@@ -14,7 +14,7 @@ let to_machines = [
     'thermal_extra:endothermic_dehydrator',
 ]
 
-let to_devices = [
+let devices = [
     'thermal_extra:device_harvester',
     'thermal_extra:device_lava_gen',
     'thermal:device_tree_extractor',
@@ -28,25 +28,25 @@ let to_devices = [
 ]
 
 ServerEvents.tags('item', event => {
-    for (let i of to_dynamos) {
+    for (let i of dynamos) {
         event.add(dynamos_tag, i)
     }
-    for (let i of to_machines) {
+    for (let i of machines) {
         event.add(machines_tag, i)
     }
-    for (let i of to_devices) {
+    for (let i of devices) {
         event.add(devices_tag, i)
     }
 })
 
 ServerEvents.tags('block', event => {
-    for (let i of to_dynamos) {
+    for (let i of dynamos) {
         event.add(dynamos_tag, i)
     }
-    for (let i of to_machines) {
+    for (let i of machines) {
         event.add(machines_tag, i)
     }
-    for (let i of to_devices) {
+    for (let i of devices) {
         event.add(devices_tag, i)
     }
 })

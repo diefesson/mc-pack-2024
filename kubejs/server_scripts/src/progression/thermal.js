@@ -34,13 +34,6 @@ ServerEvents.recipes(event => {
         )
     }
 
-    // Thermal Extra harvester uses RF, so it should have a RF Coil
-    event.replaceInput(
-        'thermal_extra:crafting/device_harvester',
-        'thermal:redstone_servo',
-        'thermal:rf_coil',
-    )
-
     // Thermal Ducts are limitless, lets make them expensive
     event.remove('thermal:energy_duct_4')
     event.remove('thermal:fluid_duct_4')
