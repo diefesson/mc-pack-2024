@@ -98,7 +98,7 @@ key_key.do_a_barrel_roll.roll_left:key.keyboard.unknown
 key_key.do_a_barrel_roll.roll_right:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_backward:key.keyboard.unknown
 key_key.do_a_barrel_roll.thrust_forward:key.keyboard.w
-key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.i
+key_key.do_a_barrel_roll.toggle_enabled:key.keyboard.unknown
 key_key.do_a_barrel_roll.toggle_thrust:key.keyboard.unknown
 key_key.do_a_barrel_roll.yaw_left:key.keyboard.a
 key_key.do_a_barrel_roll.yaw_right:key.keyboard.d
@@ -109,6 +109,7 @@ key_key.endergetic.booflo_slam:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fabrictailor.toggle_skin_gui:key.keyboard.unknown
+key_key.fluffy_fur.skin_menu:key.keyboard.unknown
 key_key.forward:key.keyboard.w
 key_key.fullscreen:key.keyboard.f11
 key_key.hotbar.1:key.keyboard.1
@@ -173,7 +174,7 @@ key_key.modernfix.config:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
-key_key.railcraft.change_aura:key.keyboard.g
+key_key.railcraft.change_aura:key.keyboard.unknown
 key_key.right:key.keyboard.d
 key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
@@ -209,6 +210,11 @@ key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.use:key.mouse.right
 key_key.veinmining.activate.desc:key.keyboard.unknown
+key_key.wizards_reborn.bag_menu:key.keyboard.unknown
+key_key.wizards_reborn.next_spell:key.keyboard.unknown
+key_key.wizards_reborn.previous_spell:key.keyboard.unknown
+key_key.wizards_reborn.selection_menu:key.keyboard.unknown
+key_key.wizards_reborn.spell_sets_toggle:key.keyboard.unknown
 key_keybind.ironjetpacks.ascend:key.keyboard.unknown
 key_keybind.ironjetpacks.decrement_throttle:key.keyboard.comma
 key_keybind.ironjetpacks.descend:key.keyboard.unknown
