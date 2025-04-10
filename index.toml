@@ -209,6 +209,14 @@ file = "config/farmersdelight-common.toml"
 hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
 
 [[files]]
+file = "config/fluffy_fur-client.toml"
+hash = "c0cee67d5c56d11394d57173b6fb299a0851ee1105097bf84db864f35b0838f2"
+
+[[files]]
+file = "config/fluffy_fur-common.toml"
+hash = "f9bcc106bdc3de6161349705d40169939c05db48cb33be74728a6710b5c1da7a"
+
+[[files]]
 file = "config/framedblocks-client.toml"
 hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 
