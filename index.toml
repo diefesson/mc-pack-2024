@@ -1090,6 +1090,11 @@ hash = "e3dd03e7fec88831974857e2cdded54dd5c5bdcaa3f6d6248c2800e82db4dd41"
 metafile = true
 
 [[files]]
+file = "mods/clumps.pw.toml"
+hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
+metafile = true
+
+[[files]]
 file = "mods/coastal-waves.pw.toml"
 hash = "f8d60b21ae032eb665522aa68cc6eae816063469aa302ce2b116fb50aaa5251a"
 metafile = true
