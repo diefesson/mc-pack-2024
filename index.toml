@@ -785,12 +785,8 @@ file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
 hash = "579f776096c0f238cb75132799dd97ce9f5ddd1c2babe08be1799bbf7bfb77a8"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/prettypipes.js"
-hash = "1039f5841ea3c4b3158d0c8686b795d480dfe78d69b530eea44bce0f9f9379f4"
-
-[[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "698fc17f8904e455767dc723e17c501e3c001213e229bc11bbc3fde4107ea0d9"
+hash = "6852d43ac51ae48b2b04af41f8a1d6fb95eca378eb2d57e1b571683894bd673a"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/hide_cb_microblocks.js"
@@ -831,6 +827,10 @@ hash = "4fa61ac0a706de12992e397901b5788d242e013e74c8c7b67abd36c8db1267d1"
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_upgrades.js"
 hash = "1e0065eae1f963aed114d5191347deb7dfa71212263d57aec011180b741e0d0b"
+
+[[files]]
+file = "kubejs/server_scripts/src/thermal/expensive_ducts.js"
+hash = "6427060e5642a0d986abc5e67e56a3e9b4a726193d9dfbd33588e733a4d7f4ec"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/machine_device_tags.js"
