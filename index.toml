@@ -717,10 +717,6 @@ file = "kubejs/server_scripts/src/base/thermal.js"
 hash = "ed9edc8489b43c02ab95bf4a23f513ea20f1ee54c49dc2c7553dbb204b3207b7"
 
 [[files]]
-file = "kubejs/server_scripts/src/bigreactors/fix_tags.js"
-hash = "ffc5d6a5debf4f8ffa53a347de48aca7f73f7ab84ac7553c8009b730784a1349"
-
-[[files]]
 file = "kubejs/server_scripts/src/biomancy/fix_consume.js"
 hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 
