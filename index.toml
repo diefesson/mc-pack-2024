@@ -22,7 +22,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "59f5de0cfe9f363a6dbaa7a3f11e0fba9744cda1e852dfc0a7df2d597e6745fc"
+hash = "e1c8e83fa1351e224cd1db8ef4c84b5f0976842227e23428fe92f3d2fc465bf0"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -590,7 +590,7 @@ hash = "9d1a4ad9b37f5ab2a93330ca754b0e6817f0074eb8c73086a4f3b6147beaa6a0"
 
 [[files]]
 file = "emi.json"
-hash = "e3543cdedc0f736b5610ab5fce926fb2cb351ae2517a1d5fed069a6903e5a99b"
+hash = "9580da737d5c87d435bf00c46073d255539660e094cd0c9b5faba15630d8a968"
 
 [[files]]
 file = "kubejs/README.txt"
@@ -761,10 +761,6 @@ file = "kubejs/server_scripts/src/friendsandfoes/copper_button.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
 
 [[files]]
-file = "kubejs/server_scripts/src/immersiveengineering/removed_content.js"
-hash = "5cd126dc0c0fcc2336904a3263ebae46d1b4d6e1958ca62184777b5e0a5908e0"
-
-[[files]]
 file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
 hash = "484d6965774fd27344aa26bc8c9ef6c5787ff09cfb6fe4dd69352cbe043fad95"
 
@@ -786,18 +782,18 @@ hash = "579f776096c0f238cb75132799dd97ce9f5ddd1c2babe08be1799bbf7bfb77a8"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "6852d43ac51ae48b2b04af41f8a1d6fb95eca378eb2d57e1b571683894bd673a"
+hash = "8aa8beadf4bfe40dae2e9c919db31bb7d260d052a170d4676b804a89bd3af1f0"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/hide_cb_microblocks.js"
 hash = "13c82aaf06503742b090e98c079b3f5effa27ed9a5b91af45d0f9330be86f533"
 
 [[files]]
-file = "kubejs/server_scripts/src/projectred/unwated_content.js"
-hash = "e590a5c735409265ba55eb5ef4484fea43f90a89f536eef64c0e938d9814125b"
+file = "kubejs/server_scripts/src/projectred/remove_content.js"
+hash = "42d08ad27704cda6597693da9d73b251fc539960c6ee2577ca7945d0f311afd0"
 
 [[files]]
-file = "kubejs/server_scripts/src/projectred/updated_recipes.js"
+file = "kubejs/server_scripts/src/projectred/update_recipes.js"
 hash = "018e50f97f83c86f5d5c03d24a3fd45f1b38a1c6d794cf526b081b718f6eb94b"
 
 [[files]]
@@ -805,16 +801,16 @@ file = "kubejs/server_scripts/src/railcraft/alloys.js"
 hash = "b0056f5373386ae67fe594cccf648fe5b39dee0df2e8a21d4d19775acae56c16"
 
 [[files]]
+file = "kubejs/server_scripts/src/railcraft/alternative_recipes.js"
+hash = "e7cddbd1257db7f54d9a7b8852443b5e419b3cc74207299171e23fb916e73277"
+
+[[files]]
 file = "kubejs/server_scripts/src/railcraft/ender_dust_tag.js"
 hash = "e9b2c502b52d87b6d2d71a62d0e6dcc36fb63fc7d0c889f9f4cb276e6fe6608b"
 
 [[files]]
-file = "kubejs/server_scripts/src/railcraft/gear_bushing.js"
-hash = "257dd0168d70c20be9e03ed6e4e42e56f235a24d5203ac92afa9c4261ffa2546"
-
-[[files]]
 file = "kubejs/server_scripts/src/railcraft/remove_content.js"
-hash = "35ea9523f527319ae815617eb83e8e4ce8fbe87d6f20efad9ba61147292f8f20"
+hash = "49532c17e9955b9b9d0bd7cbabe6f80891b43cff778cfeb3516044141cff1bd5"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"
@@ -826,27 +822,39 @@ hash = "4fa61ac0a706de12992e397901b5788d242e013e74c8c7b67abd36c8db1267d1"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_upgrades.js"
-hash = "1e0065eae1f963aed114d5191347deb7dfa71212263d57aec011180b741e0d0b"
+hash = "4584e58549e411504cb6483e96179af9c6a792427b87e85a279c0b7a97b67c2c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/expensive_ducts.js"
 hash = "6427060e5642a0d986abc5e67e56a3e9b4a726193d9dfbd33588e733a4d7f4ec"
 
 [[files]]
+file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
+hash = "7556ce634e3328c973c420e8ebb74141745c75a86d129d3261ec550e37181c2e"
+
+[[files]]
 file = "kubejs/server_scripts/src/thermal/machine_device_tags.js"
 hash = "0f7f0372085def456515df3ae0377aada499fab7b37fc65f59bdaee5709d3bfd"
+
+[[files]]
+file = "kubejs/server_scripts/src/thermal/removed_content.js"
+hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal_extra/harvester_coil.js"
 hash = "18a8ea4e21ef021b3b78311e25722ce4336a37008d9bcf1b36fbdc6db94a3b1f"
 
 [[files]]
-file = "kubejs/server_scripts/src/upgrade_aquatic/bedroll.js"
-hash = "c67afc7b677a799a53cc4abe89e518e6a2237ee979abd8626bebadae30beef8d"
-
-[[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/glass_trapdoor.js"
 hash = "fdc95a382b09723885a57d9f9804d56e4722115767596ec76a6c1c7ea1abb099"
+
+[[files]]
+file = "kubejs/server_scripts/src/upgrade_aquatic/remove_bedroll.js"
+hash = "ec7ea10c0e06ea44fc4b232d46b2904d419edb998d088bfd77aa02f81875ca7a"
+
+[[files]]
+file = "kubejs/server_scripts/src/vanilla_claws/remove_claws.js"
+hash = "886fb4bd048b4777d5a1eb8358538794066680dbfe0600b3fa4b16453029b7e3"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"

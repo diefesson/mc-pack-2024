@@ -2,11 +2,9 @@
   "modPriorities": [
     "minecraft",
     "kubejs",
-    "crafttweaker",
+    "farmersdelight",
     "thermal",
-    "immersiveengineering",
-    "create",
-    "mekanism"
+    "immersiveengineering"
   ],
   "stoneStrata": [
     "stone",
@@ -36,7 +34,7 @@
     "aluminum",
     "amber",
     "apatite",
-    "betroot",
+    "beetroot",
     "bitumen",
     "brass",
     "bronze",
