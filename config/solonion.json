@@ -1,6 +1,8 @@
 {
   "foodItems": {
-    "entries": [],
+    "entries": [
+      "{id:\"item\",item:\"malum:chunk_of_brilliance\"}"
+    ],
     "isWhitelist": false
   },
   "trackCount": 32,

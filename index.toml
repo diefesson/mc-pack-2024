@@ -414,7 +414,7 @@ hash = "49d3f49f2e20a5ffcd61a834e77cec538789af782b6fe2a741642aaa43fccdf6"
 
 [[files]]
 file = "config/solonion.json"
-hash = "5de755a17acf44e0720b9d7fd9d9fa0e25da5d5f4d8192773b65ca933f8d9312"
+hash = "6451f07ecf9783ec7456cf266c17960799f370d43c7a36f593df9e0f0cdd2cdd"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -1657,11 +1657,6 @@ hash = "baac73de54c9edc42e65ee0bbaab5495b34ededc74d39db77619cdaf55f831f7"
 metafile = true
 
 [[files]]
-file = "mods/immediatelyfast.pw.toml"
-hash = "38eb57e62638c18f4e63268aaf48f196108eed492649baea6be02bcdd6b5fa17"
-metafile = true
-
-[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
@@ -1777,6 +1772,11 @@ hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
 metafile = true
 
 [[files]]
+file = "mods/lodestonelib.pw.toml"
+hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -1799,6 +1799,11 @@ metafile = true
 [[files]]
 file = "mods/make_bubbles_pop.pw.toml"
 hash = "e0d14709c8d5b32a0ceade7c020ea4304f1900129c31c6ac2fe06ff75edb7265"
+metafile = true
+
+[[files]]
+file = "mods/malum.pw.toml"
+hash = "7662f27522e4655bb48dda2ffa36834587006e179964eaad652a1493e09272b6"
 metafile = true
 
 [[files]]
@@ -1934,11 +1939,6 @@ metafile = true
 [[files]]
 file = "mods/no-telemetry.pw.toml"
 hash = "65e3f9e4ed2efbcf51d469c775cbf31a16c7117028730b8d891c21f0cd9acde4"
-metafile = true
-
-[[files]]
-file = "mods/noisium.pw.toml"
-hash = "2448ee89974f5934aa9114270f3e6666cbe203bffe5be6c2905231bb5dc1af81"
 metafile = true
 
 [[files]]
