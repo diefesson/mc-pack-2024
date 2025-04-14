@@ -4,37 +4,30 @@ ServerEvents.recipes(event => {
     event.remove('thermal:fluid_duct_4')
     event.remove('thermal:fluid_duct_windowed_4')
     event.shaped(
-        '4x thermal:energy_duct',
+        '16x thermal:energy_duct',
         [
             'GGG',
-            'RDR',
+            'RER',
             'GGG',
         ],
         {
             G: '#thermal:glass/hardened',
             R: 'minecraft:redstone',
-            D: ['thermal_extra:dragonsteel_ingot', 'thermal_extra:abyssal_ingot'],
+            E: '#forge:ingots/enderium',
         }
     )
     event.shaped(
-        '4x thermal:fluid_duct_windowed',
+        '16x thermal:fluid_duct_windowed',
         [
             'GGG',
-            'CDC',
+            'CEC',
             'GGG',
         ],
         {
             G: '#thermal:glass/hardened',
             C: 'minecraft:copper_ingot',
-            D: ['thermal_extra:dragonsteel_ingot', 'thermal_extra:abyssal_ingot'],
+            E: '#forge:ingots/enderium',
         }
     )
-    event.shapeless(
-        'thermal:fluid_duct_windowed',
-        ['thermal:fluid_duct']
-    )
-    event.shapeless(
-        'thermal:fluid_duct',
-        ['thermal:fluid_duct_windowed']
-    )
+
 })

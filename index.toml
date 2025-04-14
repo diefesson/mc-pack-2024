@@ -570,7 +570,7 @@ hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
 [[files]]
 file = "defaultconfigs/immersiveengineering-server.toml"
-hash = "32f4fa463514e14d826e2e46c4ac1df4d09f0b87f0938f4870899ed325ae3a50"
+hash = "3d6c314b4ddbed446f567efe523ac10a4e3cfa4ecb4d9da7c1c0caa7ed4ce662"
 
 [[files]]
 file = "defaultconfigs/magnumtorch-server.toml"
@@ -777,12 +777,8 @@ file = "kubejs/server_scripts/src/pneumaticcraft/ammo_recipes.js"
 hash = "f4c435487c4a91e785a8b7ea77a112aa78150ca9382b0d9a1241780bd84e36a7"
 
 [[files]]
-file = "kubejs/server_scripts/src/progression/pneumaticcraft.js"
-hash = "579f776096c0f238cb75132799dd97ce9f5ddd1c2babe08be1799bbf7bfb77a8"
-
-[[files]]
-file = "kubejs/server_scripts/src/progression/thermal.js"
-hash = "8aa8beadf4bfe40dae2e9c919db31bb7d260d052a170d4676b804a89bd3af1f0"
+file = "kubejs/server_scripts/src/progression/materials.js"
+hash = "22e3bcde7ec1ca99d97a6cdcf12edfa8e9e9a0e5174f8b9275bfa7bfbae1cb2a"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/hide_cb_microblocks.js"
@@ -826,7 +822,11 @@ hash = "4584e58549e411504cb6483e96179af9c6a792427b87e85a279c0b7a97b67c2c"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/expensive_ducts.js"
-hash = "6427060e5642a0d986abc5e67e56a3e9b4a726193d9dfbd33588e733a4d7f4ec"
+hash = "4bd14e2c4d49415ed2773df3abeb65cfdb30508ae9d4a75961c3818d656c06ae"
+
+[[files]]
+file = "kubejs/server_scripts/src/thermal/fluid_duct_conversion.js"
+hash = "1218700fbe398d5c8b771bda0c9ad553ee6e33fa2a6454a7cfa6460e670d87e3"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
