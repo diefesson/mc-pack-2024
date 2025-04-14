@@ -257,20 +257,12 @@ file = "config/ironjetpacks-common.toml"
 hash = "eab47028c2c120b2bdb20c05acf43194da421b169d97f08c05436cd971b27320"
 
 [[files]]
-file = "config/ironjetpacks/jetpacks/advanced.json"
-hash = "e3aa91c773159d7930f28efcbea56ed108d280d2952d2bd3c75dad53b9305cd8"
-
-[[files]]
-file = "config/ironjetpacks/jetpacks/basic.json"
-hash = "04bb5e218c37cfebb4415c05152586c2d095210937a3426c7633bd630ead6ff9"
-
-[[files]]
 file = "config/ironjetpacks/jetpacks/creative.json"
 hash = "e94d00d800399f8872223eb9ddd069af29cb0df9e723643716a97171f171aff2"
 
 [[files]]
-file = "config/ironjetpacks/jetpacks/ultimate.json"
-hash = "d82fa9cda81d0f614da19be8dd1aaef6a21a3cf32cc4a8a8cd50378c10d6eec8"
+file = "config/ironjetpacks/jetpacks/enderium.json"
+hash = "715006c39f1e7703328562ea518bbf58b1b2d8407c6141a911f9459b56ff5d2b"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -586,7 +578,7 @@ hash = "cd1e8e3273a1ab625c899296a97832998466e4e6f70dfd43822b91acefd45af3"
 
 [[files]]
 file = "defaultconfigs/thermal-server.toml"
-hash = "9d1a4ad9b37f5ab2a93330ca754b0e6817f0074eb8c73086a4f3b6147beaa6a0"
+hash = "dcb014766387a40e41522bc188b3afc29cc6e2c76c8f4003faf7894443c90873"
 
 [[files]]
 file = "emi.json"
@@ -741,12 +733,16 @@ file = "kubejs/server_scripts/src/compass/natures_compass.js"
 hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
 
 [[files]]
-file = "kubejs/server_scripts/src/diefalpha/elytra.js"
-hash = "f107c9aebe2feb608e5ab1e3c1e97f10d5ea966074b0daf597e1f751c2723d87"
+file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
+hash = "b1cfed94b06ca0d952c49bc08e6702130ddea6724a77fcf7dac8275ee55f64e3"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
+
+[[files]]
+file = "kubejs/server_scripts/src/elytra_trims/remove_content.js"
+hash = "d4408494fe4013c937ef4bb2ea52e3038cdbe60ad70606c2b9b2f2cd491bd811"
 
 [[files]]
 file = "kubejs/server_scripts/src/embers/plate_hammering.js"
@@ -775,6 +771,10 @@ hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
 [[files]]
 file = "kubejs/server_scripts/src/pneumaticcraft/ammo_recipes.js"
 hash = "f4c435487c4a91e785a8b7ea77a112aa78150ca9382b0d9a1241780bd84e36a7"
+
+[[files]]
+file = "kubejs/server_scripts/src/progression/elytra.js"
+hash = "201d472f8bfe9936aa6e84082074409e4f869e21a7e202b39ad00f6db6611ee3"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/materials.js"
@@ -839,10 +839,6 @@ hash = "0f7f0372085def456515df3ae0377aada499fab7b37fc65f59bdaee5709d3bfd"
 [[files]]
 file = "kubejs/server_scripts/src/thermal/removed_content.js"
 hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
-
-[[files]]
-file = "kubejs/server_scripts/src/thermal_extra/harvester_coil.js"
-hash = "18a8ea4e21ef021b3b78311e25722ce4336a37008d9bcf1b36fbdc6db94a3b1f"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/glass_trapdoor.js"
@@ -2299,16 +2295,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-dynamics.pw.toml"
 hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
-metafile = true
-
-[[files]]
-file = "mods/thermal-expansion.pw.toml"
-hash = "21ef66049ba994e620e34e2fab8e99ca27ceef5882f76dbd6c31afed66de89c4"
-metafile = true
-
-[[files]]
-file = "mods/thermal-extra.pw.toml"
-hash = "c88390509ea7be332f1767d58ea5f2ca348140f5ab0787b40d09029ca7f7c936"
 metafile = true
 
 [[files]]
