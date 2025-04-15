@@ -701,14 +701,6 @@ file = "kubejs/server_scripts/src/archers_paradox/elemental_arrows.js"
 hash = "b010db6b4b2a742e28edf48ac5b5d80112d76937e6472a99c778048cf672c2f7"
 
 [[files]]
-file = "kubejs/server_scripts/src/base/pneumaticcraft.js"
-hash = "6531508e69a41820c2a34d0902dcd5464dd1fd4b480aff1d656e7b1fb8163f39"
-
-[[files]]
-file = "kubejs/server_scripts/src/base/thermal.js"
-hash = "ed9edc8489b43c02ab95bf4a23f513ea20f1ee54c49dc2c7553dbb204b3207b7"
-
-[[files]]
 file = "kubejs/server_scripts/src/biomancy/fix_consume.js"
 hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 
@@ -794,7 +786,7 @@ hash = "018e50f97f83c86f5d5c03d24a3fd45f1b38a1c6d794cf526b081b718f6eb94b"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alloys.js"
-hash = "b0056f5373386ae67fe594cccf648fe5b39dee0df2e8a21d4d19775acae56c16"
+hash = "ae62d0eb0cd1d867be18c6f0d39eaebc38faf43fd380638c237e6ef7de6faf38"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alternative_recipes.js"
