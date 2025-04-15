@@ -178,7 +178,7 @@ hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
-hash = "fbd6ff67bdb4c48175a8a771cd61c9f69fbbd34e882d0d79437fbca6d023748b"
+hash = "8de7f7c4570b9d7496b5ecfc94112ddb7598d6dfdfc49902f19a6cae0be2d83b"
 
 [[files]]
 file = "config/explorerscompass-client.toml"
