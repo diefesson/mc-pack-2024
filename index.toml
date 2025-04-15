@@ -258,11 +258,11 @@ hash = "eab47028c2c120b2bdb20c05acf43194da421b169d97f08c05436cd971b27320"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/creative.json"
-hash = "e94d00d800399f8872223eb9ddd069af29cb0df9e723643716a97171f171aff2"
+hash = "6ec1b9a951f1fed6fdf1255f0079b07e0e2f56e8dc668e85c7b7584098549c56"
 
 [[files]]
 file = "config/ironjetpacks/jetpacks/enderium.json"
-hash = "715006c39f1e7703328562ea518bbf58b1b2d8407c6141a911f9459b56ff5d2b"
+hash = "065200d2a83406689d83e28b76ebbcf406fcc19265c773ad89ea1bf5953be19d"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -733,10 +733,6 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
-file = "kubejs/server_scripts/src/elytra_trims/remove_content.js"
-hash = "d4408494fe4013c937ef4bb2ea52e3038cdbe60ad70606c2b9b2f2cd491bd811"
-
-[[files]]
 file = "kubejs/server_scripts/src/embers/plate_hammering.js"
 hash = "408a3f684d7ba21544ad09f6548063338cdd29a2e6c25a3b1bf8ea48c778f1de"
 
@@ -1065,11 +1061,6 @@ hash = "a1aeb61c72d3a60486d5cf796bfd8f469633394a9cbf69cbffacfa9997776296"
 metafile = true
 
 [[files]]
-file = "mods/caelus.pw.toml"
-hash = "8a8ea0af79b88d9c192d208aa5be4bacd934e2b92d4721566e2e796eb9761e10"
-metafile = true
-
-[[files]]
 file = "mods/camera-overhaul-reforged.pw.toml"
 hash = "8381957fa2d1a7802ff081197bac6c90bd1c5794e51fd906b66f65e8aef2498b"
 metafile = true
@@ -1265,6 +1256,11 @@ hash = "53a3530a65542e2212a93a272acd9f2f085c94780900bbda73d8811d55880226"
 metafile = true
 
 [[files]]
+file = "mods/customizable-elytra.pw.toml"
+hash = "8bb27a906e98b184a233efcf6d20226b1aedc8c5f0e06674a86109d048c0f38f"
+metafile = true
+
+[[files]]
 file = "mods/cut-through.pw.toml"
 hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
 metafile = true
@@ -1332,16 +1328,6 @@ metafile = true
 [[files]]
 file = "mods/easy-magic.pw.toml"
 hash = "f04c6bc722bee9b7f66eb9a1fd6abc016b60c77fc1c9ae05f8dd4a24225a2709"
-metafile = true
-
-[[files]]
-file = "mods/elytra-slot.pw.toml"
-hash = "b819114773db1e86fa897907d79abf9925f05a6ae3fd10f7a02cca41f3e9a0d2"
-metafile = true
-
-[[files]]
-file = "mods/elytra-trims.pw.toml"
-hash = "7adb3e1e47ac28e675e1017c851a911cd19a91b459b93b645da54946320a9c5f"
 metafile = true
 
 [[files]]

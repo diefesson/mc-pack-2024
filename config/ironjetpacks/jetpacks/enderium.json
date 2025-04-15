@@ -10,7 +10,7 @@
   "rarity": 0,
   "toughness": 0.0,
   "knockbackResistance": 0.0,
-  "curios": true,
+  "curios": false,
   "capacity": 3000000,
   "usage": 250,
   "speedVertical": 0.35,

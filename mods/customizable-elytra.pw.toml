@@ -1,0 +1,13 @@
+name = "Customizable Elytra"
+filename = "customizableelytra-forge-2.1.2+1.20.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/L25fOeGq/versions/s3I43o8I/customizableelytra-forge-2.1.2%2B1.20.jar"
+hash-format = "sha512"
+hash = "5d463790de720ef222c3005e4bba72acbad35c11034375072a5199da7aec3311146d9271ca3029a0dbcae54ebc7ccb12e5be95d10549dbf6e8bc01b855f4c3ae"
+
+[update]
+[update.modrinth]
+mod-id = "L25fOeGq"
+version = "s3I43o8I"
