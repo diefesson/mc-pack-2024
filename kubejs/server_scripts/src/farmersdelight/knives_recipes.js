@@ -7,6 +7,8 @@ ServerEvents.recipes(event => {
         { knife: 'farmersdelight:golden_knife', material: '#forge:ingots/gold' },
         { knife: 'abnormals_delight:necromium_knife', material: '#forge:ingots/necromium' },
         { knife: 'abnormals_delight:silver_knife', material: '#forge:ingots/silver' },
+        { knife: 'wizards_reborn:arcane_gold_knife', material: '#forge:ingots/arcane_gold' },
+        { knife: 'wizards_reborn:arcane_wood_knife', material: 'wizards_reborn:arcane_wood_planks' },
     ]
     for (let e of entries) {
         event.remove({ output: e.knife })

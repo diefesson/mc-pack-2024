@@ -701,6 +701,10 @@ file = "kubejs/server_scripts/src/archers_paradox/elemental_arrows.js"
 hash = "b010db6b4b2a742e28edf48ac5b5d80112d76937e6472a99c778048cf672c2f7"
 
 [[files]]
+file = "kubejs/server_scripts/src/base/get_preferred.js"
+hash = "24f3f86ae00878a900b9041be9b80c0b8d519027d1032d4ed6b0bc3834c83329"
+
+[[files]]
 file = "kubejs/server_scripts/src/biomancy/fix_consume.js"
 hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 
@@ -725,6 +729,10 @@ file = "kubejs/server_scripts/src/compass/natures_compass.js"
 hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
 
 [[files]]
+file = "kubejs/server_scripts/src/compat/hammering.js"
+hash = "3636d914645e2da079564a96964b815aa0c39b9e3514f39a5df8f600094d5ec2"
+
+[[files]]
 file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
 hash = "b1cfed94b06ca0d952c49bc08e6702130ddea6724a77fcf7dac8275ee55f64e3"
 
@@ -733,12 +741,8 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
-file = "kubejs/server_scripts/src/embers/plate_hammering.js"
-hash = "408a3f684d7ba21544ad09f6548063338cdd29a2e6c25a3b1bf8ea48c778f1de"
-
-[[files]]
 file = "kubejs/server_scripts/src/farmersdelight/knives_recipes.js"
-hash = "595f1efd4fee2e4b71a98070ac8d63aff7b7fcc14d3c11c804819bf7242d5c22"
+hash = "fdb3fd9ca45514a1bd13d363830c8eee8e09f4d22264e741b342cb7013c523f2"
 
 [[files]]
 file = "kubejs/server_scripts/src/friendsandfoes/copper_button.js"
@@ -831,6 +835,10 @@ hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
 [[files]]
 file = "kubejs/server_scripts/src/theurgy/fix.js"
 hash = "26a64b0ee641c76867bd9aa171dd7aa9821c5450cea963005746a7f42ce378d2"
+
+[[files]]
+file = "kubejs/server_scripts/src/tools_complement/tags.js"
+hash = "2bd50432444b19025060ab50074faae68822397f24acf448b2500c9f41b929f9"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/glass_trapdoor.js"
