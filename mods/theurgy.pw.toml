@@ -1,0 +1,13 @@
+name = "Theurgy"
+filename = "theurgy-1.20.1-1.23.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uOVMgoil/versions/S2zk9FAW/theurgy-1.20.1-1.23.4.jar"
+hash-format = "sha512"
+hash = "05f442fa57629b0125499a8588756cc73d9863adc6df506c30e3afd651cc98a382119765dfb93459120add30aab2199bf2fbae616dbe49abf311f1563c3bb393"
+
+[update]
+[update.modrinth]
+mod-id = "uOVMgoil"
+version = "S2zk9FAW"
