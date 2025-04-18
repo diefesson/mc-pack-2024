@@ -1873,6 +1873,11 @@ hash = "f13e328561f1ee2eaf77fedcd5fcc253fb9b8b128facea35427e89bd5d95e357"
 metafile = true
 
 [[files]]
+file = "mods/more-immersive-wires.pw.toml"
+hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
+metafile = true
+
+[[files]]
 file = "mods/morph-o-tool.pw.toml"
 hash = "33b81bba2d8a156fb1115be572f01c4e7e4bc76d83421bfa3c884e75880bdeeb"
 metafile = true
