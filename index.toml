@@ -765,8 +765,20 @@ file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
 hash = "484d6965774fd27344aa26bc8c9ef6c5787ff09cfb6fe4dd69352cbe043fad95"
 
 [[files]]
-file = "kubejs/server_scripts/src/minecraft/cheap_map.js"
+file = "kubejs/server_scripts/src/minecraft/bell.js"
+hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/horse_gears.js"
+hash = "f030b0d5936b798285ddf281d0a0debc961cd91e865aa8590b098db777180431"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/map.js"
 hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
+
+[[files]]
+file = "kubejs/server_scripts/src/minecraft/name_tag.js"
+hash = "fbe34f1274ee9664ad2a11c42d3a71228fac622537d8336bc68b816071bb9fba"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
