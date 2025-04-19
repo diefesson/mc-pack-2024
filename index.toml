@@ -241,6 +241,10 @@ file = "config/horseexpert-client.toml"
 hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
+file = "config/immersive_aircraft.json"
+hash = "2f16fde20312ed58f1cf912b110b6b53b68a77e70d5b78f264a85f89b932f15f"
+
+[[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 
@@ -747,6 +751,14 @@ hash = "fdb3fd9ca45514a1bd13d363830c8eee8e09f4d22264e741b342cb7013c523f2"
 [[files]]
 file = "kubejs/server_scripts/src/friendsandfoes/copper_button.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
+
+[[files]]
+file = "kubejs/server_scripts/src/immersive_aircraft/recipes.js"
+hash = "eecf36294134efe675b7d032ac8df84d62db1277de527cbf82b468f784d0398f"
+
+[[files]]
+file = "kubejs/server_scripts/src/immersive_aircraft/remove_content.js"
+hash = "34ac17c4175803c963de65c6fd021a04ca1dc017d1dbde8baa154502a431e747"
 
 [[files]]
 file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
@@ -1649,6 +1661,11 @@ hash = "baac73de54c9edc42e65ee0bbaab5495b34ededc74d39db77619cdaf55f831f7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-aircraft.pw.toml"
+hash = "120be2bee17effa9c285cdacd8b5f74b24049c66a24fada1d4ec616e7bbc2f49"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
@@ -2505,4 +2522,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "24f1a23d900bb8948270d58a61818756a0652f41c453610f13240a9fc06c84ca"
+hash = "66706e39a1e9bbd69107e070d01da9931a43190a1e629ed0b781a3b4c93d0c35"
