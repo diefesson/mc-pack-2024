@@ -833,10 +833,6 @@ file = "kubejs/server_scripts/src/thermal/removed_content.js"
 hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
 
 [[files]]
-file = "kubejs/server_scripts/src/theurgy/fix.js"
-hash = "26a64b0ee641c76867bd9aa171dd7aa9821c5450cea963005746a7f42ce378d2"
-
-[[files]]
 file = "kubejs/server_scripts/src/tools_complement/tags.js"
 hash = "2bd50432444b19025060ab50074faae68822397f24acf448b2500c9f41b929f9"
 
@@ -2325,11 +2321,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-locomotion.pw.toml"
 hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
-metafile = true
-
-[[files]]
-file = "mods/theurgy.pw.toml"
-hash = "7e43f89bd5b2eae0ec70c6fccfb4175b42beefb69c409aaf2ef381c5f40be748"
 metafile = true
 
 [[files]]
