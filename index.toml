@@ -758,7 +758,7 @@ hash = "eecf36294134efe675b7d032ac8df84d62db1277de527cbf82b468f784d0398f"
 
 [[files]]
 file = "kubejs/server_scripts/src/immersive_aircraft/remove_content.js"
-hash = "34ac17c4175803c963de65c6fd021a04ca1dc017d1dbde8baa154502a431e747"
+hash = "df006cc8f7873f1fcf191f6298ac5b53eb3396bd971b066ada6e90346c559f67"
 
 [[files]]
 file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
