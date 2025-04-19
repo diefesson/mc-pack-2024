@@ -898,6 +898,11 @@ hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
 metafile = true
 
 [[files]]
+file = "mods/alekiships.pw.toml"
+hash = "f5aa2b8d76f3bf96459c11bf511475c4ee12647a3fea30e5d48beddd670499fd"
+metafile = true
+
+[[files]]
 file = "mods/almanac.pw.toml"
 hash = "f3c12f6320ce830c9f8f846e82c461239c14bc57a8d41940caf7bead656295f0"
 metafile = true
@@ -960,6 +965,11 @@ metafile = true
 [[files]]
 file = "mods/artifacts.pw.toml"
 hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
+metafile = true
+
+[[files]]
+file = "mods/astikorcarts-redux.pw.toml"
+hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
 metafile = true
 
 [[files]]
@@ -1055,11 +1065,6 @@ metafile = true
 [[files]]
 file = "mods/blueprint.pw.toml"
 hash = "593e49cbf48e24c1ef5d48689faeea5d8fe41df8804717a1730c6387419e5ad0"
-metafile = true
-
-[[files]]
-file = "mods/boatload.pw.toml"
-hash = "929d6d7501b6c6ce7a12136eac14f351a59e81366a3aa21a83f8a95fdd11df6c"
 metafile = true
 
 [[files]]
