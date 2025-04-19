@@ -1413,6 +1413,11 @@ hash = "4f815d15a2c3918b1ae49851e4d743b85bbdb5bc5b32cd0c9fde14daed000cda"
 metafile = true
 
 [[files]]
+file = "mods/engineered-compatibility.pw.toml"
+hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
+metafile = true
+
+[[files]]
 file = "mods/ensorcellation.pw.toml"
 hash = "6047057f4da3267df6cfb7fcf09ac599b66862282eeab24915fe49aa80ec0ec9"
 metafile = true
