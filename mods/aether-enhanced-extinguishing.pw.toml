@@ -1,0 +1,13 @@
+name = "Aether Addon: Enhanced Extinguishing"
+filename = "aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/FDrEl7QY/versions/fhAMvUrG/aether_enhanced_extinguishing-1.20.1-1.0.0-neoforge.jar"
+hash-format = "sha512"
+hash = "adae2b4fe214a6a8fbff6eed7f3ad699baacac1751138c75fc82b9c5b09a2976ce655c516cac93ade229416d875ac0f517c8c43df86765150114cacddddf7ddd"
+
+[update]
+[update.modrinth]
+mod-id = "FDrEl7QY"
+version = "fhAMvUrG"

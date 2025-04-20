@@ -9,6 +9,14 @@ file = "config/ProjectRed.cfg"
 hash = "ea0f22d36c956cf48282be0dd3175760ee9282f23b224e3bbce45e1d390ac01d"
 
 [[files]]
+file = "config/aether-client.toml"
+hash = "01e0c23d6955bed6cb326d9f607592e2ece9c8df5714e8c5897fef0f21fe6a41"
+
+[[files]]
+file = "config/aether-common.toml"
+hash = "fea47228eb24a4ab729d7813e44d82ffd56651f307455b0c8a407e4bec101f34"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -86,7 +94,7 @@ hash = "b6185df071789f49b243749595e9293f382aca6470d4bea6f5911801024f1286"
 
 [[files]]
 file = "config/blue_skies-client.toml"
-hash = "76f3f22e68f9380da5dc03406fb07f9b01d3dbebe2c3dd003ccd9c4479040767"
+hash = "b8240bc1d2aa385bd07c5247fe33ad8025106594c48fd5765ab72f5bae9022ad"
 
 [[files]]
 file = "config/blue_skies-common.toml"
@@ -337,6 +345,16 @@ file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 
 [[files]]
+file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
+hash = "7fa936cc6fbacc1ab4028d9b68ace17e8033c7e8ef5838586cf6c50db882e5ca"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/aether-temporary-freezing.pw.toml"
+hash = "f29405358a0a8cdeb3157062dd82c7d38f1eddbc5d7ec9f4de150a0e439aa2c3"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -559,6 +577,10 @@ hash = "ba561dd62cddd23694c8871055c47a5c3fb859887831cb84b7e57b3552145219"
 [[files]]
 file = "config/wizards_reborn-common.toml"
 hash = "aca261a06700a6454e7647c639fbbe20d91d1503bee8c8ebc859ac50118aab8a"
+
+[[files]]
+file = "defaultconfigs/aether-server.toml"
+hash = "4f34eeddb90059dd1aa4b61388a670213ac5fda16320c09b5d42656fd27f6967"
 
 [[files]]
 file = "defaultconfigs/archers_paradox-server.toml"
@@ -913,6 +935,31 @@ metafile = true
 [[files]]
 file = "mods/ae2.pw.toml"
 hash = "d1bfaa8ca8831f1c43a971ab29672df863c3afb530abf278ebad4a8b9faf0499"
+metafile = true
+
+[[files]]
+file = "mods/aether-emissivity.pw.toml"
+hash = "0f93da86ed1bd4b61f56d2952ded69cdfcc44a574effadbaf223600442a1de8b"
+metafile = true
+
+[[files]]
+file = "mods/aether-enhanced-extinguishing.pw.toml"
+hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
+metafile = true
+
+[[files]]
+file = "mods/aether-protect-your-moa.pw.toml"
+hash = "674a62706fa6f05d690c173f5199a591fef1a1a2b2d62668cd1bf70b4c530eb3"
+metafile = true
+
+[[files]]
+file = "mods/aether-treasure-reforging.pw.toml"
+hash = "5507d07be075713dd8d9824354a3b7a34a881144c40a7a7591279e6575da7411"
+metafile = true
+
+[[files]]
+file = "mods/aether.pw.toml"
+hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
 metafile = true
 
 [[files]]
