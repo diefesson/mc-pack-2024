@@ -85,6 +85,14 @@ file = "config/blockrunner.json"
 hash = "b6185df071789f49b243749595e9293f382aca6470d4bea6f5911801024f1286"
 
 [[files]]
+file = "config/blue_skies-client.toml"
+hash = "76f3f22e68f9380da5dc03406fb07f9b01d3dbebe2c3dd003ccd9c4479040767"
+
+[[files]]
+file = "config/blue_skies-common.toml"
+hash = "4f7834be8ba542bc7f3c358ff9de6e2f7aafc62cea147d5e624e489860994b9d"
+
+[[files]]
 file = "config/chalk-client.toml"
 hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 
@@ -1080,6 +1088,11 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
+metafile = true
+
+[[files]]
+file = "mods/blue-skies.pw.toml"
+hash = "e0b611005c8d2142ca889e850c9f1450f45b1d30086aa8743579dde6ab1bd9af"
 metafile = true
 
 [[files]]
@@ -2255,6 +2268,11 @@ metafile = true
 [[files]]
 file = "mods/structory-towers.pw.toml"
 hash = "2d5fddc37293f33e8967e4687a69fb98126a8c4f79194547d1ab6e2941007910"
+metafile = true
+
+[[files]]
+file = "mods/structure-gel-api.pw.toml"
+hash = "0a1893b4abfd0e7243095240b329552c082dd3fa7874b43e9b43c94812875472"
 metafile = true
 
 [[files]]
