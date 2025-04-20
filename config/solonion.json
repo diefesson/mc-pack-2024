@@ -1,7 +1,7 @@
 {
   "foodItems": {
     "entries": [
-      "{id:\"item\",item:\"malum:chunk_of_brilliance\"}"
+      "{id:\"itemtag\",tag:\"diefalpha:not_food\"}"
     ],
     "isWhitelist": false
   },

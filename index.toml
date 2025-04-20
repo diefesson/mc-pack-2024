@@ -436,7 +436,7 @@ hash = "49d3f49f2e20a5ffcd61a834e77cec538789af782b6fe2a741642aaa43fccdf6"
 
 [[files]]
 file = "config/solonion.json"
-hash = "6451f07ecf9783ec7456cf266c17960799f370d43c7a36f593df9e0f0cdd2cdd"
+hash = "7dd28fffae9b371c96436bfa9a1615eeed6ab5ee9079cef69bcea1fb9b49d17e"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -857,6 +857,10 @@ hash = "49532c17e9955b9b9d0bd7cbabe6f80891b43cff778cfeb3516044141cff1bd5"
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"
 hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
+
+[[files]]
+file = "kubejs/server_scripts/src/solonion/not_food.js"
+hash = "c8eb25ae0f49099de12727687a977482f8f6aef3720c1dbd11463351337b9cbb"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/expensive_upgrades.js"
@@ -2390,6 +2394,11 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "110413feb1f6da20eb70bce0f88f51e2d7241bf2fc810cd30cbdd024e51df587"
+metafile = true
+
+[[files]]
+file = "mods/the-undergarden.pw.toml"
+hash = "60b26d8a45735194cff94abb074ee218012f3592017b565d7dc3a40889c6708d"
 metafile = true
 
 [[files]]
