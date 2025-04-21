@@ -519,6 +519,14 @@ file = "config/treechop-common.toml"
 hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
+file = "config/undergarden-client.toml"
+hash = "9bf3df7a7d80fc63a918bd9715383e995d50821acc2264ca3a0b3af8a0a0d486"
+
+[[files]]
+file = "config/undergarden-common.toml"
+hash = "1554c63045b678830b7736796eeadd79410b4191ea879716a27c5854cdad072a"
+
+[[files]]
 file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
@@ -893,6 +901,10 @@ hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
 [[files]]
 file = "kubejs/server_scripts/src/tools_complement/tags.js"
 hash = "2bd50432444b19025060ab50074faae68822397f24acf448b2500c9f41b929f9"
+
+[[files]]
+file = "kubejs/server_scripts/src/undergarden/portal_frame_blocks.js"
+hash = "5271c4aaea4a3641f3dd40359a9c06ccb9ab302d5f5eba7572aaad4466dbbf92"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/glass_trapdoor.js"
