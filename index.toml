@@ -258,7 +258,7 @@ hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
 file = "config/immersive_aircraft.json"
-hash = "2f16fde20312ed58f1cf912b110b6b53b68a77e70d5b78f264a85f89b932f15f"
+hash = "38671f43027efb168cbac4a43816ccd6755e76049752cd556faf76c2b6e0bd32"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
@@ -267,6 +267,10 @@ hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 [[files]]
 file = "config/immersiveengineering-common.toml"
 hash = "5ffdd12253afa5b500857a8fdd2973fac7bf3a09d62df834b5c1a6093090bb94"
+
+[[files]]
+file = "config/integrateddynamics-common.toml"
+hash = "f669601e1b27f7d783f5ee2bee4033a239b31008feae891a3a3390d4b6fcc268"
 
 [[files]]
 file = "config/ironjetpacks-client.toml"
@@ -1179,6 +1183,11 @@ hash = "8381957fa2d1a7802ff081197bac6c90bd1c5794e51fd906b66f65e8aef2498b"
 metafile = true
 
 [[files]]
+file = "mods/capability-proxy.pw.toml"
+hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
+metafile = true
+
+[[files]]
 file = "mods/cb-multipart.pw.toml"
 hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
@@ -1266,6 +1275,11 @@ metafile = true
 [[files]]
 file = "mods/comforts.pw.toml"
 hash = "a2c5d820180d2610e5017e3f08957010e30cf05d50ee3180272dac6f969260cf"
+metafile = true
+
+[[files]]
+file = "mods/common-capabilities.pw.toml"
+hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
 metafile = true
 
 [[files]]
@@ -1376,6 +1390,11 @@ metafile = true
 [[files]]
 file = "mods/cut-through.pw.toml"
 hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
+metafile = true
+
+[[files]]
+file = "mods/cyclops-core.pw.toml"
+hash = "53c6389f10ee886840e81c0623361b918346b056813bf5729f9c7a52dc4394fd"
 metafile = true
 
 [[files]]
@@ -1774,6 +1793,31 @@ hash = "583dae3213782806729c66d26634a45ad765986c76c62ae22e8faaecd301ad9e"
 metafile = true
 
 [[files]]
+file = "mods/integrated-crafting.pw.toml"
+hash = "d034f2d4343e401dcbeb6f6d0c56ee76439efa2fd66f96d4d34e4227a7081688"
+metafile = true
+
+[[files]]
+file = "mods/integrated-dynamics.pw.toml"
+hash = "70e2bc72a0941d7873acdcda247cbe14cd38386ebe09dcaa1cb9516e9787a6eb"
+metafile = true
+
+[[files]]
+file = "mods/integrated-scripting.pw.toml"
+hash = "c427618a63b6e833dcdc0c0bb33718a2e45b1a23c3a92786a0f84e963b5aa1ac"
+metafile = true
+
+[[files]]
+file = "mods/integrated-terminals.pw.toml"
+hash = "d73164dffb0fe4e706d18b8c8ca07d8368c8c4b535e326e9755b7e84f1eea6df"
+metafile = true
+
+[[files]]
+file = "mods/integrated-tunnels.pw.toml"
+hash = "813b89ed0946907a8cb6430ba57e668b285b816eb264ac53b0b8a4ee07baae3f"
+metafile = true
+
+[[files]]
 file = "mods/iron-jetpacks.pw.toml"
 hash = "726ce3d7d649394cc04270163f642f0a556c1c2aa990f265795b6dad052148ae"
 metafile = true
@@ -2146,11 +2190,6 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "4cb14611957ebe2e3ff3885dac75dd814bec38ea5830fb2b985ad4a902f9c099"
-metafile = true
-
-[[files]]
-file = "mods/pretty-pipes.pw.toml"
-hash = "4145ea27a5d578ff8e3786bd3cf6533688eda6b9df129cf80308e81bea63163b"
 metafile = true
 
 [[files]]

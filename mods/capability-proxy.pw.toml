@@ -1,0 +1,13 @@
+name = "Capability Proxy"
+filename = "CapabilityProxy-1.20.1-2.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3mPgwv8n/versions/szhtAswc/CapabilityProxy-1.20.1-2.1.11.jar"
+hash-format = "sha512"
+hash = "4941b876e21cfc92e8891c0b9312d927151cf78e83d691f928b461d25709078d5915e77702eeb247ba27cebf1c5bd26a8960d7edafb6f9ddce2437e2be8b1046"
+
+[update]
+[update.modrinth]
+mod-id = "3mPgwv8n"
+version = "szhtAswc"
