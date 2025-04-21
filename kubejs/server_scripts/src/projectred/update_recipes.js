@@ -1,27 +1,31 @@
 ServerEvents.recipes(event => {
-    // Silicon
-    event.remove('projectred_core:silicon')
+    // Red Alloy Ingot
+    event.remove('projectred_core:red_ingot')
     event.shapeless(
-        '8x projectred_core:silicon',
+        '1x projectred_core:red_ingot',
         [
-            '#ae2:knife',
-            'projectred_core:boule'
+            '1x #forge:ingots/iron',
+            '2x #forge:dusts/redstone',
+        ]
+    )
+    
+    // Infused Silicon
+    event.remove('projectred_core:infused_silicon')
+    event.shapeless(
+        '1x projectred_core:infused_silicon',
+        [
+            '#forge:silicon',
+            '2x #forge:dusts/redstone'
         ]
     )
 
-    // Electrotine Dust
+    // Energized Silicon
+    event.remove('projectred_core:energized_silicon')
     event.shapeless(
-        'projectred_core:electrotine_dust',
+        '1x projectred_core:energized_silicon',
         [
-            '4x minecraft:lapis_lazuli',
-            '4x minecraft:redstone',
-        ],
-    )
-
-    // Plotting Table
-    event.replaceInput(
-        'projectred_fabrication:plotting_table',
-        '#forge:gems/sapphire',
-        '#forge:gems/diamond'
+            '#forge:silicon',
+            '2x #forge:dusts/glowstone'
+        ]
     )
 })

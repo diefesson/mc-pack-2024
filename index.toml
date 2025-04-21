@@ -832,11 +832,11 @@ hash = "13c82aaf06503742b090e98c079b3f5effa27ed9a5b91af45d0f9330be86f533"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/remove_content.js"
-hash = "42d08ad27704cda6597693da9d73b251fc539960c6ee2577ca7945d0f311afd0"
+hash = "a336c10079ee2cade659b78b8637ec9d5aca5666089d6e56270773aacbc71454"
 
 [[files]]
 file = "kubejs/server_scripts/src/projectred/update_recipes.js"
-hash = "018e50f97f83c86f5d5c03d24a3fd45f1b38a1c6d794cf526b081b718f6eb94b"
+hash = "5a99a90dc054d230c62234cfa95c7f1796b6d11052a3dbdff73bd2f76f9e75ef"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alloys.js"
@@ -871,14 +871,6 @@ file = "kubejs/server_scripts/src/sophisticatedstorage/remove_upgrades.js"
 hash = "4584e58549e411504cb6483e96179af9c6a792427b87e85a279c0b7a97b67c2c"
 
 [[files]]
-file = "kubejs/server_scripts/src/thermal/expensive_ducts.js"
-hash = "4bd14e2c4d49415ed2773df3abeb65cfdb30508ae9d4a75961c3818d656c06ae"
-
-[[files]]
-file = "kubejs/server_scripts/src/thermal/fluid_duct_conversion.js"
-hash = "1218700fbe398d5c8b771bda0c9ad553ee6e33fa2a6454a7cfa6460e670d87e3"
-
-[[files]]
 file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
 hash = "7556ce634e3328c973c420e8ebb74141745c75a86d129d3261ec550e37181c2e"
 
@@ -904,7 +896,7 @@ hash = "ec7ea10c0e06ea44fc4b232d46b2904d419edb998d088bfd77aa02f81875ca7a"
 
 [[files]]
 file = "kubejs/server_scripts/src/vanilla_claws/remove_claws.js"
-hash = "886fb4bd048b4777d5a1eb8358538794066680dbfe0600b3fa4b16453029b7e3"
+hash = "9ca5f70d432572a9f8f7f00b821a611414f7e24dc6101540b95a8c6be5add2ef"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
@@ -2117,11 +2109,6 @@ hash = "4d59e746d59786bdf7431fdb5cd2e7c2c36f079c693b3bed54476681ae3206bf"
 metafile = true
 
 [[files]]
-file = "mods/project-red-fabrication.pw.toml"
-hash = "1d01d7d104933f1d0ad40f9d724878ba03298997cc59d6f9a663a7d5ec525d92"
-metafile = true
-
-[[files]]
 file = "mods/project-red-illumination.pw.toml"
 hash = "bd2f19bb87df2bba7463db458fb21e742256593499ba10afb9073962daa21e52"
 metafile = true
@@ -2339,11 +2326,6 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "110413feb1f6da20eb70bce0f88f51e2d7241bf2fc810cd30cbdd024e51df587"
-metafile = true
-
-[[files]]
-file = "mods/thermal-dynamics.pw.toml"
-hash = "b09197b44ec72d27d10aae73a731314993a7e5b5137c247256c79b1a4128048b"
 metafile = true
 
 [[files]]
