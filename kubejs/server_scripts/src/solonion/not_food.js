@@ -2,9 +2,6 @@ ServerEvents.tags('item', event => {
     // Endergetic Expansion
     event.add('diefalpha:not_food', 'endergetic:bolloom_fruit')
     
-    // The Undergarden
-    event.add('diefalpha:not_food', 'undergarden:blood_globule')
-    
     // Biomancy 2
     event.add('diefalpha:not_food', 'biomancy:bloomberry')
 

@@ -523,14 +523,6 @@ file = "config/treechop-common.toml"
 hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
-file = "config/undergarden-client.toml"
-hash = "9bf3df7a7d80fc63a918bd9715383e995d50821acc2264ca3a0b3af8a0a0d486"
-
-[[files]]
-file = "config/undergarden-common.toml"
-hash = "1554c63045b678830b7736796eeadd79410b4191ea879716a27c5854cdad072a"
-
-[[files]]
 file = "config/universalbonemeal-server.toml"
 hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
@@ -597,10 +589,6 @@ hash = "4f34eeddb90059dd1aa4b61388a670213ac5fda16320c09b5d42656fd27f6967"
 [[files]]
 file = "defaultconfigs/archers_paradox-server.toml"
 hash = "a2e298d4792680a6598b2527dc8d8e03a7b7ce71218a4ed6fc77337be2460c49"
-
-[[files]]
-file = "defaultconfigs/consecration-server.toml"
-hash = "f293cc5bbc2a188df4b5a900f49839d89a51df1a6a3fc233d8acacedaf1f06c3"
 
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
@@ -872,7 +860,7 @@ hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
 
 [[files]]
 file = "kubejs/server_scripts/src/solonion/not_food.js"
-hash = "c8eb25ae0f49099de12727687a977482f8f6aef3720c1dbd11463351337b9cbb"
+hash = "6e5cdb6da4ff623bdbcbfd1049018cad3311e06fbe0d1e8c13fea061f363db67"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/expensive_upgrades.js"
@@ -905,10 +893,6 @@ hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
 [[files]]
 file = "kubejs/server_scripts/src/tools_complement/tags.js"
 hash = "2bd50432444b19025060ab50074faae68822397f24acf448b2500c9f41b929f9"
-
-[[files]]
-file = "kubejs/server_scripts/src/undergarden/portal_frame_blocks.js"
-hash = "5271c4aaea4a3641f3dd40359a9c06ccb9ab302d5f5eba7572aaad4466dbbf92"
 
 [[files]]
 file = "kubejs/server_scripts/src/upgrade_aquatic/glass_trapdoor.js"
@@ -1055,11 +1039,6 @@ metafile = true
 [[files]]
 file = "mods/armor-statues.pw.toml"
 hash = "05dda113751f1aa8b057368d70820be2b53ca7a8a968f9a12fd43a208f84658c"
-metafile = true
-
-[[files]]
-file = "mods/artifacts.pw.toml"
-hash = "4832575af4fab2b691cc82c106a4a2e4da4136eab77d7360bc3b1250fc6f1656"
 metafile = true
 
 [[files]]
@@ -1295,11 +1274,6 @@ metafile = true
 [[files]]
 file = "mods/connector.pw.toml"
 hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
-metafile = true
-
-[[files]]
-file = "mods/consecration.pw.toml"
-hash = "3c5896db50599e57b3c091b35d404ed9dba0d911d9c6bbbcf2704a5f86b97c7f"
 metafile = true
 
 [[files]]
@@ -1688,11 +1662,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/grounded.pw.toml"
-hash = "febf58a065dceb3d5b50affd6a7202dbac7ab8e693fd3fa045afb93016837d3c"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "af611db48c7c591bffe5100b284423e8c6282bcbd3b86a12fed2f954f3b1f46d"
 metafile = true
@@ -1748,11 +1717,6 @@ hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
 metafile = true
 
 [[files]]
-file = "mods/ice-prevents-crop-growth.pw.toml"
-hash = "6335d9f1cef25af3e329412f116501096bb8457e923d40ba4e9757bfaddb4f1f"
-metafile = true
-
-[[files]]
 file = "mods/iceberg.pw.toml"
 hash = "c1d1a0476c58e3c011de6f750f48eb4f48493a1b9cef7bd59c008e87e0c0984c"
 metafile = true
@@ -1775,11 +1739,6 @@ metafile = true
 [[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
-metafile = true
-
-[[files]]
-file = "mods/improved-sign-editing.pw.toml"
-hash = "086671c1b07f42765211d0a054774e016a73ac7ee7d5640ca1d97df34ef807bc"
 metafile = true
 
 [[files]]
@@ -1855,11 +1814,6 @@ metafile = true
 [[files]]
 file = "mods/justenoughbreeding.pw.toml"
 hash = "1452a856b21b8b84e47c2220bc4e6a410ce5330023f890009a3f84c9046c6d3b"
-metafile = true
-
-[[files]]
-file = "mods/keep-my-soil-tilled.pw.toml"
-hash = "e861a100ed5b1ea5c68af5d24cb9ef5e658e3559225ef6cfa046cff5647aca78"
 metafile = true
 
 [[files]]
@@ -1978,11 +1932,6 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
-file = "mods/mes-moogs-end-structures.pw.toml"
-hash = "29041e78527889177a50e81a316729770a4d954b90abdcd52ab170f7d7d8e59d"
-metafile = true
-
-[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
@@ -1990,16 +1939,6 @@ metafile = true
 [[files]]
 file = "mods/mmmmmmmmmmmm.pw.toml"
 hash = "6b336af5a4e2e7e3ac54057894eb284d66d61682bd522c6582d37fedbc9e8183"
-metafile = true
-
-[[files]]
-file = "mods/mns-moogs-nether-structures.pw.toml"
-hash = "d5ad42fed396a52a7f12d27f35352381ab2b0a2ab2e0b02c0f4635c9ed0196bc"
-metafile = true
-
-[[files]]
-file = "mods/mobs-properties-randomness.pw.toml"
-hash = "a10106629f5a65caf6150a588886e09ed86647f671c46f0dabb5a7f9de9e3953"
 metafile = true
 
 [[files]]
@@ -2015,11 +1954,6 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
-metafile = true
-
-[[files]]
-file = "mods/moogs-voyager-structures.pw.toml"
-hash = "5c96d8d0c9b686291397326179f04ca3f7ba41d5ef912984ad5bdf3ae66b42f2"
 metafile = true
 
 [[files]]
@@ -2098,11 +2032,6 @@ hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
 metafile = true
 
 [[files]]
-file = "mods/oh-my-sherd.pw.toml"
-hash = "2a7c575e1f4470cfab6863734a7f7c72afe909b7527ef39e65db066907ad7c61"
-metafile = true
-
-[[files]]
 file = "mods/overflowing-bars.pw.toml"
 hash = "fb05d7ec98426510ee309380a6f804f5670fe45657cdfe6b2b83ee1fa375f7e7"
 metafile = true
@@ -2110,11 +2039,6 @@ metafile = true
 [[files]]
 file = "mods/overweight-farming.pw.toml"
 hash = "ca54ccd33453cf0b9a2572f54017119aa95e62d55dce68d610899afd213419fb"
-metafile = true
-
-[[files]]
-file = "mods/overworld-piglins.pw.toml"
-hash = "57cd2d86dc85f4b5c4d08b9e314e1736c1d773a1db0488fabb7cdef154802a97"
 metafile = true
 
 [[files]]
@@ -2148,23 +2072,8 @@ hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
-file = "mods/persistent-inventory-search.pw.toml"
-hash = "d8001c0ff1ccf9b0050c312a57a89a76090efeb8f5343b641d2c47200e00387d"
-metafile = true
-
-[[files]]
-file = "mods/pet-cemetery.pw.toml"
-hash = "6a08b6fbc58291eba0bbca305a4f6b1ba2a703ef21eff995b3df278c5725c1f6"
-metafile = true
-
-[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
-metafile = true
-
-[[files]]
-file = "mods/piglin-names.pw.toml"
-hash = "c898e50990d2b3a428d0cea0570eefe2ae7499ca5b6a5be8b28e089183e6d5bf"
 metafile = true
 
 [[files]]
@@ -2278,11 +2187,6 @@ hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
 metafile = true
 
 [[files]]
-file = "mods/savage-and-ravage.pw.toml"
-hash = "2baa9ef40b8cea6397998245f451d8d5c65c97633562bae8d3db7c442d3b02c7"
-metafile = true
-
-[[files]]
 file = "mods/sculk-expansion.pw.toml"
 hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
 metafile = true
@@ -2358,11 +2262,6 @@ hash = "d98b14844c68f17c93bab6cf20ddd99bad9cb19e424c0c6ba36afd558a117e18"
 metafile = true
 
 [[files]]
-file = "mods/stony-cliffs-are-cool.pw.toml"
-hash = "43a6c7daa5bc03db44b9c514c3f92ae6e398802d2fb8a9e9bd5b63168b4e4807"
-metafile = true
-
-[[files]]
 file = "mods/straw-statues.pw.toml"
 hash = "791be45440111d5edac5246dc8db707e25f5534783212ebe3909ad40b7230a4b"
 metafile = true
@@ -2413,11 +2312,6 @@ hash = "b969799c17defc1e7c76e4605557c9d32802a0004a5e45b7044e85d3d9c43345"
 metafile = true
 
 [[files]]
-file = "mods/surface-mushrooms.pw.toml"
-hash = "cf6934188bf3b945a9de744f13760715bf078052ffabfdbe632cbf91a8ee8ab1"
-metafile = true
-
-[[files]]
 file = "mods/switchy-inventories.pw.toml"
 hash = "f4f8f0d8c6b2dc8b29bb4f1b3ef7ee8089dff1ee7e20b7b5cd2e3fd75c301726"
 metafile = true
@@ -2445,11 +2339,6 @@ metafile = true
 [[files]]
 file = "mods/terrablenderfix.pw.toml"
 hash = "110413feb1f6da20eb70bce0f88f51e2d7241bf2fc810cd30cbdd024e51df587"
-metafile = true
-
-[[files]]
-file = "mods/the-undergarden.pw.toml"
-hash = "60b26d8a45735194cff94abb074ee218012f3592017b565d7dc3a40889c6708d"
 metafile = true
 
 [[files]]
@@ -2568,11 +2457,6 @@ hash = "c56a0139f577ff615648c2164255de17654e5f8db95770d78deb8676d8cc6dd3"
 metafile = true
 
 [[files]]
-file = "mods/villager-names-serilum.pw.toml"
-hash = "f84d5f67e38eb03efa5ab668250df9b4213bcd1bceadd0eb4ec83d0ea83f2884"
-metafile = true
-
-[[files]]
 file = "mods/villages-and-pillages.pw.toml"
 hash = "686b5068791acfc40fbc558a603133d9723fdcd8819b0ec1cd5242ba0bebd642"
 metafile = true
@@ -2640,21 +2524,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
-metafile = true
-
-[[files]]
-file = "mods/yungs-bridges.pw.toml"
-hash = "2c40cfe9099281acc57efa8d168dc685fd739cc067afce92c8d4a0697a00b67a"
-metafile = true
-
-[[files]]
-file = "mods/yungs-menu-tweaks.pw.toml"
-hash = "612f34b57df3396413db1ba79f99e057da377a8725887ca21b415acd85cb65b5"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "b7a292c2f1505290e694c1083417984286d34cff09497cd00f78aadfbacff89f"
 metafile = true
 
 [[files]]
