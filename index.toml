@@ -428,7 +428,7 @@ hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
 
 [[files]]
 file = "config/shouldersurfing-client.toml"
-hash = "c1f831b4dd2c6ba5930a866ca1b31d038531ecfc2dbcbe70c155de0715b6824c"
+hash = "4505ba075dcfa0339fa7abaa679ae47604106360acb173b8776310c30e7dafec"
 
 [[files]]
 file = "config/smarterfarmers-common.toml"
