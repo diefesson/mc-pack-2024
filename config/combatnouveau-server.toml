@@ -6,7 +6,7 @@ min_hitbox_size = true
 #Makes knockback stronger towards targets not on the ground (does not apply when in water).
 upwards_knockback = true
 #Health regenerates every 2 seconds, which requires more than 6 food points. Also food points will be directly consumed when healing. Surplus saturation does not yield quick health regeneration.
-balanced_food_mechanics = true
+balanced_food_mechanics = false
 #Sprinting and attacking no longer interfere with each other, making critical hits possible at all times.
 critical_hits_while_sprinting = true
 #Expand all entity hitboxes by 10%, making hitting a target possible from a slightly greater range and with much increased accuracy.

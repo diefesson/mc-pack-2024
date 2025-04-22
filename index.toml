@@ -126,7 +126,7 @@ hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
 
 [[files]]
 file = "config/combatnouveau-server.toml"
-hash = "919d980b56758ed2275c954d4787bfa2df3eea46ed49b1b403d7543c73438ef9"
+hash = "298e8f7668f4d3ceb737afe3940639cfad125c93d2a1dff51bdc7522045edfc4"
 
 [[files]]
 file = "config/cosmeticarmorreworked-client.toml"
@@ -435,12 +435,8 @@ file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
 [[files]]
-file = "config/solonion-client.json"
-hash = "49d3f49f2e20a5ffcd61a834e77cec538789af782b6fe2a741642aaa43fccdf6"
-
-[[files]]
-file = "config/solonion.json"
-hash = "7dd28fffae9b371c96436bfa9a1615eeed6ab5ee9079cef69bcea1fb9b49d17e"
+file = "config/spiceofoverhaul-common.toml"
+hash = "99b8fa2c8e8cf6b143e0081227741acc9640134cde779d059e8a1cfc4d807890"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -857,10 +853,6 @@ hash = "49532c17e9955b9b9d0bd7cbabe6f80891b43cff778cfeb3516044141cff1bd5"
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"
 hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
-
-[[files]]
-file = "kubejs/server_scripts/src/solonion/not_food.js"
-hash = "6e5cdb6da4ff623bdbcbfd1049018cad3311e06fbe0d1e8c13fea061f363db67"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/expensive_upgrades.js"
@@ -2219,8 +2211,8 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
-file = "mods/spice-of-life-onion.pw.toml"
-hash = "c510494fb37ced4ad2d28573bf0ac6723e6541fb6a2d362593288f7bf4ecd2bc"
+file = "mods/spice-of-overhaul.pw.toml"
+hash = "826fbc0c954611052508184bf038f592b658422fad2aa9a4f5d49a83044a954e"
 metafile = true
 
 [[files]]
