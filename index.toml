@@ -1071,6 +1071,11 @@ hash = "67c62e4c44abab8dbed72009900731830e689c80a1d4cd9f706f56a327d1a087"
 metafile = true
 
 [[files]]
+file = "mods/baubley-heart-canisters.pw.toml"
+hash = "72390c72a1091cd347aad048d125b47efff3d1ed90f7bc6126cb2e3f85437f53"
+metafile = true
+
+[[files]]
 file = "mods/beautified-chat-client.pw.toml"
 hash = "acb4ff316916d45f84aff0cc5574875618a7a7401bfc38c00dc8444dc4e13e9e"
 metafile = true
