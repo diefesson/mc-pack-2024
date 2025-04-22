@@ -309,6 +309,10 @@ file = "config/jade/sort-order.json"
 hash = "54922c84b352b22a19c9d2c1f2f236851778bc9903aa21a858c84e221bff8987"
 
 [[files]]
+file = "config/legendarytooltips-common.toml"
+hash = "3e5e4b016138414ec741e39e52233dc6be81f286e5e84fc2af055c45b2d8e82e"
+
+[[files]]
 file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
@@ -480,7 +484,7 @@ hash = "e093cefd36fe0f80d0a5f9a2ed252dce03ef02cdbab492250e0a544b80e63cd9"
 
 [[files]]
 file = "config/stylisheffects-client.toml"
-hash = "693a811a7879b02b213e28a4866b69f7c1d7be935d552ed3ae4d1aa7426ebf81"
+hash = "a9a91a8c606dd7272b0d95053cf82b71573b7e69661822f77202868844646797"
 
 [[files]]
 file = "config/supplementaries-client.toml"
@@ -1836,6 +1840,11 @@ hash = "071ae7387afbd840ec0142a0a07c2edf31d28a0a43334ce1e0786eca4e9d715b"
 metafile = true
 
 [[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "bc4c7d42fd94d57b020a43dbb3aa3caaa8395c77bd872f252a8302a39b2256a9"
+metafile = true
+
+[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3cefda1160d74302613993229d3a31656ef9eeaf64a0e73fdc9a7419e2cc6f40"
 metafile = true
@@ -2088,6 +2097,11 @@ metafile = true
 [[files]]
 file = "mods/pretty-rain.pw.toml"
 hash = "7b22a5de56c4a261c7f4f9b0ec143279917985eaa5f53d1906beff9276773fa5"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
@@ -2507,4 +2521,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "66706e39a1e9bbd69107e070d01da9931a43190a1e629ed0b781a3b4c93d0c35"
+hash = "68ab7594c0e2102fee4883f1804d56fca9574954432ce9a22c29ba53952a407f"
