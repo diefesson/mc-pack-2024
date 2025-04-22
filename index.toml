@@ -1099,11 +1099,6 @@ hash = "39ac47983e2ab30d032bd76128ed8811615833de6ad81ba762124c36b1de180c"
 metafile = true
 
 [[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
-metafile = true
-
-[[files]]
 file = "mods/bettergrassify.pw.toml"
 hash = "ccd718340ef692d4e4c013813f72c5498c31b033d7ace29dadf098d1cb905614"
 metafile = true
@@ -1644,8 +1639,8 @@ hash = "7ebfb737cf7bc520cdfd207892af2d7e399d69f83500042a8860084a2726a32f"
 metafile = true
 
 [[files]]
-file = "mods/geophilic-reforged.pw.toml"
-hash = "5f4e3fdc30e27bdb602e202d054a4984663fbd23cb264ac64651baf440b9e58a"
+file = "mods/geophilic.pw.toml"
+hash = "87d16e6f43df61a8fb025a9977343bc2f026570d198f48d82ef087be0d9e29eb"
 metafile = true
 
 [[files]]
@@ -2386,6 +2381,11 @@ metafile = true
 [[files]]
 file = "mods/trading-post.pw.toml"
 hash = "892dd095d1ae9aca8e2ef775fddf28677cd7cfbb6407d52bbbd8cc4a15286bb8"
+metafile = true
+
+[[files]]
+file = "mods/trash-cans.pw.toml"
+hash = "4a8a42c4c7834873a5f64f0f4e07eb46056329b345a1b835d8ea0aff2390fc0e"
 metafile = true
 
 [[files]]
