@@ -302,7 +302,7 @@ hash = "01fd6f2467bcfb73f167b9b79ba38862e2582866f8edbe62befbc47c90d8864c"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "7f6e446476179df6bd6809efe7d5929e3f5da60f4000eb973d7b2714f769f4da"
+hash = "10b580ccd81fb1a4319615d13cb2a891613f01271ed7929839454f10ef852b42"
 
 [[files]]
 file = "config/jade/sort-order.json"
@@ -440,7 +440,7 @@ hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
 [[files]]
 file = "config/spiceofoverhaul-common.toml"
-hash = "99b8fa2c8e8cf6b143e0081227741acc9640134cde779d059e8a1cfc4d807890"
+hash = "ac0534d56c42cab4ac7db24e4f2e63bbc69138e91220f914743f6b16605f1c3d"
 
 [[files]]
 file = "config/starterkit.json5"

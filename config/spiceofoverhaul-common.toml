@@ -6,7 +6,7 @@ historyLength = 20
 #You can change hunger formula dependence on circumstances
 #Use JavaScript Math module functions for mathematical functions
 #Possible inputs: HUNGER, EATEN, SATURATION
-hunger = "HUNGER*Math.pow(0.85,EATEN)"
+hunger = "Math.max(0.5, HUNGER * Math.pow(0.85, EATEN))"
 #You can change saturation formula dependence on circumstances
 #Use JavaScript Math module functions for mathematical functions
 #Possible inputs: HUNGER, EATEN, SATURATION
