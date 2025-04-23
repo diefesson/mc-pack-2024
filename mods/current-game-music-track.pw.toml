@@ -1,13 +1,13 @@
 name = "Current Game Music Track"
-filename = "currentgamemusictrack-1.20.1-2.2.jar"
+filename = "currentgamemusictrack-1.20.1-2.4.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/YWZbIwtC/versions/XVduIs66/currentgamemusictrack-1.20.1-2.2.jar"
+url = "https://cdn.modrinth.com/data/YWZbIwtC/versions/IYK7je2o/currentgamemusictrack-1.20.1-2.4.jar"
 hash-format = "sha512"
-hash = "c984e0289759c0632c1aaf68b9e2b329b28bae417a3cab6b4fc165a77c5756a67a567923f519dad3d8eb686def75161842c01df0d0b0301da35ff8d4a1781124"
+hash = "e8b5adeb178efbae3051f2d2d17b9a915c15e6f23c9b2e2115129158b17bf5f2158d837cef9cbbf61ac58a97c2286421ad4200916bb13ef9eeb9679a7a71f71e"
 
 [update]
 [update.modrinth]
 mod-id = "YWZbIwtC"
-version = "XVduIs66"
+version = "IYK7je2o"

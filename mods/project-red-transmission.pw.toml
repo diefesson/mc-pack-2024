@@ -1,13 +1,13 @@
 name = "Project Red Transmission"
-filename = "ProjectRed-1.20.1-4.20.1-beta+4-transmission.jar"
+filename = "ProjectRed-1.20.1-4.21.0-transmission.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/wpqfuilx/ProjectRed-1.20.1-4.20.1-beta%2B4-transmission.jar"
+url = "https://cdn.modrinth.com/data/dXmH4rEw/versions/efp4eqYW/ProjectRed-1.20.1-4.21.0-transmission.jar"
 hash-format = "sha512"
-hash = "f46fad1dda605b66ecbe5225c290a2693f751d57eae839f0d2f058a6969d68c272adb23e72ff0ae3c53b62ce0e388df79714bb3e197fd30dfc2fa6ffb3a703bd"
+hash = "9f85505f0358115e89912b2f4ea88121f470d82ad88a4c758b307fd127f0b504d4c3bfce32e8afce64763dafcd69420e59ece9d74d382fb252c128c379dc2ca1"
 
 [update]
 [update.modrinth]
 mod-id = "dXmH4rEw"
-version = "wpqfuilx"
+version = "efp4eqYW"

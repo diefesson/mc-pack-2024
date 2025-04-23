@@ -1,13 +1,13 @@
 name = "Coastal Waves"
-filename = "Waves-1.20.1-1.3.jar"
+filename = "Waves-1.20.1-1.5.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2ygdYUcf/versions/eQ1HryX7/Waves-1.20.1-1.3.jar"
+url = "https://cdn.modrinth.com/data/2ygdYUcf/versions/X5VAOq7P/Waves-1.20.1-1.5.1.jar"
 hash-format = "sha512"
-hash = "6358d61a9d1d71b308e76b6c476eb51d4e66e78127ff4918d3a35dd202983eb27b0e40dd1dd16a78f71c54b0215f1397e8896092829960170c6b3a465f9ea34c"
+hash = "6eac3cee76b7543ff0d565752ab2272db36d8f4af6646b3c4434955e8527aec5b509aac79dd218227c2b739e390b3c9432fa0690eb2ccb88202fe0ae0d25fd56"
 
 [update]
 [update.modrinth]
 mod-id = "2ygdYUcf"
-version = "eQ1HryX7"
+version = "X5VAOq7P"

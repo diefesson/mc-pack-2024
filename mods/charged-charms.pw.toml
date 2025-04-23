@@ -1,13 +1,13 @@
 name = "Charged Charms"
-filename = "chargedcharms-1.20.1-2.0.1.0-FORGE.jar"
+filename = "chargedcharms-1.20.1-2.0.1.1-FORGE.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/cqzqfZKX/versions/V1YVZJo1/chargedcharms-1.20.1-2.0.1.0-FORGE.jar"
+url = "https://cdn.modrinth.com/data/cqzqfZKX/versions/4T3ugGao/chargedcharms-1.20.1-2.0.1.1-FORGE.jar"
 hash-format = "sha512"
-hash = "b011c063c8d451361465a36a328804405da6991445a5188ac376de2950d0e680c2e9390c9847ecae0b566bd56b9997e88394bae776c6e452eaa2a0c9f3477c75"
+hash = "c42bc07a12b8696831f05448d124ae61be34a2399a9f44c7b588d99ece47befb9dbae7d5bc7ee04f119886f0e8925ab08dc8121009d3f65b525bd8c51cc2eb1c"
 
 [update]
 [update.modrinth]
 mod-id = "cqzqfZKX"
-version = "V1YVZJo1"
+version = "4T3ugGao"

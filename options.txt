@@ -44,6 +44,7 @@ highContrast:false
 incompatibleResourcePacks:[]
 invertYMouse:false
 joinedFirstServer:true
+key_chloride.zoom:key.keyboard.unknown
 key_chunkloaders.keys.open_screen:key.keyboard.unknown
 key_cos.key.opencosarmorinventory:key.keyboard.unknown
 key_framedblocks.key.update_cull:key.keyboard.f9

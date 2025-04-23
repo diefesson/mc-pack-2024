@@ -1,13 +1,13 @@
 name = "KleeSlabs"
-filename = "kleeslabs-forge-1.20-15.0.4.jar"
+filename = "kleeslabs-forge-1.20.1-15.0.6.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/4tL7nJgr/kleeslabs-forge-1.20-15.0.4.jar"
+url = "https://cdn.modrinth.com/data/7uh75ruZ/versions/rJQ8kReC/kleeslabs-forge-1.20.1-15.0.6.jar"
 hash-format = "sha512"
-hash = "eafe365927abd8ebcf41c0d263be71bc4c9df8f051ffb9b715fa224f081c437d089f397ed13043f871158ab3c75a47378ed7a0e9e9eb0bd85373a90fe02a4688"
+hash = "2bff317be768594ae0d7462c625571e4a054837edd3c7a0cb4f84b9381a8a7417a89c4284ad5425fdfcfec7e9db59f24db8951bb74998fd0f98a61b10b75baa0"
 
 [update]
 [update.modrinth]
 mod-id = "7uh75ruZ"
-version = "4tL7nJgr"
+version = "rJQ8kReC"

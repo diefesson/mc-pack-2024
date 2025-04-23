@@ -1,13 +1,13 @@
 name = "Smarter Farmers (farmers replant)"
-filename = "smarterfarmers-1.20-2.1.0.jar"
+filename = "smarterfarmers-1.20-2.1.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/q4GptzFS/smarterfarmers-1.20-2.1.0.jar"
+url = "https://cdn.modrinth.com/data/Bh6ZOMvp/versions/Pg7m0oCv/smarterfarmers-1.20-2.1.2.jar"
 hash-format = "sha512"
-hash = "a95cc6c2d3aba34162ff3f5e8a705b889375b65f3693ead4fdeed472c14e8ba82ed58898220d6c12ae8ab9ed83819a4f08c0d4505dec464fa45a82fcfce5833f"
+hash = "2b12bbb5a494598f62c07a8b8f9b2127eda0327b59580e6dc45ffae57f2be5d4576acff4d5adf533fcd932fdbd1b4d27b761d29e93cdcd397c08a7f6f40de5de"
 
 [update]
 [update.modrinth]
 mod-id = "Bh6ZOMvp"
-version = "q4GptzFS"
+version = "Pg7m0oCv"

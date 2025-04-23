@@ -1,13 +1,13 @@
 name = "Hidden Recipe Book"
-filename = "hiddenrecipebook-1.20.1-4.7.jar"
+filename = "hiddenrecipebook-1.20.1-4.9.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/NbPqFmZs/versions/5TAPp5Il/hiddenrecipebook-1.20.1-4.7.jar"
+url = "https://cdn.modrinth.com/data/NbPqFmZs/versions/hYbKKbkg/hiddenrecipebook-1.20.1-4.9.jar"
 hash-format = "sha512"
-hash = "fc875b054f4f631f64ea2a4242f03f5ed8999c4d75c13c026c8d7fb017f04360a4fe6fbcd5c1bf4c26563cc866b56bd7ca34a604ffa0975ab2330697dc1f90ce"
+hash = "a004666d060c581671e36999e614a148a29d6a2de53741effa6a88f06344d443f3ddf3b161546c953a0df91a3a12e2fc10de682fd066c56f28dd67007e482e4f"
 
 [update]
 [update.modrinth]
 mod-id = "NbPqFmZs"
-version = "5TAPp5Il"
+version = "hYbKKbkg"
