@@ -1,0 +1,13 @@
+name = "Pro Placer"
+filename = "ProPlacer-v8.0.2-1.20.1-Forge.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/LhK0LkWd/versions/GjdmA0S5/ProPlacer-v8.0.2-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "c94cac27f0d447796cf0ea0e7afe5acebd54ef1ce496358b37e113c9578967bb852bf1d83da6b91b869f166e7ccf1456fc6cafe8c85972b04ff00cb34f58e317"
+
+[update]
+[update.modrinth]
+mod-id = "LhK0LkWd"
+version = "GjdmA0S5"

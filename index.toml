@@ -225,14 +225,6 @@ file = "config/farmersdelight-common.toml"
 hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
 
 [[files]]
-file = "config/fluffy_fur-client.toml"
-hash = "c0cee67d5c56d11394d57173b6fb299a0851ee1105097bf84db864f35b0838f2"
-
-[[files]]
-file = "config/fluffy_fur-common.toml"
-hash = "f9bcc106bdc3de6161349705d40169939c05db48cb33be74728a6710b5c1da7a"
-
-[[files]]
 file = "config/framedblocks-client.toml"
 hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 
@@ -440,7 +432,7 @@ hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
 [[files]]
 file = "config/spiceofoverhaul-common.toml"
-hash = "ac0534d56c42cab4ac7db24e4f2e63bbc69138e91220f914743f6b16605f1c3d"
+hash = "e1e2a547b6815174e521b14b7c44419ae0dfa9d9ef6c7b8bc4501d719b5bafe4"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -501,6 +493,10 @@ hash = "dc2d26eb2bbe5479c7b55cc20b2faff3339ab5f5aa4660e8d8c41308793dd103"
 [[files]]
 file = "config/thermal-client.toml"
 hash = "4980635620df2ccd85383db81dc78b3d8244c53fa1407af8a87d07c2893d15e7"
+
+[[files]]
+file = "config/thinair-common.toml"
+hash = "9dec9b64bfcca398bac36bf21d685ab6dab1ddfd61f775e03a08372796c0964c"
 
 [[files]]
 file = "config/toolstats.json"
@@ -573,14 +569,6 @@ hash = "d7d6ae34c63b5f10d045c16fffb6753832e81983ba52d04fd9ed40c147b8ad9d"
 [[files]]
 file = "config/waystones-common.toml"
 hash = "b0fcf3a77e6fa5bcad6ed9c479462ba31deb6d78b987d180e7cda616101c8ab9"
-
-[[files]]
-file = "config/wizards_reborn-client.toml"
-hash = "ba561dd62cddd23694c8871055c47a5c3fb859887831cb84b7e57b3552145219"
-
-[[files]]
-file = "config/wizards_reborn-common.toml"
-hash = "aca261a06700a6454e7647c639fbbe20d91d1503bee8c8ebc859ac50118aab8a"
 
 [[files]]
 file = "defaultconfigs/aether-server.toml"
@@ -775,10 +763,6 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
-file = "kubejs/server_scripts/src/farmersdelight/knives_recipes.js"
-hash = "fdb3fd9ca45514a1bd13d363830c8eee8e09f4d22264e741b342cb7013c523f2"
-
-[[files]]
 file = "kubejs/server_scripts/src/friendsandfoes/copper_button.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
 
@@ -852,7 +836,7 @@ hash = "e9b2c502b52d87b6d2d71a62d0e6dcc36fb63fc7d0c889f9f4cb276e6fe6608b"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/remove_content.js"
-hash = "49532c17e9955b9b9d0bd7cbabe6f80891b43cff778cfeb3516044141cff1bd5"
+hash = "feefe44147ef3824b1d8597a7b00c8d59f28f22891934ac12103b8a245cbf26a"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"
@@ -873,6 +857,10 @@ hash = "0f7f0372085def456515df3ae0377aada499fab7b37fc65f59bdaee5709d3bfd"
 [[files]]
 file = "kubejs/server_scripts/src/thermal/removed_content.js"
 hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
+
+[[files]]
+file = "kubejs/server_scripts/src/thermal/rockwool.js"
+hash = "0cc2684db4250370c2f26d3baacfb1f1aea38ed9dd2cc8b15a2fd97f0bab96b9"
 
 [[files]]
 file = "kubejs/server_scripts/src/tools_complement/tags.js"
@@ -1561,11 +1549,6 @@ hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
 
 [[files]]
-file = "mods/fluffy-fur.pw.toml"
-hash = "cba396c5e4c08485a65d656e4dca5032ddd01b9365e6a423efbf54ca073099c4"
-metafile = true
-
-[[files]]
 file = "mods/food-effect-tooltips-forge.pw.toml"
 hash = "8a31f4f21638e830c1b99831f6b3b992e35790bc841f70ed4017a2cf45b2a5e8"
 metafile = true
@@ -2101,6 +2084,11 @@ hash = "f79cb80b6ea599fe4ca9404465277ff7edf25118976170c28827590febfcee7a"
 metafile = true
 
 [[files]]
+file = "mods/pro-placer.pw.toml"
+hash = "39783a9de68a9633bb27c6bca92f38c892c82620eabfcdbbbffca4718af51fbe"
+metafile = true
+
+[[files]]
 file = "mods/probejs.pw.toml"
 hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
 metafile = true
@@ -2351,6 +2339,11 @@ hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true
 
 [[files]]
+file = "mods/thin-air.pw.toml"
+hash = "d6b1b6119cb4f57f6f9b2a9cafee92e184f44273dca3ad96a8a6c891f51d093f"
+metafile = true
+
+[[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "59afa0b70a3b3513691a15f288f964fed351f64458d46df2649a64f34abfd1d4"
 metafile = true
@@ -2473,11 +2466,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
-metafile = true
-
-[[files]]
-file = "mods/wizards-reborn.pw.toml"
-hash = "e657199c3ced5213ac49b79e647136130335047fd522049f638ce926d8a1db6f"
 metafile = true
 
 [[files]]

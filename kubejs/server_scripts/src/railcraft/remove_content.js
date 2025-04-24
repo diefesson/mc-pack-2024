@@ -199,7 +199,6 @@ ServerEvents.tags('item', event => {
         // Crusher
         'railcraft:crusher',
         'railcraft:crushed_obsidian',
-        'railcraft:obsidian_dust',
         'railcraft:saltpeter_dust',
         'railcraft:coal_dust',
         'railcraft:charcoal_dust',

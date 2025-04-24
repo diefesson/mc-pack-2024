@@ -1,0 +1,13 @@
+name = "Thin Air"
+filename = "ThinAir-v8.1.5-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ll2RO0er/versions/Phzyg7km/ThinAir-v8.1.5-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "a0ff9cf586260ec003ce7f246c907bc119d464396349672308dc15156b5616080482535bc7de29466cafec2f45c641f699fc8b2a00b17848d94be62a0ad9fb44"
+
+[update]
+[update.modrinth]
+mod-id = "ll2RO0er"
+version = "Phzyg7km"

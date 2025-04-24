@@ -15,7 +15,7 @@ saturation = "SATURATION"
 idleExhaustion = true
 #The number which will be added to exhaustion each tick
 #Range: 0.0 ~ 4.0
-idleExhaustionQuantity = 0.009999999776482582
+idleExhaustionQuantity = 0.0025
 #If eating speed affected by food values
 modifyFoodEatingSpeed = true
 #adds text to GUI describing health and hunger status
