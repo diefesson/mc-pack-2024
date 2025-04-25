@@ -345,16 +345,6 @@ file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 
 [[files]]
-file = "config/paxi/datapacks/aether-ruined-portals.pw.toml"
-hash = "7fa936cc6fbacc1ab4028d9b68ace17e8033c7e8ef5838586cf6c50db882e5ca"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/aether-temporary-freezing.pw.toml"
-hash = "f29405358a0a8cdeb3157062dd82c7d38f1eddbc5d7ec9f4de150a0e439aa2c3"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -914,31 +904,6 @@ hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
 metafile = true
 
 [[files]]
-file = "mods/aether-emissivity.pw.toml"
-hash = "0f93da86ed1bd4b61f56d2952ded69cdfcc44a574effadbaf223600442a1de8b"
-metafile = true
-
-[[files]]
-file = "mods/aether-enhanced-extinguishing.pw.toml"
-hash = "8e7f2282ce70b5a82bfe05304c30e71d6d3c26a29a75d6e1f31e85af8b86eb2e"
-metafile = true
-
-[[files]]
-file = "mods/aether-protect-your-moa.pw.toml"
-hash = "674a62706fa6f05d690c173f5199a591fef1a1a2b2d62668cd1bf70b4c530eb3"
-metafile = true
-
-[[files]]
-file = "mods/aether-treasure-reforging.pw.toml"
-hash = "5507d07be075713dd8d9824354a3b7a34a881144c40a7a7591279e6575da7411"
-metafile = true
-
-[[files]]
-file = "mods/aether.pw.toml"
-hash = "1aaba088a650cc1499e1871cfa92f97e3d10a9d8c612fbd784b36c12382196de"
-metafile = true
-
-[[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
 metafile = true
@@ -1111,11 +1076,6 @@ metafile = true
 [[files]]
 file = "mods/block-runner.pw.toml"
 hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
-metafile = true
-
-[[files]]
-file = "mods/blue-skies.pw.toml"
-hash = "e0b611005c8d2142ca889e850c9f1450f45b1d30086aa8743579dde6ab1bd9af"
 metafile = true
 
 [[files]]
