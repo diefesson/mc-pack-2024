@@ -2344,6 +2344,11 @@ hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
 metafile = true
 
 [[files]]
+file = "mods/thermal-locomotion.pw.toml"
+hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
+metafile = true
+
+[[files]]
 file = "mods/thin-air.pw.toml"
 hash = "d6b1b6119cb4f57f6f9b2a9cafee92e184f44273dca3ad96a8a6c891f51d093f"
 metafile = true
