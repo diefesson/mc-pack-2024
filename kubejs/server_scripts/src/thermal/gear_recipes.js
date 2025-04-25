@@ -13,6 +13,7 @@ ServerEvents.recipes(event => {
             I: '#forge:ingots/copper'
         }
     )
+
     // General gears
     event.replaceInput(
         { output: '#forge:gears' },

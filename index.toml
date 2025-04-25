@@ -625,36 +625,12 @@ file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
 
 [[files]]
-file = "kubejs/data/diefalpha/mobs_properties_randomness/mobs/wither_skeleton_bow.json"
-hash = "00d48d001043fcffd9fa9001b14961f95d50734c6d01fd2c9eb6a30943b8bb6a"
-
-[[files]]
-file = "kubejs/data/diefalpha/worldgen/configured_feature/apatite_ore.json"
-hash = "ed248362b942cec47fbbc887ea0dbad20efa446264f5cf1a83b0970f73ed587c"
-
-[[files]]
-file = "kubejs/data/diefalpha/worldgen/placed_feature/apatite_ore.json"
-hash = "b01fe5d59f62bdf9381ea2154a3b70139f5f9ff64d2c20ff59bf68ec4eb89433"
-
-[[files]]
 file = "kubejs/data/embers/worldgen/configured_feature/ore_lead.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
 file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/mysticalagriculture/loot_tables/blocks/deepslate_prosperity_ore.json"
-hash = "a9a6c8d681ad934904f5a7b24e01055169abda1c032f28014973bfc23a64f715"
-
-[[files]]
-file = "kubejs/data/mysticalagriculture/loot_tables/blocks/prosperity_ore.json"
-hash = "3cde1a82ffaf228c0ae5acf1fbcf889e268b81cf46225640dc7440c9447d3e30"
-
-[[files]]
-file = "kubejs/data/mysticalagriculture/worldgen/placed_feature/prosperity_ore.json"
-hash = "f3cc8178efdebc7183d54c4a547305312794689d476dee2fe757dab2b6803a5a"
 
 [[files]]
 file = "kubejs/data/railcraft/worldgen/configured_feature/lead_ore.json"
@@ -838,15 +814,11 @@ hash = "4ef82e2dc903a660ce0448d06c02b2fef73561c10f94d42a1a1dda3b9cada988"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
-hash = "7556ce634e3328c973c420e8ebb74141745c75a86d129d3261ec550e37181c2e"
-
-[[files]]
-file = "kubejs/server_scripts/src/thermal/machine_device_tags.js"
-hash = "0f7f0372085def456515df3ae0377aada499fab7b37fc65f59bdaee5709d3bfd"
+hash = "05c7cc57f38508d80cdba84d14f294eefdc0344ccd5ec8f241bd302f9b4761d6"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/removed_content.js"
-hash = "c826d5103c1fd8142a6b7883704be175dc7c9086ecf272ecb8b9937087aa0a78"
+hash = "d2ca193805fa51e9419d0ae7b0c30e31d6abf8a8e81c6cf2ba55fd4a35febec2"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/rockwool.js"
@@ -2301,11 +2273,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.pw.toml"
-hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true
 
 [[files]]
