@@ -1029,6 +1029,11 @@ hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
 
 [[files]]
+file = "mods/autumnity.pw.toml"
+hash = "318e1c63105062eb80bf04a944b7f924222ad41267699b1058d1e6181cb579c1"
+metafile = true
+
+[[files]]
 file = "mods/bad-wither-no-cookie.pw.toml"
 hash = "0a80e045329dc8e191f81dd4fa2cacfeff65715e990d2819650d1d83308d2bc4"
 metafile = true
@@ -1904,6 +1909,11 @@ hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
 metafile = true
 
 [[files]]
+file = "mods/metal-bundles.pw.toml"
+hash = "a57eed4563dcca7a0ce9b64718d7db617bb874b65a5d13c8caac45716cc51b19"
+metafile = true
+
+[[files]]
 file = "mods/miners-delight.pw.toml"
 hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
@@ -2331,11 +2341,6 @@ metafile = true
 [[files]]
 file = "mods/thermal-integration.pw.toml"
 hash = "eac18d5d726f61bce8471d9113db5ec642db05b9bb0836a06b491ef97245ade2"
-metafile = true
-
-[[files]]
-file = "mods/thermal-locomotion.pw.toml"
-hash = "5152f3cfbdac5208b0a96852aaa59600c7d0ef577975692e28ad2ca8ca4126f3"
 metafile = true
 
 [[files]]
