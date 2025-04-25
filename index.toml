@@ -62,7 +62,7 @@ hash = "8d9d096d0f35bd651ca2aa9fc657531a1bb7794fcef6b66f0b2ea1a734ba9645"
 
 [[files]]
 file = "config/betterclouds-v1.json"
-hash = "e466816a3f9bfb7d203b00e249cfad1791a4ad189ed382b3e801a82cd2be2091"
+hash = "78b38df1a026678d647c685eb9fe950c5a2b027caf75a5766c479625a7be6527"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"
@@ -421,6 +421,10 @@ file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
 [[files]]
+file = "config/sophisticatedbackpacks-common.toml"
+hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
+
+[[files]]
 file = "config/spiceofoverhaul-common.toml"
 hash = "e1e2a547b6815174e521b14b7c44419ae0dfa9d9ef6c7b8bc4501d719b5bafe4"
 
@@ -583,6 +587,10 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"
 hash = "71430bc9f89bb87d019bfa2f66f01d1745860a5f70abff39c546b48f0c931a20"
+
+[[files]]
+file = "defaultconfigs/sophisticatedbackpacks-server.toml"
+hash = "26e1ddbf54592547401526bfd6fddf3968d1947341886835d376070943300c63"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
@@ -809,8 +817,12 @@ file = "kubejs/server_scripts/src/railcraft/ties.js"
 hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
 
 [[files]]
+file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
+hash = "14063b11d01968060fae7fdf5bc80513b084fd44e544b91152c4e549ac5b047d"
+
+[[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
-hash = "4ef82e2dc903a660ce0448d06c02b2fef73561c10f94d42a1a1dda3b9cada988"
+hash = "6afa1ae0515119816afda596e41cd5d3033793ada93c2176619736a2cb11dd79"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
@@ -2141,8 +2153,18 @@ hash = "daf32b14b2274f7aae1cfc76dabd879a4a7f249fa41d039afab48d1d038d6aed"
 metafile = true
 
 [[files]]
+file = "mods/sophisticated-backpacks.pw.toml"
+hash = "ec682623575dc9f1214e2b9a29097f4442feacc71b9edf5aeb8bf47d9eefb29f"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-core.pw.toml"
 hash = "d29c353bb3109ddf125d3fa6a005eb75fe58cc230bf5e8f6b4e534aa9fd1dd58"
+metafile = true
+
+[[files]]
+file = "mods/sophisticated-storage-in-motion.pw.toml"
+hash = "3cdb97f81254ce617b288a6a1e0e94186ea1fb4460d69bf58b91d72610afa5d6"
 metafile = true
 
 [[files]]
@@ -2442,4 +2464,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "ce27fe780044c08bf335993c0955a51eeea9b32097964498fbc2826a6d92cfe1"
+hash = "04337a119a374ab7351dea9d2258ef20e7ad767513dcca4f926263aa0ac291e7"

@@ -3,7 +3,6 @@ let sophisticatedStorageUpgrades = [
     'sophisticatedstorage:stack_upgrade_tier_1',
     'sophisticatedstorage:stack_upgrade_tier_1_plus',
     'sophisticatedstorage:stack_upgrade_tier_2',
-    'sophisticatedstorage:stack_upgrade_tier_2_from_tier_1_plus',
     'sophisticatedstorage:stack_upgrade_tier_3',
     'sophisticatedstorage:stack_upgrade_tier_4',
     'sophisticatedstorage:stack_upgrade_tier_5',
