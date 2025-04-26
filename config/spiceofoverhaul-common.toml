@@ -19,7 +19,7 @@ idleExhaustionQuantity = 0.0025
 #If eating speed affected by food values
 modifyFoodEatingSpeed = true
 #adds text to GUI describing health and hunger status
-addGuiText = true
+addGuiText = false
 #Strikes for having low hp
 lowHealthStrikes = true
 #Strikes for having low hp start at this health level

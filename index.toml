@@ -426,7 +426,7 @@ hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 
 [[files]]
 file = "config/spiceofoverhaul-common.toml"
-hash = "e1e2a547b6815174e521b14b7c44419ae0dfa9d9ef6c7b8bc4501d719b5bafe4"
+hash = "8b6706a3e4332fae98dda8477ac3ecb7eb2e196fb1969cef9df8c54631e7d1f7"
 
 [[files]]
 file = "config/starterkit.json5"
@@ -2025,6 +2025,11 @@ metafile = true
 [[files]]
 file = "mods/polytone.pw.toml"
 hash = "12ce7b090fc7ae97fddc061bfad6d996cb3d881a54e66a11f41790dafa2fb74a"
+metafile = true
+
+[[files]]
+file = "mods/pretty-pipes.pw.toml"
+hash = "4145ea27a5d578ff8e3786bd3cf6533688eda6b9df129cf80308e81bea63163b"
 metafile = true
 
 [[files]]
