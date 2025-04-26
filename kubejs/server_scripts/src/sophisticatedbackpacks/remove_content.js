@@ -25,8 +25,6 @@ let sophisticatedBackpackUpgrades = [
     'sophisticatedbackpacks:auto_smoking_upgrade',
     'sophisticatedbackpacks:blasting_upgrade',
     'sophisticatedbackpacks:auto_blasting_upgrade',
-    'sophisticatedbackpacks:crafting_upgrade',
-    'sophisticatedbackpacks:stonecutter_upgrade',
     'sophisticatedbackpacks:battery_upgrade',
     'sophisticatedbackpacks:pump_upgrade',
     'sophisticatedbackpacks:advanced_pump_upgrade',

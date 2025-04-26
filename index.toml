@@ -490,7 +490,7 @@ hash = "4980635620df2ccd85383db81dc78b3d8244c53fa1407af8a87d07c2893d15e7"
 
 [[files]]
 file = "config/thinair-common.toml"
-hash = "9dec9b64bfcca398bac36bf21d685ab6dab1ddfd61f775e03a08372796c0964c"
+hash = "d043ba0cc865b46dec2fedf2af49ec325d368402f04c4e27be252d26281f42d5"
 
 [[files]]
 file = "config/toolstats.json"
@@ -818,11 +818,11 @@ hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
-hash = "14063b11d01968060fae7fdf5bc80513b084fd44e544b91152c4e549ac5b047d"
+hash = "e666dbfe2c27109cb408e2e534e8c1b2a1bcbe4d55454e3f77456df2c30c5436"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
-hash = "6afa1ae0515119816afda596e41cd5d3033793ada93c2176619736a2cb11dd79"
+hash = "bcfbf70e893a044a3118a643347083ca90f9a0ee606f75d5327e41a643cc9677"
 
 [[files]]
 file = "kubejs/server_scripts/src/thermal/gear_recipes.js"
