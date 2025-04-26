@@ -425,10 +425,6 @@ file = "config/sophisticatedbackpacks-common.toml"
 hash = "67c90bbdfca3c7488d9496df0af4d1be7483634a0c4d179281d1c7c91ef32e7b"
 
 [[files]]
-file = "config/spiceofoverhaul-common.toml"
-hash = "8b6706a3e4332fae98dda8477ac3ecb7eb2e196fb1969cef9df8c54631e7d1f7"
-
-[[files]]
 file = "config/starterkit.json5"
 hash = "18c81c65c991801a3335ee10b63fb9db04b70decc17960263eed54e198f0a35c"
 
@@ -587,6 +583,10 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"
 hash = "71430bc9f89bb87d019bfa2f66f01d1745860a5f70abff39c546b48f0c931a20"
+
+[[files]]
+file = "defaultconfigs/solclassic-server.toml"
+hash = "86a2245040ec1b907e2c9b5dd89f67b021db7803ce1256623cdd6d86bcdf69d1"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -815,6 +815,10 @@ hash = "feefe44147ef3824b1d8597a7b00c8d59f28f22891934ac12103b8a245cbf26a"
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"
 hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
+
+[[files]]
+file = "kubejs/server_scripts/src/solclassic/remove_content.js"
+hash = "ee3d3a2d5afdad56e79322fcae3393d4558c68c496e78c1b35183301e5b33354"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
@@ -1503,6 +1507,11 @@ hash = "8a31f4f21638e830c1b99831f6b3b992e35790bc841f70ed4017a2cf45b2a5e8"
 metafile = true
 
 [[files]]
+file = "mods/foodvariations.pw.toml"
+hash = "3870a4ff7b2b9a0805d6442451ba01fb7117789a45c277d30be315d4bc62d1bd"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "971b9cd18c18725fae1d44fd4b8f135701fc6e6c0cb2267d996068f3d4872139"
 metafile = true
@@ -2180,11 +2189,6 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
-metafile = true
-
-[[files]]
-file = "mods/spice-of-overhaul.pw.toml"
-hash = "826fbc0c954611052508184bf038f592b658422fad2aa9a4f5d49a83044a954e"
 metafile = true
 
 [[files]]

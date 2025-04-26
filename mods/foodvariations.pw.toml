@@ -1,0 +1,13 @@
+name = "Spice of Life: Classic Edition [1.20.1]"
+filename = "spiceoflife_classic-forge-2.01.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Utos7Mlk/versions/eEp7mbA2/spiceoflife_classic-forge-2.01.jar"
+hash-format = "sha512"
+hash = "f823d38d5bd92c01af60ba3d8493681d9f9afd83fbcde9e4af1362135a39477767fe090aaed36e496f85466060f2e9c032878765de36118bed0d3e001573a2ae"
+
+[update]
+[update.modrinth]
+mod-id = "Utos7Mlk"
+version = "eEp7mbA2"
