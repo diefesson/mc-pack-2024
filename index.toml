@@ -352,6 +352,11 @@ hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
+hash = "2e970218092afac5c5202ba5ed189cc3988ea89cc09bc95e23239e1f93689378"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
@@ -1896,6 +1901,16 @@ metafile = true
 [[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "2c70f2ae708875c837565551cf841779376a227706c28cd567cb82d02d25c1c8"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "5b5ee0d0e1c52f5fadae52a4550f33e640521950f6ab47042aadd508254c8930"
 metafile = true
 
 [[files]]
