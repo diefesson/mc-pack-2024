@@ -238,9 +238,6 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.keyboard.unknown
 key_neat.keybind.toggle:key.keyboard.unknown
-key_ping-wheel.key.name-labels:key.keyboard.left.alt
-key_ping-wheel.key.open-settings:key.keyboard.p
-key_ping-wheel.key.ping-location:key.mouse.5
 key_pneumaticcraft.armor.options:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.air_conditioning:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker:key.keyboard.unknown

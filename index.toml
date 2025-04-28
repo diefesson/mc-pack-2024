@@ -2035,11 +2035,6 @@ hash = "8fa9868c9ddbd822f72082547ccff8641d81900e2be41891b371332196e7dfb8"
 metafile = true
 
 [[files]]
-file = "mods/ping-wheel.pw.toml"
-hash = "56a262290c40ea05ccd8b2548bbcf39dc735553b07038c3ff524c6e31ffeb893"
-metafile = true
-
-[[files]]
 file = "mods/pneumaticcraft-repressurized.pw.toml"
 hash = "db79692898d1ac0d9d8e69716603ab6d5021bfedc12d64eb97529687868fbf0e"
 metafile = true
@@ -2496,4 +2491,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "84d92c284c55d75d071d84b7d6900a2cc1c1e5cdc4deb9d472491716b89e86be"
+hash = "b4ea92ae896aaa9758fe2fbafc7d1b8101e43326b3a4050958f3ec795c1f98a9"
