@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/HorseBuff.toml"
-hash = "3c6de1de3a0992d41a22740b7ad5e70295960b09a3e72a8024991f826414eba1"
-
-[[files]]
 file = "config/ProjectRed.cfg"
 hash = "ea0f22d36c956cf48282be0dd3175760ee9282f23b224e3bbce45e1d390ac01d"
 
@@ -241,6 +237,14 @@ file = "config/horseexpert-client.toml"
 hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
 
 [[files]]
+file = "config/horseman-client.toml"
+hash = "094f84a9acd2d7971dd92f4c79627bc70af675843ec43a075f9e8b22aed86a3c"
+
+[[files]]
+file = "config/horseman-common.toml"
+hash = "e14929450570470282fbda681ff4a21a5eb21722f8e370bc976f2e9758f0a2bd"
+
+[[files]]
 file = "config/immersiveengineering-client.toml"
 hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 
@@ -351,6 +355,14 @@ metafile = true
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
+
+[[files]]
+file = "config/personality-client.toml"
+hash = "603091de493301b99e4bc975d99ab51041fb6392d5c01f08078c67f6da02472d"
+
+[[files]]
+file = "config/personality-common.toml"
+hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
 
 [[files]]
 file = "config/pneumaticcraft-client.toml"
@@ -729,14 +741,6 @@ file = "kubejs/server_scripts/src/friendsandfoes/copper_button.js"
 hash = "d3fd447ec6fa2b598b9253f7e3892860f6a2cee1da9c1328ac2d623f18224408"
 
 [[files]]
-file = "kubejs/server_scripts/src/immersive_aircraft/recipes.js"
-hash = "eecf36294134efe675b7d032ac8df84d62db1277de527cbf82b468f784d0398f"
-
-[[files]]
-file = "kubejs/server_scripts/src/immersive_aircraft/remove_content.js"
-hash = "df006cc8f7873f1fcf191f6298ac5b53eb3396bd971b066ada6e90346c559f67"
-
-[[files]]
 file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
 hash = "484d6965774fd27344aa26bc8c9ef6c5787ff09cfb6fe4dd69352cbe043fad95"
 
@@ -892,11 +896,6 @@ metafile = true
 [[files]]
 file = "mods/akashic-tome.pw.toml"
 hash = "9d1b15ffa15606c346ad2ed32c349fceac9863ae13b433c2aee7d026c87d4339"
-metafile = true
-
-[[files]]
-file = "mods/alekiships.pw.toml"
-hash = "f5aa2b8d76f3bf96459c11bf511475c4ee12647a3fea30e5d48beddd670499fd"
 metafile = true
 
 [[files]]
@@ -1065,6 +1064,11 @@ hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
 
 [[files]]
+file = "mods/boatload.pw.toml"
+hash = "929d6d7501b6c6ce7a12136eac14f351a59e81366a3aa21a83f8a95fdd11df6c"
+metafile = true
+
+[[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
@@ -1195,6 +1199,11 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
+file = "mods/coroutil.pw.toml"
+hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
+metafile = true
+
+[[files]]
 file = "mods/cosmetic-armor-reworked.pw.toml"
 hash = "cfa8aa9c0437721dab2057c932c9cf8ec3d3a11f672040601305238d13df85e8"
 metafile = true
@@ -1202,11 +1211,6 @@ metafile = true
 [[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
-metafile = true
-
-[[files]]
-file = "mods/crawl.pw.toml"
-hash = "6cef27ac3c7c987ccd9abde1cf5219de1c583f75324e3f9eba2be7e1d60162e4"
 metafile = true
 
 [[files]]
@@ -1435,6 +1439,11 @@ hash = "275e088a76a5bb3daf16fb32713979a0453d8737a0a79cb4a3d900ee0f1809f5"
 metafile = true
 
 [[files]]
+file = "mods/etched.pw.toml"
+hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
+metafile = true
+
+[[files]]
 file = "mods/every-compat.pw.toml"
 hash = "1280f691deba2bfa83a3e05014fe0d36bd003ca7cf0e7826fa60328eac1af9b2"
 metafile = true
@@ -1590,6 +1599,11 @@ hash = "55f92a03df046f1ee4da2100025726e166576d47378932b685c56b9ff3da2a37"
 metafile = true
 
 [[files]]
+file = "mods/heartstone.pw.toml"
+hash = "b0542805d5a1fd7e977dccd2f4c32e18ca327f53d97864b77f193842b855ecca"
+metafile = true
+
+[[files]]
 file = "mods/hidden-recipe-book.pw.toml"
 hash = "dc233a933e51a074bb458e4285f5b77b15bec2ea51791f206820122e80206012"
 metafile = true
@@ -1625,8 +1639,8 @@ hash = "e8901fd36b57cc736dae93d6b0c991c847372bf47813b896a3675c990d7eb761"
 metafile = true
 
 [[files]]
-file = "mods/horsebuff.pw.toml"
-hash = "9d01b15947083410d7978e231f4abd836525d3aa180f22061c271fed678539b8"
+file = "mods/horseman.pw.toml"
+hash = "4237fe9fd41ed14c7e81618b8668cd3a03c6e42a5242f91141f43457e7d3340f"
 metafile = true
 
 [[files]]
@@ -1945,6 +1959,11 @@ hash = "ebd48452773a4b6b4b7dcedbfb71c8986ec97780fcce040542c8e8fd67f22c56"
 metafile = true
 
 [[files]]
+file = "mods/not-enough-animations.pw.toml"
+hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
 metafile = true
@@ -1990,6 +2009,11 @@ hash = "1f92dd360908c1801848dcd4d14aca5640199545e7e22e76bfdb981b06fa9399"
 metafile = true
 
 [[files]]
+file = "mods/personality!.pw.toml"
+hash = "b53d0144878f1a9dd570ad3997770b2b9fc6a9578ab18131cddb421763fd2162"
+metafile = true
+
+[[files]]
 file = "mods/pick-up-notifier.pw.toml"
 hash = "a566e339809d1596f335414f04f8151a56149af191ee3161c2e73a4db7084b3e"
 metafile = true
@@ -1997,6 +2021,11 @@ metafile = true
 [[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "8fa9868c9ddbd822f72082547ccff8641d81900e2be41891b371332196e7dfb8"
+metafile = true
+
+[[files]]
+file = "mods/ping-wheel.pw.toml"
+hash = "56a262290c40ea05ccd8b2548bbcf39dc735553b07038c3ff524c6e31ffeb893"
 metafile = true
 
 [[files]]
@@ -2415,6 +2444,11 @@ hash = "7a7ee4d3c2d9dec4adffd36e15fd6affb53a6b5f55406a7500a1bbd23c3127db"
 metafile = true
 
 [[files]]
+file = "mods/what-are-they-up-to.pw.toml"
+hash = "c557d1b26559ef987c229187d2f2705616e78179ce04fa1c96cc3d76a1cdf1b5"
+metafile = true
+
+[[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
@@ -2456,4 +2490,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "04337a119a374ab7351dea9d2258ef20e7ad767513dcca4f926263aa0ac291e7"
+hash = "84d92c284c55d75d071d84b7d6900a2cc1c1e5cdc4deb9d472491716b89e86be"

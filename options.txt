@@ -61,6 +61,7 @@ key_key.ae2.portable_item_cell:key.keyboard.unknown
 key_key.ae2.wireless_pattern_access_terminal:key.keyboard.unknown
 key_key.ae2.wireless_pattern_encoding_terminal:key.keyboard.unknown
 key_key.ae2.wireless_terminal:key.keyboard.unknown
+key_key.aileron.smokestack_boost:key.keyboard.space
 key_key.astikorcarts.desc:key.keyboard.r
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
@@ -88,7 +89,6 @@ key_key.craftingtweaks.rotate_counter_clockwise:key.keyboard.unknown
 key_key.craftingtweaks.rotate:key.keyboard.unknown
 key_key.craftingtweaks.spread:key.keyboard.unknown
 key_key.craftingtweaks.transfer_stack:key.keyboard.unknown
-key_key.crawl:key.keyboard.c
 key_key.curios.open.desc:key.keyboard.unknown
 key_key.cycleLeft:key.keyboard.unknown
 key_key.cycleRight:key.keyboard.unknown
@@ -122,17 +122,6 @@ key_key.hotbar.6:key.keyboard.6
 key_key.hotbar.7:key.keyboard.7
 key_key.hotbar.8:key.keyboard.8
 key_key.hotbar.9:key.keyboard.9
-key_key.immersive_aircraft.boost:key.keyboard.left.shift
-key_key.immersive_aircraft.dismount:key.keyboard.r
-key_key.immersive_aircraft.fallback_control_backward:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_down:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_forward:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_left:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_pull:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_push:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_right:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_control_up:key.keyboard.unknown
-key_key.immersive_aircraft.fallback_use:key.keyboard.unknown
 key_key.immersiveengineering.chemthrowerSwitch:key.keyboard.unknown
 key_key.immersiveengineering.magnetEquip:key.keyboard.s
 key_key.immersiveengineering.railgunZoom:key.mouse.middle
@@ -191,8 +180,9 @@ key_key.map_atlases.place_pin:key.keyboard.unknown
 key_key.map_atlases.zoom_in_minimap:key.keyboard.keypad.add
 key_key.map_atlases.zoom_out_minimap:key.keyboard.keypad.subtract
 key_key.modernfix.config:key.keyboard.unknown
-key_key.observable.profile:key.keyboard.unknown
 key_key.open_muffler_gui:key.keyboard.unknown
+key_key.personality.crawl:key.keyboard.c
+key_key.personality.sit:key.keyboard.z
 key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
 key_key.railcraft.change_aura:key.keyboard.unknown
@@ -248,6 +238,9 @@ key_keybind.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
 key_keybind.sophisticatedstorage.sort:key.keyboard.unknown
 key_neat.keybind.toggle:key.keyboard.unknown
+key_ping-wheel.key.name-labels:key.keyboard.left.alt
+key_ping-wheel.key.open-settings:key.keyboard.p
+key_ping-wheel.key.ping-location:key.mouse.5
 key_pneumaticcraft.armor.options:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.air_conditioning:key.keyboard.unknown
 key_pneumaticcraft.armor.upgrade.block_tracker:key.keyboard.unknown
@@ -339,7 +332,6 @@ soundDevice:""
 syncChunkWrites:true
 telemetryOptInExtra:false
 textBackgroundOpacity:0.5
-toggleCrawl:false
 toggleCrouch:false
 toggleSprint:false
 touchscreen:false

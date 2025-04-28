@@ -1,0 +1,13 @@
+name = "Heartstone"
+filename = "heartstone-1.20-1.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NBY6AFje/versions/dRYJIPui/heartstone-1.20-1.3.0.jar"
+hash-format = "sha512"
+hash = "30862afb967c94d28706af4aa63085060aff8ec39dadaaaea5250d29a5ce034ae12a5e3a5cc863bbeb577cf5220267e59fd4554e9db7525a83291fd97cb85965"
+
+[update]
+[update.modrinth]
+mod-id = "NBY6AFje"
+version = "dRYJIPui"
