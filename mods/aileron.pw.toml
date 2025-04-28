@@ -1,0 +1,13 @@
+name = "Aileron"
+filename = "aileron-1.20.1-forge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b8kG1VGq/versions/LAG3oxIc/aileron-1.20.1-forge-1.1.1.jar"
+hash-format = "sha512"
+hash = "eabe3b715ecfa58b6debfd85ecd6cb365571b7b32cf81f5efa1b48099ce9f5492ad756aee1fe136e044908f6ad569e088c258f6c7f649b55159301bf6dc245ad"
+
+[update]
+[update.modrinth]
+mod-id = "b8kG1VGq"
+version = "LAG3oxIc"

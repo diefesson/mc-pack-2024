@@ -109,14 +109,6 @@ file = "config/chalk-common.toml"
 hash = "a9375d04e87421fade85fce88483fd5c21690113f948995990e2a67be9534d99"
 
 [[files]]
-file = "config/chargedcharms-client.toml"
-hash = "e44d54a638526b7b8451e0cd2bf79f1a979f325817ee4774cccd6b48b36a8248"
-
-[[files]]
-file = "config/chargedcharms-common.toml"
-hash = "b2790b91918a23229b78563625b3e3f665eaf7a3ed45b46c9eaf1fbeddf394ab"
-
-[[files]]
 file = "config/chloride-client.json"
 hash = "b6fa328d406cfb09616bf4611b5a66e762ca28c76b6e6d7d57c052a86831d631"
 
@@ -247,10 +239,6 @@ hash = "22b7f87be30b7e3ce6fa3fe1cb588e8b3eae0bfc9ddc390ad346a1d1bbfebb4b"
 [[files]]
 file = "config/horseexpert-client.toml"
 hash = "d55537fbaa760eb6273c2b4b12369ebaabb6f40568e20f6b3c355e224e743723"
-
-[[files]]
-file = "config/immersive_aircraft.json"
-hash = "38671f43027efb168cbac4a43816ccd6755e76049752cd556faf76c2b6e0bd32"
 
 [[files]]
 file = "config/immersiveengineering-client.toml"
@@ -689,6 +677,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "0c230a664ec610481a7bab2d5e76ec7eaa20a3341cc960a1a14c44b0b4500afd"
 
 [[files]]
+file = "kubejs/server_scripts/src/aileron/tags.js"
+hash = "957fee6cc681e4375e3fc80ac5340b2be96e85dbc5a683b8609dba9b4a084f00"
+
+[[files]]
 file = "kubejs/server_scripts/src/amendments/torch_fire_fix.js"
 hash = "2cf222714cd28ba35eceab0637428d4710143ec1bcfe6986674ea012b3037fad"
 
@@ -707,10 +699,6 @@ hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "69c996ca0715a0c7a6e9cb5fd0c6ca58a85c317307ebfd4850f92893c4313ab8"
-
-[[files]]
-file = "kubejs/server_scripts/src/chargedcharms/recipes.js"
-hash = "905376bb95a543c64d5cd8919a2a08283a20845a0c942df0d594ba9ccb36383c"
 
 [[files]]
 file = "kubejs/server_scripts/src/chunkloaders/expensive_chunkloaders.js"
@@ -894,6 +882,11 @@ metafile = true
 [[files]]
 file = "mods/ai-improvements.pw.toml"
 hash = "dfab1141c0b00ca194d3826f3bbc06f6b50ed844ecad886bb69fb3d560090b0e"
+metafile = true
+
+[[files]]
+file = "mods/aileron.pw.toml"
+hash = "113e37aa4e5bac2393393de14548f5d1dc854830c89ab0c02af221b8c0bee610"
 metafile = true
 
 [[files]]
@@ -1099,11 +1092,6 @@ metafile = true
 [[files]]
 file = "mods/chalk-mod.pw.toml"
 hash = "8bcc00f3a6326cd48aa772428b5df25a5f8851626870900c7cd43498b797b5d5"
-metafile = true
-
-[[files]]
-file = "mods/charged-charms.pw.toml"
-hash = "1614556dca70a544d047a45e2ce46b1a0c43926dc67f2e141442822833d9bd7d"
 metafile = true
 
 [[files]]
@@ -1654,11 +1642,6 @@ metafile = true
 [[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
-metafile = true
-
-[[files]]
-file = "mods/immersive-aircraft.pw.toml"
-hash = "120be2bee17effa9c285cdacd8b5f74b24049c66a24fada1d4ec616e7bbc2f49"
 metafile = true
 
 [[files]]
