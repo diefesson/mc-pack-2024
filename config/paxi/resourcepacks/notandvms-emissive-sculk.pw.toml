@@ -1,0 +1,13 @@
+name = "notandvm's emissive sculk!"
+filename = "§dnotandvm's§0-§bsculk§0-§bemissives!.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/d4Vebidc/versions/vri32j8v/%C2%A7dnotandvm%27s%C2%A70-%C2%A7bsculk%C2%A70-%C2%A7bemissives%21.zip"
+hash-format = "sha512"
+hash = "fad4e35150d97a2752939610186a50fb1b69d219d6d2bf41bd7aefb4e5c4290639a2cfb604254cb97dbd3503f5ed45a9cd148a95bfbbd8438acf5885fd83f635"
+
+[update]
+[update.modrinth]
+mod-id = "d4Vebidc"
+version = "vri32j8v"

@@ -362,6 +362,11 @@ hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepacks/notandvms-emissive-sculk.pw.toml"
+hash = "04652a127e187736c590ca794816c5c5c95ac00df1abd6463220e22e1c1a4e81"
+metafile = true
+
+[[files]]
 file = "config/personality-client.toml"
 hash = "603091de493301b99e4bc975d99ab51041fb6392d5c01f08078c67f6da02472d"
 
@@ -408,10 +413,6 @@ hash = "6617227512b39ee3771cf71b37c96137221743947c691f68b0fa283779725ba5"
 [[files]]
 file = "config/railcraft-common.toml"
 hash = "191db87a309dc70c9cbc985acb613d68a36c2ed0be9c31d625739b61c9f707a8"
-
-[[files]]
-file = "config/ryoamiclights.toml"
-hash = "e9fb85fc053e662392259e2be4cfbeecfde150ec40922d6a32590aab5cc75274"
 
 [[files]]
 file = "config/seamless_loading_screen.json"
@@ -1269,11 +1270,6 @@ hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
 metafile = true
 
 [[files]]
-file = "mods/curious-lanterns.pw.toml"
-hash = "958a8f19c0ad501ee7a7eb8194a060de0640bbde732ba2af438346b5c767cf81"
-metafile = true
-
-[[files]]
 file = "mods/current-game-music-track.pw.toml"
 hash = "44a6010b3e45f47da8c7ae97132166d3f78fc116c11f32d8c34abc7b13303bc9"
 metafile = true
@@ -2114,11 +2110,6 @@ hash = "74991cede8019cf93d1243369d840913375ab3a7d448d764c7a15f87f5bc4e52"
 metafile = true
 
 [[files]]
-file = "mods/radiant-gear.pw.toml"
-hash = "24cce958af7e38a592c1ef2fc4b95f1a90d42572fb476393a4cd3f7859666c9b"
-metafile = true
-
-[[files]]
 file = "mods/radium.pw.toml"
 hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
@@ -2151,16 +2142,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
-metafile = true
-
-[[files]]
-file = "mods/ryoamiclights.pw.toml"
-hash = "eb3e0a0e6ce67ec6164900d16a1ad9a6b72b5a3dcae42ef66a5ba2b75f8ececc"
-metafile = true
-
-[[files]]
-file = "mods/sculk-expansion.pw.toml"
-hash = "19d6d4424883c9cda0baaa98a754d0b963cc9966052b81a7a7190d820f2a401a"
 metafile = true
 
 [[files]]
