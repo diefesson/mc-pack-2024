@@ -1,0 +1,13 @@
+name = "Productive Trees"
+filename = "productivetrees-1.20.1-0.2.6.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BTmup08e/versions/I5qTT7PR/productivetrees-1.20.1-0.2.6.jar"
+hash-format = "sha512"
+hash = "dc169bb8c8ecd3901d0291aab11fa454263f48e6f58fcfb60eedce730dd8031ad82d22a4b85219dc1352e9e45440a628f1114fb906b52aecde3b0c4cb1c89b25"
+
+[update]
+[update.modrinth]
+mod-id = "BTmup08e"
+version = "I5qTT7PR"

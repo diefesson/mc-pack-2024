@@ -48,10 +48,10 @@
     "constantan",
     "copper",
     "diamond",
-    "ender_pearl",
     "electrum",
     "elementium",
     "emerald",
+    "ender_pearl",
     "enderium",
     "fluorite",
     "gold",
@@ -80,6 +80,7 @@
     "tin",
     "tungsten",
     "uranium",
+    "wood",
     "zinc"
   ],
   "priorityOverrides": {
