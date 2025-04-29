@@ -695,6 +695,10 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "0c230a664ec610481a7bab2d5e76ec7eaa20a3341cc960a1a14c44b0b4500afd"
 
 [[files]]
+file = "kubejs/server_scripts/src/ae2/hide_faces.js"
+hash = "7e44709d924d9cd1d2d4f34a73a426b52671fa0d386b978af3376550f9fc5f5c"
+
+[[files]]
 file = "kubejs/server_scripts/src/aileron/tags.js"
 hash = "957fee6cc681e4375e3fc80ac5340b2be96e85dbc5a683b8609dba9b4a084f00"
 
