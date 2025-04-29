@@ -415,10 +415,6 @@ file = "config/railcraft-common.toml"
 hash = "191db87a309dc70c9cbc985acb613d68a36c2ed0be9c31d625739b61c9f707a8"
 
 [[files]]
-file = "config/seamless_loading_screen.json"
-hash = "70c5e83bca19f90a3700c9f6f6af5ba0b48f3a312f047328f443e268d9d11b36"
-
-[[files]]
 file = "config/shouldersurfing-client.toml"
 hash = "4505ba075dcfa0339fa7abaa679ae47604106360acb173b8776310c30e7dafec"
 
@@ -541,10 +537,6 @@ hash = "1366b4494e812985c94bb248e57305f1bc039057ab11dafa68bc7c1db6502975"
 [[files]]
 file = "config/veinmining-server.toml"
 hash = "eb71c7c90140b3d9f300d8967e91f73752f53f2d758ce81ad1ebf8857a6d16c9"
-
-[[files]]
-file = "config/via_romana-common.toml"
-hash = "c46bdcc1a9dcabfa79db103251d813cdb0e779d524c72a5da89004c7b976e3d4"
 
 [[files]]
 file = "config/visual_workbench.json"
@@ -857,10 +849,6 @@ hash = "ec7ea10c0e06ea44fc4b232d46b2904d419edb998d088bfd77aa02f81875ca7a"
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
 hash = "94046d91d1d398d49bd1264103fde245e01e9edf88628093a5c1647f10ff386b"
-
-[[files]]
-file = "kubejs/server_scripts/src/via_romana/tags.js"
-hash = "a6a0d3c467e94518ba2f79ce56f9645fa439d66d7ad87609ee40585c15de6b0d"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -2125,11 +2113,6 @@ hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
-file = "mods/seamless-loading-screen.pw.toml"
-hash = "9fa45dfc2bc1e69381308d53a3a2f4ce21c10664424cdc8b84366d448cbc5250"
-metafile = true
-
-[[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
 metafile = true
@@ -2382,11 +2365,6 @@ metafile = true
 [[files]]
 file = "mods/vein-mining.pw.toml"
 hash = "9995c722c5e91bfa41786168d0079ffd7dd885547995feca54e8790807886603"
-metafile = true
-
-[[files]]
-file = "mods/via-romana.pw.toml"
-hash = "c56a0139f577ff615648c2164255de17654e5f8db95770d78deb8676d8cc6dd3"
 metafile = true
 
 [[files]]
