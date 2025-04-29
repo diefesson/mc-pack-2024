@@ -15,7 +15,6 @@ ServerEvents.recipes(event => {
         'silver',
         'nickel',
         'steel',
-        'rose_gold',
         'bronze',
         'electrum',
         'invar',

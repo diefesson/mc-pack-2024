@@ -1,10 +1,5 @@
 ServerEvents.recipes(event => {
-
-    // Thermal (Device Stage) = Cured Rubber
-    // Pneumaticcraft = Compressed Iron
-    // Immersive Engineering = Steel
-
-    // Pneumaticcraft requires Cured Rubber
+    // Pneumaticcraft requires Thermal Cured Rubber
     event.replaceInput(
         'pneumaticcraft:pressure_tube',
         '#c:glass_blocks',
