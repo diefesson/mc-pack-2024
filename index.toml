@@ -1364,11 +1364,6 @@ hash = "275e088a76a5bb3daf16fb32713979a0453d8737a0a79cb4a3d900ee0f1809f5"
 metafile = true
 
 [[files]]
-file = "mods/etched.pw.toml"
-hash = "bd2b62e4397f57220ddf4d862b5c6d87de3192b4ff4da14e9f5d00029ed13c48"
-metafile = true
-
-[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
@@ -1651,11 +1646,6 @@ metafile = true
 [[files]]
 file = "mods/kleeslabs.pw.toml"
 hash = "cc833c6196efec9d904ac4151f2accd0f38dd8d9b36c0b07e929f0f7d793cccd"
-metafile = true
-
-[[files]]
-file = "mods/kobolds.pw.toml"
-hash = "0283bc8ad6747509b92906a0900b019a8bbe6d332a6b3ebca48dce4bc16ca9a1"
 metafile = true
 
 [[files]]
