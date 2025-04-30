@@ -281,6 +281,26 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
+file = "config/lootbeams/custom_config.toml"
+hash = "c7568506ab9963acc611408b788a369d4303e12272946d3e15a33345a7291d00"
+
+[[files]]
+file = "config/lootbeams/dynamic_config.toml"
+hash = "021f56b14af3b51b4a93560859c99c074fa43abab2dfeaec0eff511d682253c8"
+
+[[files]]
+file = "config/lootbeams/light_config.toml"
+hash = "e8af362d5913c5b94e39e9ab3a35473d3d118a928086c7eab21fb99819b779d5"
+
+[[files]]
+file = "config/lootbeams/loot_information_config.toml"
+hash = "063af99e26f1c1d8463ad2091557074ec1183d4fd817c784b714286fe6d9eaf2"
+
+[[files]]
+file = "config/lootbeams/sound_config.toml"
+hash = "88e3ee984d86ee074c45496c7006ab2394ad50de30531d4c3758c0739af27eb8"
+
+[[files]]
 file = "config/map_atlases-client.toml"
 hash = "bce2140fa32d992193c02a025bc1e13fe5b5d078b00676647c3f97519d3f6b8c"
 
@@ -1699,6 +1719,11 @@ hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
 metafile = true
 
 [[files]]
+file = "mods/loot-beams-refork.pw.toml"
+hash = "435b74e270cc9b50bbbc37119f9bcbcb471e08ba93a21b3d8ecb176120c56966"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -1851,6 +1876,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
+metafile = true
+
+[[files]]
+file = "mods/nirvana-library.pw.toml"
+hash = "3f2f1afa629b4492fd23e91183164c2e95f8eb0a4d9d1f9ad9c7102a31d93dc2"
 metafile = true
 
 [[files]]
