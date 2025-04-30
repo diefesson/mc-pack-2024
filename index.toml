@@ -97,6 +97,10 @@ file = "config/blue_skies-common.toml"
 hash = "4f7834be8ba542bc7f3c358ff9de6e2f7aafc62cea147d5e624e489860994b9d"
 
 [[files]]
+file = "config/buzzier_bees-common.toml"
+hash = "d5ced1e70770f0b38f9ff0ba4d394ba5ef3ba9cb3e9701808abbc26858bd3a99"
+
+[[files]]
 file = "config/chalk-client.toml"
 hash = "ce3f311460e4198f74c6a9f8bb8ad0ddcb12f00d20760f3edff929d666815392"
 
@@ -106,7 +110,7 @@ hash = "a9375d04e87421fade85fce88483fd5c21690113f948995990e2a67be9534d99"
 
 [[files]]
 file = "config/chloride-client.json"
-hash = "b6fa328d406cfb09616bf4611b5a66e762ca28c76b6e6d7d57c052a86831d631"
+hash = "e7ab1b9ff90237b0bd8355efcc63b08c5135291ca7e2d1fe3b59ff35306fefa9"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
@@ -290,7 +294,7 @@ hash = "021f56b14af3b51b4a93560859c99c074fa43abab2dfeaec0eff511d682253c8"
 
 [[files]]
 file = "config/lootbeams/light_config.toml"
-hash = "e8af362d5913c5b94e39e9ab3a35473d3d118a928086c7eab21fb99819b779d5"
+hash = "918e7ac33901920f3779790e075fea460fa65dcad5d5d6634d91f11d6c964233"
 
 [[files]]
 file = "config/lootbeams/loot_information_config.toml"
@@ -512,7 +516,7 @@ hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
-hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
+hash = "be481461002eb8fec6f594c5452591607a0805e1a01eca716d6c2b7bf4e25590"
 
 [[files]]
 file = "config/upgrade_aquatic-client.toml"
@@ -1031,6 +1035,11 @@ metafile = true
 [[files]]
 file = "mods/botany-pots.pw.toml"
 hash = "d439aaf90eb75c1e5cd3131450919f3ceedc7e0ddf66551e6b89872549b028dd"
+metafile = true
+
+[[files]]
+file = "mods/buzzier-bees.pw.toml"
+hash = "86aec83567cb69fb2eabc1d0b1e03b97ed3c290bb3b119144b7ea1857b7bd734"
 metafile = true
 
 [[files]]

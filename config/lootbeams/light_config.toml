@@ -10,7 +10,7 @@ beam_height = 1.5
 beam_y_offset = 0.5
 beam_alpha = 0.75
 common_shorter_beam = true
-solid_beam = false
+solid_beam = true
 require_on_ground = true
 
 [glow]
