@@ -70,8 +70,8 @@ key_key.chat:key.keyboard.t
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
 key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
-key_key.cofh.mode_change_decrement:key.keyboard.b
-key_key.cofh.mode_change_increment:key.keyboard.v
+key_key.cofh.mode_change_decrement:key.keyboard.unknown
+key_key.cofh.mode_change_increment:key.keyboard.unknown
 key_key.command:key.keyboard.unknown
 key_key.control:key.keyboard.left.control
 key_key.craftingtweaks.balance:key.keyboard.unknown
@@ -187,7 +187,6 @@ key_key.pickItem:key.mouse.middle
 key_key.playerlist:key.keyboard.tab
 key_key.railcraft.change_aura:key.keyboard.unknown
 key_key.right:key.keyboard.d
-key_key.ryoamiclights.dyn_light:key.keyboard.unknown
 key_key.saveToolbarActivator:key.keyboard.unknown
 key_key.screenshot:key.keyboard.f2
 key_key.shouldersurfing.adjust_camera_down:key.keyboard.keypad.2
@@ -221,14 +220,8 @@ key_key.trashslot.toggle:key.keyboard.unknown
 key_key.trashslot.toggleLock:key.keyboard.unknown
 key_key.use:key.mouse.right
 key_key.veinmining.activate.desc:key.keyboard.unknown
-key_keybind.ironjetpacks.ascend:key.keyboard.unknown
-key_keybind.ironjetpacks.decrement_throttle:key.keyboard.comma
-key_keybind.ironjetpacks.descend:key.keyboard.unknown
-key_keybind.ironjetpacks.engine:key.keyboard.k
-key_keybind.ironjetpacks.hover:key.keyboard.l
-key_keybind.ironjetpacks.increment_throttle:key.keyboard.period
 key_keybind.sophisticatedbackpacks.inventory_interaction:key.keyboard.unknown
-key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.unknown
+key_keybind.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_keybind.sophisticatedbackpacks.sort:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.unknown
 key_keybind.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.unknown
@@ -276,7 +269,7 @@ key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.unknown
-key_treechop.key.toggle_chopping:key.keyboard.unknown
+key_treechop.key.toggle_chopping:key.keyboard.h
 key_treechop.key.toggle_felling:key.keyboard.unknown
 lang:en_us
 lastServer:
