@@ -20,22 +20,4 @@ ServerEvents.recipes(event => {
         'minecraft:elytra',
         'immersiveengineering:glider',
     )
-
-    // - Iron Jetpacks jetpacks
-    const baseJetpack = Item.of('ironjetpacks:jetpack')
-    const enderiumJetpack = Item.of(baseJetpack, { Id: "ironjetpacks:enderium" })
-
-    event.shaped(
-        enderiumJetpack,
-        [
-            'ICI',
-            'IGI',
-            'I I'
-        ],
-        {
-            I: 'thermal:enderium_ingot',
-            C: 'thermal:rf_coil',
-            G: 'immersiveengineering:glider'
-        }
-    )
 })

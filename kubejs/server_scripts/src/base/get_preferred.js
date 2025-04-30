@@ -3,5 +3,5 @@ const getPreferred = (tag) => {
     if (item == null) {
         item = Item.of(`#${tag}`)
     }
-    return item
+    return item.id
 }

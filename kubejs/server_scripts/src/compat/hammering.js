@@ -9,7 +9,6 @@ ServerEvents.recipes(event => {
         'iron',
         'gold',
         'copper',
-        'netherite',
         'tin',
         'lead',
         'silver',
@@ -19,9 +18,6 @@ ServerEvents.recipes(event => {
         'electrum',
         'invar',
         'constantan',
-        'signalum',
-        'lumium',
-        'enderium',
         'aluminum',
         'uranium',
         'zinc',
@@ -32,7 +28,6 @@ ServerEvents.recipes(event => {
         'iron',
         'copper',
         'gold',
-        'tin',
         'lead',
         'silver',
         'nickel',
@@ -50,12 +45,12 @@ ServerEvents.recipes(event => {
         for (let material of materials) {
             let input = `forge:${inShape}/${material}`
             let output = getPreferred(`forge:${outShape}/${material}`)
-            if (!output) {
+            if (output == 'minecraft:air') {
                 console.error(`no valid output for ${inShape}/${material} => ${outShape}/${material}`)
                 continue
             }
             event.shapeless(
-                { count: outCount, item: output.id },
+                { count: outCount, item: output },
                 []
                     .concat(Array(inCount).fill({ tag: input }))
                     .concat([tools])
