@@ -246,7 +246,7 @@ hash = "f6799d46f670baaa0a0714015922bce860e792bd109bdd180e709f2aed25de8a"
 
 [[files]]
 file = "config/immersiveengineering-common.toml"
-hash = "95b83d5599b7560d4ff79fc594e719e720ccd84c36b36404d425338d0dab3f28"
+hash = "6eba67718722e2c912522324593de63b76c122fd4a8589793ea9d1800efec264"
 
 [[files]]
 file = "config/integrateddynamics-common.toml"
@@ -560,7 +560,7 @@ hash = "ebf64b172edea79bbdf93ebab9b77885e95a47f750f61103baccd539e8823de9"
 
 [[files]]
 file = "defaultconfigs/railcraft-server.toml"
-hash = "c04af6cf423088827f4c8682c45b0d02bec7cfabb400c3be4c18e90546eee71a"
+hash = "4aeea5867294030fa5136ebd9afa76b3a5fe497470c3969f18b756e5d42f2d12"
 
 [[files]]
 file = "defaultconfigs/solclassic-server.toml"
@@ -764,7 +764,7 @@ hash = "ae62d0eb0cd1d867be18c6f0d39eaebc38faf43fd380638c237e6ef7de6faf38"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alternative_recipes.js"
-hash = "e7cddbd1257db7f54d9a7b8852443b5e419b3cc74207299171e23fb916e73277"
+hash = "21eb4211cff5af13993b11a5d42d9662274e5c059e2700d7a3bcb69615362d5c"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ender_dust_tag.js"
@@ -772,7 +772,7 @@ hash = "e9b2c502b52d87b6d2d71a62d0e6dcc36fb63fc7d0c889f9f4cb276e6fe6608b"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/remove_content.js"
-hash = "feefe44147ef3824b1d8597a7b00c8d59f28f22891934ac12103b8a245cbf26a"
+hash = "358d3c6955a01ed7ba8cd20bbadc9bd4420276df4f06bd8599fa121f7488be41"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/ties.js"

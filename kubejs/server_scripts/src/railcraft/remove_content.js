@@ -13,18 +13,6 @@ ServerEvents.recipes(event => {
         'railcraft:steel_boots',
         'railcraft:steel_anvil',
 
-        // RailCraft gears
-        'railcraft:nickel_gear',
-        'railcraft:gold_gear',
-        'railcraft:invar_gear',
-        'railcraft:iron_gear',
-        'railcraft:steel_gear',
-        'railcraft:copper_gear',
-        'railcraft:lead_gear',
-        'railcraft:tin_gear',
-        'railcraft:bronze_gear',
-        'railcraft:silver_gear',
-
         // Steam multiblocks
         'railcraft:solid_fueled_firebox',
         'railcraft:fluid_fueled_firebox',
@@ -74,20 +62,6 @@ ServerEvents.recipes(event => {
         'railcraft:crusher',
         { type: 'railcraft:crusher' },
 
-        // Plates
-        'railcraft:rolling/brass_plate',
-        'railcraft:rolling/lead_plate',
-        'railcraft:rolling/tin_plate',
-        'railcraft:rolling/iron_plate',
-        'railcraft:rolling/invar_plate',
-        'railcraft:rolling/steel_plate',
-        'railcraft:rolling/gold_plate',
-        'railcraft:rolling/silver_plate',
-        'railcraft:rolling/bronze_plate',
-        'railcraft:rolling/copper_plate',
-        'railcraft:rolling/nickel_plate',
-        'railcraft:rolling/zinc_plate',
-
         // Strengthened Glass
         { output: '#railcraft:strengthened_glass' },
 
@@ -106,12 +80,6 @@ ServerEvents.recipes(event => {
         // Blast Furnace multiblock
         'railcraft:blast_furnace_bricks',
         { type: 'railcraft:blasting' },
-
-        // Bushing Gear
-        'railcraft:bushing_gear_bronze',
-        'railcraft:bushing_gear_brass',
-        'railcraft:rolling/bushing_gear_bronze',
-        'railcraft:rolling/bushing_gear_brass',
     ]
 
     for (let recipe of recipes) {
@@ -138,18 +106,6 @@ ServerEvents.tags('item', event => {
         'railcraft:steel_anvil',
         'railcraft:chipped_steel_anvil',
         'railcraft:damaged_steel_anvil',
-
-        // RailCraft gears
-        'railcraft:nickel_gear',
-        'railcraft:gold_gear',
-        'railcraft:invar_gear',
-        'railcraft:iron_gear',
-        'railcraft:steel_gear',
-        'railcraft:copper_gear',
-        'railcraft:lead_gear',
-        'railcraft:tin_gear',
-        'railcraft:bronze_gear',
-        'railcraft:silver_gear',
 
         // Steam multiblocks
         'railcraft:solid_fueled_firebox',
@@ -202,18 +158,6 @@ ServerEvents.tags('item', event => {
         'railcraft:saltpeter_dust',
         'railcraft:coal_dust',
         'railcraft:charcoal_dust',
-
-        // Plates
-        'railcraft:lead_plate',
-        'railcraft:tin_plate',
-        'railcraft:iron_plate',
-        'railcraft:invar_plate',
-        'railcraft:steel_plate',
-        'railcraft:gold_plate',
-        'railcraft:silver_plate',
-        'railcraft:bronze_plate',
-        'railcraft:copper_plate',
-        'railcraft:nickel_plate',
 
         // Strengthened Glass
         '#railcraft:strengthened_glass',
