@@ -286,7 +286,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/lootbeams/custom_config.toml"
-hash = "c7568506ab9963acc611408b788a369d4303e12272946d3e15a33345a7291d00"
+hash = "0b55995826259927cc2d565d366de5b6e0274b37ebb4a4c3ea6c28b19c13e56f"
 
 [[files]]
 file = "config/lootbeams/dynamic_config.toml"
@@ -723,8 +723,16 @@ file = "kubejs/server_scripts/src/compass/natures_compass.js"
 hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
 
 [[files]]
+file = "kubejs/server_scripts/src/compat/armors_tags.js"
+hash = "db957fb73f9a74a4497bd855798fc116a7a0151f481677b6e3749bc848609fe9"
+
+[[files]]
 file = "kubejs/server_scripts/src/compat/hammering.js"
 hash = "1bf4e15f6fe83c2e18896bcaadc7e9c6fc4b82cc2b083b1461f913f66e5bd7f0"
+
+[[files]]
+file = "kubejs/server_scripts/src/compat/tools_tags.js"
+hash = "da1c1cfe7f1f30a3d45124138dd15e576ca5c35d58a98bc812b73f5dac4a013b"
 
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/phantom_plate.js"
@@ -1659,7 +1667,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "9a6d5a309dd77cb1801ec431ff6e6ef631c91a44567ec004a69ad59eb96eedd3"
+hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
 
 [[files]]
@@ -1913,8 +1921,18 @@ hash = "8e7de616ed5eaba305502d2b7711b7e38353f6e7bcbf3dabd97565a2e7bdca73"
 metafile = true
 
 [[files]]
+file = "mods/notenoughrecipebook.pw.toml"
+hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
+metafile = true
+
+[[files]]
 file = "mods/obsidianui.pw.toml"
 hash = "fba2939765b7b4fdeaf0f01589ab562c806859ba10924c2dc2a9cdb8b05852b2"
+metafile = true
+
+[[files]]
+file = "mods/octo-lib.pw.toml"
+hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
 
 [[files]]
