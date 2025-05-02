@@ -210,7 +210,7 @@ hash = "11a3d38bbf4a50092b32e0bc2dc750f64a92e7fc0e1a05b1a504da6682ad2aa7"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
-hash = "ab93780fbfe30774558ac2ea7cedbc367f08b4d3aae0c300e1931acfba7c00cf"
+hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
 
 [[files]]
 file = "config/framedblocks-client.toml"
@@ -286,7 +286,7 @@ hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
 file = "config/lootbeams/custom_config.toml"
-hash = "0b55995826259927cc2d565d366de5b6e0274b37ebb4a4c3ea6c28b19c13e56f"
+hash = "c7568506ab9963acc611408b788a369d4303e12272946d3e15a33345a7291d00"
 
 [[files]]
 file = "config/lootbeams/dynamic_config.toml"
@@ -1833,6 +1833,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
+metafile = true
+
+[[files]]
+file = "mods/more-delight.pw.toml"
+hash = "099b3574b2671fcd09245a96625a72987a85ba88c9b74f20f02084b3f8aaab93"
 metafile = true
 
 [[files]]

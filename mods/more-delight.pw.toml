@@ -1,0 +1,13 @@
+name = "More Delight (for Farmer's Delight)"
+filename = "moredelight-25.01.13-1.20-forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/znHQQtuU/versions/OtiZiaTq/moredelight-25.01.13-1.20-forge.jar"
+hash-format = "sha512"
+hash = "b17e57b03aaab2e9ef72ce3a7e52e9d350857e9c4816b55c8823874f66f490e6076f7c9002064c183474073c496cf554128b1d68fc7e69d6c5d810b5366fa738"
+
+[update]
+[update.modrinth]
+mod-id = "znHQQtuU"
+version = "OtiZiaTq"
