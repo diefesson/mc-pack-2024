@@ -2248,11 +2248,6 @@ hash = "a8ac59bbcb665b5d76a03a4d5f9847c931fb773dc3181957ce0c242a6132d88b"
 metafile = true
 
 [[files]]
-file = "mods/tools-complement.pw.toml"
-hash = "b1f5cbdf71d181ada156dcaa33cd8b7c5cf8271812c9f7bbb6d6791eb66903a5"
-metafile = true
-
-[[files]]
 file = "mods/totw-modded.pw.toml"
 hash = "692960348d6f2f5b587412c677524ba15dc39b29bfcf19ca5798492c0462a040"
 metafile = true
