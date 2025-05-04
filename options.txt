@@ -269,7 +269,7 @@ key_pneumaticcraft.helmet.debugging.drone:key.keyboard.unknown
 key_pneumaticcraft.helmet.hack:key.keyboard.unknown
 key_treechop.key.cycle_sneak_behavior:key.keyboard.unknown
 key_treechop.key.open_settings_overlay:key.keyboard.unknown
-key_treechop.key.toggle_chopping:key.keyboard.h
+key_treechop.key.toggle_chopping:key.keyboard.g
 key_treechop.key.toggle_felling:key.keyboard.unknown
 lang:en_us
 lastServer:
