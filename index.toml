@@ -26,7 +26,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "5095ac2dee56279e49c09d1bbbff23c58ab30f7ff6f9bf5c99409648142cf922"
+hash = "79d4d9c64f9b4fa73ed2e2766c7d7a66f65b4907bb5193f6b75e1aab457f5b83"
 
 [[files]]
 file = "config/ambientsounds-client.json"
@@ -2033,11 +2033,6 @@ metafile = true
 [[files]]
 file = "mods/probejs.pw.toml"
 hash = "2a3a4d1558f48a49746b266248676f7d28b7b8b9d45f36645e41a8806028dce5"
-metafile = true
-
-[[files]]
-file = "mods/productivebees.pw.toml"
-hash = "ebf8fb25a5a9cb17121a987d40b8ba2a5e5bcf55195dfebedaafe15162bb162f"
 metafile = true
 
 [[files]]
