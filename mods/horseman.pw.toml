@@ -1,13 +1,13 @@
 name = "Horseman"
-filename = "horseman-1.20.1-1.3.2-forge.jar"
+filename = "horseman-1.20.1-1.3.6-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qIv5FhAA/versions/BWaYCpRV/horseman-1.20.1-1.3.2-forge.jar"
+url = "https://cdn.modrinth.com/data/qIv5FhAA/versions/ACZjqrtp/horseman-1.20.1-1.3.6-forge.jar"
 hash-format = "sha512"
-hash = "eb9ab130690d5e28f558e9d092ef2dd6fcc15b636168650a28d38373e84eb6e7a87e4c7d8b2d2782e2f8f91a5198bad5a6d6462ad27de9c126ba5a6b687c9dc7"
+hash = "ed88232d007e2667a3ae554dbbb5917fa4b5c12b9c443c30ac1f8237f8f70498881542d04589942fb9a656d4def86561667d8806658c7538fd9e2ecb7bc502ce"
 
 [update]
 [update.modrinth]
 mod-id = "qIv5FhAA"
-version = "BWaYCpRV"
+version = "ACZjqrtp"

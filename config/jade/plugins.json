@@ -2,19 +2,14 @@
   "framedblocks": {
     "framed_item_frame": true
   },
-  "wizards_reborn": {
-    "numerical": true,
-    "crystal_growth": true,
-    "salt_campfire": true
-  },
   "minecraft": {
     "item_storage.show_name_amount": 5,
     "furnace": true,
     "harvest_tool.show_unbreakable": false,
     "animal_owner": true,
     "harvest_tool.effective_tool": true,
-    "item_storage": true,
     "item_storage.normal_amount": 9,
+    "item_storage": true,
     "harvest_tool": true,
     "armor_stand": true,
     "fluid_storage.detailed": false,
@@ -34,7 +29,7 @@
     "mob_spawner": true,
     "redstone": true,
     "fluid_storage": true,
-    "chicken_egg": true,
+    "chicken_egg": false,
     "jukebox": true,
     "brewing_stand": true,
     "energy_storage.detailed": false,
@@ -89,15 +84,8 @@
     "registry_name": "OFF",
     "mod_name": true
   },
-  "alekiships": {
-    "furnace": true,
-    "jukebox": true,
-    "brewing_stand": true,
-    "block": true,
-    "note_block": true
-  },
-  "lootr": {
-    "info": true
+  "balm": {
+    "jade": true
   },
   "integrateddynamicscompat": {
     "proxy": true,
@@ -125,5 +113,8 @@
   "exposure": {
     "lightroom": true,
     "photograph_frame": true
+  },
+  "jadeaddons.lootr": {
+    "info": true
   }
 }

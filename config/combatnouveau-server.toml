@@ -42,9 +42,9 @@ no_projectile_immunity = true
 	#Add a delay of 4 ticks between throwing snowballs or eggs, just like with ender pearls.
 	throwables_delay = true
 	#Increase snowball and egg stack size from 16 to 64, and potion stack size from 1 to 16 (only for potions of the same type of course).
-	increase_stack_size = true
+	increase_stack_size = false
 	#Eating and drinking both are interrupted if the player is damaged.
-	eating_interruption = true
+	eating_interruption = false
 
 [cooldown]
 	#Disable attacking when attack cooldown is below a certain percentage.

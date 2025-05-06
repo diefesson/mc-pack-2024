@@ -1,0 +1,13 @@
+name = "Better Tridents"
+filename = "BetterTridents-v8.0.1-1.20.1-Forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KNUSlHiU/versions/lENqGnoP/BetterTridents-v8.0.1-1.20.1-Forge.jar"
+hash-format = "sha512"
+hash = "71eaabd62fa5b889634f80c360b74571c8ad47e13fabce9aea4b4415c45e6777f72e0077d03d822d4c47151703ba078ef9bed503ff90b2ad0a1015934e0ff173"
+
+[update]
+[update.modrinth]
+mod-id = "KNUSlHiU"
+version = "lENqGnoP"

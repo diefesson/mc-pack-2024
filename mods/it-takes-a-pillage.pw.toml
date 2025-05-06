@@ -1,0 +1,13 @@
+name = "It Takes a Pillage"
+filename = "takesapillage-1.0.3-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pe7FN3d6/versions/unxodajn/takesapillage-1.0.3-1.20.1.jar"
+hash-format = "sha512"
+hash = "c644af7b5d73b34a2a0a4b97dec06ae83c4ffd97f3aed66c260b9af609d00005324bc70d8f7005e85803c27d5f4ffd51d3c76f78c379aedea4467c07472f1539"
+
+[update]
+[update.modrinth]
+mod-id = "pe7FN3d6"
+version = "unxodajn"

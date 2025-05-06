@@ -13,11 +13,4 @@ ServerEvents.recipes(event => {
             'G': 'immersiveengineering:glider'
         }
     )
-
-    // - Redstone Arsenal Flux Elytra
-    event.replaceInput(
-        'redstone_arsenal:flux_elytra',
-        'minecraft:elytra',
-        'immersiveengineering:glider',
-    )
 })

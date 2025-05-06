@@ -1,0 +1,13 @@
+name = "skin overrides"
+filename = "skin_overrides-2.3.2+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/GON0Fdk5/versions/nWZA78wh/skin_overrides-2.3.2%2B1.20.1.jar"
+hash-format = "sha512"
+hash = "8665327fe774f53802ab9673e2b1f34af245a3224e64262f6d27d34dcdfcdac923cfc5ce117f8b73d07715b477f69a3537af4e2f4cf95fe57c42f916606bb1c2"
+
+[update]
+[update.modrinth]
+mod-id = "GON0Fdk5"
+version = "nWZA78wh"
