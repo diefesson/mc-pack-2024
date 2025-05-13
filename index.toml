@@ -699,6 +699,11 @@ hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
 
 [[files]]
+file = "mods/aetherworks-refracted.pw.toml"
+hash = "d29fdec43928556488b59c16bc9d23cd21ff0682f5d999cf1265e9620d607a5f"
+metafile = true
+
+[[files]]
 file = "mods/aileron.pw.toml"
 hash = "113e37aa4e5bac2393393de14548f5d1dc854830c89ab0c02af221b8c0bee610"
 metafile = true
