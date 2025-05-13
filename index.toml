@@ -280,7 +280,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "2e970218092afac5c5202ba5ed189cc3988ea89cc09bc95e23239e1f93689378"
+hash = "2d9f160ac318fd9a4c4ef507afaebb72fced7dacd74a4122fd6d44d5df76dbd0"
 metafile = true
 
 [[files]]
@@ -671,11 +671,11 @@ hash = "ee3d3a2d5afdad56e79322fcae3393d4558c68c496e78c1b35183301e5b33354"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
-hash = "e666dbfe2c27109cb408e2e534e8c1b2a1bcbe4d55454e3f77456df2c30c5436"
+hash = "71302b7f9cbbe3bfe28738ce72756595a99aceaba71a2a3ede3ca58bb51d20f4"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
-hash = "bcfbf70e893a044a3118a643347083ca90f9a0ee606f75d5327e41a643cc9677"
+hash = "645bce2c05ab40fc1acdf452f2bfd97c532ee74a7121d1fbdb3f135c0a341fd9"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
@@ -695,7 +695,7 @@ hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
 file = "mods/ae2.pw.toml"
-hash = "a62ba64d6ffe14e5140cc357cb175b51f278d022fbab681a0580982e72378751"
+hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
 
 [[files]]
@@ -715,7 +715,7 @@ metafile = true
 
 [[files]]
 file = "mods/almost-unified.pw.toml"
-hash = "a21507bc60d5503dd97d43cff689503f95d11ff462a1795cdbde7261bcb51fe5"
+hash = "c498a4be44141c3c74b44e05fc835c1ee9ac752694935801b9794ee1d22286e0"
 metafile = true
 
 [[files]]
@@ -775,7 +775,7 @@ metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
-hash = "7d819c446db3bf4b61aea665fa5d1f48a871a89ddbafe9fa8015a95e16a9bcdc"
+hash = "4439e1b9d2a828841dc521295308836fb16d8a9ea37ec998fe7593eb7399c9e6"
 metafile = true
 
 [[files]]
@@ -865,7 +865,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "57be3c31fd231debbac428893ca003d7edbdab397f4382a856eb727280648778"
+hash = "bedbc2d1793865a8bfc57bc511a04fdd25497ebdccbebfaae00f95d5c16dc9ef"
 metafile = true
 
 [[files]]
@@ -920,7 +920,7 @@ metafile = true
 
 [[files]]
 file = "mods/common-capabilities.pw.toml"
-hash = "84ed1e8a24873d2cc3fcf88e503d9945d10be63b2414503c884e394b62083f56"
+hash = "fc22c63c10048dc12e42694897adf9757d189ebb2db87e33e088fc484e856297"
 metafile = true
 
 [[files]]
@@ -975,7 +975,7 @@ metafile = true
 
 [[files]]
 file = "mods/cyclops-core.pw.toml"
-hash = "53c6389f10ee886840e81c0623361b918346b056813bf5729f9c7a52dc4394fd"
+hash = "a064a0f5bc57803100d89e3aefc0d253a83c008f69b25ed2ca7e82f9cb3f32e8"
 metafile = true
 
 [[files]]
@@ -1159,6 +1159,11 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
+file = "mods/guideme.pw.toml"
+hash = "1290dafea5f85e79f46a3478d5278ee4020d8400d85b45448ac548952e1d1e25"
+metafile = true
+
+[[files]]
 file = "mods/heartstone.pw.toml"
 hash = "b0542805d5a1fd7e977dccd2f4c32e18ca327f53d97864b77f193842b855ecca"
 metafile = true
@@ -1185,7 +1190,7 @@ metafile = true
 
 [[files]]
 file = "mods/horseman.pw.toml"
-hash = "c9375765d8b8ded9e44fc82247bc2224484c60e389deac5bfd35ab93797d7add"
+hash = "7657e11ed66ae5b6a4a7531ece8de5d99e1e71b70f2c2aa6b875ce487a67029e"
 metafile = true
 
 [[files]]
@@ -1205,12 +1210,12 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "d034f2d4343e401dcbeb6f6d0c56ee76439efa2fd66f96d4d34e4227a7081688"
+hash = "f392e87b98fc583fd031f5cbc68b2a48874fee1602e7a32a59b3a1665dcb935d"
 metafile = true
 
 [[files]]
 file = "mods/integrated-dynamics.pw.toml"
-hash = "70e2bc72a0941d7873acdcda247cbe14cd38386ebe09dcaa1cb9516e9787a6eb"
+hash = "d734511fe3105799f7eec94a2820c48dbd6016fd8deb29cfe9e7f9a1ef758ec1"
 metafile = true
 
 [[files]]
@@ -1360,7 +1365,7 @@ metafile = true
 
 [[files]]
 file = "mods/moonlight.pw.toml"
-hash = "2ad92a3b23a7e8944ac872caee3d73cd7bd5046bcc6a9a5635533ba3cf5660b1"
+hash = "101c34781cd238ccf1c524b64c870ce1a8611f71df46680c820918c719e868e1"
 metafile = true
 
 [[files]]
@@ -1570,22 +1575,22 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "ec682623575dc9f1214e2b9a29097f4442feacc71b9edf5aeb8bf47d9eefb29f"
+hash = "ff12dbb3176a76d400a3979409d11ff0e19087b05123b5a29d5f6642ce77271c"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "d29c353bb3109ddf125d3fa6a005eb75fe58cc230bf5e8f6b4e534aa9fd1dd58"
+hash = "e45cdd4751dfd5edea04db2e8fc52da2f13891a9c641d42c5a35d3132450c9d9"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage-in-motion.pw.toml"
-hash = "3cdb97f81254ce617b288a6a1e0e94186ea1fb4460d69bf58b91d72610afa5d6"
+hash = "13343ee2d1b45ce0805247f5941cf379f96898a537a26d3b6560044986aaf8d4"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "c45cab4f48ae2254fc0c2b525fb4d3f7331acfe736d281811829d4983e9893bd"
+hash = "beae454e935d5c1035c770c62b1fd26e9cb0fcdc79959eb34e0e6110e9bba62f"
 metafile = true
 
 [[files]]
@@ -1595,7 +1600,7 @@ metafile = true
 
 [[files]]
 file = "mods/stack-refill.pw.toml"
-hash = "7d298568c6f98f893ebc47ee32d5ffb9a33b612ea7b2eafad257c3cd082b124f"
+hash = "636c00b554aff2c14ae25deb83b7e80109a9cb4f0a12f05e5eb5f5b7879de46a"
 metafile = true
 
 [[files]]

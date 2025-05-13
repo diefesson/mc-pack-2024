@@ -30,7 +30,8 @@ let sophisticatedBackpackUpgrades = [
     'sophisticatedbackpacks:advanced_pump_upgrade',
     'sophisticatedbackpacks:xp_pump_upgrade',
     'sophisticatedbackpacks:anvil_upgrade',
-    'sophisticatedbackpacks:smithing_upgrade'
+    'sophisticatedbackpacks:smithing_upgrade',
+    'sophisticatedbackpacks:tank_upgrade',
 ]
 
 ServerEvents.recipes(event => {
