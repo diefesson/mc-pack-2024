@@ -752,6 +752,11 @@ hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
 
 [[files]]
+file = "mods/applied-botanics.pw.toml"
+hash = "9670211043e3f424c03b4efe769e4d786d0c14d4d3d83129eea7eb02caf0604d"
+metafile = true
+
+[[files]]
 file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
 hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
 metafile = true
@@ -844,6 +849,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
+metafile = true
+
+[[files]]
+file = "mods/botania.pw.toml"
+hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
 metafile = true
 
 [[files]]
