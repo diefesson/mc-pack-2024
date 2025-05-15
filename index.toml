@@ -61,6 +61,14 @@ file = "config/blockrunner.json"
 hash = "b6185df071789f49b243749595e9293f382aca6470d4bea6f5911801024f1286"
 
 [[files]]
+file = "config/brewinandchewin-client.toml"
+hash = "c44adab82486a8905129e69ef0bc2cfc2946e26e78cc3939ee1b87d1665e2b75"
+
+[[files]]
+file = "config/brewinandchewin-common.toml"
+hash = "05bfa43386f9f2ad3b927749765e301944c0abb060ff8cf751f170ea989d6217"
+
+[[files]]
 file = "config/chloride-client.json"
 hash = "e7ab1b9ff90237b0bd8355efcc63b08c5135291ca7e2d1fe3b59ff35306fefa9"
 
@@ -126,7 +134,7 @@ hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
 [[files]]
 file = "config/farmersdelight-client.toml"
-hash = "11a3d38bbf4a50092b32e0bc2dc750f64a92e7fc0e1a05b1a504da6682ad2aa7"
+hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 
 [[files]]
 file = "config/farmersdelight-common.toml"
@@ -694,6 +702,11 @@ file = "kubejs/startup_scripts/src/diefalpha/volatile_dust.js"
 hash = "6ab3b1cbfdbc6049f5ddbed61bcfc7f9468a84ebef6b4854a35cef8301bbbf0d"
 
 [[files]]
+file = "mods/abnormals-delight.pw.toml"
+hash = "658098867c6f6210ac932de0f87a8d91c0ed2cd022124862b7954e84faf42769"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "684c63b15476444b176e31db9a029a7a29aca70bbbfb285873ab4ed5b8d498b7"
 metafile = true
@@ -819,11 +832,6 @@ hash = "3712b4522f5a7ae135af77bc464d39a7c15c3161c8f649c242a842bf82ac40a3"
 metafile = true
 
 [[files]]
-file = "mods/blood-magic.pw.toml"
-hash = "832ce23a285dd86387eb7950f6159cc0ec0cdda36dad4b7036c35a99001b6943"
-metafile = true
-
-[[files]]
 file = "mods/blueprint.pw.toml"
 hash = "90fc66d49d29c1b1a5b14c5d571d628c6853f7f0519b04e74e14399c75cd08c6"
 metafile = true
@@ -839,6 +847,11 @@ hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
 metafile = true
 
 [[files]]
+file = "mods/brewin-and-chewin.pw.toml"
+hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
+metafile = true
+
+[[files]]
 file = "mods/bygone-nether.pw.toml"
 hash = "d706f608a7387e3f3d47d71995f543cd32a52894cdbd5f65d0a0295050ca61a5"
 metafile = true
@@ -846,11 +859,6 @@ metafile = true
 [[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
-metafile = true
-
-[[files]]
-file = "mods/cb-multipart.pw.toml"
-hash = "37eb5758f4500d08e2bca3a3a75849baf117287e1d6e22fb0fbfbb28a5ea7c92"
 metafile = true
 
 [[files]]
@@ -896,11 +904,6 @@ metafile = true
 [[files]]
 file = "mods/clumps.pw.toml"
 hash = "903352ffbd84d4b95fed905893f4715d9c3f88ec9fff6fb06f6e359e0b839dc3"
-metafile = true
-
-[[files]]
-file = "mods/codechicken-lib.pw.toml"
-hash = "c93aa0b2389ae4dd6fbd83ffbca5fc2f6307885dd5a21e776fe4a74278e3966c"
 metafile = true
 
 [[files]]
@@ -1084,6 +1087,11 @@ hash = "f5f5a6c3fd3789b39a7c27f13ccacb1853ded49324a5e87f6673cf8ff0ced364"
 metafile = true
 
 [[files]]
+file = "mods/environmental.pw.toml"
+hash = "275e088a76a5bb3daf16fb32713979a0453d8737a0a79cb4a3d900ee0f1809f5"
+metafile = true
+
+[[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
 metafile = true
@@ -1116,11 +1124,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
-metafile = true
-
-[[files]]
-file = "mods/food-effect-tooltips-forge.pw.toml"
-hash = "8a31f4f21638e830c1b99831f6b3b992e35790bc841f70ed4017a2cf45b2a5e8"
 metafile = true
 
 [[files]]
@@ -1416,6 +1419,11 @@ metafile = true
 [[files]]
 file = "mods/nbt-autocomplete.pw.toml"
 hash = "997cb276aa38c339f56b6c08107410ff908d9a52b2459184c365107baf636155"
+metafile = true
+
+[[files]]
+file = "mods/neapolitan.pw.toml"
+hash = "bf2f88caa86cf5f54de608794fa1ca696e873c9021d2fafbfd694df1fbde695d"
 metafile = true
 
 [[files]]
@@ -1750,4 +1758,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f0fdf0fcd06783773c38118ec3b5ffb62ec9e8904575475b384236b7f2857c50"
+hash = "9b13e28c3daf9187ec39a14ab09dbffff7236d8478c3da68ca4b62cbd224f508"
