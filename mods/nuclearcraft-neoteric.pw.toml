@@ -1,0 +1,13 @@
+name = "NuclearCraft Neoteric"
+filename = "NuclearCraft-1.20.1-1.2.1-rc.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Qvd8pl5G/versions/M0aMeBWs/NuclearCraft-1.20.1-1.2.1-rc.jar"
+hash-format = "sha512"
+hash = "a55fd7e9a3914d9d168bda91548808f0e55e0a59eb6de4d6b29f548d32232c973b73e93e575a7928084e56236cc48fcf3042502ce9ff8d02cf57913a02512972"
+
+[update]
+[update.modrinth]
+mod-id = "Qvd8pl5G"
+version = "M0aMeBWs"
