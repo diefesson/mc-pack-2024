@@ -482,7 +482,7 @@ hash = "88e3ee984d86ee074c45496c7006ab2394ad50de30531d4c3758c0739af27eb8"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "bce2140fa32d992193c02a025bc1e13fe5b5d078b00676647c3f97519d3f6b8c"
+hash = "f8700361a2bcf62bf0a38afe7aa34047619598788ca7b84f1e0192a92ca0a09c"
 
 [[files]]
 file = "config/map_atlases-common.toml"
@@ -652,10 +652,6 @@ hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "5c7b0753dba62546a5c191b84f68e4bcb8310d5b9833057db6c978647c93789d"
-
-[[files]]
-file = "config/thinair-common.toml"
-hash = "d043ba0cc865b46dec2fedf2af49ec325d368402f04c4e27be252d26281f42d5"
 
 [[files]]
 file = "config/toolstats.json"
@@ -1527,6 +1523,11 @@ hash = "66a8d44f5ef66075063ced8b54312a46bb8a256090d36df877b8ff58de9d16be"
 metafile = true
 
 [[files]]
+file = "mods/jei-multiblocks.pw.toml"
+hash = "c80339cef8764c7472cb967a3a948f4a3e1a1c242a7f42b19a5d5a9488a38637"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7cfcef2f1142baa641151461c3e8f99fcd84f6f9f447cbc16e069a03f5aee8ca"
 metafile = true
@@ -1939,11 +1940,6 @@ metafile = true
 [[files]]
 file = "mods/terrablender.pw.toml"
 hash = "14117b94c456598c9acece143c7a0da3cf56d13182d035a74a2da8a52dd19cbd"
-metafile = true
-
-[[files]]
-file = "mods/thin-air.pw.toml"
-hash = "d6b1b6119cb4f57f6f9b2a9cafee92e184f44273dca3ad96a8a6c891f51d093f"
 metafile = true
 
 [[files]]
