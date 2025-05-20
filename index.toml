@@ -540,7 +540,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "2d9f160ac318fd9a4c4ef507afaebb72fced7dacd74a4122fd6d44d5df76dbd0"
+hash = "ff1b4580769db8fb18c1891695c4cc9914a948cbf75b116b8713fd7b64182487"
 metafile = true
 
 [[files]]
