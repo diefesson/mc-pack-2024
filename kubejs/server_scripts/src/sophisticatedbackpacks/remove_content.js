@@ -16,8 +16,6 @@ let sophisticatedBackpackUpgrades = [
     'sophisticatedbackpacks:advanced_magnet_upgrade',
     'sophisticatedbackpacks:feeding_upgrade',
     'sophisticatedbackpacks:advanced_feeding_upgrade',
-    'sophisticatedbackpacks:compacting_upgrade',
-    'sophisticatedbackpacks:advanced_compacting_upgrade',
     'sophisticatedbackpacks:inception_upgrade',
     'sophisticatedbackpacks:smelting_upgrade',
     'sophisticatedbackpacks:auto_smelting_upgrade',

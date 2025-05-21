@@ -20,8 +20,6 @@ let sophisticatedStorageUpgrades = [
     'sophisticatedstorage:advanced_magnet_upgrade_from_basic',
     'sophisticatedstorage:feeding_upgrade',
     'sophisticatedstorage:advanced_feeding_upgrade',
-    'sophisticatedstorage:compacting_upgrade',
-    'sophisticatedstorage:advanced_compacting_upgrade',
     'sophisticatedstorage:smelting_upgrade',
     'sophisticatedstorage:auto_smelting_upgrade',
     'sophisticatedstorage:smoking_upgrade',

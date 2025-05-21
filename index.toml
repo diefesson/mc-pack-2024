@@ -883,7 +883,7 @@ hash = "f030b0d5936b798285ddf281d0a0debc961cd91e865aa8590b098db777180431"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/map.js"
-hash = "0e36b02c4a66d61db8cdc0eb0e87c58b7f8b2c2e48d2c93007504b7707208f8e"
+hash = "ca943ae2f60208596615b9d8e835955ef3767acd2cefe0f782f4786fd2fe974b"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/name_tag.js"
@@ -911,7 +911,7 @@ hash = "0f4bb0052896e5f6d72863f3f81cbe7a71d2bf1371693b3a4300a8f747c75196"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alloys.js"
-hash = "ae62d0eb0cd1d867be18c6f0d39eaebc38faf43fd380638c237e6ef7de6faf38"
+hash = "920c333ef5913ebc4ba744339d7ce2ba8ec2344e248c18b4b3ddc46f9093b0f5"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alternative_recipes.js"
@@ -935,11 +935,11 @@ hash = "ee3d3a2d5afdad56e79322fcae3393d4558c68c496e78c1b35183301e5b33354"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
-hash = "71302b7f9cbbe3bfe28738ce72756595a99aceaba71a2a3ede3ca58bb51d20f4"
+hash = "276f6ed99ea7d6550439f6f831ee4be223157348a3d4d3d3688d7c4607c1da4e"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
-hash = "645bce2c05ab40fc1acdf452f2bfd97c532ee74a7121d1fbdb3f135c0a341fd9"
+hash = "031119902a758748a5d8bd52a9b6848ba053eec02eacb3d166af6e337a740d6a"
 
 [[files]]
 file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
