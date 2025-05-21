@@ -1,7 +1,15 @@
 ServerEvents.recipes(event => {
-    event.replaceInput(
-        'minecraft:map',
-        'minecraft:compass',
-        '#forge:dyes'
+    event.remove('minecraft:map')
+    event.shaped(
+        '4x minecraft:map',
+        [
+            'PPP',
+            'PDP',
+            'PPP'
+        ],
+        {
+            P: 'minecraft:paper',
+            D: '#forge:dyes',
+        }
     )
 })

@@ -598,6 +598,10 @@ file = "config/railcraft-common.toml"
 hash = "191db87a309dc70c9cbc985acb613d68a36c2ed0be9c31d625739b61c9f707a8"
 
 [[files]]
+file = "config/rusticdelight-common.toml"
+hash = "ea6c029a68603982cf4a8a9dd3af2190330f5a6f8636a1e9a2b2ede3693bee80"
+
+[[files]]
 file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
@@ -883,7 +887,7 @@ hash = "f030b0d5936b798285ddf281d0a0debc961cd91e865aa8590b098db777180431"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/map.js"
-hash = "ca943ae2f60208596615b9d8e835955ef3767acd2cefe0f782f4786fd2fe974b"
+hash = "0d65b0f54b6bef16138e73da49270766898d0009f53db7cddef5031a3f1b3479"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/name_tag.js"
