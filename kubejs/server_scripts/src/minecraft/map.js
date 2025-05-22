@@ -1,7 +1,7 @@
 ServerEvents.recipes(event => {
     event.remove('minecraft:map')
     event.shaped(
-        '4x minecraft:map',
+        'minecraft:map',
         [
             'PPP',
             'PDP',
@@ -11,5 +11,5 @@ ServerEvents.recipes(event => {
             P: 'minecraft:paper',
             D: '#forge:dyes',
         }
-    )
+    ).id('diefalpha:map')
 })

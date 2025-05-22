@@ -482,11 +482,11 @@ hash = "88e3ee984d86ee074c45496c7006ab2394ad50de30531d4c3758c0739af27eb8"
 
 [[files]]
 file = "config/map_atlases-client.toml"
-hash = "f8700361a2bcf62bf0a38afe7aa34047619598788ca7b84f1e0192a92ca0a09c"
+hash = "6f24a48a4a1ea5d396e1e15878793ba5806a2884f1ef4395803a51d30f8c9af0"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "86e9303893dd2807e8547a031220b4299f6b9fef1a37c072608b8bbfee4bfcdf"
+hash = "1106277ea331825b1c8f75f19ad060dad11c3f89859fa7776b7a7fd8a34ff7b4"
 
 [[files]]
 file = "config/measurements-client.toml"
@@ -560,6 +560,14 @@ hash = "603091de493301b99e4bc975d99ab51041fb6392d5c01f08078c67f6da02472d"
 [[files]]
 file = "config/personality-common.toml"
 hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-client.toml"
+hash = "97c6b7973dbbedba2c53820257078c022bea8521e684bd097c3c072cc6566cf1"
+
+[[files]]
+file = "config/pickupnotifier/pickupnotifier-server.toml"
+hash = "6e18bfa2ec02629937474e436f3f44fb67d54fd6e6b47a7c9b4c5b3a3bd83916"
 
 [[files]]
 file = "config/pneumaticcraft-client.toml"
@@ -887,7 +895,7 @@ hash = "f030b0d5936b798285ddf281d0a0debc961cd91e865aa8590b098db777180431"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/map.js"
-hash = "0d65b0f54b6bef16138e73da49270766898d0009f53db7cddef5031a3f1b3479"
+hash = "e5931c68f476ab8c6767a8fcc3f116e4a873726c49875cfb54f743043f88814f"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/name_tag.js"

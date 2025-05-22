@@ -1,18 +1,18 @@
 
 [general]
 	#The maximum number of Maps (Filled & Empty combined) allowed to be inside an Atlas.
-	#Range: 0 ~ 10000
-	max_map_count = 512
+	#Range: 0 ~ 1000000
+	max_map_count = 2048
 	#If enabled, you can increase the Empty Map count by inserting Paper
-	accept_paper_for_empty_maps = false
+	accept_paper_for_empty_maps = true
 	#If true, the Atlas is required to have spare Empty Maps stored to expand the Filled Map size
 	require_empty_maps_to_expand = true
 	#Controls how many usable Maps are added when you add a single Map to the Atlas
 	#Range: 0 ~ 64
-	map_entry_value_multiplier = 1
+	map_entry_value_multiplier = 5
 	#Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
 	#Range: 0 ~ 64
-	pity_activation_map_count = 1
+	pity_activation_map_count = 5
 	#If 'true', Atlases will be able to store Empty Maps and auto-fill them as you explore.
 	enable_empty_map_entry_and_fill = true
 	#Locations of where an atlas will be scanned for. By default only hotbar will be scanned
