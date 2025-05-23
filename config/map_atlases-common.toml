@@ -9,10 +9,10 @@
 	require_empty_maps_to_expand = true
 	#Controls how many usable Maps are added when you add a single Map to the Atlas
 	#Range: 0 ~ 64
-	map_entry_value_multiplier = 5
+	map_entry_value_multiplier = 1
 	#Controls how many free Empty Maps you get for 'activating' an Inactive Atlas
 	#Range: 0 ~ 64
-	pity_activation_map_count = 5
+	pity_activation_map_count = 1
 	#If 'true', Atlases will be able to store Empty Maps and auto-fill them as you explore.
 	enable_empty_map_entry_and_fill = true
 	#Locations of where an atlas will be scanned for. By default only hotbar will be scanned

@@ -486,7 +486,7 @@ hash = "6f24a48a4a1ea5d396e1e15878793ba5806a2884f1ef4395803a51d30f8c9af0"
 
 [[files]]
 file = "config/map_atlases-common.toml"
-hash = "1106277ea331825b1c8f75f19ad060dad11c3f89859fa7776b7a7fd8a34ff7b4"
+hash = "6a32791dd1c41f1e1fba192643af44779521f299e0e88f3fd60d37c74d66fbae"
 
 [[files]]
 file = "config/measurements-client.toml"
