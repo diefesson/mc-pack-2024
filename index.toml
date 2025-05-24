@@ -683,7 +683,7 @@ hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
 file = "config/universalbonemeal-server.toml"
-hash = "be481461002eb8fec6f594c5452591607a0805e1a01eca716d6c2b7bf4e25590"
+hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
 
 [[files]]
 file = "config/upgrade_aquatic-client.toml"
@@ -691,7 +691,7 @@ hash = "815f751451060fcf358b949699d9fb4a171d7f85a75fffa8390fb693002d6aca"
 
 [[files]]
 file = "config/upgrade_aquatic-common.toml"
-hash = "47f9b0a90bc5b304150397b185d50efbb76c4ad47d07cdf9e63a122b5cc51238"
+hash = "2a9c2108676ba1222066f1032d23a7da35ee5215e6b73ac2e058ef76f8cb426a"
 
 [[files]]
 file = "config/variantsandventures.json"
@@ -1085,11 +1085,6 @@ hash = "63ba46a73b84ef9bc655a18fbff13b80681b0064cdad9e50ea1dc9770e34fdd7"
 metafile = true
 
 [[files]]
-file = "mods/better-tridents.pw.toml"
-hash = "1321e5c33d7c7b28538ff048ff2e8e47e56a2af1edf21da9953c080383eb5ab2"
-metafile = true
-
-[[files]]
 file = "mods/biomancy.pw.toml"
 hash = "9645745c65db24bd944b638a3672c20b6af3564e80b32110968ade12134f1119"
 metafile = true
@@ -1337,11 +1332,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-infuser.pw.toml"
-hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
 
 [[files]]
@@ -2002,6 +1992,11 @@ metafile = true
 [[files]]
 file = "mods/universal-sawmill.pw.toml"
 hash = "6bca71dea3e1199f71a40f2b9f7bc60d4cd7b104c81fa7aee58d184619c41ce7"
+metafile = true
+
+[[files]]
+file = "mods/upgrade-aquatic.pw.toml"
+hash = "909482378bf0ed15645bcbba896daf9e83b7ef4e100bc44d6d3a34090f13578f"
 metafile = true
 
 [[files]]

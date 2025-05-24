@@ -5,7 +5,7 @@
 
 	[items.trades]
 		"Clerics buy thrasher teeth" = true
-		"Leatherworkers sell bedrolls" = false
+		"Leatherworkers sell bedrolls" = true
 
 [generation]
 
