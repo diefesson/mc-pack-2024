@@ -731,7 +731,7 @@ hash = "4aeea5867294030fa5136ebd9afa76b3a5fe497470c3969f18b756e5d42f2d12"
 
 [[files]]
 file = "defaultconfigs/solclassic-server.toml"
-hash = "182985a5ce471faff3d9f5f7c259b0084669ffbd10d99dcc7679d8ef239e1ceb"
+hash = "be61a17f7b7d38185e0768c9f182743b9f0db7d391c15fea3dcd3420070b24ff"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -952,10 +952,6 @@ hash = "276f6ed99ea7d6550439f6f831ee4be223157348a3d4d3d3688d7c4607c1da4e"
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
 hash = "031119902a758748a5d8bd52a9b6848ba053eec02eacb3d166af6e337a740d6a"
-
-[[files]]
-file = "kubejs/server_scripts/src/variantsandventures/heads_tags.js"
-hash = "94046d91d1d398d49bd1264103fde245e01e9edf88628093a5c1647f10ff386b"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"
@@ -1847,6 +1843,11 @@ metafile = true
 [[files]]
 file = "mods/searchables.pw.toml"
 hash = "b8c7497acbf4890b4609b6b20de7affdd3482fc99af975d9ff6b29c075e1d8a7"
+metafile = true
+
+[[files]]
+file = "mods/seasonals.pw.toml"
+hash = "c6f879c97d9f8b015d371d4d05ff018328d0890b3786235af3f565df0ba4c7c2"
 metafile = true
 
 [[files]]
