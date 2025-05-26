@@ -370,7 +370,7 @@ hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
 
 [[files]]
 file = "config/enchantinginfuser-server.toml"
-hash = "8de7f7c4570b9d7496b5ecfc94112ddb7598d6dfdfc49902f19a6cae0be2d83b"
+hash = "82bb2e0b063cc7896622aa34b8e4eecf8db9617b9fd17737266aa3ba4451a95b"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -731,7 +731,7 @@ hash = "4aeea5867294030fa5136ebd9afa76b3a5fe497470c3969f18b756e5d42f2d12"
 
 [[files]]
 file = "defaultconfigs/solclassic-server.toml"
-hash = "be61a17f7b7d38185e0768c9f182743b9f0db7d391c15fea3dcd3420070b24ff"
+hash = "61210d747a54c106d35537a282dcc399e30e3bd13c920178df4428d7569075d8"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
@@ -1328,6 +1328,11 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
+metafile = true
+
+[[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
 
 [[files]]
