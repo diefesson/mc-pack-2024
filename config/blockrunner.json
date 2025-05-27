@@ -1,5 +1,4 @@
 {
   "schema_version": "2",
-  "#diefalpha:building_blocks": 1.15,
-  "#diefalpha:road_blocks": 1.4
+  "#diefalpha:path_blocks": 1.5
 }

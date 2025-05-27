@@ -310,7 +310,7 @@ hash = "2e9c9d71e1f2ebcc7065fa6bb09f9b3b97e4cf0bb78067182faf56d1fc14886d"
 
 [[files]]
 file = "config/blockrunner.json"
-hash = "b6185df071789f49b243749595e9293f382aca6470d4bea6f5911801024f1286"
+hash = "b9c0a04aa1b5a1c9350a02a941576af7c46cab6b3251d16ad9e1ebcc8604e66e"
 
 [[files]]
 file = "config/brewinandchewin-client.toml"
@@ -735,11 +735,11 @@ hash = "61210d747a54c106d35537a282dcc399e30e3bd13c920178df4428d7569075d8"
 
 [[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
-hash = "26e1ddbf54592547401526bfd6fddf3968d1947341886835d376070943300c63"
+hash = "9ac19b0c23a3026adc8154529cb9a704434c2586ad00c538223d3e8585452d7a"
 
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
-hash = "3b2546f2f6d9fe7a41813e1dd0f1e6ab9fa06bdc7e675100521dced4bf7d64a3"
+hash = "1ed41ad8cd0781b32fead8bbbdf77d3050196b7d35c5a8155b31a22315053d06"
 
 [[files]]
 file = "emi.json"
@@ -847,7 +847,7 @@ hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
-hash = "69c996ca0715a0c7a6e9cb5fd0c6ca58a85c317307ebfd4850f92893c4313ab8"
+hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
 [[files]]
 file = "kubejs/server_scripts/src/chunkloaders/expensive_chunkloaders.js"
@@ -947,11 +947,11 @@ hash = "ee3d3a2d5afdad56e79322fcae3393d4558c68c496e78c1b35183301e5b33354"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
-hash = "276f6ed99ea7d6550439f6f831ee4be223157348a3d4d3d3688d7c4607c1da4e"
+hash = "d509d674ecdfce67e29b736bb53c09a55c6ef64ecf215cde3a99786afb1d4873"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedstorage/remove_content.js"
-hash = "031119902a758748a5d8bd52a9b6848ba053eec02eacb3d166af6e337a740d6a"
+hash = "2f58b63aa544bb7433a7a3d74cfcfa82ce142cbd626acb25dab7d039109f72a9"
 
 [[files]]
 file = "kubejs/startup_scripts/jsconfig.json"

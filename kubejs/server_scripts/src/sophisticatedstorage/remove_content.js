@@ -31,6 +31,8 @@ let sophisticatedStorageUpgrades = [
     'sophisticatedstorage:xp_pump_upgrade',
     'sophisticatedstorage:alchemy_upgrade',
     'sophisticatedstorage:advanced_alchemy_upgrade',
+    'sophisticatedstorage:compacting_upgrade',
+    'sophisticatedstorage:advanced_compacting_upgrade',
 ]
 
 ServerEvents.recipes(event => {

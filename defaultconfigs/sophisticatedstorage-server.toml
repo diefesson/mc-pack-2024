@@ -74,7 +74,7 @@
 	[server.LimitedCopperBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 36
+		baseSlotLimitMultiplier = 48
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -83,7 +83,7 @@
 	[server.LimitedIronBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 48
+		baseSlotLimitMultiplier = 96
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -92,7 +92,7 @@
 	[server.LimitedGoldBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 60
+		baseSlotLimitMultiplier = 192
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -101,7 +101,7 @@
 	[server.LimitedDiamondBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 72
+		baseSlotLimitMultiplier = 384
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -110,7 +110,7 @@
 	[server.LimitedNetheriteBarrelI]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 84
+		baseSlotLimitMultiplier = 768
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -128,7 +128,7 @@
 	[server.LimitedCopperBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 18
+		baseSlotLimitMultiplier = 24
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -137,7 +137,7 @@
 	[server.LimitedIronBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 24
+		baseSlotLimitMultiplier = 48
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -146,7 +146,7 @@
 	[server.LimitedGoldBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 30
+		baseSlotLimitMultiplier = 96
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -155,7 +155,7 @@
 	[server.LimitedDiamondBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 36
+		baseSlotLimitMultiplier = 192
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -164,7 +164,7 @@
 	[server.LimitedNetheriteBarrelII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 42
+		baseSlotLimitMultiplier = 384
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -182,7 +182,7 @@
 	[server.LimitedCopperBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 12
+		baseSlotLimitMultiplier = 16
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -191,7 +191,7 @@
 	[server.LimitedIronBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 16
+		baseSlotLimitMultiplier = 32
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -200,7 +200,7 @@
 	[server.LimitedGoldBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 20
+		baseSlotLimitMultiplier = 64
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -209,7 +209,7 @@
 	[server.LimitedDiamondBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 24
+		baseSlotLimitMultiplier = 128
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -218,7 +218,7 @@
 	[server.LimitedNetheriteBarrelIII]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 28
+		baseSlotLimitMultiplier = 256
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -236,7 +236,7 @@
 	[server.LimitedCopperBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 9
+		baseSlotLimitMultiplier = 12
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -245,7 +245,7 @@
 	[server.LimitedIronBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 12
+		baseSlotLimitMultiplier = 24
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -254,7 +254,7 @@
 	[server.LimitedGoldBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 15
+		baseSlotLimitMultiplier = 48
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -263,7 +263,7 @@
 	[server.LimitedDiamondBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 18
+		baseSlotLimitMultiplier = 96
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
@@ -272,7 +272,7 @@
 	[server.LimitedNetheriteBarrelIV]
 		#Multiplier that's used to calculate base slot limit
 		#Range: 1 ~ 8192
-		baseSlotLimitMultiplier = 21
+		baseSlotLimitMultiplier = 192
 		#Number of upgrade slots in the storage
 		#Range: 0 ~ 10
 		upgradeSlotCount = 4
