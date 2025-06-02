@@ -286,7 +286,7 @@ hash = "c72135b7dc64f2c49c34e9ae2ccc746d2c4248d3182a18a712d41e3b9ce02322"
 
 [[files]]
 file = "config/betterburning-common.toml"
-hash = "8d9d096d0f35bd651ca2aa9fc657531a1bb7794fcef6b66f0b2ea1a734ba9645"
+hash = "18f723bd32d90827e317b9184fef7cdaf5a2703f985ee875a0405cae13d5cac8"
 
 [[files]]
 file = "config/betterdungeons-forge-1_20.toml"
@@ -358,7 +358,7 @@ hash = "c033affd1975bbd9ddc01623835250ee76ed68a4f1a7266071b8651c352521de"
 
 [[files]]
 file = "config/embers-common.toml"
-hash = "0d486c00de22836ae7f3dd13133e6bbe1b26369e89684e5b1a1337e2b68f7fa7"
+hash = "7c8d389a2b9258fd31148778c3d85bade795bb573b703f3c36a5bedfd7b0aa14"
 
 [[files]]
 file = "config/emi.css"
@@ -848,10 +848,6 @@ hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
 [[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
-
-[[files]]
-file = "kubejs/server_scripts/src/chunkloaders/expensive_chunkloaders.js"
-hash = "0712c8c395e17fb9aaae1d724ff7b9e9681f8e18498e4ba84cdac2b9200c65a4"
 
 [[files]]
 file = "kubejs/server_scripts/src/compass/explorers_compass.js"
