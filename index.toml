@@ -266,7 +266,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "e455cfccf1628398b1d49efce6c9d9a59174fb1f67dfd4f37de2cb0d0ecb28a7"
+hash = "62f97246e4398f8af4eef442229acfea7e4cc874fa9a1809d2990f3b2bca7528"
 
 [[files]]
 file = "config/amendments-client.toml"
@@ -479,6 +479,14 @@ hash = "063af99e26f1c1d8463ad2091557074ec1183d4fd817c784b714286fe6d9eaf2"
 [[files]]
 file = "config/lootbeams/sound_config.toml"
 hash = "88e3ee984d86ee074c45496c7006ab2394ad50de30531d4c3758c0739af27eb8"
+
+[[files]]
+file = "config/malum-client.toml"
+hash = "0921dab8b3c7ec26009d0c1c29ba68b912963b12c72c70bb1b1a1218447c01b7"
+
+[[files]]
+file = "config/malum-common.toml"
+hash = "a23c8925a4af8ea23279f98c82c6699a6961fa4c41134395ad176e2afa3864d3"
 
 [[files]]
 file = "config/map_atlases-client.toml"
@@ -1068,6 +1076,11 @@ hash = "72390c72a1091cd347aad048d125b47efff3d1ed90f7bc6126cb2e3f85437f53"
 metafile = true
 
 [[files]]
+file = "mods/berry-good.pw.toml"
+hash = "c410ef1d053db4fc3fccde5331fa3ebac561e0e2f6f4babe9110b9c322fbc95a"
+metafile = true
+
+[[files]]
 file = "mods/better-burning.pw.toml"
 hash = "63ba46a73b84ef9bc655a18fbff13b80681b0064cdad9e50ea1dc9770e34fdd7"
 metafile = true
@@ -1248,6 +1261,11 @@ hash = "a064a0f5bc57803100d89e3aefc0d253a83c008f69b25ed2ca7e82f9cb3f32e8"
 metafile = true
 
 [[files]]
+file = "mods/delightful.pw.toml"
+hash = "425b89ad97e9d1da08de7129d9f5fcffaf43ec9676a06a9850ea6a90b60927ea"
+metafile = true
+
+[[files]]
 file = "mods/distinguished-potions.pw.toml"
 hash = "6e9c23ecadf0465c97f14a001689a82948ca0ff185c5e47e40472fc7b91ba937"
 metafile = true
@@ -1265,6 +1283,11 @@ metafile = true
 [[files]]
 file = "mods/dungeons-and-taverns.pw.toml"
 hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
+metafile = true
+
+[[files]]
+file = "mods/dungeons_delight.pw.toml"
+hash = "30f6ebf4a451d8b0a71cc286f326de1de4b2981bf7e78e6a78176802e472c814"
 metafile = true
 
 [[files]]
@@ -1830,6 +1853,11 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
+metafile = true
+
+[[files]]
+file = "mods/runiclib.pw.toml"
+hash = "8622ae379a3f112f35ca969db105bf5b25581dec9fd5f8ab9edcfef98bc63528"
 metafile = true
 
 [[files]]

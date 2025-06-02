@@ -89,9 +89,7 @@
     "wood",
     "zinc"
   ],
-  "priorityOverrides": {
-    "forge:storage_blocks/steel": "immersiveengineering"
-  },
+  "priorityOverrides": {},
   "customTags": {},
   "tagOwnerships": {},
   "itemTagInheritanceMode": "ALLOW",

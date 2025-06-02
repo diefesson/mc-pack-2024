@@ -1,0 +1,13 @@
+name = "RunicLib"
+filename = "RunicLib-forge-1.20.1-4.2.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/pNSnDh6O/RunicLib-forge-1.20.1-4.2.2.jar"
+hash-format = "sha512"
+hash = "ef2cc6f9a9e121d618bdfe098e6ec4b64b9f04a62c9de0545dea13387daf740a7f8e40874031131d32d0e447af250e984db15c8de4d5f31ac213d053f1e3ccd7"
+
+[update]
+[update.modrinth]
+mod-id = "mk0Htq87"
+version = "pNSnDh6O"
