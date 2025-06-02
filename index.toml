@@ -682,10 +682,6 @@ file = "config/treechop-common.toml"
 hash = "e87643aa473fdcc64f59b49400255fc80c8949a3bd8738d5e03baf83f771399b"
 
 [[files]]
-file = "config/universalbonemeal-server.toml"
-hash = "9245e5a21014203a166836243939919040ade5d335f80df74a606e8c539366e8"
-
-[[files]]
 file = "config/upgrade_aquatic-client.toml"
 hash = "815f751451060fcf358b949699d9fb4a171d7f85a75fffa8390fb693002d6aca"
 
@@ -1984,11 +1980,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "a3518a26f5d268ba07c84fffceb3409e0e5e45cc1c231e1e10715b3b63da69cd"
-metafile = true
-
-[[files]]
-file = "mods/universal-bone-meal.pw.toml"
-hash = "388e7cabca90d61def6526c021ff1c222996378dad4a24a24518fccd2a8bdbcd"
 metafile = true
 
 [[files]]
