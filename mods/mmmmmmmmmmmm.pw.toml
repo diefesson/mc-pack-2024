@@ -1,13 +1,13 @@
 name = "MmmMmmMmmMmm"
-filename = "dummmmmmy-1.20-2.0.6.jar"
+filename = "dummmmmmy-1.20-2.0.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Adega8YN/versions/L8421Hiw/dummmmmmy-1.20-2.0.6.jar"
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/bJE2Owsg/dummmmmmy-1.20-2.0.7.jar"
 hash-format = "sha512"
-hash = "6034dabc828a347994ae53e441833ccaf40f02dc066bae1094e399be5e97d3c05fd7c454f0a291e08fba7ec96671460bdf99834c81b1e455d0bf53d2d8b90de6"
+hash = "abd79582e1768e3f032aabe591138656cf194acf53e5c3a3f0628df72fd81b2fc468c0970844f831a082e892f28a235da31713ad3531c8910e6187abdb75117a"
 
 [update]
 [update.modrinth]
 mod-id = "Adega8YN"
-version = "L8421Hiw"
+version = "bJE2Owsg"

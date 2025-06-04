@@ -1,13 +1,13 @@
 name = "Repurposed Structures - Neoforge/Forge"
-filename = "repurposed_structures-7.1.15+1.20.1-forge.jar"
+filename = "repurposed_structures-7.1.17+1.20.1-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/WdNRfZe7/repurposed_structures-7.1.15%2B1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/LOn0p5qT/repurposed_structures-7.1.17%2B1.20.1-forge.jar"
 hash-format = "sha512"
-hash = "042f65181259865a3adc14ffffd525d6ca4f92cb6dc4307e8e20fd36f127259615e44193201fe583c32cdc6d7a0f50e235c5070971f5e78a9ac05991102757f4"
+hash = "85a3a807e79a798f5e333e91b22dab645761ceec3abaccd2b4b095f647a73b2b120f78d28cdf2ef87a76422d049d6f3d516205bbbc11e073c9f17c1e760ae6f0"
 
 [update]
 [update.modrinth]
 mod-id = "QDNS5oAT"
-version = "WdNRfZe7"
+version = "LOn0p5qT"

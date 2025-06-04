@@ -1,13 +1,13 @@
 name = "Sawmill"
-filename = "sawmill-1.20-1.4.6.jar"
+filename = "sawmill-1.20-1.4.7.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/uzhV71sX/sawmill-1.20-1.4.6.jar"
+url = "https://cdn.modrinth.com/data/WRaRZdTd/versions/5kiqs3C4/sawmill-1.20-1.4.7.jar"
 hash-format = "sha512"
-hash = "776eaa38308a8222484854d140cb59141183f1b37a8577213693703c8f340bc5c6c8c1ef0f0950b3c1e037affc35b2fe36991d9dec696fe22473c4e7a8fc9164"
+hash = "dc7b3df8b7b1eb6134e4b3da0347814ae0627d6e3eee345115e5242e159bd3d2acaa3fd9642c749722c41004fc0e1d555ab0a9a1a21a180a0c286d431f561af8"
 
 [update]
 [update.modrinth]
 mod-id = "WRaRZdTd"
-version = "uzhV71sX"
+version = "5kiqs3C4"

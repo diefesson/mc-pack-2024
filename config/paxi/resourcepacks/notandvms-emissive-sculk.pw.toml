@@ -3,11 +3,11 @@ filename = "§dnotandvm's§0-§bsculk§0-§bemissives!.zip"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/d4Vebidc/versions/vri32j8v/%C2%A7dnotandvm%27s%C2%A70-%C2%A7bsculk%C2%A70-%C2%A7bemissives%21.zip"
+url = "https://cdn.modrinth.com/data/d4Vebidc/versions/SW6ozYeV/%C2%A7dnotandvm%27s%C2%A70-%C2%A7bsculk%C2%A70-%C2%A7bemissives%21.zip"
 hash-format = "sha512"
-hash = "fad4e35150d97a2752939610186a50fb1b69d219d6d2bf41bd7aefb4e5c4290639a2cfb604254cb97dbd3503f5ed45a9cd148a95bfbbd8438acf5885fd83f635"
+hash = "e0822d7ac555d915aed7d9ef1ce493494183ea7aed6a92d7cc8f76d50a29cf0759b3fd93b629df3111d33907c1e149ac9cbd93db348159abcdfe69bdd38097e3"
 
 [update]
 [update.modrinth]
 mod-id = "d4Vebidc"
-version = "vri32j8v"
+version = "SW6ozYeV"
