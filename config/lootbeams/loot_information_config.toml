@@ -6,7 +6,7 @@ loot_information_status = "NAME_AND_RARITY_IN_NAMETAG"
 showInfoForAllItem = true
 
 [rarity]
-showRarityFor = "RARE"
+showRarityFor = "ALL"
 
 [nameTag]
 render_name_tag_on_look = true

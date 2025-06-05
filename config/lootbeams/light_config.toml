@@ -2,7 +2,7 @@
 version = 0
 
 [beam]
-enable_beam = false
+enable_beam = true
 beam_fade_in_time = 10
 beam_fade_in_distance = 15.0
 beam_radius = 0.55
@@ -14,7 +14,7 @@ solid_beam = true
 require_on_ground = true
 
 [glow]
-enable_glow = false
+enable_glow = true
 glow_effect_radius = 0.5
 
 [customColorSetting]
@@ -24,9 +24,9 @@ color_override_by_tag = [  ]
 color_override_by_modid = [  ]
 
 [lightEffectFilter]
-all_item = false
+all_item = true
 only_rare = false
-only_equipment = true
+only_equipment = false
 whitelist_by_name = [
     "minecraft:totem_of_undying",
     "minecraft:end_crystal",

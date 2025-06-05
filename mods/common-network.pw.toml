@@ -1,0 +1,13 @@
+name = "Common Network"
+filename = "common-networking-forge-1.0.5-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/FMfO8Pme/common-networking-forge-1.0.5-1.20.1.jar"
+hash-format = "sha512"
+hash = "8d9a8d176289bf0b08b658007009a2ee2991496bf9952f92c29bf618ecf9f197d0cd028a1ce07a8dd0787716357e7a014f49119b927b880cd7fbe85b023920b4"
+
+[update]
+[update.modrinth]
+mod-id = "HIuqnQpi"
+version = "FMfO8Pme"

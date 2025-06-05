@@ -1,0 +1,13 @@
+name = "Nirvana Library"
+filename = "Nirvana Lib-forge-1.20.1-2.0.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/6gKEW2ql/versions/JG4UweiV/Nirvana%20Lib-forge-1.20.1-2.0.8.jar"
+hash-format = "sha512"
+hash = "df2dacaf4a2f2842415088480ec24c8261c3ca7f9309bc8cd992490b4c19d0bdc64028c554db91dbcb8555c30284f504e3a453c58597269ecf4790cc7f7fb3ee"
+
+[update]
+[update.modrinth]
+mod-id = "6gKEW2ql"
+version = "JG4UweiV"

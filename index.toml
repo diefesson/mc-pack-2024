@@ -470,11 +470,11 @@ hash = "021f56b14af3b51b4a93560859c99c074fa43abab2dfeaec0eff511d682253c8"
 
 [[files]]
 file = "config/lootbeams/light_config.toml"
-hash = "6f4b1fe9b516582b766f1ebffca1b5d9e54a73fcb2b797636e39d29cdf9114c5"
+hash = "6d08a48e0d143216be79bec97381bb7a3e75c613244e11b77a9d6a29b82bcbe1"
 
 [[files]]
 file = "config/lootbeams/loot_information_config.toml"
-hash = "063af99e26f1c1d8463ad2091557074ec1183d4fd817c784b714286fe6d9eaf2"
+hash = "f80fc1bb117c9ca8da5f40937195b65181fcacc68e6e5a2c552af2c44d6bf6d9"
 
 [[files]]
 file = "config/lootbeams/sound_config.toml"
@@ -1188,6 +1188,11 @@ hash = "d17a57c20e963d8b90e82bb2538d865750102a829cd9dca8f5ba3608df6c4b28"
 metafile = true
 
 [[files]]
+file = "mods/common-network.pw.toml"
+hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
+metafile = true
+
+[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -1578,6 +1583,11 @@ hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
 metafile = true
 
 [[files]]
+file = "mods/loot-beams-refork.pw.toml"
+hash = "68cb6363282d42a22da3b456b0cf89d247e67981bd2f2411299a509ff4784ad7"
+metafile = true
+
+[[files]]
 file = "mods/lootr.pw.toml"
 hash = "1dd539ec09832ab91ed62ee90f6619672fabb169b60765af063f176a13215e38"
 metafile = true
@@ -1705,6 +1715,11 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
+metafile = true
+
+[[files]]
+file = "mods/nirvana-library.pw.toml"
+hash = "96b18dfdea2ce3a7c66bfbb9af6fe77d265e7225c179852d90a37e33b1284c7f"
 metafile = true
 
 [[files]]
