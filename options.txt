@@ -34,7 +34,7 @@ gamma:0.5
 glDebugVerbosity:1
 glintSpeed:0.5
 glintStrength:0.75
-graphicsMode:2
+graphicsMode:1
 guiScale:3
 hideBundleTutorial:true
 hideLightningFlashes:false
@@ -64,6 +64,7 @@ key_key.astikorcarts.desc:key.keyboard.r
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
 key_key.biomancy.item_default:key.keyboard.x
+key_key.botania_corporea_request:key.keyboard.c
 key_key.chat:key.keyboard.t
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -71,7 +72,6 @@ key_key.clienttweaks.hideOffhandItem:key.keyboard.unknown
 key_key.cofh.mode_change_decrement:key.keyboard.unknown
 key_key.cofh.mode_change_increment:key.keyboard.unknown
 key_key.command:key.keyboard.unknown
-key_key.control:key.keyboard.left.control
 key_key.craftingtweaks.balance:key.keyboard.unknown
 key_key.craftingtweaks.clear:key.keyboard.unknown
 key_key.craftingtweaks.compress_all:key.keyboard.unknown
