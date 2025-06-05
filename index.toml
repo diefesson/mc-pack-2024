@@ -734,10 +734,6 @@ file = "defaultconfigs/railcraft-server.toml"
 hash = "4aeea5867294030fa5136ebd9afa76b3a5fe497470c3969f18b756e5d42f2d12"
 
 [[files]]
-file = "defaultconfigs/solclassic-server.toml"
-hash = "61210d747a54c106d35537a282dcc399e30e3bd13c920178df4428d7569075d8"
-
-[[files]]
 file = "defaultconfigs/sophisticatedbackpacks-server.toml"
 hash = "9ac19b0c23a3026adc8154529cb9a704434c2586ad00c538223d3e8585452d7a"
 
@@ -942,10 +938,6 @@ file = "kubejs/server_scripts/src/railcraft/ties.js"
 hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
 
 [[files]]
-file = "kubejs/server_scripts/src/solclassic/remove_content.js"
-hash = "ee3d3a2d5afdad56e79322fcae3393d4558c68c496e78c1b35183301e5b33354"
-
-[[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
 hash = "d509d674ecdfce67e29b736bb53c09a55c6ef64ecf215cde3a99786afb1d4873"
 
@@ -1013,11 +1005,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
-metafile = true
-
-[[files]]
-file = "mods/applied-botanics.pw.toml"
-hash = "9670211043e3f424c03b4efe769e4d786d0c14d4d3d83129eea7eb02caf0604d"
 metafile = true
 
 [[files]]
@@ -1113,11 +1100,6 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "02062a6b61e230e7debaf1c03d5e1e7203e427588fceb9f3d6ef8cad8062397e"
-metafile = true
-
-[[files]]
-file = "mods/botania.pw.toml"
-hash = "a887995b6b13005086ea935735d41aee51b81bfc79c49b7b36028f7f8dd148dc"
 metafile = true
 
 [[files]]
@@ -1408,11 +1390,6 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
-metafile = true
-
-[[files]]
-file = "mods/foodvariations.pw.toml"
-hash = "3870a4ff7b2b9a0805d6442451ba01fb7117789a45c277d30be315d4bc62d1bd"
 metafile = true
 
 [[files]]
