@@ -1676,11 +1676,6 @@ hash = "95a388afd649dadaa1420d5b258aeb95b7bacc64ccab31dd541ddc29e26d21c6"
 metafile = true
 
 [[files]]
-file = "mods/more-delight.pw.toml"
-hash = "099b3574b2671fcd09245a96625a72987a85ba88c9b74f20f02084b3f8aaab93"
-metafile = true
-
-[[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 metafile = true
