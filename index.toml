@@ -450,7 +450,7 @@ hash = "6e1cb5065144018f529332ba1bf25c4c74429218da676984ae7892dcac3136e6"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "01fd6f2467bcfb73f167b9b79ba38862e2582866f8edbe62befbc47c90d8864c"
+hash = "5119d39cd222bb388004b86ad9d916ac0a67342492bd89268bd83e4710dd6873"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "bedbc2d1793865a8bfc57bc511a04fdd25497ebdccbebfaae00f95d5c16dc9ef"
+hash = "5fffcedde4d14f05b332a6a70680340ae2021d2697b45e49ffedb073abcb7c5c"
 metafile = true
 
 [[files]]
@@ -1262,7 +1262,7 @@ metafile = true
 
 [[files]]
 file = "mods/delightful.pw.toml"
-hash = "425b89ad97e9d1da08de7129d9f5fcffaf43ec9676a06a9850ea6a90b60927ea"
+hash = "cc8690d459687e733fb5f810ff6cc45a9d16cfc2c9ad04c8f2c8bc87817ceb8e"
 metafile = true
 
 [[files]]
@@ -1607,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-refork.pw.toml"
-hash = "68cb6363282d42a22da3b456b0cf89d247e67981bd2f2411299a509ff4784ad7"
+hash = "044280bfc8a36d590a52b95d289a10c3b63d360dc881551ecce9b1a4b36d52f3"
 metafile = true
 
 [[files]]
@@ -2052,7 +2052,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "eef977bcac4bfd222529a55088771722227f25ff8174338809783a7871caa27d"
+hash = "db448883024c3b6fa903231dafc93055881a9f5114708e53ea9883af8e2b1888"
 metafile = true
 
 [[files]]
@@ -2077,4 +2077,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "e5a65bb960b1398632d1713abd63b4a8cc553bb7dd5901a4a40c40e042a961fc"
+hash = "6b15d650cd1bd993e0fb444a6dbd24d36aa99d466ad3c3a5bb9b2e0b2fab3168"

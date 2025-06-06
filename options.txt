@@ -50,6 +50,13 @@ key_framedblocks.key.update_cull:key.keyboard.f9
 key_framedblocks.key.wipe_cache:key.keyboard.unknown
 key_info.structure_gel.building_tool.redo:key.keyboard.unknown
 key_info.structure_gel.building_tool.undo:key.keyboard.unknown
+key_key.advanced_ae.pattern_encoder_action:key.keyboard.unknown
+key_key.advanced_ae.pick_craft:key.keyboard.unknown
+key_key.advanced_ae.portable_workbench:key.keyboard.unknown
+key_key.advanced_ae.quantum_armor_config:key.keyboard.unknown
+key_key.advanced_ae.quantum_auto_stock_upgrade:key.keyboard.unknown
+key_key.advanced_ae.quantum_magnet_upgrade:key.keyboard.unknown
+key_key.advanced_ae.quantum_night_vision_upgrade:key.keyboard.unknown
 key_key.ae2.ae2wtlib_magnet:key.keyboard.unknown
 key_key.ae2.ae2wtlib_restock:key.keyboard.unknown
 key_key.ae2.portable_fluid_cell:key.keyboard.unknown
@@ -64,7 +71,6 @@ key_key.astikorcarts.desc:key.keyboard.r
 key_key.attack:key.mouse.left
 key_key.back:key.keyboard.s
 key_key.biomancy.item_default:key.keyboard.x
-key_key.botania_corporea_request:key.keyboard.c
 key_key.chat:key.keyboard.t
 key_key.clienttweaks.disableLogStripping:key.keyboard.unknown
 key_key.clienttweaks.disableStepAssist:key.keyboard.unknown
@@ -103,6 +109,7 @@ key_key.drop:key.keyboard.q
 key_key.dynamic_fps.toggle_disabled:key.keyboard.unknown
 key_key.dynamic_fps.toggle_forced:key.keyboard.unknown
 key_key.entityculling.toggle:key.keyboard.unknown
+key_key.epp.viewpattern:key.keyboard.unknown
 key_key.exposure.camera_controls:key.keyboard.unknown
 key_key.fast_placement:key.keyboard.unknown
 key_key.forward:key.keyboard.w
@@ -132,7 +139,7 @@ key_key.inventory:key.keyboard.e
 key_key.jade.config:key.keyboard.unknown
 key_key.jade.narrate:key.keyboard.unknown
 key_key.jade.show_details:key.keyboard.unknown
-key_key.jade.show_overlay:key.keyboard.unknown
+key_key.jade.show_overlay:key.keyboard.j
 key_key.jade.show_recipes:key.keyboard.unknown
 key_key.jade.show_uses:key.keyboard.unknown
 key_key.jade.toggle_liquid:key.keyboard.unknown
