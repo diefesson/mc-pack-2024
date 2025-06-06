@@ -253,6 +253,10 @@ file = "config/NuclearCraft/world.toml"
 hash = "386effd1fc631bad431da02e16c055c7b666007dc98147a35d8dbb8ab717f4d1"
 
 [[files]]
+file = "config/advanced_ae-common.toml"
+hash = "f400a2c3c92c540ae67c2a274cc649977e6401253c740d0f50db72f4dafbdb72"
+
+[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -371,6 +375,10 @@ hash = "436c034b494fefb6c83c48f409f241f68a5decc5a88bc3602542eb21fe441a08"
 [[files]]
 file = "config/enchantinginfuser-server.toml"
 hash = "82bb2e0b063cc7896622aa34b8e4eecf8db9617b9fd17737266aa3ba4451a95b"
+
+[[files]]
+file = "config/expatternprovider-common.toml"
+hash = "caf95c1b18f1878284855e1b807673cbec7c33348c187e83b368cdc8bb8128e3"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -963,6 +971,11 @@ hash = "658098867c6f6210ac932de0f87a8d91c0ed2cd022124862b7954e84faf42769"
 metafile = true
 
 [[files]]
+file = "mods/advancedae.pw.toml"
+hash = "35f2e552038f05828a4d4a76dc875ab6ed261f93fce9a3a54d3b20be7d8d7acb"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
 hash = "d004d6c05716ce0aaca4f289021b55305bc6001ab4f85ba5ae70ff904ff245a8"
 metafile = true
@@ -1378,6 +1391,11 @@ hash = "eb6f4ec191f8631236f028c2f29dd7072319a20efaff99ec65a6cd8a56ee2966"
 metafile = true
 
 [[files]]
+file = "mods/extended-ae.pw.toml"
+hash = "2e1c09122ed42f2e70e5f2e89b710b82c49a183153a3dc6a3cb11ed8c5d44f53"
+metafile = true
+
+[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
 metafile = true
@@ -1430,6 +1448,11 @@ metafile = true
 [[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
+metafile = true
+
+[[files]]
+file = "mods/glodium.pw.toml"
+hash = "ce26e71a01dc450b60d754bc44675915e8a54f2bb6db215a76a21e43fad3d44e"
 metafile = true
 
 [[files]]
