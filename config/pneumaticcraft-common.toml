@@ -159,7 +159,7 @@
 	max_lifetime = 600
 	#Number of micromissiles per pod
 	#Range: > 0
-	missile_pod_size = 32
+	missile_pod_size = 100
 
 ["Minigun Properties"]
 	#Armor Piercing Ammo damage multiplier (relative to standard ammo)
@@ -188,7 +188,7 @@
 	explosive_ammo_explosion_chance = 50
 	#Minigun Explosive Ammo explosion power (ref: 2 = creeper, 4 = TNT
 	#Range: 0.0 ~ 1.7976931348623157E308
-	explosive_ammo_explosion_power = 0.5
+	explosive_ammo_explosion_power = 1.5
 	#Does Minigun Explosive Ammo damage terrain?
 	explosive_ammo_terrain_damage = false
 	#Freezing Ammo base percentage chance to form ice or snow on blocks which have been hit

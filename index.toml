@@ -591,7 +591,7 @@ hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "a13cdc9657843f334b83810f7e21b808da027852e24e4573a5763b4d091088fa"
+hash = "d8a46a2d024853dbe9206cfbf9e978b4d8991f4f831855bb77446e58968f4baf"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
@@ -916,10 +916,6 @@ hash = "66c0cac3113f0bf254b94532ec8a52c389a4899de5a9f4105d45fe414653e059"
 [[files]]
 file = "kubejs/server_scripts/src/nuclearcraft/remove_steel_alloying.js"
 hash = "b2f270792c8105e85b6a1f45773ae3582323806014c54216c6ab654607491e6e"
-
-[[files]]
-file = "kubejs/server_scripts/src/pneumaticcraft/ammo_recipes.js"
-hash = "f4c435487c4a91e785a8b7ea77a112aa78150ca9382b0d9a1241780bd84e36a7"
 
 [[files]]
 file = "kubejs/server_scripts/src/progression/elytra.js"
