@@ -2,11 +2,11 @@
 version = 0
 
 [lootInformationControl]
-loot_information_status = "NAME_AND_RARITY_IN_NAMETAG"
+loot_information_status = "NONE"
 showInfoForAllItem = true
 
 [rarity]
-showRarityFor = "ALL"
+showRarityFor = "RARE"
 
 [nameTag]
 render_name_tag_on_look = true
@@ -19,4 +19,4 @@ name_tag_scale = 1.0
 name_tag_y_offset = 0.75
 
 [tooltips]
-render_tooltips_on_crouch = true
+render_tooltips_on_crouch = false

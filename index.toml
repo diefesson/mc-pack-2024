@@ -482,7 +482,7 @@ hash = "6d08a48e0d143216be79bec97381bb7a3e75c613244e11b77a9d6a29b82bcbe1"
 
 [[files]]
 file = "config/lootbeams/loot_information_config.toml"
-hash = "f80fc1bb117c9ca8da5f40937195b65181fcacc68e6e5a2c552af2c44d6bf6d9"
+hash = "5ca5e782cba7b32b8002068409e9dbbbd399934148028474cc6a7ea8bde0788e"
 
 [[files]]
 file = "config/lootbeams/sound_config.toml"
@@ -1607,7 +1607,7 @@ metafile = true
 
 [[files]]
 file = "mods/loot-beams-refork.pw.toml"
-hash = "044280bfc8a36d590a52b95d289a10c3b63d360dc881551ecce9b1a4b36d52f3"
+hash = "05a9faf053bc2fa357ab6d67163adc9c14fd8cebd09c7f944c96bbbcc589d4a4"
 metafile = true
 
 [[files]]
