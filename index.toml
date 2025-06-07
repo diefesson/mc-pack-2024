@@ -1212,6 +1212,11 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -1674,16 +1679,6 @@ metafile = true
 [[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "2c70f2ae708875c837565551cf841779376a227706c28cd567cb82d02d25c1c8"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "5b5ee0d0e1c52f5fadae52a4550f33e640521950f6ab47042aadd508254c8930"
 metafile = true
 
 [[files]]
