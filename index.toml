@@ -378,7 +378,7 @@ hash = "82bb2e0b063cc7896622aa34b8e4eecf8db9617b9fd17737266aa3ba4451a95b"
 
 [[files]]
 file = "config/expatternprovider-common.toml"
-hash = "caf95c1b18f1878284855e1b807673cbec7c33348c187e83b368cdc8bb8128e3"
+hash = "db66a552a399d14aebdc59023def7304ec84be22a2f807f82b96eb7ff5da5cd3"
 
 [[files]]
 file = "config/exposure-client.toml"
@@ -1392,7 +1392,7 @@ metafile = true
 
 [[files]]
 file = "mods/extended-ae.pw.toml"
-hash = "2e1c09122ed42f2e70e5f2e89b710b82c49a183153a3dc6a3cb11ed8c5d44f53"
+hash = "426b8efb24384ebee223dcd556734f053a69c8fed90b5bb58dfff2e5cd52ab0c"
 metafile = true
 
 [[files]]
@@ -1437,7 +1437,7 @@ metafile = true
 
 [[files]]
 file = "mods/geckolib.pw.toml"
-hash = "f57b760f1db9b4033c89bd46a296b48e0d6c547de4b60e724e799608dab41bef"
+hash = "faada1d97f66a9c4324834eae26e19a2f2fe5f7eba69eae3f277041db6ccce77"
 metafile = true
 
 [[files]]
