@@ -517,6 +517,10 @@ file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 
 [[files]]
+file = "config/paxi/datapack_load_order.json"
+hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -542,8 +546,17 @@ hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
 metafile = true
 
 [[files]]
+file = "config/paxi/resourcepack_load_order.json"
+hash = "5acf876b659e1f54a89647d0ced297d5e730307c2f2adce09d3e5856f411cd85"
+
+[[files]]
 file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
 hash = "b885ea4b27467a99ca6dd03be554bfdaf48712ef03304a1e2e636ab9c2e6250a"
+metafile = true
+
+[[files]]
+file = "config/paxi/resourcepacks/glowing-emissive-ores-fusion.pw.toml"
+hash = "86e7cab971364a178df06c0aa6023072f65bd8fd285cd01561350fa83b21ac51"
 metafile = true
 
 [[files]]
@@ -1199,11 +1212,6 @@ hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
 metafile = true
 
 [[files]]
-file = "mods/continuity.pw.toml"
-hash = "8cea6a7ec6b151f92a3a62261530bb1aefe173ad19840c0319aa10e0d8ab2386"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -1411,6 +1419,11 @@ metafile = true
 [[files]]
 file = "mods/framedblocks.pw.toml"
 hash = "f9ebd6ed538b7d24f011d5053390a4e59dbad4c2d6eee968e3a49795d142bb22"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "b1f484c61097b4dded6357bd20a5af4de713e3b94eb92d35ba08232cf684bf55"
 metafile = true
 
 [[files]]

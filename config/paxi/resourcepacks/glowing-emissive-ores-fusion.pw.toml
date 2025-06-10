@@ -1,0 +1,13 @@
+name = "Glowing Emissive Ores - Fusion"
+filename = "GEO - v1.68.0 - Fusion.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/7Po6Q0I2/versions/jHpP0445/GEO%20-%20v1.68.0%20-%20Fusion.zip"
+hash-format = "sha512"
+hash = "3f488a6cd79e65b152e0fda2eaa1ea30d56fda39393053cd05f11baddf52fae454b3bb103aed8db6257e1f57fe59410025d06e785c89b0c8e19119de3a7da769"
+
+[update]
+[update.modrinth]
+mod-id = "7Po6Q0I2"
+version = "jHpP0445"
