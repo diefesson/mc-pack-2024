@@ -326,7 +326,7 @@ hash = "e7ab1b9ff90237b0bd8355efcc63b08c5135291ca7e2d1fe3b59ff35306fefa9"
 
 [[files]]
 file = "config/clienttweaks-common.toml"
-hash = "be304fcc29161393c6d672a810ef895a95948ccd1d41c465755a2ee95363a84a"
+hash = "76eeb924599e36c43be01d72f0179fd029bcd818b08a46bbd9497a14a6f895d6"
 
 [[files]]
 file = "config/combatnouveau-client.toml"
