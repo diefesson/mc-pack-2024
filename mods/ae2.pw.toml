@@ -1,13 +1,13 @@
 name = "Applied Energistics 2"
-filename = "appliedenergistics2-forge-15.4.4.jar"
+filename = "appliedenergistics2-forge-15.4.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/ACZsejkY/appliedenergistics2-forge-15.4.4.jar"
+url = "https://cdn.modrinth.com/data/XxWD5pD3/versions/JK3sC1Xz/appliedenergistics2-forge-15.4.5.jar"
 hash-format = "sha512"
-hash = "11e6f8b5bce14a7f7b420105b3503bf2bc611330a7b691751a2584766efc8740bda3df75bfa312162c800df932f8c3416c60b87b75cc5f415191673fbe5ab8f8"
+hash = "0722c33812bc0029713a810cf9aba5f64d42b6cc8fc911a1fd09216b8c3a92b60f7c365830e58e1269953485354c4a86a000df0a013bb70938dd1113a5fcfa27"
 
 [update]
 [update.modrinth]
 mod-id = "XxWD5pD3"
-version = "ACZsejkY"
+version = "JK3sC1Xz"

@@ -972,8 +972,18 @@ hash = "658098867c6f6210ac932de0f87a8d91c0ed2cd022124862b7954e84faf42769"
 metafile = true
 
 [[files]]
+file = "mods/ae2-import-export-card.pw.toml"
+hash = "f244f9e971f5ba6fbaff10fdb1c73eac7e6d2e1e51bcd6c93f4c15bd90272ec7"
+metafile = true
+
+[[files]]
 file = "mods/ae2.pw.toml"
-hash = "d004d6c05716ce0aaca4f289021b55305bc6001ab4f85ba5ae70ff904ff245a8"
+hash = "570c6ce9a6d24026661f0766ff155de5d588fca1d25a4d1c9906e78d1d325e90"
+metafile = true
+
+[[files]]
+file = "mods/aeinfinitybooster.pw.toml"
+hash = "e380187cf1daf27828ecba14a0752da077a84a588c8a46bf93eb7e3e7d41a386"
 metafile = true
 
 [[files]]
@@ -1014,11 +1024,6 @@ metafile = true
 [[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
-metafile = true
-
-[[files]]
-file = "mods/applied-energistics-2-wireless-terminals.pw.toml"
-hash = "1957188054efa433e3d314b0386e290bdb2354ff38e4982d102724ff0e2a74c4"
 metafile = true
 
 [[files]]
