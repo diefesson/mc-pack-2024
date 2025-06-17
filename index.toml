@@ -687,6 +687,10 @@ file = "config/supplementaries-common.toml"
 hash = "5c7b0753dba62546a5c191b84f68e4bcb8310d5b9833057db6c978647c93789d"
 
 [[files]]
+file = "config/takesapillage-common.toml"
+hash = "dcd31b93dc0e7a3266a54356ee399cce24d8ac59343e5067ec20edfda3746f2b"
+
+[[files]]
 file = "config/toolstats.json"
 hash = "cb074021c6f1cefe0a325bf32b764d93b928739ccbafb3a84296410b15f31477"
 
@@ -753,6 +757,10 @@ hash = "9ac19b0c23a3026adc8154529cb9a704434c2586ad00c538223d3e8585452d7a"
 [[files]]
 file = "defaultconfigs/sophisticatedstorage-server.toml"
 hash = "1ed41ad8cd0781b32fead8bbbdf77d3050196b7d35c5a8155b31a22315053d06"
+
+[[files]]
+file = "defaultconfigs/waterframes-server.toml"
+hash = "4c9bfddc35110cf85ee449cfdae05dafc8691c98b540640c150f93f307479af5"
 
 [[files]]
 file = "emi.json"
@@ -1069,11 +1077,6 @@ metafile = true
 [[files]]
 file = "mods/bartering-station.pw.toml"
 hash = "67c62e4c44abab8dbed72009900731830e689c80a1d4cd9f706f56a327d1a087"
-metafile = true
-
-[[files]]
-file = "mods/baubley-heart-canisters.pw.toml"
-hash = "72390c72a1091cd347aad048d125b47efff3d1ed90f7bc6126cb2e3f85437f53"
 metafile = true
 
 [[files]]
