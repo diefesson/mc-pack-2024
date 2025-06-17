@@ -4,11 +4,12 @@ ServerEvents.recipes(event => {
         'minecraft:saddle',
         [
             'LLL',
-            'L L',
+            'LIL',
             '   ',
         ],
         {
             L: '#forge:leather',
+            I: '#forge:ingots/iron',
         },
     )
 
