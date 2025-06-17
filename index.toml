@@ -867,14 +867,6 @@ file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
 [[files]]
-file = "kubejs/server_scripts/src/compass/explorers_compass.js"
-hash = "835058dbd80594835624009d7b0aa5d896046e6b7abbf38617d36e9764ddd0dd"
-
-[[files]]
-file = "kubejs/server_scripts/src/compass/natures_compass.js"
-hash = "c2f12d08f4928b528b0dec3a15785356ba00c74e885e171c8022e34ea67b50f8"
-
-[[files]]
 file = "kubejs/server_scripts/src/compat/armors_tags.js"
 hash = "db957fb73f9a74a4497bd855798fc116a7a0151f481677b6e3749bc848609fe9"
 
@@ -1368,11 +1360,6 @@ hash = "275e088a76a5bb3daf16fb32713979a0453d8737a0a79cb4a3d900ee0f1809f5"
 metafile = true
 
 [[files]]
-file = "mods/explorers-compass.pw.toml"
-hash = "3136d2fa3cd097330976de6517806fb9a306b60a9c2f9f3845d1289cad11b8c4"
-metafile = true
-
-[[files]]
 file = "mods/explorify.pw.toml"
 hash = "a0b3f914a386d4236744bc749156bb7eca1014179a50e340af1ea4741198782f"
 metafile = true
@@ -1680,11 +1667,6 @@ metafile = true
 [[files]]
 file = "mods/my-nethers-delight.pw.toml"
 hash = "019b1fc9ddc90219203532bf68538e1f1b2487599c6c9b9a3a074df0abd66b48"
-metafile = true
-
-[[files]]
-file = "mods/natures-compass.pw.toml"
-hash = "362ead0883974a7de4dd711a75ccfe71b2ceadf172211934e8cd6084977c0f49"
 metafile = true
 
 [[files]]
