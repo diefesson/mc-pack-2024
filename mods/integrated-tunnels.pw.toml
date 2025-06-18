@@ -1,13 +1,13 @@
 name = "Integrated Tunnels"
-filename = "IntegratedTunnels-1.20.1-1.8.39.jar"
+filename = "IntegratedTunnels-1.20.1-1.8.41.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/VNxBIZ4v/IntegratedTunnels-1.20.1-1.8.39.jar"
+url = "https://cdn.modrinth.com/data/Etqy1Omb/versions/Ue032pW0/IntegratedTunnels-1.20.1-1.8.41.jar"
 hash-format = "sha512"
-hash = "cf557d57fecc4e915fdb0d04493f7baa01488819c439e3a58033dd6a4024bc804b9211083d499de9b050e05f3f9ff723c1721024557ba2e73915ea65489747e7"
+hash = "d75bd4f2b81d65ef38263c8dcab8e230468cd868a8249ec27ad1cdc93111b15f762c76bd7df9bf32b27f30a40bf2c97042182b5f29e1aa9c97fed2a313a2d757"
 
 [update]
 [update.modrinth]
 mod-id = "Etqy1Omb"
-version = "VNxBIZ4v"
+version = "Ue032pW0"

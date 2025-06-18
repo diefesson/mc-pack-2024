@@ -1,13 +1,13 @@
 name = "Nirvana Library"
-filename = "Nirvana Lib-forge-1.20.1-2.0.8.jar"
+filename = "Nirvana Lib-forge-1.20.1-2.0.13.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/6gKEW2ql/versions/JG4UweiV/Nirvana%20Lib-forge-1.20.1-2.0.8.jar"
+url = "https://cdn.modrinth.com/data/6gKEW2ql/versions/q9A511XL/Nirvana%20Lib-forge-1.20.1-2.0.13.jar"
 hash-format = "sha512"
-hash = "df2dacaf4a2f2842415088480ec24c8261c3ca7f9309bc8cd992490b4c19d0bdc64028c554db91dbcb8555c30284f504e3a453c58597269ecf4790cc7f7fb3ee"
+hash = "af7b9ca08a135df6ddf51ce4effc1b44eaca57b7bce1b34b45737cdab54bfb62d16c343a90dc79fc55ca4357f01f65561792ae806c95480eae382a2806db5858"
 
 [update]
 [update.modrinth]
 mod-id = "6gKEW2ql"
-version = "JG4UweiV"
+version = "q9A511XL"

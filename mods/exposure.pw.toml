@@ -1,13 +1,13 @@
 name = "Exposure"
-filename = "exposure-1.20.1-1.7.15-forge.jar"
+filename = "exposure-1.20.1-1.7.16-forge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/hB899VmG/versions/GxlCCDbA/exposure-1.20.1-1.7.15-forge.jar"
+url = "https://cdn.modrinth.com/data/hB899VmG/versions/Wk43p4gt/exposure-1.20.1-1.7.16-forge.jar"
 hash-format = "sha512"
-hash = "9b26b0b3b9482fe812b6b37e7e6f1727556b5ef5c5489cd2921370b9d7798eed1c561c70ae47c9146857d41bc7b769e74b56e5db95c987186f797109c84fbb5c"
+hash = "94e1c0ddbcb12d2b95e964d9081e41c4c6ad960100ab31fa7faee5ff8d0a3b5e7b29288117dad4d4aa17ae7fc01d19f2a269f327f27151d47248c9d6ff68ace2"
 
 [update]
 [update.modrinth]
 mod-id = "hB899VmG"
-version = "GxlCCDbA"
+version = "Wk43p4gt"
