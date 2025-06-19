@@ -547,7 +547,7 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "5acf876b659e1f54a89647d0ced297d5e730307c2f2adce09d3e5856f411cd85"
+hash = "c2cbf55f62d9a39259a682afcd6c47a537bfc960954a723e25d7f24b80b832b6"
 
 [[files]]
 file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
