@@ -883,10 +883,6 @@ file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
 
 [[files]]
-file = "kubejs/server_scripts/src/immersiveengineering/saltpeter_unification.js"
-hash = "484d6965774fd27344aa26bc8c9ef6c5787ff09cfb6fe4dd69352cbe043fad95"
-
-[[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
 hash = "e82b57063b387f7a9dc0537354efe63e4ee330c0e59c603f737c33b60e0c099a"
 
