@@ -859,10 +859,6 @@ file = "kubejs/server_scripts/src/base/get_preferred.js"
 hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
-file = "kubejs/server_scripts/src/biomancy/fix_consume.js"
-hash = "efd4e0e3e2693fc3317aca09878335c6c25561dbce4aba908cc699caf3ce786c"
-
-[[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
@@ -909,10 +905,6 @@ hash = "66c0cac3113f0bf254b94532ec8a52c389a4899de5a9f4105d45fe414653e059"
 [[files]]
 file = "kubejs/server_scripts/src/nuclearcraft/remove_steel_alloying.js"
 hash = "b2f270792c8105e85b6a1f45773ae3582323806014c54216c6ab654607491e6e"
-
-[[files]]
-file = "kubejs/server_scripts/src/progression/elytra.js"
-hash = "0f4bb0052896e5f6d72863f3f81cbe7a71d2bf1371693b3a4300a8f747c75196"
 
 [[files]]
 file = "kubejs/server_scripts/src/railcraft/alloys.js"
