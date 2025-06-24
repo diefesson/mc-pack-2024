@@ -576,7 +576,7 @@ metafile = true
 
 [[files]]
 file = "config/personality-client.toml"
-hash = "603091de493301b99e4bc975d99ab51041fb6392d5c01f08078c67f6da02472d"
+hash = "8523c6771f1d63ad1e0ea0444e5050d3e1e62c21445fbac2a8a92725b8fea458"
 
 [[files]]
 file = "config/personality-common.toml"
@@ -1013,6 +1013,21 @@ hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
 metafile = true
 
 [[files]]
+file = "mods/ars-energistique.pw.toml"
+hash = "7ce1bd971a8571077ffc4d7625e411c2a35a8d02791392a0efef8270c18359e3"
+metafile = true
+
+[[files]]
+file = "mods/ars-nouveau.pw.toml"
+hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
+metafile = true
+
+[[files]]
+file = "mods/arsdelight.pw.toml"
+hash = "710e7c2423c8a14f2037f88e955544ad55d54460a1f2e5b884b34d60aa1cb0b1"
+metafile = true
+
+[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
 metafile = true
@@ -1288,6 +1303,11 @@ hash = "5ec0c37f3f4ad07a40c10376668bca80334ddb7ad2bab06eb4de8f7aac339c8e"
 metafile = true
 
 [[files]]
+file = "mods/embers-delight.pw.toml"
+hash = "b9928d9bb16764fc6ae1f77ca7d4c85c6820b10b18223978615f2dad7da04f29"
+metafile = true
+
+[[files]]
 file = "mods/embers.pw.toml"
 hash = "bf96c8c4478bbc34df85a92f90978251f859f8b635855d00d5905aaf47118f89"
 metafile = true
@@ -1425,6 +1445,11 @@ metafile = true
 [[files]]
 file = "mods/heartstone.pw.toml"
 hash = "b0542805d5a1fd7e977dccd2f4c32e18ca327f53d97864b77f193842b855ecca"
+metafile = true
+
+[[files]]
+file = "mods/hexerei.pw.toml"
+hash = "6b75e21a40b8dcfe80a1d29ce4b8b3168b07f1329688de128f49bafb802d169b"
 metafile = true
 
 [[files]]
@@ -2019,4 +2044,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "6b15d650cd1bd993e0fb444a6dbd24d36aa99d466ad3c3a5bb9b2e0b2fab3168"
+hash = "f8295cafc172c0cb8bb129f1602611aaa6965ca2d000e062e9b4bf82efd23b2e"

@@ -1,0 +1,13 @@
+name = "Embers' Delight"
+filename = "embersdelight-1.20.1-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/LbfU4hqy/versions/wRFd3tRC/embersdelight-1.20.1-1.0.0.jar"
+hash-format = "sha512"
+hash = "07e46d153aa406743a4ef8efd2103709304b8e9c0f78535c6a5f121856302df6ca0888e444c0e8598a4d5f72ada40ff5c12e4e34ec02addc1e1fdf40b6273305"
+
+[update]
+[update.modrinth]
+mod-id = "LbfU4hqy"
+version = "wRFd3tRC"
