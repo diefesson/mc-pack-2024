@@ -277,6 +277,18 @@ file = "config/amendments-common.toml"
 hash = "783aed4199fdd7fd7eca085fe8a33dc5ac3f790895c172e8ab85f3cff40eeb9c"
 
 [[files]]
+file = "config/ars_nouveau-client.toml"
+hash = "14ca6c97d45a1e37d4a42ed69382d2ec529be3b1f0a0ed350e7501514467b7b5"
+
+[[files]]
+file = "config/ars_nouveau-common.toml"
+hash = "732702004fcc02128294ff9b4f30b1a07dd15977b64f24d019464c4c6ccc6b1a"
+
+[[files]]
+file = "config/ars_nouveau-server.toml"
+hash = "8114e030f41c90caf3a94ba086a1e2a0349d1704e95760b751ecf2c19f2301c5"
+
+[[files]]
 file = "config/barteringstation-client.toml"
 hash = "6e4ae70c0ee44462550ea2b668478794a71ef1448b7ff0ce3d49a255c8e7d992"
 
