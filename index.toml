@@ -1025,21 +1025,6 @@ hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
 metafile = true
 
 [[files]]
-file = "mods/ars-energistique.pw.toml"
-hash = "7ce1bd971a8571077ffc4d7625e411c2a35a8d02791392a0efef8270c18359e3"
-metafile = true
-
-[[files]]
-file = "mods/ars-nouveau.pw.toml"
-hash = "71f03c33669516ce50b789b191989ce1a0566c51c48676cc8d49907e23217ac7"
-metafile = true
-
-[[files]]
-file = "mods/arsdelight.pw.toml"
-hash = "710e7c2423c8a14f2037f88e955544ad55d54460a1f2e5b884b34d60aa1cb0b1"
-metafile = true
-
-[[files]]
 file = "mods/ash-api.pw.toml"
 hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
 metafile = true
@@ -1355,11 +1340,6 @@ hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
 
 [[files]]
-file = "mods/energymeter.pw.toml"
-hash = "4f815d15a2c3918b1ae49851e4d743b85bbdb5bc5b32cd0c9fde14daed000cda"
-metafile = true
-
-[[files]]
 file = "mods/engineered-compatibility.pw.toml"
 hash = "d101ff458c12295e3d292a0efab484ed48ad6d2540c7232007091c6d8c174db4"
 metafile = true
@@ -1625,11 +1605,6 @@ hash = "00a16f6cc02ad9f0825138857da26e6bf5c0f65dc5d4d40705b091e29176d3a2"
 metafile = true
 
 [[files]]
-file = "mods/map-atlases-forge.pw.toml"
-hash = "c5ba818f6b0078c8c3fd5837d229dd9abe5a1238ef8d0b79ceafe55b8c047d49"
-metafile = true
-
-[[files]]
 file = "mods/max-health-fix.pw.toml"
 hash = "878e22c186eea5703c64d0da20a73d2a169986d05da802e2d4ca439c025d0ef3"
 metafile = true
@@ -1655,11 +1630,6 @@ hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
 
 [[files]]
-file = "mods/mmmmmmmmmmmm.pw.toml"
-hash = "70bd76457fcd02b797eeaad3e88c3390b88d0e8bd15d7100631c41401953926e"
-metafile = true
-
-[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "01d408ee2d9bf1431df1ddc8c2a036aaad350a317778bdb33fec38942179dd1f"
 metafile = true
@@ -1667,11 +1637,6 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "75d1a53d0aa6395ed45670c2243cd6faee81c4bbf7a2dec937544b9dafb2665d"
 metafile = true
 
 [[files]]
