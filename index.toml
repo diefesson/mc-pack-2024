@@ -751,6 +751,30 @@ file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
+file = "config/xaerominimap-common.txt"
+hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
+
+[[files]]
+file = "config/xaerominimap.txt"
+hash = "347f37ad9386d016c118da98119c33cd8a0ee4b99192f4f370c7de606b10b57a"
+
+[[files]]
+file = "config/xaerominimap_entities.json"
+hash = "dd176b91a29ddbae6a131c08386ec883a132e1c0ddea39bc1d9271dc178fed62"
+
+[[files]]
+file = "config/xaeropatreon.txt"
+hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+
+[[files]]
+file = "config/xaeroworldmap-common.txt"
+hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
+
+[[files]]
+file = "config/xaeroworldmap.txt"
+hash = "d67d8a69bd601e2a342b319b1990334b46ee85c2ed13d69e9eb85c357dba7a07"
+
+[[files]]
 file = "defaultconfigs/framedblocks-server.toml"
 hash = "ec3d4132a1b565069354e2e269c7f4d0974e187e224d1c3a77d2e23e68acccb6"
 
@@ -1640,6 +1664,11 @@ hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
 metafile = true
 
 [[files]]
+file = "mods/moonlight.pw.toml"
+hash = "771613352812f69450e49a359aa0a4cae676ed2a3c4b6c5a120c736364b15d7d"
+metafile = true
+
+[[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
 metafile = true
@@ -2005,6 +2034,16 @@ hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
 
 [[files]]
+file = "mods/xaeros-minimap.pw.toml"
+hash = "b000d0545976048ed0bcd4276a47168c5eac0344fe404b07e67761d79a9c89cc"
+metafile = true
+
+[[files]]
+file = "mods/xaeros-world-map.pw.toml"
+hash = "95650f26d33823363d0003ff801e081f4c1e9e33d88a4fc871ebc7ec33b72ac5"
+metafile = true
+
+[[files]]
 file = "mods/yungs-api.pw.toml"
 hash = "152c6732da180e958fb29f492bae2e468d4dfd423ce4d3d0d31ef31c2eec6c61"
 metafile = true
@@ -2021,4 +2060,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "f8295cafc172c0cb8bb129f1602611aaa6965ca2d000e062e9b4bf82efd23b2e"
+hash = "755d6021383785f4bcb36e0fdf6d7bde9cbdd3d5e7afa88918960ca26619b7e2"
