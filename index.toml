@@ -643,6 +643,10 @@ file = "config/rusticdelight-common.toml"
 hash = "ea6c029a68603982cf4a8a9dd3af2190330f5a6f8636a1e9a2b2ede3693bee80"
 
 [[files]]
+file = "config/scarecrowsterritory-common.toml"
+hash = "3fbf938c34477e60a878df73123bd2d4cab1208bb7c95d22136176309370ed16"
+
+[[files]]
 file = "config/smarterfarmers-common.toml"
 hash = "56ae66f78051744ef5dfd9f768b1ac0d458f12d875714daf69912935fe709dcc"
 
@@ -1851,6 +1855,11 @@ metafile = true
 [[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "8a20275515fe7247642bab8af4095ff96efeb313467cd6c465d5696fef41c9a9"
+metafile = true
+
+[[files]]
+file = "mods/scarecrows-territory.pw.toml"
+hash = "44eb82e321a419ab17666ff66f43d462dc02eaec6f477b07c56d21b5036b68c2"
 metafile = true
 
 [[files]]
