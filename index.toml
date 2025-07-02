@@ -1,232 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/NuclearCraft/accelerator.toml"
+hash = "4f4baadf1fa53bc246d5a24ab63b074895297f049ccaa51ea066b906f90163ca"
+
+[[files]]
 file = "config/NuclearCraft/common.toml"
-hash = "8456fe17d3ce09593687f437d9662a243a0e1588524d0af4cafc8f68614bf5e2"
+hash = "f605b07a5d3f43d753d6e9fb424145a583a70f649f1464c125dccfb125729eb2"
 
 [[files]]
 file = "config/NuclearCraft/fission.toml"
-hash = "56cf9680291de6020dcec7992f1b30c6b62e09534b8d785797eda6c1b541efc3"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/americium.json"
-hash = "d92a4589addef0d347986416a33ddd4526828a347404d28fd6aceb2c056c58a8"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/berkelium.json"
-hash = "37025c3dd9ae093a470d659d984ded8b00741a14378bdfca7382b36087d15418"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/californium.json"
-hash = "45d7bfd389854ca26ef21778cb5775f0ca8b8cd25cb64045804adcae9956baff"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/curium.json"
-hash = "e73feabc9d26ba21ae17c3a6692c73bb26f77dd2df7a876e075cba50177f7baf"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/mixed.json"
-hash = "3ee835f8e5df3c3be1a7c43d3d885c2f8419a1e18ca1e2e225ff45bd268e4f22"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/neptunium.json"
-hash = "ddb1346ca4f28ecd882f1e3b40a2328854357378c83fe0f06497c2324e928c44"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/plutonium.json"
-hash = "8bae9e2eec728c033c06160f4090c765ce214c41de20ce15176b4606c8774962"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/thorium.json"
-hash = "ccd3c9d5c8747634a5d5fea22ead5b64acd4f2d82b95ca2c48db962c3b02d938"
-
-[[files]]
-file = "config/NuclearCraft/fission_fuel/uranium.json"
-hash = "0d2f04ae55cde0d62fbb23cc0f0d508bf81f68f54737557ca6ddba07ad83eeae"
+hash = "2bfac7ef9ad7559c572cc53055741e24a4baa5c53944f761fb09478af01dad88"
 
 [[files]]
 file = "config/NuclearCraft/fusion.toml"
-hash = "3f579d0039cb3af9d4c5d1f90da7bcb8e74d75b2baae9ed9121154f7884d3df3"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/! README.TXT"
-hash = "9189cd20ca558c21db87271804f295a002dd5dcfa728f10579488066c7b6303b"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_cryotheum.json"
-hash = "6cae590bdbf1de0e9cc36d2958ae7378be5a083518ee456ab562afd3bfeecbd2"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_enderium.json"
-hash = "9ff60c2096866eb3363c9885df92418429947b344002b1fdd6ecdae173aa3f43"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_liquid_helium.json"
-hash = "0484d76cf343d155c250d83254ae5196f125c907d5b71c8dc66f114e0bd44fb0"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_liquid_nitrogen.json"
-hash = "d89043977a7b3e3a228ba4b938a3455d23412bc17ffe8b845f93f25c31335dde"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_redstone.json"
-hash = "fcae7abe77c888eb02b9024c3a8f7861217763c58573e2fff66a0dca888b51b7"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/active_water.json"
-hash = "8332eb8e4905e893554106f3539f7f6a17e70c060a82a664d297e334cfea8851"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/aluminum.json"
-hash = "bd4e7c1cfeedb4b114596670ab46dab5b96063f226abd60663ffa1d7733b0d06"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/arsenic.json"
-hash = "e93cc0860930387d8f053da2149b1adbadfb215cde3f27a9a6f6befae3f0b429"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/boron.json"
-hash = "57b594e74c6bbf96e119df6ed71c1bfd4d391f019b3e86e07443bff7984219bf"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/carobbiite.json"
-hash = "08c15021dbe6d596b08f3e7bceb880d122c5e7444ec90bf379bc97f7159294aa"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/cobalt.json"
-hash = "61aed3eeb5cf3dd795b3626364d841707b4d8837c0d170c4564630d12310d49b"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/copper.json"
-hash = "7dc5a37165000564ed9c0f716ceb7e47f9d4b4a567fb4d2e3a920f024be8caa1"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/cryotheum.json"
-hash = "68e0af9af48a3ad7fad2085cecc93af8c1769384bd0f5a7982d324476cc883d9"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/diamond.json"
-hash = "a31f90e7b086f307135332100f895c2e86d1b3c8b323cb0eea0a0bcb0be6bada"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/emerald.json"
-hash = "7039a8b5d2473d95c416de2f3825c9e517cdec583ffce7063d5d1953821e8e77"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/empty.json"
-hash = "d4840a7f1b8fc52e67f11edc847126c706344d3c29fe12420928e0161819e7f7"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/empty_active.json"
-hash = "57cbc455a99597edb1bd48f01d43b9d23714f405c5c2084ae7467612826c703e"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/end_stone.json"
-hash = "bf149686d7106a6fddd55e9f2681ff3be6086fa131e9f2dbef2bbe588fb68328"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/enderium.json"
-hash = "5db51f612ae15830cde3a96cb2f4d5244824b4a9cc4b6631f82a0dbe6c325ab7"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/fluorite.json"
-hash = "54b5c5b7828630b6d077859b809be1a0ca4c6482d0044b66e88293eb4d49c095"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/glowstone.json"
-hash = "9c43129a056d7671e168c788969e32d172bae18b8999e5d5bd588297cfff1423"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/gold.json"
-hash = "d4c55c563cf19c64207cb9c3c2bfa56a4ff51b3b1e52b915894f364b85eb72cf"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/iron.json"
-hash = "0647f30e0d56d97e5fb77c4c77659fa5631220b73b1feb24258192a799653e9e"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/lapis.json"
-hash = "5b999ff0fbc0b9bc52cdb0b792a2267aa3a58400ad626e9e4a4f9b0492dd4665"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/lead.json"
-hash = "3cf17129a82c561623a0c5a596f18f04b904dc2ac524213923f12e55e65d8f35"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/liquid_helium.json"
-hash = "5044bb8e88a5433a54084413af0486fcdbe0bbc2027a2a93f414c083807abd88"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/liquid_nitrogen.json"
-hash = "5f0de43271c12fc43fc2b89f7e4ec96edefcf40b946d573f249563c1810802d4"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/lithium.json"
-hash = "b13ef885fde8b5b5f2a3e44005a68afbb1385854f4cfc5510c5f0d238775a9db"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/magnesium.json"
-hash = "9b3ce4fce285b214ad10b50fcddce6a8063c50d466b658388c591c65bf80dba8"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/manganese.json"
-hash = "1a7ae44c3f6ed5626f7f580e7380724118407d858c237bb94bfbcbd262687d6f"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/nether_brick.json"
-hash = "6277df7324d9aa5233150fd5a8c7385ddd5ed9b2960b2f0ab9d0e7499adb75eb"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/netherite.json"
-hash = "5902906e755fcc8845f6e17fdd9adac62c55ca550d045270084ab30bcbb38f8f"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/obsidian.json"
-hash = "e7051bea958e0bf23d29f8b03de36316a69b0c1f20245208e1f86e22161d23fa"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/platinum.json"
-hash = "2aa9279db11ef010c6f1b0bac941ba21312989efae16f5a3e9f9713923331ca1"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/prismarine.json"
-hash = "d68b7dcb02641d3e6f90793cdfa38e3f625230802895134647e08fee96c6dfae"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/purpur.json"
-hash = "f060539613c21b1f732607e9314d12ff2dde663ae43ae5fdb4f4ed2c29943140"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/quartz.json"
-hash = "c2945785b7220ecdc8cd1eba4b0a4fc50e69761c7e0252baafa337d7ce1daf99"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/redstone.json"
-hash = "c7f1c3e160511a654d9406158988e41f4df8cf76484f7e038520300f320644fb"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/silver.json"
-hash = "59c32454c963e6f9f5762df2ac2ec57dd099eeba1e427e522f8f43ef1cc2e64d"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/slime.json"
-hash = "f8bced106bc4d8319f52163870ad8db7bd5c7d67d805372e4560bbac5dbf77cb"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/tin.json"
-hash = "8665be392f5514130e2a379bece83bfa72f393a1ef51faec32ff5901c1f735f4"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/villiaumite.json"
-hash = "0ca36c5fff9a226dc71b028e9195e0439ee7445a051d84b7b4bee9fd8127df3d"
-
-[[files]]
-file = "config/NuclearCraft/heat_sinks/water.json"
-hash = "bb645a26d65cf69c893ed0175423611a9893d3fd23db44ca689c7f53da3ccc0e"
+hash = "3db30da6eeb5ae2ab99ec8daedfea5a4cddd3da37432de6920505b5f8c6b4021"
 
 [[files]]
 file = "config/NuclearCraft/kugelblitz.toml"
-hash = "a26a7984b74625aca3b0c46606e3b5f8afeebe8aa77c79b73aff3eae4af0ed2e"
+hash = "9993dc7d201ec4b4767103607425c615be91708eb3b4fa28740a2da8c0db5150"
 
 [[files]]
 file = "config/NuclearCraft/materials.toml"
@@ -234,23 +26,23 @@ hash = "4887bfb0edbe871da75fc0ff0498ff1a7c9593d549565e055cae309a7505cfb0"
 
 [[files]]
 file = "config/NuclearCraft/ore_generation.toml"
-hash = "a0324a13e0635a42427d50e377339ae8a693aabdaf8a16cdf4317d2b77422696"
+hash = "ef1ef77f11256d6f35aa553d3224f72564a5d600d60a33dd5d26af6db1c123f3"
 
 [[files]]
 file = "config/NuclearCraft/processors.toml"
-hash = "173b82c106078a9f856cbb31746865e8e9b14da91289b0e3ad6e3fbed880ccbf"
+hash = "fd08cd9ce901339fe310f442cdc79e176dd75e4bc299f96581bad7775f5720f6"
 
 [[files]]
 file = "config/NuclearCraft/radiation.toml"
-hash = "25d2a1bd247c6f7582a1a3da3e36e2c4a0911200587adbb0bb3092ac45ef7361"
+hash = "c417189c2562469486f6eb347b2b01e2aab45cacbed7dec8a29092f8da3881e6"
 
 [[files]]
 file = "config/NuclearCraft/turbine.toml"
-hash = "6436d61394d2f7edcf48a0544e8b77a77174833b38a7f13cd083a59429fd3f9c"
+hash = "40bbdfa08b857505d7ec12d4b68e924ce635c0a4fd0dc613a5d59b81e8689891"
 
 [[files]]
 file = "config/NuclearCraft/world.toml"
-hash = "386effd1fc631bad431da02e16c055c7b666007dc98147a35d8dbb8ab717f4d1"
+hash = "6a06c50edc9c74cf9f08da29261add9e0cd0eaafb00b91f41ccaa77518131eb8"
 
 [[files]]
 file = "config/almostunified/debug.json"

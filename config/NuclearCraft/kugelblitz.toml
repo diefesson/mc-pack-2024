@@ -13,4 +13,6 @@
 	#Adjust rate of blackhole evaporation.
 	#Range: 0.001 ~ 1000.0
 	blackhole_evaporation_rate = 1.0
+	#Enable blachole dstortion shader.
+	blackhole_shader = true
 

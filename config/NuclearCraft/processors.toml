@@ -164,8 +164,8 @@
 	#All veins will have random ores. It will ignore vein settings
 	randomized_ores = false
 	#Add new veins to generation for Immersive Engineering.
-	add_ie_veins = true
+	add_ie_veins = false
 	#Allow to leach veins from Immersive Engineering.
 	#To do so, you need to put IE core sample into leacher.
-	allow_to_leach_ie_veins = true
+	allow_to_leach_ie_veins = false
 
