@@ -935,6 +935,11 @@ hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
 metafile = true
 
 [[files]]
+file = "mods/cc-tweaked.pw.toml"
+hash = "0d2af99a5efb2c1ec10180c7c91d8469c0b7eacd7b186432485e61a51fae2d29"
+metafile = true
+
+[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
