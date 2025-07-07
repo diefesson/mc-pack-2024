@@ -198,7 +198,7 @@ hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
 
 [[files]]
 file = "config/forgematica.json"
-hash = "d9848ff745540b5ad6be80199db784437640944abd19b1c8cfe6aed752f96169"
+hash = "1e163b297f2b5a14bb381a802dd8670cad2f245107f6cc156819f026bd2812aa"
 
 [[files]]
 file = "config/framedblocks-client.toml"
