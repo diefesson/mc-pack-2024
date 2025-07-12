@@ -4,7 +4,7 @@ allowInternetAccess:true
 differentiateByServerAddress:true
 caveMapsAllowed:true
 debug:false
-lighting:true
+lighting:false
 colours:0
 loadChunks:true
 updateChunks:true

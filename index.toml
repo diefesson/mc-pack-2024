@@ -560,7 +560,7 @@ hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
 [[files]]
 file = "config/xaerominimap.txt"
-hash = "347f37ad9386d016c118da98119c33cd8a0ee4b99192f4f370c7de606b10b57a"
+hash = "53f981d3093e61661151738b5f00c333964ceae454a66175f86e0ff87437f33d"
 
 [[files]]
 file = "config/xaerominimap_entities.json"
@@ -576,7 +576,7 @@ hash = "f02ca95d7246bd4b9c7de895c46108fff42fd5fcf9d56816b7bdba821597b58f"
 
 [[files]]
 file = "config/xaeroworldmap.txt"
-hash = "d67d8a69bd601e2a342b319b1990334b46ee85c2ed13d69e9eb85c357dba7a07"
+hash = "b18d797c029dc6e35be12e87ce32ec5c1935495ef9e1e7d589b25bf709b430e2"
 
 [[files]]
 file = "defaultconfigs/framedblocks-server.toml"
