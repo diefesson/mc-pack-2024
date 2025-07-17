@@ -343,11 +343,6 @@ hash = "e54c281bce8bb8cffddb726cc28b19e04f1a7f643328c282a357c54be4cd8085"
 metafile = true
 
 [[files]]
-file = "config/paxi/datapacks/repurposed-structures-bygone-nether-compat.pw.toml"
-hash = "9335e01f93ba1215c1d118eeae5e6166506ef93bda71d6ec381b5dccae7c984d"
-metafile = true
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-chefs-delight-compat.pw.toml"
 hash = "ff0080e9294d4a30a494f21a543a94db8de3373288f7823e0cbae1346491068d"
 metafile = true
@@ -501,10 +496,6 @@ hash = "993165338e87a5561b4ad7adb2e958bdac59e3e8251a0a90d48e3702ea0d2566"
 [[files]]
 file = "config/supplementaries-common.toml"
 hash = "5c7b0753dba62546a5c191b84f68e4bcb8310d5b9833057db6c978647c93789d"
-
-[[files]]
-file = "config/takesapillage-common.toml"
-hash = "dcd31b93dc0e7a3266a54356ee399cce24d8ac59343e5067ec20edfda3746f2b"
 
 [[files]]
 file = "config/toolstats.json"
@@ -933,11 +924,6 @@ hash = "d47b75b30e711de67e9de2ce05fd5979a89e5aacb5c0fd036c6f9466b1da2665"
 metafile = true
 
 [[files]]
-file = "mods/bygone-nether.pw.toml"
-hash = "d706f608a7387e3f3d47d71995f543cd32a52894cdbd5f65d0a0295050ca61a5"
-metafile = true
-
-[[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
 metafile = true
@@ -1345,11 +1331,6 @@ metafile = true
 [[files]]
 file = "mods/integrated-tunnels.pw.toml"
 hash = "1063722b7121c31c01a7e5010534f38f685fde2ddf1c7ac784b2d7015cfc4aec"
-metafile = true
-
-[[files]]
-file = "mods/it-takes-a-pillage.pw.toml"
-hash = "71dd1dbd85af13408355fa4f8f5d62e20590817c7153582dbb9fc7d604bd0e9b"
 metafile = true
 
 [[files]]
