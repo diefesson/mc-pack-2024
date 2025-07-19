@@ -1,5 +1,5 @@
 #Should squids drop a Calamari item? Also disables villager trades for Calamari.
-squids_drop_calamari = false
+squids_drop_calamari = true
 #Should villagers trade Rustic Delight items? (May reduce chances of other trades appearing)
 enable_villager_trades = true
 #Should the Wandering Trader sell Rustic Delight items?

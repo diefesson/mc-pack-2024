@@ -441,7 +441,7 @@ hash = "191db87a309dc70c9cbc985acb613d68a36c2ed0be9c31d625739b61c9f707a8"
 
 [[files]]
 file = "config/rusticdelight-common.toml"
-hash = "ea6c029a68603982cf4a8a9dd3af2190330f5a6f8636a1e9a2b2ede3693bee80"
+hash = "63f678926c25488219ed817e52233021caffa11532871c827be8e480822f12e2"
 
 [[files]]
 file = "config/scarecrowsterritory-common.toml"
@@ -1452,11 +1452,6 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "6d52b6989ddabb53a1f86aee4ab315c2c8726b800276975eb510a31884891082"
-metafile = true
-
-[[files]]
-file = "mods/miners-delight.pw.toml"
-hash = "67a9681bb1944cb09e596d30905be4ab72f5478b5abaa67a45737a51824ae648"
 metafile = true
 
 [[files]]
