@@ -830,11 +830,6 @@ hash = "b9e6e6a4a26ff1421620ea6cd99c0be1caaa66a1277c8cc72d2f64443be1fbcf"
 metafile = true
 
 [[files]]
-file = "mods/amendments.pw.toml"
-hash = "f6cb39881349ebcd51d5ea8563110dd0fb861b66c18f7a261eabe1ef41563cd2"
-metafile = true
-
-[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "793693a85f3c87d4e899ee0c58deabc53690bf5a70f17343f28fd5063ce8a1e1"
 metafile = true
@@ -1205,11 +1200,6 @@ hash = "7b846273c5cbc4d0eb1f3d0eb4802b0e81e54dea84cf25666015ca50931fe307"
 metafile = true
 
 [[files]]
-file = "mods/fast-paintings.pw.toml"
-hash = "dc0d8e54793e901169ffe51e57e2c0e7ab0220ce92fc8ef141ba9dfe5ae12a6d"
-metafile = true
-
-[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "902bac905b93271f02bd0951a22bac06a3da24f5c237fcaeb469e14a7679e508"
 metafile = true
@@ -1262,11 +1252,6 @@ metafile = true
 [[files]]
 file = "mods/guideme.pw.toml"
 hash = "e6b268467d596218658d7e0b4e3e1fcc7fd71b0b597cf480fa91d1fecf437ec0"
-metafile = true
-
-[[files]]
-file = "mods/heartstone.pw.toml"
-hash = "b0542805d5a1fd7e977dccd2f4c32e18ca327f53d97864b77f193842b855ecca"
 metafile = true
 
 [[files]]
@@ -1462,11 +1447,6 @@ metafile = true
 [[files]]
 file = "mods/modonomicon.pw.toml"
 hash = "a5d778139d22ab0993dc8c7dcea99902c31da3f5ef7f6936e5c29e4cb159c174"
-metafile = true
-
-[[files]]
-file = "mods/moonlight.pw.toml"
-hash = "771613352812f69450e49a359aa0a4cae676ed2a3c4b6c5a120c736364b15d7d"
 metafile = true
 
 [[files]]
@@ -1685,11 +1665,6 @@ hash = "d1f5f2ca273704699945f12be3d4c105b95b1c762c01f00e915b0b17acc85c83"
 metafile = true
 
 [[files]]
-file = "mods/smarter-farmers-farmers-replant.pw.toml"
-hash = "50019e31715fbfddde21556820a012baf6c411da0bc7b05997e5f1886f89d5a8"
-metafile = true
-
-[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "bb48ee8c9ea84dcbc54097e3efb708a04d4cc4c184aeaf0b34ae8c24d9319bb6"
 metafile = true
@@ -1802,11 +1777,6 @@ metafile = true
 [[files]]
 file = "mods/txnilib.pw.toml"
 hash = "c2df41a37fec3a93afc4e2866705bf9e457d506ce8cd02e61c2f610d4f6a7617"
-metafile = true
-
-[[files]]
-file = "mods/universal-sawmill.pw.toml"
-hash = "03c5ceff2f15c5319d72cf84cd1ae7abe49fa24c44e972d1b0d36c003f19db63"
 metafile = true
 
 [[files]]
