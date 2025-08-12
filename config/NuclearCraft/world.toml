@@ -1,9 +1,0 @@
-
-[Dimension]
-	#Register Wasteland Dimension
-	wasteland = true
-
-[Biome]
-	#Generate Wasteland Biome in Overworld
-	wasteland = true
-

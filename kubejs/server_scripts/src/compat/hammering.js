@@ -9,19 +9,14 @@ ServerEvents.recipes(event => {
         'iron',
         'gold',
         'copper',
-        'tin',
         'lead',
         'silver',
         'nickel',
         'steel',
-        'bronze',
         'electrum',
-        'invar',
         'constantan',
         'aluminum',
         'uranium',
-        'zinc',
-        'brass',
     ]
 
     let dustMaterials = [

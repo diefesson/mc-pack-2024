@@ -1,50 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/NuclearCraft/accelerator.toml"
-hash = "4f4baadf1fa53bc246d5a24ab63b074895297f049ccaa51ea066b906f90163ca"
-
-[[files]]
-file = "config/NuclearCraft/common.toml"
-hash = "f605b07a5d3f43d753d6e9fb424145a583a70f649f1464c125dccfb125729eb2"
-
-[[files]]
-file = "config/NuclearCraft/fission.toml"
-hash = "2bfac7ef9ad7559c572cc53055741e24a4baa5c53944f761fb09478af01dad88"
-
-[[files]]
-file = "config/NuclearCraft/fusion.toml"
-hash = "3db30da6eeb5ae2ab99ec8daedfea5a4cddd3da37432de6920505b5f8c6b4021"
-
-[[files]]
-file = "config/NuclearCraft/kugelblitz.toml"
-hash = "9993dc7d201ec4b4767103607425c615be91708eb3b4fa28740a2da8c0db5150"
-
-[[files]]
-file = "config/NuclearCraft/materials.toml"
-hash = "4887bfb0edbe871da75fc0ff0498ff1a7c9593d549565e055cae309a7505cfb0"
-
-[[files]]
-file = "config/NuclearCraft/ore_generation.toml"
-hash = "ef1ef77f11256d6f35aa553d3224f72564a5d600d60a33dd5d26af6db1c123f3"
-
-[[files]]
-file = "config/NuclearCraft/processors.toml"
-hash = "fd08cd9ce901339fe310f442cdc79e176dd75e4bc299f96581bad7775f5720f6"
-
-[[files]]
-file = "config/NuclearCraft/radiation.toml"
-hash = "c417189c2562469486f6eb347b2b01e2aab45cacbed7dec8a29092f8da3881e6"
-
-[[files]]
-file = "config/NuclearCraft/turbine.toml"
-hash = "40bbdfa08b857505d7ec12d4b68e924ce635c0a4fd0dc613a5d59b81e8689891"
-
-[[files]]
-file = "config/NuclearCraft/world.toml"
-hash = "6a06c50edc9c74cf9f08da29261add9e0cd0eaafb00b91f41ccaa77518131eb8"
-
-[[files]]
 file = "config/almostunified/debug.json"
 hash = "3e03a291b5310a6b94a45aff63e4731baa643701c42a968ed716483ccd1d5a37"
 
@@ -676,20 +632,8 @@ file = "kubejs/server_scripts/jsconfig.json"
 hash = "0c230a664ec610481a7bab2d5e76ec7eaa20a3341cc960a1a14c44b0b4500afd"
 
 [[files]]
-file = "kubejs/server_scripts/src/ae2/hide_faces.js"
+file = "kubejs/server_scripts/src/ae2/hide_facades.js"
 hash = "7e44709d924d9cd1d2d4f34a73a426b52671fa0d386b978af3376550f9fc5f5c"
-
-[[files]]
-file = "kubejs/server_scripts/src/aileron/tags.js"
-hash = "957fee6cc681e4375e3fc80ac5340b2be96e85dbc5a683b8609dba9b4a084f00"
-
-[[files]]
-file = "kubejs/server_scripts/src/amendments/torch_fire_fix.js"
-hash = "2cf222714cd28ba35eceab0637428d4710143ec1bcfe6986674ea012b3037fad"
-
-[[files]]
-file = "kubejs/server_scripts/src/archers_paradox/elemental_arrows.js"
-hash = "b010db6b4b2a742e28edf48ac5b5d80112d76937e6472a99c778048cf672c2f7"
 
 [[files]]
 file = "kubejs/server_scripts/src/base/get_preferred.js"
@@ -701,11 +645,11 @@ hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/armors_tags.js"
-hash = "db957fb73f9a74a4497bd855798fc116a7a0151f481677b6e3749bc848609fe9"
+hash = "5cc7678ee1323de0c2e5ccc9b30297b3196fb247252dc18f7e7764e2504b076d"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/hammering.js"
-hash = "1bf4e15f6fe83c2e18896bcaadc7e9c6fc4b82cc2b083b1461f913f66e5bd7f0"
+hash = "0ea675248c1c432b7aa5198b1233ba058093c0fe2be2464973a3913697a04040"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/tools_tags.js"
@@ -734,34 +678,6 @@ hash = "fbe34f1274ee9664ad2a11c42d3a71228fac622537d8336bc68b816071bb9fba"
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/sherd_duplication.js"
 hash = "7c67ed7290c24afa152d13230481c27085d165e1223a792380fa7a72e2c68216"
-
-[[files]]
-file = "kubejs/server_scripts/src/nuclearcraft/remove_map_analysis.js"
-hash = "66c0cac3113f0bf254b94532ec8a52c389a4899de5a9f4105d45fe414653e059"
-
-[[files]]
-file = "kubejs/server_scripts/src/nuclearcraft/remove_steel_alloying.js"
-hash = "b2f270792c8105e85b6a1f45773ae3582323806014c54216c6ab654607491e6e"
-
-[[files]]
-file = "kubejs/server_scripts/src/railcraft/alloys.js"
-hash = "920c333ef5913ebc4ba744339d7ce2ba8ec2344e248c18b4b3ddc46f9093b0f5"
-
-[[files]]
-file = "kubejs/server_scripts/src/railcraft/alternative_recipes.js"
-hash = "21eb4211cff5af13993b11a5d42d9662274e5c059e2700d7a3bcb69615362d5c"
-
-[[files]]
-file = "kubejs/server_scripts/src/railcraft/ender_dust_tag.js"
-hash = "e9b2c502b52d87b6d2d71a62d0e6dcc36fb63fc7d0c889f9f4cb276e6fe6608b"
-
-[[files]]
-file = "kubejs/server_scripts/src/railcraft/remove_content.js"
-hash = "358d3c6955a01ed7ba8cd20bbadc9bd4420276df4f06bd8599fa121f7488be41"
-
-[[files]]
-file = "kubejs/server_scripts/src/railcraft/ties.js"
-hash = "d4383e9f2137233895097a7819ceede2f8c527368a9e4bf320975bab695a0ae6"
 
 [[files]]
 file = "kubejs/server_scripts/src/sophisticatedbackpacks/remove_content.js"
@@ -802,11 +718,6 @@ metafile = true
 [[files]]
 file = "mods/aetherworks-refracted.pw.toml"
 hash = "d29fdec43928556488b59c16bc9d23cd21ff0682f5d999cf1265e9620d607a5f"
-metafile = true
-
-[[files]]
-file = "mods/aileron.pw.toml"
-hash = "113e37aa4e5bac2393393de14548f5d1dc854830c89ab0c02af221b8c0bee610"
 metafile = true
 
 [[files]]
@@ -887,11 +798,6 @@ metafile = true
 [[files]]
 file = "mods/better-burning.pw.toml"
 hash = "63ba46a73b84ef9bc655a18fbff13b80681b0064cdad9e50ea1dc9770e34fdd7"
-metafile = true
-
-[[files]]
-file = "mods/biomancy.pw.toml"
-hash = "9645745c65db24bd944b638a3672c20b6af3564e80b32110968ade12134f1119"
 metafile = true
 
 [[files]]
@@ -1025,11 +931,6 @@ hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
 
 [[files]]
-file = "mods/coroutil.pw.toml"
-hash = "b2c7739b56ef71f50a86658cfa67375796beafd391c4dbe26a5de8cd92b9b685"
-metafile = true
-
-[[files]]
 file = "mods/crafting-tweaks.pw.toml"
 hash = "a0f928084962b9fc624b6413a04b3e658437bc80dd1c6c7954e2bc28803f377c"
 metafile = true
@@ -1080,11 +981,6 @@ hash = "4d4bc3f85ac72b03a999650eb8e0741bbcc3257691a7940df5bb3a5830e5498b"
 metafile = true
 
 [[files]]
-file = "mods/do-a-barrel-roll.pw.toml"
-hash = "53fd334af7b7c6ada2b3d15a8d666011c5b54bcfc5515e6ca2d13eeb3c286b0d"
-metafile = true
-
-[[files]]
 file = "mods/dramatic-doors.pw.toml"
 hash = "8143c63aa2e53fd78ea83eddba9cfaa4c036141aae6604eb01d8f82dc5d03c99"
 metafile = true
@@ -1095,18 +991,8 @@ hash = "a6af059766ea70358690d048898d19e493108e2e06a97542fac696fd5e03589a"
 metafile = true
 
 [[files]]
-file = "mods/dungeons_delight.pw.toml"
-hash = "30f6ebf4a451d8b0a71cc286f326de1de4b2981bf7e78e6a78176802e472c814"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-fps.pw.toml"
 hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
-metafile = true
-
-[[files]]
-file = "mods/ears.pw.toml"
-hash = "44711bff6dc6f6753a3f1403647ce9b5dcedd31440d6e01d1260176650df3140"
 metafile = true
 
 [[files]]
@@ -1530,11 +1416,6 @@ hash = "ee8986f0f4e5c7609da5f0f48d741bb059fefee80bda7e0a33e51dab6468cd67"
 metafile = true
 
 [[files]]
-file = "mods/nuclearcraft-neoteric.pw.toml"
-hash = "0978c7a679d3aae2fba2f03b9290cae2084abda249b4990394b3892617589ab1"
-metafile = true
-
-[[files]]
 file = "mods/octo-lib.pw.toml"
 hash = "4ee6b38fbd604374f4703b852ebe2119c6493ae09b88f6398ab256e423bd5d4a"
 metafile = true
@@ -1615,11 +1496,6 @@ hash = "bbdd40b650286973d44b1931d4b8c4bcc02b02f2c5583545709347503bd13057"
 metafile = true
 
 [[files]]
-file = "mods/railcraft-reborn.pw.toml"
-hash = "d77c84cf2ffe027efc80558485cca2da3ad51aaa9e964a5e9e7203c6c647d75e"
-metafile = true
-
-[[files]]
 file = "mods/redstone-arsenal.pw.toml"
 hash = "e361630ef4d787c2eb1aa38c35935e0a7db10a6cb9dcdb5edb2956e4fa3047ac"
 metafile = true
@@ -1667,11 +1543,6 @@ metafile = true
 [[files]]
 file = "mods/seasonals.pw.toml"
 hash = "c6f879c97d9f8b015d371d4d05ff018328d0890b3786235af3f565df0ba4c7c2"
-metafile = true
-
-[[files]]
-file = "mods/serene-seasons.pw.toml"
-hash = "7f38bb5c863c04b013a2c6ed75d799525ba3cc5a548279adde6e9329ff308dd4"
 metafile = true
 
 [[files]]
