@@ -1021,6 +1021,11 @@ hash = "bf96c8c4478bbc34df85a92f90978251f859f8b635855d00d5905aaf47118f89"
 metafile = true
 
 [[files]]
+file = "mods/emi-enchanting.pw.toml"
+hash = "3a728230bfbaf61c1fb3a102bcf320b63a0a132c149b0b827eaf1ce0a52e3fef"
+metafile = true
+
+[[files]]
 file = "mods/emi-loot.pw.toml"
 hash = "5d6004ca876efde3d87e789b18c6e3c54be63ccab8b733d3f1b7c74f39f29eda"
 metafile = true
@@ -1028,11 +1033,6 @@ metafile = true
 [[files]]
 file = "mods/emi.pw.toml"
 hash = "f0b4372343e873512d57e5ee877f37362f8dde8e75771075abe44686509294b9"
-metafile = true
-
-[[files]]
-file = "mods/emienchants.pw.toml"
-hash = "c3e0dc431253ce66b1c78dc3e69e80b3c41a63707b92345f92d8708bcf87ad9f"
 metafile = true
 
 [[files]]
@@ -1048,6 +1048,11 @@ metafile = true
 [[files]]
 file = "mods/enchanting-infuser.pw.toml"
 hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
+metafile = true
+
+[[files]]
+file = "mods/endergetic.pw.toml"
+hash = "ac8886608c2af5d3406068dab4b29e63317aaee35c4a9565535f28d717cc8194"
 metafile = true
 
 [[files]]
