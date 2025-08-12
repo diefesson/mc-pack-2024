@@ -1,0 +1,13 @@
+name = "Savage & Ravage"
+filename = "savage_and_ravage-1.20.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KxOh9voD/versions/38OAGsVf/savage_and_ravage-1.20.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "1b0ca038a5ecf8f1b23f5753ec97e22d989c6e469620e6db5a009f372d3395967fd9e545be2a8fcd7a10ea059aa67f7dbaf97b43022f7ee9c818cba0acfc239b"
+
+[update]
+[update.modrinth]
+mod-id = "KxOh9voD"
+version = "38OAGsVf"
