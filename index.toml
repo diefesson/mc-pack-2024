@@ -137,6 +137,18 @@ file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
+file = "config/extremereactors/client.toml"
+hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
+
+[[files]]
+file = "config/extremereactors/common.toml"
+hash = "ca2932466d007745067d0fd533bbbfc55bdbd9c46d0de3dc226cd5999b090888"
+
+[[files]]
+file = "config/extremereactors/modpack_api.json"
+hash = "ad88978624d3f4d9a9ca42679114635cdad12bf91e2a2880936be23472805c0d"
+
+[[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
