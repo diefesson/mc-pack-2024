@@ -1,13 +1,13 @@
 name = "skin overrides"
-filename = "skin_overrides-2.3.2+1.20.1.jar"
+filename = "skin_overrides-2.4.0-beta.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/GON0Fdk5/versions/nWZA78wh/skin_overrides-2.3.2%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/GON0Fdk5/versions/fbyJB41A/skin_overrides-2.4.0-beta.1%2B1.20.1.jar"
 hash-format = "sha512"
-hash = "8665327fe774f53802ab9673e2b1f34af245a3224e64262f6d27d34dcdfcdac923cfc5ce117f8b73d07715b477f69a3537af4e2f4cf95fe57c42f916606bb1c2"
+hash = "cbb23fb017b93fb896cf4797dc476301bc649b701ece10098eba40ab4473a12eeb687f1fd180fe9bc7c24f410d8c00ffc4aea249359fb0fc48934e064517efca"
 
 [update]
 [update.modrinth]
 mod-id = "GON0Fdk5"
-version = "nWZA78wh"
+version = "fbyJB41A"

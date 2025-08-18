@@ -1,13 +1,13 @@
 name = " Integrated Crafting"
-filename = "IntegratedCrafting-1.20.1-1.2.2.jar"
+filename = "IntegratedCrafting-1.20.1-1.2.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qwpACdla/versions/KyaQmWdu/IntegratedCrafting-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/qwpACdla/versions/aZ9OL8kd/IntegratedCrafting-1.20.1-1.2.3.jar"
 hash-format = "sha512"
-hash = "f61a136de8d28e11d58284d6fc7496be1ecd8d91c7c0e07bc6873e8ebf77454ab40d08610f0513e26304355f769639d48cde50ec7681a23f0b91ee93b3ae9d39"
+hash = "2cd291f8d7754ebc7979a399db16515057932e0045a33f9c27711ea9bbf96d7aa1967fb8ba84e86dd9377b36c7feec7628d1d82c551bfee82507d420debe5124"
 
 [update]
 [update.modrinth]
 mod-id = "qwpACdla"
-version = "KyaQmWdu"
+version = "aZ9OL8kd"

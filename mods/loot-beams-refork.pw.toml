@@ -1,13 +1,13 @@
 name = "Loot Beams: Refork"
-filename = "Loot Beams Refork-forge-1.20.1-3.2.5.jar"
+filename = "Loot Beams Refork-forge-1.20.1-3.2.6.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/rp7ooqvq/versions/70Lw85rH/Loot%20Beams%20Refork-forge-1.20.1-3.2.5.jar"
+url = "https://cdn.modrinth.com/data/rp7ooqvq/versions/hT4BvY7X/Loot%20Beams%20Refork-forge-1.20.1-3.2.6.jar"
 hash-format = "sha512"
-hash = "b50093a658522f3817b2893b6ed12f49dbe9fbe8b38f28352cfa96bf7f6ef2f90e986721bde31847e3b7620972ec8299e7858ba4c2e08815e74ff6e8fd52db5f"
+hash = "8c0d4cb26d1eb29a1295f9819f8908e5f342490f6a2c7e8d23ef64901de40ce105065331961f457bb3e550f0c6fee88123882ea1fdc96615984d9b1a862122ea"
 
 [update]
 [update.modrinth]
 mod-id = "rp7ooqvq"
-version = "70Lw85rH"
+version = "hT4BvY7X"
