@@ -1,0 +1,7 @@
+{
+  "Enabled": true,
+  "ReactorReactantSources": {
+    "WipeExistingValuesBeforeAdding": false,
+    "Remove": ["forge:ingots/uranium", "forge:storage_blocks/uranium"]
+  }
+}

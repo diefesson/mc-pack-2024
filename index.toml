@@ -640,6 +640,18 @@ file = "kubejs/server_scripts/src/base/get_preferred.js"
 hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
+file = "kubejs/server_scripts/src/bigreactors/modpack_api.json"
+hash = "ad88978624d3f4d9a9ca42679114635cdad12bf91e2a2880936be23472805c0d"
+
+[[files]]
+file = "kubejs/server_scripts/src/bigreactors/recipes.js"
+hash = "d6ffda3be4a708e6c3af7f98c13dfe116ed5b681470e7c8477f7d6f0f47049bd"
+
+[[files]]
+file = "kubejs/server_scripts/src/bigreactors/tags.js"
+hash = "911995b7e128d92deaa8ccde52eae3aca750f9f2d6d67aa29b82313367987d75"
+
+[[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
@@ -1083,6 +1095,11 @@ metafile = true
 [[files]]
 file = "mods/exposure.pw.toml"
 hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
+metafile = true
+
+[[files]]
+file = "mods/extreme-reactors.pw.toml"
+hash = "ad46794f5a1321972623b630e082b2657fab31845548add1ec03729313f3cd94"
 metafile = true
 
 [[files]]
@@ -1738,6 +1755,11 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
+metafile = true
+
+[[files]]
+file = "mods/zerocore.pw.toml"
+hash = "824e624db9e75492a8f461f0b2ea61251729957d6645242ae83daaece0333020"
 metafile = true
 
 [[files]]
