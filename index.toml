@@ -667,7 +667,7 @@ hash = "ad88978624d3f4d9a9ca42679114635cdad12bf91e2a2880936be23472805c0d"
 
 [[files]]
 file = "kubejs/server_scripts/src/bigreactors/recipes.js"
-hash = "d6ffda3be4a708e6c3af7f98c13dfe116ed5b681470e7c8477f7d6f0f47049bd"
+hash = "15561d49fd04888cde70a32bd3ef2babb483c3da2d96204272cf9a24368a2403"
 
 [[files]]
 file = "kubejs/server_scripts/src/bigreactors/tags.js"
