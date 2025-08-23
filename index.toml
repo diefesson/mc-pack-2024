@@ -297,6 +297,16 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/cliffs-and-coves.pw.toml"
+hash = "f8a8b0fd66606092648267d213035e420d7444ca85fabff5950048a157d3ffe4"
+metafile = true
+
+[[files]]
+file = "config/paxi/datapacks/navigable-rivers.pw.toml"
+hash = "11529b2e00d0efe2ce84aa2b5235449634d14ae60e925aed56b1dd6c976c173e"
+metafile = true
+
+[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -1165,11 +1175,6 @@ hash = "bfe1b9ef08ea1e5e3a49a449105d91718a74cf10628964c86897d7ae5fac20be"
 metafile = true
 
 [[files]]
-file = "mods/geophilic.pw.toml"
-hash = "79d8c527a416d0dfe54695701e13456580981084195ef4888bb1b61dcfa12e32"
-metafile = true
-
-[[files]]
 file = "mods/glitchcore.pw.toml"
 hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
@@ -1732,6 +1737,11 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
+metafile = true
+
+[[files]]
+file = "mods/wwoo.pw.toml"
+hash = "a4adbe9faf5b891bfafdb122f7808f7870b6ea915af393deea41406498d109ab"
 metafile = true
 
 [[files]]

@@ -1,0 +1,13 @@
+name = "Cliffs and Coves"
+filename = "cliffs-and-coves-v1-0-1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EwuS4aoq/versions/FbOCR46M/cliffs-and-coves-v1-0-1.zip"
+hash-format = "sha512"
+hash = "1f335a833fa349dff9779f532c85f37070ec7eb9374ab3bcd7d07b671b05793dcacd58f69891debd19785fc068fd2d5cbc3b43e9bd6329d4e240cfdd6ce4adfc"
+
+[update]
+[update.modrinth]
+mod-id = "EwuS4aoq"
+version = "FbOCR46M"
