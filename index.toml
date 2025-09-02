@@ -662,10 +662,6 @@ file = "kubejs/server_scripts/src/base/get_preferred.js"
 hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
-file = "kubejs/server_scripts/src/bigreactors/modpack_api.json"
-hash = "ad88978624d3f4d9a9ca42679114635cdad12bf91e2a2880936be23472805c0d"
-
-[[files]]
 file = "kubejs/server_scripts/src/bigreactors/recipes.js"
 hash = "c3bfbd149f6f5f7fe94803f6fd16bc7ba6bce4cf4da30a3523df1010b4e05b93"
 
