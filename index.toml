@@ -14,7 +14,7 @@ hash = "ad711622f9b8c5cc8115f52396f5d82587b809fb20cbf9d94c7744aeebcaf4d5"
 
 [[files]]
 file = "config/almostunified/unify.json"
-hash = "62f97246e4398f8af4eef442229acfea7e4cc874fa9a1809d2990f3b2bca7528"
+hash = "0fe143a77e8cae56f51108aa35d2db6264af9b803cc68e3884b955eb52643d30"
 
 [[files]]
 file = "config/amendments-client.toml"

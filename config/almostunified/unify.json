@@ -97,7 +97,7 @@
   "blockTagInheritanceMode": "ALLOW",
   "blockTagInheritance": {},
   "ignoredTags": [],
-  "ignoredItems": [],
+  "ignoredItems": ["goety:magic_emerald", "goety:awakened_emerald_block"],
   "ignoredRecipeTypes": ["cucumber:shaped_tag"],
   "ignoredRecipes": [],
   "itemsHidingJeiRei": true
