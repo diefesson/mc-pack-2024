@@ -341,11 +341,6 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "c08b5038ee8abf48f9b6d77e1c5dedd3feabe93f49b40984e88cd872c539bd8a"
 
 [[files]]
-file = "config/paxi/resourcepacks/cubic-sun-moon.pw.toml"
-hash = "f5e98012cc353ad12cb6cd0a272dc4e3ade24cbd4cd726fdb4b756c8abf095f6"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores-fusion.pw.toml"
 hash = "58bff8eaa5f16d90591bb42cea7ecfe4018d7142f376e1cc8786da936265ccee"
 metafile = true
@@ -358,11 +353,6 @@ metafile = true
 [[files]]
 file = "config/paxi/resourcepacks/low-on-fire.pw.toml"
 hash = "98520d370f14406836b850e9ca58debe0b5e25475279d7f2a46b1c3151b222a8"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/notandvms-emissive-sculk.pw.toml"
-hash = "682bac51f89c740ff25b549eec256059605b6e3270a7657b5c50123ebad916b3"
 metafile = true
 
 [[files]]
