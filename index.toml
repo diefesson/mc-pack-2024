@@ -338,16 +338,16 @@ metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
-hash = "c08b5038ee8abf48f9b6d77e1c5dedd3feabe93f49b40984e88cd872c539bd8a"
+hash = "03805aad43090a6ebf894851c266f8dd64230c5707edf7e86f739bd85195aa65"
 
 [[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores-fusion.pw.toml"
-hash = "58bff8eaa5f16d90591bb42cea7ecfe4018d7142f376e1cc8786da936265ccee"
+hash = "199031ed013244e6a7c3e649c8bd76bb16944cae077ec69ae1403b825c459b9d"
 metafile = true
 
 [[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "4d9dd79222dbeb202a330f76b15b73f4aaee3348542fca6980bc94cdfde5d0c0"
+hash = "bc1c130567eb9ffaab1252354efcfac2579f34474744c23b0c9cd98ef29e7d26"
 metafile = true
 
 [[files]]
@@ -1147,7 +1147,7 @@ metafile = true
 
 [[files]]
 file = "mods/fusion-connected-textures.pw.toml"
-hash = "4fb9f19ebe3e65cf811ffcd807d5f1d1059b976195720f46bfd87420d94b102b"
+hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
 metafile = true
 
 [[files]]
