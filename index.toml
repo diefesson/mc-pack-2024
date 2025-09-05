@@ -218,7 +218,7 @@ hash = "5119d39cd222bb388004b86ad9d916ac0a67342492bd89268bd83e4710dd6873"
 
 [[files]]
 file = "config/jade/plugins.json"
-hash = "b37a367fd1d6273972f96c942c5d9a4a0800a600af3f1335654b73874ebd3c38"
+hash = "a89baf2eb72f4dfdcb740d36dacae0e2b12389fb1782871517262b7ee5912efe"
 
 [[files]]
 file = "config/jade/sort-order.json"
