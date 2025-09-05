@@ -337,15 +337,6 @@ hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
 metafile = true
 
 [[files]]
-file = "config/paxi/resourcepack_load_order.json"
-hash = "03805aad43090a6ebf894851c266f8dd64230c5707edf7e86f739bd85195aa65"
-
-[[files]]
-file = "config/paxi/resourcepacks/glowing-emissive-ores-fusion.pw.toml"
-hash = "199031ed013244e6a7c3e649c8bd76bb16944cae077ec69ae1403b825c459b9d"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
 hash = "bc1c130567eb9ffaab1252354efcfac2579f34474744c23b0c9cd98ef29e7d26"
 metafile = true
@@ -1146,11 +1137,6 @@ hash = "41e24ed037adefe00c62d1935f428cc71cb733a04e8012223d66004e52f5ef9d"
 metafile = true
 
 [[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "9c94815c028b18cd04c63b604209be515d209dff8f4bc9960867da0b13a0dfe8"
-metafile = true
-
-[[files]]
 file = "mods/fzzy-config.pw.toml"
 hash = "af1270987203e41ee2ac5a293bda1f4c49d6d2d40408431d92d61a5fc3eca82b"
 metafile = true
@@ -1378,6 +1364,16 @@ metafile = true
 [[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta-emissive.pw.toml"
+hash = "2c70f2ae708875c837565551cf841779376a227706c28cd567cb82d02d25c1c8"
+metafile = true
+
+[[files]]
+file = "mods/moremcmeta.pw.toml"
+hash = "5b5ee0d0e1c52f5fadae52a4550f33e640521950f6ab47042aadd508254c8930"
 metafile = true
 
 [[files]]
