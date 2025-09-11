@@ -762,11 +762,6 @@ hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
 metafile = true
 
 [[files]]
-file = "mods/astikorcarts-redux.pw.toml"
-hash = "c3daae892d91d5b36c65fbd18f19d22a61fcac210f25350cde0a413c6a49210f"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
@@ -1664,6 +1659,11 @@ metafile = true
 [[files]]
 file = "mods/tool-stats.pw.toml"
 hash = "a8ac59bbcb665b5d76a03a4d5f9847c931fb773dc3181957ce0c242a6132d88b"
+metafile = true
+
+[[files]]
+file = "mods/totw-modded.pw.toml"
+hash = "692960348d6f2f5b587412c677524ba15dc39b29bfcf19ca5798492c0462a040"
 metafile = true
 
 [[files]]
