@@ -85,14 +85,6 @@ file = "config/clienttweaks-common.toml"
 hash = "76eeb924599e36c43be01d72f0179fd029bcd818b08a46bbd9497a14a6f895d6"
 
 [[files]]
-file = "config/combatnouveau-client.toml"
-hash = "0d5d4d75007ff1abab4dab254aeef4844f70ea9830eb4f4d298142dc5a287e6a"
-
-[[files]]
-file = "config/combatnouveau-server.toml"
-hash = "f7338da65eb3449686a75438184c7196c6363d40d73d1bb9c18ed2273df3a32c"
-
-[[files]]
 file = "config/crunchy_crunchy_advancements.toml"
 hash = "6fa3f3d5b757ad9cd2b5089215ccbb6a38b39bdc56ab3c3c6b36ac8fd04ce8a7"
 
@@ -171,6 +163,30 @@ hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 [[files]]
 file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
+
+[[files]]
+file = "config/goety/goety-attributes.toml"
+hash = "71ea86333f3a3ad5d80413228e9fbfae56b727530b6eadad01026053d0f83576"
+
+[[files]]
+file = "config/goety/goety-brews.toml"
+hash = "b394df1b75c8617b3607c892ef167e1411905e14dc09fa13cf4a47896fd0a2e0"
+
+[[files]]
+file = "config/goety/goety-items.toml"
+hash = "7074cc16ddaee9f9c79aa80e2620e722234ffb96002e9f316fdf2a35302753dd"
+
+[[files]]
+file = "config/goety/goety-mobs.toml"
+hash = "0a31c3622d38925adb51fceae202ad835e67087236261491cd2620ee95e6f1bc"
+
+[[files]]
+file = "config/goety/goety-spells.toml"
+hash = "bf20c47a4151b64274a382fffa2c069d55a196ef7c3c100fe3a6758bd8534985"
+
+[[files]]
+file = "config/goety/goety.toml"
+hash = "3c8c8b136d1cb72f867848ef25c319d02d1e30c643e01c3797b5468fc385dd9d"
 
 [[files]]
 file = "config/guifollowers.json5"
@@ -792,6 +808,11 @@ hash = "63ba46a73b84ef9bc655a18fbff13b80681b0064cdad9e50ea1dc9770e34fdd7"
 metafile = true
 
 [[files]]
+file = "mods/better-combat.pw.toml"
+hash = "f2772ac30db5760b191049f87d2315f1652d9b04357e644df9d8a2bafdc269e5"
+metafile = true
+
+[[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "2bcea8e16d358942a8f8b8cf6e39cc303d90fac29b1b3ecb8033bd214d4afa0f"
 metafile = true
@@ -887,8 +908,8 @@ hash = "a26cea970dd7ffc20aeb983912e72ba57e83f6e1a42a661a5b4250f77de25650"
 metafile = true
 
 [[files]]
-file = "mods/combat-nouveau.pw.toml"
-hash = "edc2e3529690c08648a94d72876f0d2fa99f0d3b8f08a4338a9d3fe7834cfc79"
+file = "mods/combat-roll.pw.toml"
+hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
 metafile = true
 
 [[files]]
@@ -1479,6 +1500,11 @@ metafile = true
 [[files]]
 file = "mods/piglin-proliferation.pw.toml"
 hash = "b447f99463970b074fcb3003785c7f3a0b01117b3b2251dc389ace59d74c1212"
+metafile = true
+
+[[files]]
+file = "mods/playeranimator.pw.toml"
+hash = "765987a78e5d8c782d0da2de99998b43b5907d6c41347d3804045ad109e4a586"
 metafile = true
 
 [[files]]
