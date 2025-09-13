@@ -49,6 +49,18 @@ file = "config/betterburning-common.toml"
 hash = "18f723bd32d90827e317b9184fef7cdaf5a2703f985ee875a0405cae13d5cac8"
 
 [[files]]
+file = "config/bettercombat/client.json5"
+hash = "79b1171ceb58d73c2a6f5ffbf00f68f4afe8abbd0da624ddfa1777ba3767f519"
+
+[[files]]
+file = "config/bettercombat/fallback_compatibility.json"
+hash = "754feb4474a3f4d9fe6bd08f38c248fd5a796ed51f38d7d5704680250f3a34ca"
+
+[[files]]
+file = "config/bettercombat/server.json5"
+hash = "8a3ca0cbeb543de63d478c7aaf065c0244a8b5d4face1c0a0124d1d3a1790c12"
+
+[[files]]
 file = "config/betterdungeons-forge-1_20.toml"
 hash = "67e7e94693c7ca0945fe1b7e08639cdf4faad9a8e1eec2b029bf414539113753"
 
