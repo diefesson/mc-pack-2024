@@ -29,7 +29,7 @@
 	#Allows player movement if Focus/Brew Wheel are open, Default: true
 	wheelGuiMovement = true
 	#Show numerical amount of Souls on the Soul Energy Bar, Default: false
-	showNumber = false
+	showNumber = true
 	#Horizontal Position of where the Soul Energy Bar is located, Default: 100
 	#Range: > -2147483647
 	soulGuiHorizontal = 125

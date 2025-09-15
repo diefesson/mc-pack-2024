@@ -13,9 +13,9 @@
 	#Allowed Values: OFF, SPRITE, TEXT, BOTH
 	display_amount = "TEXT"
 	#Show a small sprite next to the name of each entry showing its contents.
-	draw_sprites = true
+	draw_sprites = false
 	#Color of the entry name text.
-	#Allowed Values: BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE
+	#Allowed Values: BLACK, DARK_BLUE, DARK_GREEN, DARK_AQUA, DARK_RED, DARK_PURPLE, GOLD, GRAY, DARK_GRAY, BLUE, GREEN, AQUA, RED, LIGHT_PURPLE, YELLOW, WHITE, APOLLYON, GR_FROST, GR_SPIDER, GR_EDEN
 	default_color = "WHITE"
 	#Ignore rarity of items and always use color specified in "Text Color" instead.
 	ignore_rarity = true
@@ -27,10 +27,10 @@
 	offset_x = 8
 	#Offset on y-axis from screen border.
 	#Range: > 0
-	offset_y = 4
+	offset_y = 18
 	#Percentage of relative screen height entries are allowed to fill at max.
 	#Range: 0.0 ~ 1.0
-	max_height = 0.5
+	max_height = 0.4
 	#Scale of entries. A lower scale will make room for more rows to show. Works together with "GUI Scale" option in "Video Settings".
 	#Range: 1 ~ 24
 	scale = 4
@@ -59,7 +59,7 @@
 	#Range: > 0
 	display_time = 120
 	#Make outdated entries slowly move out of the screen instead of disappearing in place.
-	move_out_of_screen = true
+	move_out_of_screen = false
 	#Amount of ticks it takes for an entry to move out of the screen. Value cannot be larger than "Display Time".
 	#Range: > 0
 	move_time = 20

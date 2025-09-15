@@ -198,7 +198,7 @@ hash = "bf20c47a4151b64274a382fffa2c069d55a196ef7c3c100fe3a6758bd8534985"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "3c8c8b136d1cb72f867848ef25c319d02d1e30c643e01c3797b5468fc385dd9d"
+hash = "782d232bb381e745d36d7936822e9a1b58d981666a05b8fe1ad4e164b5e5f170"
 
 [[files]]
 file = "config/guifollowers.json5"
@@ -374,7 +374,7 @@ hash = "d5861d025473ddd0a9b5326698b044546072e95028ef7f4ad8f438fad1bb7e09"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-client.toml"
-hash = "97c6b7973dbbedba2c53820257078c022bea8521e684bd097c3c072cc6566cf1"
+hash = "199bf2e9d3c75fc269089344c2efe8d74cf77e5c78cd9af77f60e64981dfc51a"
 
 [[files]]
 file = "config/pickupnotifier/pickupnotifier-server.toml"
