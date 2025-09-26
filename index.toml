@@ -141,18 +141,6 @@ file = "config/exposure-common.toml"
 hash = "03666ca5d1fd2fa23406e92532186b0e729c46ed1fbce4aee88a26e237d77558"
 
 [[files]]
-file = "config/extremereactors/client.toml"
-hash = "9e6b6e8cf10cc526b8144f57ba7cfb3c342321b7f0ef02730b08fc5179de361d"
-
-[[files]]
-file = "config/extremereactors/common.toml"
-hash = "ca2932466d007745067d0fd533bbbfc55bdbd9c46d0de3dc226cd5999b090888"
-
-[[files]]
-file = "config/extremereactors/modpack_api.json"
-hash = "ad88978624d3f4d9a9ca42679114635cdad12bf91e2a2880936be23472805c0d"
-
-[[files]]
 file = "config/fabrictailor.json"
 hash = "90bee89cf8091c121ad015f67f63cd8fe6b1fb27605741ebd178d188f7b18bf0"
 
@@ -163,10 +151,6 @@ hash = "e5f8f5743c23e6c1e569070d720f91e66495e8da03550a0d37d9a07c6d543014"
 [[files]]
 file = "config/farmersdelight-common.toml"
 hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
-
-[[files]]
-file = "config/forgematica.json"
-hash = "1e163b297f2b5a14bb381a802dd8670cad2f245107f6cc156819f026bd2812aa"
 
 [[files]]
 file = "config/framedblocks-client.toml"
@@ -661,14 +645,6 @@ file = "kubejs/server_scripts/src/base/get_preferred.js"
 hash = "10074c42ccde8071530aad498bd393de915ee9616c184dcb0541c823d70c5b59"
 
 [[files]]
-file = "kubejs/server_scripts/src/bigreactors/recipes.js"
-hash = "c3bfbd149f6f5f7fe94803f6fd16bc7ba6bce4cf4da30a3523df1010b4e05b93"
-
-[[files]]
-file = "kubejs/server_scripts/src/bigreactors/tags.js"
-hash = "911995b7e128d92deaa8ccde52eae3aca750f9f2d6d67aa29b82313367987d75"
-
-[[files]]
 file = "kubejs/server_scripts/src/blockrunner/tags.js"
 hash = "3cc84735e3cf8b5af2a284b06cd7d6488823cebc0df8980f10d411eb53a94068"
 
@@ -1110,11 +1086,6 @@ hash = "ce198cf0e4ac56f35c03b5e721eacbd6c6bc86b6ab318c4c7259082edb625fc2"
 metafile = true
 
 [[files]]
-file = "mods/extreme-reactors.pw.toml"
-hash = "ad46794f5a1321972623b630e082b2657fab31845548add1ec03729313f3cd94"
-metafile = true
-
-[[files]]
 file = "mods/extreme_sound_muffler.pw.toml"
 hash = "634b5edbee20fe19a7a09cd4bc0b43fc98cff839fd9142bfb415c0aa57b3dc9a"
 metafile = true
@@ -1137,11 +1108,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "971b9cd18c18725fae1d44fd4b8f135701fc6e6c0cb2267d996068f3d4872139"
-metafile = true
-
-[[files]]
-file = "mods/forgematica.pw.toml"
-hash = "e3017a1b798d295fb73a1b63b1bf9be067adfcf7a79fdcbc919bb8ffddbdbcb9"
 metafile = true
 
 [[files]]
@@ -1797,11 +1763,6 @@ metafile = true
 [[files]]
 file = "mods/yungs-better-strongholds.pw.toml"
 hash = "aa463005ddcc4f556053f9e897393c358a070fef3669598a7850f3e7e9865a64"
-metafile = true
-
-[[files]]
-file = "mods/zerocore.pw.toml"
-hash = "824e624db9e75492a8f461f0b2ea61251729957d6645242ae83daaece0333020"
 metafile = true
 
 [[files]]
