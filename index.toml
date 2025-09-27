@@ -153,6 +153,14 @@ file = "config/farmersdelight-common.toml"
 hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
 
 [[files]]
+file = "config/fluffy_fur-client.toml"
+hash = "5d52694bd33dd38d6d24860e085936eefae14702624a8cf2edf9f4404743b35c"
+
+[[files]]
+file = "config/fluffy_fur-common.toml"
+hash = "31376b98d0acf16a91ba3f0b5da1b7b63aa37e0f0ddb4c9822fffa4eddb7f8c6"
+
+[[files]]
 file = "config/framedblocks-client.toml"
 hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 
@@ -182,7 +190,7 @@ hash = "bf20c47a4151b64274a382fffa2c069d55a196ef7c3c100fe3a6758bd8534985"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "782d232bb381e745d36d7936822e9a1b58d981666a05b8fe1ad4e164b5e5f170"
+hash = "8a5d89be4c91a300d464ae2552651663c4f47976a4698d761c57ca26365a6672"
 
 [[files]]
 file = "config/guifollowers.json5"
@@ -511,6 +519,14 @@ hash = "e9f4fa13be94c719be4b8d46ec7d6159f6f56b8dca8f2a27b2ace1d8f15d989f"
 [[files]]
 file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
+
+[[files]]
+file = "config/wizards_reborn-client.toml"
+hash = "ba561dd62cddd23694c8871055c47a5c3fb859887831cb84b7e57b3552145219"
+
+[[files]]
+file = "config/wizards_reborn-common.toml"
+hash = "aca261a06700a6454e7647c639fbbe20d91d1503bee8c8ebc859ac50118aab8a"
 
 [[files]]
 file = "config/xaerominimap-common.txt"
@@ -1103,6 +1119,11 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "eb132a98896606d5798ccddf2b012a0f2061e21e8779202912046f9d91cf3e28"
+metafile = true
+
+[[files]]
+file = "mods/fluffy-fur.pw.toml"
+hash = "1a6e72e20f9de3bcd3ea6736b488106f35d8700f8b9af32eb13f3742f0943769"
 metafile = true
 
 [[files]]
@@ -1731,6 +1752,11 @@ hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
 metafile = true
 
 [[files]]
+file = "mods/wizards-reborn.pw.toml"
+hash = "a5205c1442773fe966b48a55ff6218bd0a45cd4e5b9d25b0949f5829e0b0758e"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "1a592e56f6720b44d1031d2d715d454eff2099e915160c0c75f853ae8b314b15"
 metafile = true
@@ -1767,4 +1793,4 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4b84a103b99f166cdb701a07b64240db452f58b2627d6ddd49dc10f3da8d4df7"
+hash = "4a05dd4d7b93077f733422e64be187798f327c19ad620acc55118a5f425a47fd"
