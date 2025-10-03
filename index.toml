@@ -133,14 +133,6 @@ file = "config/farmersdelight-common.toml"
 hash = "d42ecc74db51fd5a62df84456b596d1ce0b8b6f7ae43f65b4ca3b97c045b53cc"
 
 [[files]]
-file = "config/fluffy_fur-client.toml"
-hash = "5d52694bd33dd38d6d24860e085936eefae14702624a8cf2edf9f4404743b35c"
-
-[[files]]
-file = "config/fluffy_fur-common.toml"
-hash = "31376b98d0acf16a91ba3f0b5da1b7b63aa37e0f0ddb4c9822fffa4eddb7f8c6"
-
-[[files]]
 file = "config/framedblocks-client.toml"
 hash = "f97db74fce26d63bb20bc97bc85cbe0940d80a8df262803dfb1f2a5c8268eb4f"
 
@@ -501,14 +493,6 @@ file = "config/visualworkbench-client.toml"
 hash = "a48b352862f74f6fe3ab071e7e43e631618e9c5f68b5f992b591d4dc87992954"
 
 [[files]]
-file = "config/wizards_reborn-client.toml"
-hash = "ba561dd62cddd23694c8871055c47a5c3fb859887831cb84b7e57b3552145219"
-
-[[files]]
-file = "config/wizards_reborn-common.toml"
-hash = "aca261a06700a6454e7647c639fbbe20d91d1503bee8c8ebc859ac50118aab8a"
-
-[[files]]
 file = "config/xaerominimap-common.txt"
 hash = "771a844d13ab6c2ff99f14b8fd912d02c55a1a4104361692b740c3e596084f6f"
 
@@ -832,11 +816,6 @@ hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
 metafile = true
 
 [[files]]
-file = "mods/cc-tweaked.pw.toml"
-hash = "33fbfba45630792a9223d4e20c9300bc9fef142c68781fc648c32b62313f3e16"
-metafile = true
-
-[[files]]
 file = "mods/charm-of-undying.pw.toml"
 hash = "ca5edf85f25f07f04040b243e67ab3c8fd437ee5a2694d17ed4993d2f83d8812"
 metafile = true
@@ -1099,11 +1078,6 @@ metafile = true
 [[files]]
 file = "mods/flerovium.pw.toml"
 hash = "eb132a98896606d5798ccddf2b012a0f2061e21e8779202912046f9d91cf3e28"
-metafile = true
-
-[[files]]
-file = "mods/fluffy-fur.pw.toml"
-hash = "1a6e72e20f9de3bcd3ea6736b488106f35d8700f8b9af32eb13f3742f0943769"
 metafile = true
 
 [[files]]
@@ -1729,11 +1703,6 @@ metafile = true
 [[files]]
 file = "mods/wits.pw.toml"
 hash = "3e0190ccd05214b046bc7d9655f77cf7850fa8ff15d4db8faa99df5dac9b9824"
-metafile = true
-
-[[files]]
-file = "mods/wizards-reborn.pw.toml"
-hash = "a5205c1442773fe966b48a55ff6218bd0a45cd4e5b9d25b0949f5829e0b0758e"
 metafile = true
 
 [[files]]
