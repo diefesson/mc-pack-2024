@@ -32,16 +32,16 @@
 	showNumber = true
 	#Horizontal Position of where the Soul Energy Bar is located, Default: 100
 	#Range: > -2147483647
-	soulGuiHorizontal = 125
+	soulGuiHorizontal = 143
 	#Vertical Position of where the Soul Energy Bar is located, Default: -5
 	#Range: > -2147483647
 	soulGuiVertical = -7
 	#Move where the equipped Focus is located horizontally from its original position (- = Left, + = Right), Default: 0
 	#Range: > -2147483647
-	focusGuiHorizontal = 0
+	focusGuiHorizontal = 133
 	#Move where the equipped Focus is located vertically from its original position (- = Up, + = Down), Default: 0
 	#Range: > -2147483647
-	focusGuiVertical = -4
+	focusGuiVertical = 33
 	#Bosses from the Mod has custom looking Boss Bars. Default: true
 	specialBossBar = true
 	#Bosses from the Mod has custom Music Playing. Default: true

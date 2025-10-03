@@ -162,7 +162,7 @@ hash = "bf20c47a4151b64274a382fffa2c069d55a196ef7c3c100fe3a6758bd8534985"
 
 [[files]]
 file = "config/goety/goety.toml"
-hash = "8a5d89be4c91a300d464ae2552651663c4f47976a4698d761c57ca26365a6672"
+hash = "05e5195a2e63d355159e05eb5f7d9ea1506260de4b91524ec11a3ec2d099c3af"
 
 [[files]]
 file = "config/guifollowers.json5"
