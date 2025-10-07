@@ -1521,11 +1521,6 @@ hash = "5b92406160d9ea8a61ddf111caaecb7f6283678e2c40b08b72dce3eeaf20dc96"
 metafile = true
 
 [[files]]
-file = "mods/runiclib.pw.toml"
-hash = "c58518c3a5787c8f3a95e1c68eadeec911951879fd37301d5d0ccd1972112c46"
-metafile = true
-
-[[files]]
 file = "mods/rustic-delight.pw.toml"
 hash = "8a20275515fe7247642bab8af4095ff96efeb313467cd6c465d5696fef41c9a9"
 metafile = true
