@@ -350,7 +350,7 @@ hash = "d2ccb4a21fae53a0b310ec3f1f2dee8d428278b3a18506ac8a297bfdba5da377"
 
 [[files]]
 file = "config/pneumaticcraft-common.toml"
-hash = "d8a46a2d024853dbe9206cfbf9e978b4d8991f4f831855bb77446e58968f4baf"
+hash = "2c6d60839982b91f7758801297812e3eb5832f6207854e9971f80928cb83bcc5"
 
 [[files]]
 file = "config/pneumaticcraft/ArmorFeatureStatus.cfg"
