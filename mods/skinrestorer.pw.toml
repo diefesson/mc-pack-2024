@@ -1,6 +1,6 @@
 name = "Skin Restorer"
 filename = "skinrestorer-2.4.3+1.20-forge.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/ghrZDhGW/versions/g7Dm2Sg8/skinrestorer-2.4.3%2B1.20-forge.jar"

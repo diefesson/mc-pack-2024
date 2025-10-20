@@ -1106,11 +1106,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/goety-revelation.pw.toml"
-hash = "453314274578bdd7fbd48836b1a20548a52f21a743954b7aa6e78c1eebdbbd4a"
-metafile = true
-
-[[files]]
 file = "mods/goety.pw.toml"
 hash = "16e34f3e939070e35181c32bff48e53260bbd142c8b6206158f2e01293385d92"
 metafile = true
@@ -1542,7 +1537,7 @@ metafile = true
 
 [[files]]
 file = "mods/skinrestorer.pw.toml"
-hash = "3042b51312180a3d24c0890f03e4c43b31b1a19b65de87f0e440d335ee81cafd"
+hash = "e63ae372407e332a7eff9365443685c0662f185eab65ca849d5306675d698c44"
 metafile = true
 
 [[files]]
@@ -1687,7 +1682,7 @@ metafile = true
 
 [[files]]
 file = "mods/watermedia.pw.toml"
-hash = "90083729421afacbc190cac9c9b3fd7760d202a162d47bbdeac175b614a7a9b1"
+hash = "55c198688de4daacf8950fdfe94043661062afd3091c724bb212d2eb4424ce3c"
 metafile = true
 
 [[files]]
