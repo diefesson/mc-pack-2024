@@ -736,16 +736,6 @@ hash = "4e81241ba2da06f425efc5e09fb6b38470125c1581c39e1310c5843a0b96ec76"
 metafile = true
 
 [[files]]
-file = "mods/armor-visibility.pw.toml"
-hash = "10fcc50f880e80db24b799ca8e65b9a2b91609859432e4445e93f2253c30a8d9"
-metafile = true
-
-[[files]]
-file = "mods/ash-api.pw.toml"
-hash = "7e5b43a4b0e99366d49c2ad55672ae67bb8d13f9f656475ae23385f6ccfb0c1e"
-metafile = true
-
-[[files]]
 file = "mods/attributefix.pw.toml"
 hash = "258431b158c3adc8e7bf4ac8ea9cec20def2e3c373294488d72c238bcbd7538a"
 metafile = true
@@ -1551,8 +1541,8 @@ hash = "bf227a8d1bafde9f421807f4557d7012cd850f1795e3fa5084911a82dc31961e"
 metafile = true
 
 [[files]]
-file = "mods/skin-overrides.pw.toml"
-hash = "bd46abdc32787e7ce152b74fb9da1d49179222b12f7e9bb4e8e9bde26adfb2b4"
+file = "mods/skinrestorer.pw.toml"
+hash = "3042b51312180a3d24c0890f03e4c43b31b1a19b65de87f0e440d335ee81cafd"
 metafile = true
 
 [[files]]
