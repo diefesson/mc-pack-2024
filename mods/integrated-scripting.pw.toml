@@ -1,13 +1,13 @@
 name = "Integrated Scripting"
-filename = "IntegratedScripting-1.20.1-1.0.14.jar"
+filename = "IntegratedScripting-1.20.1-1.0.15.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/uDJkuFRe/versions/I0Hluaye/IntegratedScripting-1.20.1-1.0.14.jar"
+url = "https://cdn.modrinth.com/data/uDJkuFRe/versions/5knXQyai/IntegratedScripting-1.20.1-1.0.15.jar"
 hash-format = "sha512"
-hash = "4355b6578048d47998afd3c40365c2cfc19a3b37eb0efb0d59382107ab7532c4046214bec31df4dcd6f161a917cdb99c75e39e156a50fc787497558d0bf473af"
+hash = "2feff1a5b2cf0009745e2fa47deed150af174324668cc2b491021c0ae1ed9f1109a08016696430b98f5a488305dbd98ef8dcc6b883109b1c4c09bb742069bcf1"
 
 [update]
 [update.modrinth]
 mod-id = "uDJkuFRe"
-version = "I0Hluaye"
+version = "5knXQyai"

@@ -1,13 +1,13 @@
 name = "Client Tweaks"
-filename = "clienttweaks-forge-1.20.1-11.1.4.jar"
+filename = "clienttweaks-forge-1.20.1-11.1.5.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/CgYDErri/clienttweaks-forge-1.20.1-11.1.4.jar"
+url = "https://cdn.modrinth.com/data/vPNqo58Q/versions/H8SeAE8l/clienttweaks-forge-1.20.1-11.1.5.jar"
 hash-format = "sha512"
-hash = "5ebce9bc1517f588bf5627c236fd45a7d1e852f05791574d2f5dab4e53549247f401e0c0d39dc904c110392f9c320d4685c5a864fb73f1719c7febe5c159de24"
+hash = "83b3fd505453298e1b29483e4f30c096988479c909d0d6e79cda40bd310db6d3ba658d5a5a18c2625e74c4c71ea563646e75e7135e334cf51c14b5f925b4c19e"
 
 [update]
 [update.modrinth]
 mod-id = "vPNqo58Q"
-version = "CgYDErri"
+version = "H8SeAE8l"
