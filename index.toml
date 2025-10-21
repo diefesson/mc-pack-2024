@@ -141,30 +141,6 @@ file = "config/framedblocks-common.toml"
 hash = "3df7937868159c8c2570d09c9ef9e0a1127dfbab70c3404c8fd069c7390d39ff"
 
 [[files]]
-file = "config/goety/goety-attributes.toml"
-hash = "71ea86333f3a3ad5d80413228e9fbfae56b727530b6eadad01026053d0f83576"
-
-[[files]]
-file = "config/goety/goety-brews.toml"
-hash = "b394df1b75c8617b3607c892ef167e1411905e14dc09fa13cf4a47896fd0a2e0"
-
-[[files]]
-file = "config/goety/goety-items.toml"
-hash = "7074cc16ddaee9f9c79aa80e2620e722234ffb96002e9f316fdf2a35302753dd"
-
-[[files]]
-file = "config/goety/goety-mobs.toml"
-hash = "0a31c3622d38925adb51fceae202ad835e67087236261491cd2620ee95e6f1bc"
-
-[[files]]
-file = "config/goety/goety-spells.toml"
-hash = "bf20c47a4151b64274a382fffa2c069d55a196ef7c3c100fe3a6758bd8534985"
-
-[[files]]
-file = "config/goety/goety.toml"
-hash = "05e5195a2e63d355159e05eb5f7d9ea1506260de4b91524ec11a3ec2d099c3af"
-
-[[files]]
 file = "config/guifollowers.json5"
 hash = "09fabcb740a37e5f501d60a422a124cb5fe4a6da06432c018490f627afae6385"
 
