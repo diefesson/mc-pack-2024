@@ -961,6 +961,11 @@ hash = "a4c814876cd9046f9cdbe0a5967edff092adb8c28de2d717ce5fe469d6fbc9a2"
 metafile = true
 
 [[files]]
+file = "mods/ears.pw.toml"
+hash = "44711bff6dc6f6753a3f1403647ce9b5dcedd31440d6e01d1260176650df3140"
+metafile = true
+
+[[files]]
 file = "mods/easy-anvils.pw.toml"
 hash = "0c91bda0e9a61b15ac8a729678c70af9b9630c8ea6cadf591750b129caa10000"
 metafile = true
@@ -1217,7 +1222,7 @@ metafile = true
 
 [[files]]
 file = "mods/ksyxis.pw.toml"
-hash = "98244dd3cf3bcc56edbc28e83f818a3a9e266b4a01d07d2c9550caf9193453ae"
+hash = "6c4d9be9d042e5a1028a420fa2f4aa435e6406445207a4d600700efbf037c35a"
 metafile = true
 
 [[files]]
