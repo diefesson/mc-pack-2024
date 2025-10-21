@@ -1106,11 +1106,6 @@ hash = "71f185e62d546881244d4b5a213ebc3d2d6df14b0218c0e5dd6426fcb22cb55f"
 metafile = true
 
 [[files]]
-file = "mods/goety.pw.toml"
-hash = "16e34f3e939070e35181c32bff48e53260bbd142c8b6206158f2e01293385d92"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "2e42b3a809ec9b027e23714e01c255fe5111a9d4cd58fad114dd0f2aa75c0d7e"
 metafile = true
