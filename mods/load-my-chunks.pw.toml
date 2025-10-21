@@ -1,0 +1,13 @@
+name = "Load My Chunks"
+filename = "loadmychunks-1.2.1+1.20.1+forge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OtbeKtn3/versions/p04Wa5tg/loadmychunks-1.2.1%2B1.20.1%2Bforge.jar"
+hash-format = "sha512"
+hash = "7408d0f019d80011a84a9fa876d735aeef1554ade62f8e0897095ec0578828d2630c6731602aadfc912a89944c408af85a7289d489272b6acc8bfb041d14d689"
+
+[update]
+[update.modrinth]
+mod-id = "OtbeKtn3"
+version = "p04Wa5tg"

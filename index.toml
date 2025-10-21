@@ -826,11 +826,6 @@ hash = "5fffcedde4d14f05b332a6a70680340ae2021d2697b45e49ffedb073abcb7c5c"
 metafile = true
 
 [[files]]
-file = "mods/chunk-loaders.pw.toml"
-hash = "1171ef431ac21929d77df6f39e3f611da22a55f692395d8be0fc67f8ebf47c85"
-metafile = true
-
-[[files]]
 file = "mods/chunky.pw.toml"
 hash = "0e17f9758f6f67ef87aa6f8d5afc47901521a05904cd8470ef65063b48e69d73"
 metafile = true
@@ -1248,6 +1243,11 @@ metafile = true
 [[files]]
 file = "mods/lmft.pw.toml"
 hash = "dbd137b861d4c78ca28a1a95a7df72b6f3f0d9cd13a31ae6eed0986094a7924b"
+metafile = true
+
+[[files]]
+file = "mods/load-my-chunks.pw.toml"
+hash = "14862ba5b1df3288b6f0825baf251b255008bf33c1ab3245290f767f8ee49fbf"
 metafile = true
 
 [[files]]
