@@ -832,6 +832,11 @@ hash = "2a3241dca24d8c8a2914f46abd7ba1632f9a142c0b4adaf7f07e07f842fa54ee"
 metafile = true
 
 [[files]]
+file = "mods/collectors-reap.pw.toml"
+hash = "2af2779d9bd720fc0bbb827e58dbe837969685f415be03ab9b6beff4b5dcc106"
+metafile = true
+
+[[files]]
 file = "mods/combat-roll.pw.toml"
 hash = "d6a121d9d5077c45622f94bcf146e1bc5a2e06dd9ab3f6cdebfd0778e0c0c45c"
 metafile = true
@@ -984,11 +989,6 @@ metafile = true
 [[files]]
 file = "mods/emitrades.pw.toml"
 hash = "16b4a8a6c29d642b83ccfb68729c6520928fef115551d43aa301da72ca9498cd"
-metafile = true
-
-[[files]]
-file = "mods/enchanting-infuser.pw.toml"
-hash = "5789ad8bb50d419d1b8bb736137a65be4d76296575cfcd5b86997cbf5d52cff5"
 metafile = true
 
 [[files]]
