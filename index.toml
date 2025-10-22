@@ -1127,6 +1127,11 @@ hash = "de2f38aea5766676305ffff2000100c889b9278583379cfa04bba375ff45b6ec"
 metafile = true
 
 [[files]]
+file = "mods/immersive-fixes.pw.toml"
+hash = "2e36b6b750d7de2d2e21dc8bcf7704eeff3ed51dff67caf3f904e583a9bc7073"
+metafile = true
+
+[[files]]
 file = "mods/immersiveengineering.pw.toml"
 hash = "f0f53a142295b7d004100bea2cf0f60b06854b40eddc9abb8a447db4e57d4883"
 metafile = true
@@ -1653,7 +1658,7 @@ metafile = true
 
 [[files]]
 file = "mods/waterframes.pw.toml"
-hash = "d9164983ff6bade6ac66285e1f81fa8909806e7c28a7167a37e9aa4bc2d8e9b0"
+hash = "bf80e336cf4ac7cc33ae97d1f4deac1fa94d5d1cb7c0ac6a2429c2d3120583f6"
 metafile = true
 
 [[files]]
