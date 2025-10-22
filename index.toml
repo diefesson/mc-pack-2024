@@ -610,7 +610,7 @@ hash = "5cc7678ee1323de0c2e5ccc9b30297b3196fb247252dc18f7e7764e2504b076d"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/hammering.js"
-hash = "0ea675248c1c432b7aa5198b1233ba058093c0fe2be2464973a3913697a04040"
+hash = "ca16b601cd0b47f3c7f8516c0f97c695b9bb3d2cc4aea3a3e4feff59007dbbca"
 
 [[files]]
 file = "kubejs/server_scripts/src/compat/tools_tags.js"
