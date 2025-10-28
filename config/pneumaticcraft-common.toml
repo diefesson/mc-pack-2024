@@ -251,7 +251,7 @@
 	mek_thermal_conversion_efficiency = 0.01
 	#Volume boost multiplier for pressurizable items with the CoFH Holding enchantment; air volume is multiplied by (1 + level_of_holding_enchantment) x this value. Set to 0 to disallow pressurizable items being enchanted with the Holding enchantment at all.
 	#Range: 0.0 ~ 1.7976931348623157E308
-	cofh_holding_multiplier = 0.33
+	cofh_holding_multiplier = 0.25
 
 [Recipes]
 	#Does Molten Plastic solidify to Plastic Sheets when poured into the world? If set to false, then Heat Frame cooling is the only other way to make Plastic Sheets (by default).
