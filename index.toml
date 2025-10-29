@@ -201,26 +201,6 @@ file = "config/lmft.json"
 hash = "2a2ee19297afe3fc512f5cbe639349847f3e7a74616f282d24a179a17f4559ed"
 
 [[files]]
-file = "config/lootbeams/custom_config.toml"
-hash = "c7568506ab9963acc611408b788a369d4303e12272946d3e15a33345a7291d00"
-
-[[files]]
-file = "config/lootbeams/dynamic_config.toml"
-hash = "021f56b14af3b51b4a93560859c99c074fa43abab2dfeaec0eff511d682253c8"
-
-[[files]]
-file = "config/lootbeams/light_config.toml"
-hash = "6d08a48e0d143216be79bec97381bb7a3e75c613244e11b77a9d6a29b82bcbe1"
-
-[[files]]
-file = "config/lootbeams/loot_information_config.toml"
-hash = "5ca5e782cba7b32b8002068409e9dbbbd399934148028474cc6a7ea8bde0788e"
-
-[[files]]
-file = "config/lootbeams/sound_config.toml"
-hash = "88e3ee984d86ee074c45496c7006ab2394ad50de30531d4c3758c0739af27eb8"
-
-[[files]]
 file = "config/mafglib.json"
 hash = "c7486c0c1e198b7227066f1926389117aab9d4705aca3911ed3aceb450669e4b"
 
@@ -852,11 +832,6 @@ hash = "7972e6f2e205881675adcc48cd1fbe3f2b05fc820ec61d2982363f5707c92f25"
 metafile = true
 
 [[files]]
-file = "mods/common-network.pw.toml"
-hash = "da5709533d85150e7149c7339729d90e73750a3b6db07254669acf81727d5bf3"
-metafile = true
-
-[[files]]
 file = "mods/connector-extras.pw.toml"
 hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
 metafile = true
@@ -894,11 +869,6 @@ metafile = true
 [[files]]
 file = "mods/curios.pw.toml"
 hash = "9eefd607e0d54ec444e798ccdeede1a09a3939440bd1e11c11b84c07a5134be2"
-metafile = true
-
-[[files]]
-file = "mods/cut-through.pw.toml"
-hash = "34dff36d563450c884bc42fe0f22ef526b5b14fc2d16bb1620c432c8d9c545ff"
 metafile = true
 
 [[files]]
@@ -1237,18 +1207,8 @@ hash = "dfb4b7c9a2085a665e87ebc3d60045e3173bb602e7b3de94e29d37168083345d"
 metafile = true
 
 [[files]]
-file = "mods/loot-beams-refork.pw.toml"
-hash = "fb1d5de207824185b319814e16db7f05363f89602496595283fa88c92d5748d1"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "47b9410704efc0f8cb3b34a87d7019a013850775afe464e887b19ecf45eac0d3"
-metafile = true
-
-[[files]]
-file = "mods/mafglib.pw.toml"
-hash = "d921175a82cf60e7ebaa7f014f924b77a2f5ace44e81b309dc996c4c55b7455b"
 metafile = true
 
 [[files]]
@@ -1354,11 +1314,6 @@ metafile = true
 [[files]]
 file = "mods/netherportalfix.pw.toml"
 hash = "e9e7e6a1b2f05f2451e9d4072135147bcd1814a180dc15137ea4c15f65241093"
-metafile = true
-
-[[files]]
-file = "mods/nirvana-library.pw.toml"
-hash = "4ec670a515f35886cad61fbb103e7ced9b2d98d679a846069462a97f29947a2a"
 metafile = true
 
 [[files]]
