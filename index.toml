@@ -261,10 +261,6 @@ file = "config/patchouli-client.toml"
 hash = "2258a7bc662629063219e5667e459e3877a6dd27e3ee935e508fac16227aee36"
 
 [[files]]
-file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
 file = "config/paxi/datapacks/repurposed-structures-better-dungeons-compat.pw.toml"
 hash = "a22eba97c27e90c8d22996ea3edaf8a08e2c411d86e530aad2001820b728d94a"
 metafile = true
@@ -292,11 +288,6 @@ metafile = true
 [[files]]
 file = "config/paxi/datapacks/repurposed-structures-farmers-delight-compat.pw.toml"
 hash = "83ddbb3b1fd548de53a940282e902d499e2484d5dd4c2d90d6aa7f229d3fe6eb"
-metafile = true
-
-[[files]]
-file = "config/paxi/resourcepacks/glowing-emissive-ores.pw.toml"
-hash = "c5fd392913211debcd7027ee8fb9a85204d99b9be053ca66bd4439bc251b0559"
 metafile = true
 
 [[files]]
@@ -1266,16 +1257,6 @@ metafile = true
 [[files]]
 file = "mods/more-immersive-wires.pw.toml"
 hash = "f3f5a9c6dc939c2109f7360bc56f502845f86c52cc03527538fac42bde35886e"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta-emissive.pw.toml"
-hash = "2c70f2ae708875c837565551cf841779376a227706c28cd567cb82d02d25c1c8"
-metafile = true
-
-[[files]]
-file = "mods/moremcmeta.pw.toml"
-hash = "5b5ee0d0e1c52f5fadae52a4550f33e640521950f6ab47042aadd508254c8930"
 metafile = true
 
 [[files]]
