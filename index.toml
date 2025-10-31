@@ -81,6 +81,14 @@ file = "config/brewinandchewin-common.toml"
 hash = "05bfa43386f9f2ad3b927749765e301944c0abb060ff8cf751f170ea989d6217"
 
 [[files]]
+file = "config/caverns_and_chasms-client.toml"
+hash = "ac4fad73b20151ee9f0de09dcc137310e5dcb44b68164c1d739eb562de848992"
+
+[[files]]
+file = "config/caverns_and_chasms-common.toml"
+hash = "2697f81d15401de3729b765a4f5e80095e70710cfa4236c1e280cfaa9d1471fd"
+
+[[files]]
 file = "config/chloride-client.json"
 hash = "e7ab1b9ff90237b0bd8355efcc63b08c5135291ca7e2d1fe3b59ff35306fefa9"
 
@@ -353,6 +361,14 @@ file = "config/rusticdelight-common.toml"
 hash = "63f678926c25488219ed817e52233021caffa11532871c827be8e480822f12e2"
 
 [[files]]
+file = "config/savage_and_ravage-client.toml"
+hash = "e441a4d0d6f8ca65617c56691c044351fd49da819a39b251e8389d1a9be7e990"
+
+[[files]]
+file = "config/savage_and_ravage-common.toml"
+hash = "67991d380168181af973faa324d54f8208c3989e4a2e5ffc974f9a3d4c4bcfec"
+
+[[files]]
 file = "config/scarecrowsterritory-common.toml"
 hash = "3fbf938c34477e60a878df73123bd2d4cab1208bb7c95d22136176309370ed16"
 
@@ -537,6 +553,18 @@ file = "kubejs/config/probe-settings.json"
 hash = "8ceebd0a215f8f4581c030ec97afbe499753a8ce836f50e98bc2e3e5a4593618"
 
 [[files]]
+file = "kubejs/data/caverns_and_chasms/worldgen/configured_feature/ore_silver.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/worldgen/configured_feature/ore_silver_buried.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
+file = "kubejs/data/caverns_and_chasms/worldgen/configured_feature/ore_soul_silver.json"
+hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
+
+[[files]]
 file = "kubejs/data/embers/worldgen/configured_feature/ore_lead.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
@@ -611,6 +639,10 @@ hash = "da1c1cfe7f1f30a3d45124138dd15e576ca5c35d58a98bc812b73f5dac4a013b"
 [[files]]
 file = "kubejs/server_scripts/src/diefalpha/volatile_dust.js"
 hash = "50c0989c7dba4f2a80cd33b35b193a6dbfac3c6aaf310b2cc890bffca787e4db"
+
+[[files]]
+file = "kubejs/server_scripts/src/embers/disabled_items.js"
+hash = "98b73a32fe05618675a96a916a9e9841110a343ee280faf00a046ff797785720"
 
 [[files]]
 file = "kubejs/server_scripts/src/minecraft/bell.js"
@@ -771,6 +803,11 @@ metafile = true
 [[files]]
 file = "mods/capability-proxy.pw.toml"
 hash = "140eba48dd1dc36950b23c82e60fb350103321688715b48042e88344e15293d5"
+metafile = true
+
+[[files]]
+file = "mods/caverns-and-chasms.pw.toml"
+hash = "77eb951aea38d711bb8bddd89b66b65a2ce7423d93525843a409b57e03f02fa1"
 metafile = true
 
 [[files]]
