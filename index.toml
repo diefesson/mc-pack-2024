@@ -845,16 +845,6 @@ hash = "7972e6f2e205881675adcc48cd1fbe3f2b05fc820ec61d2982363f5707c92f25"
 metafile = true
 
 [[files]]
-file = "mods/connector-extras.pw.toml"
-hash = "d8480ee1f6ae58fa389e502108bcde4936ca326d6dc2f1608b9af9ac141cb35a"
-metafile = true
-
-[[files]]
-file = "mods/connector.pw.toml"
-hash = "852ee3d5dea735c0c8f4c030edb06164863e7d27eef535c697f86a8b20a1cff0"
-metafile = true
-
-[[files]]
 file = "mods/controlling.pw.toml"
 hash = "4063abe583282834b2f78e3b3e6b9ee4d231a680f74c020e405a4ef196f21ee4"
 metafile = true
@@ -867,11 +857,6 @@ metafile = true
 [[files]]
 file = "mods/creativecore.pw.toml"
 hash = "9582c04926dd9cea7f68f6f1b4e068bd2ec3f6fcb2734497d885364c6b74b1e1"
-metafile = true
-
-[[files]]
-file = "mods/crunchy-crunchy-advancements.pw.toml"
-hash = "583b15196592a5686fe4ab5174b60b3d0b5fc9f602da30611b36c742b7665e95"
 metafile = true
 
 [[files]]
@@ -1027,11 +1012,6 @@ metafile = true
 [[files]]
 file = "mods/forge-config-screens.pw.toml"
 hash = "971b9cd18c18725fae1d44fd4b8f135701fc6e6c0cb2267d996068f3d4872139"
-metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api.pw.toml"
-hash = "2a2f2168bf03bfa3034ad9583588676c5d66b6f7c767df9fe259ab55350792d2"
 metafile = true
 
 [[files]]
