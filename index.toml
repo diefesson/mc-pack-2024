@@ -573,38 +573,6 @@ file = "kubejs/data/embers/worldgen/configured_feature/ore_silver.json"
 hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
 
 [[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/lead_ore.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/nickel_ore.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/nickel_ore_small.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/saltpeter.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/silver_ore.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/silver_ore_buried.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/sulfur_ore.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
-file = "kubejs/data/railcraft/worldgen/configured_feature/sulfur_ore_buried.json"
-hash = "03d67df46a5094d935c467d07179116e3579478685c476886bc7d0f87336b937"
-
-[[files]]
 file = "kubejs/jsconfig.json"
 hash = "79d3616c28f486ea55eb8f8dac927b758a44047552f167afeeeb645671d2835b"
 
