@@ -1504,6 +1504,11 @@ hash = "0be4976227df8e261fd362889bf8e85b93e224d1b1c3cd2a11b73a9de3b64083"
 metafile = true
 
 [[files]]
+file = "mods/species.pw.toml"
+hash = "50d0cb105f5db0a982d9c00f5ea6aee826866576b796526686ab0877c912e968"
+metafile = true
+
+[[files]]
 file = "mods/stack-refill.pw.toml"
 hash = "d752b843672914045093b09d87f4e33f6b990638be3955d1a4da7bc8c97a0c71"
 metafile = true
